@@ -1,0 +1,445 @@
+{
+  "pages": [
+    {
+      "page": 56,
+      "title": "The dentist and optician",
+      "context": "22.1 DENTIST’S OFFICE (US) / DENTAL SURGERY (UK)",
+      "entries": [
+        {
+          "source_text": "You should floss your teeth every day.",
+          "number": "1",
+          "section": "22.1 DENTIST’S OFFICE (US) / DENTAL SURGERY (UK)",
+          "visual_context": "Speech bubble from the dentist beside a patient in a dentist chair.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dentist",
+          "number": "2",
+          "section": "22.1 DENTIST’S OFFICE (US) / DENTAL SURGERY (UK)",
+          "visual_context": "Pointer to the green clinician standing beside the patient.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "basin",
+          "number": "3",
+          "section": "22.1 DENTIST’S OFFICE (US) / DENTAL SURGERY (UK)",
+          "visual_context": "Pointer to the sink beside the dentist chair.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dentist chair",
+          "number": "4",
+          "section": "22.1 DENTIST’S OFFICE (US) / DENTAL SURGERY (UK)",
+          "visual_context": "Pointer to the reclining chair holding the patient.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "check-up",
+          "number": "5",
+          "section": "22.1 DENTIST’S OFFICE (US) / DENTAL SURGERY (UK)",
+          "visual_context": "Dental examination scene.",
+          "semantic_meaning": "routine dental examination"
+        },
+        {
+          "source_text": "toothache",
+          "number": "6",
+          "section": "22.1 DENTIST’S OFFICE (US) / DENTAL SURGERY (UK)",
+          "visual_context": "Person holding their painful cheek.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "filling",
+          "number": "7",
+          "section": "22.1 DENTIST’S OFFICE (US) / DENTAL SURGERY (UK)",
+          "visual_context": "Tooth illustration with a repaired top area.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "plaque",
+          "number": "8",
+          "section": "22.1 DENTIST’S OFFICE (US) / DENTAL SURGERY (UK)",
+          "visual_context": "Tooth illustration showing deposits on its sides.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "decay",
+          "number": "9",
+          "section": "22.1 DENTIST’S OFFICE (US) / DENTAL SURGERY (UK)",
+          "visual_context": "Tooth illustration with dark spots and pain marks.",
+          "semantic_meaning": "tooth decay"
+        },
+        {
+          "source_text": "cavity",
+          "number": "10",
+          "section": "22.1 DENTIST’S OFFICE (US) / DENTAL SURGERY (UK)",
+          "visual_context": "Tooth illustration with a large dark hole.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "crown",
+          "number": "11",
+          "section": "22.1 DENTIST’S OFFICE (US) / DENTAL SURGERY (UK)",
+          "visual_context": "Tooth illustration with a cap fitted over its top.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "extraction",
+          "number": "12",
+          "section": "22.1 DENTIST’S OFFICE (US) / DENTAL SURGERY (UK)",
+          "visual_context": "Tooth being pulled out from between two teeth.",
+          "semantic_meaning": "removal of a tooth"
+        },
+        {
+          "source_text": "baby teeth (US) milk teeth (UK)",
+          "number": "13",
+          "section": "22.1 DENTIST’S OFFICE (US) / DENTAL SURGERY (UK)",
+          "visual_context": "Child's smiling face.",
+          "semantic_meaning": "a child’s first teeth"
+        },
+        {
+          "source_text": "braces",
+          "number": "14",
+          "section": "22.1 DENTIST’S OFFICE (US) / DENTAL SURGERY (UK)",
+          "visual_context": "Rows of teeth with orthodontic brackets.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dentures / false teeth",
+          "number": "15",
+          "section": "22.1 DENTIST’S OFFICE (US) / DENTAL SURGERY (UK)",
+          "visual_context": "Removable set of artificial teeth.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dental X-ray",
+          "number": "16",
+          "section": "22.1 DENTIST’S OFFICE (US) / DENTAL SURGERY (UK)",
+          "visual_context": "Dental professional pointing to an X-ray image of a tooth.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dental history",
+          "number": "17",
+          "section": "22.1 DENTIST’S OFFICE (US) / DENTAL SURGERY (UK)",
+          "visual_context": "Stack of patient record documents featuring a tooth.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "drill",
+          "number": "18",
+          "section": "22.1 DENTIST’S OFFICE (US) / DENTAL SURGERY (UK)",
+          "visual_context": "Handheld dental drill instrument.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "reflector",
+          "number": "19",
+          "section": "22.1 DENTIST’S OFFICE (US) / DENTAL SURGERY (UK)",
+          "visual_context": "Round dental mirror on a handle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "probe",
+          "number": "20",
+          "section": "22.1 DENTIST’S OFFICE (US) / DENTAL SURGERY (UK)",
+          "visual_context": "Thin pointed dental instrument.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "interdental brush",
+          "number": "21",
+          "section": "22.1 DENTIST’S OFFICE (US) / DENTAL SURGERY (UK)",
+          "visual_context": "Small brush for cleaning between teeth.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "whitening",
+          "number": "22",
+          "section": "22.1 DENTIST’S OFFICE (US) / DENTAL SURGERY (UK)",
+          "visual_context": "Teeth illustration with shine marks.",
+          "semantic_meaning": "making teeth whiter"
+        },
+        {
+          "source_text": "dental hygienist",
+          "number": "23",
+          "section": "22.1 DENTIST’S OFFICE (US) / DENTAL SURGERY (UK)",
+          "visual_context": "Dental worker holding an instrument.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dental floss",
+          "number": "24",
+          "section": "22.1 DENTIST’S OFFICE (US) / DENTAL SURGERY (UK)",
+          "visual_context": "Container of floss with a strand pulled out.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to floss",
+          "number": "25",
+          "section": "22.1 DENTIST’S OFFICE (US) / DENTAL SURGERY (UK)",
+          "visual_context": "Floss being passed between teeth.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to brush",
+          "number": "26",
+          "section": "22.1 DENTIST’S OFFICE (US) / DENTAL SURGERY (UK)",
+          "visual_context": "Person brushing their teeth with a toothbrush.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to rinse",
+          "number": "27",
+          "section": "22.1 DENTIST’S OFFICE (US) / DENTAL SURGERY (UK)",
+          "visual_context": "Person holding a cup and rinsing their mouth.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 57,
+      "title": "OPTICIAN",
+      "context": "22.2 OPTICIAN",
+      "entries": [
+        {
+          "source_text": "Parts of the body",
+          "number": "01",
+          "section": "See also:",
+          "visual_context": "Cross-reference list entry.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Muscles and skeleton",
+          "number": "03",
+          "section": "See also:",
+          "visual_context": "Cross-reference list entry.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Visiting the doctor",
+          "number": "20",
+          "section": "See also:",
+          "visual_context": "Cross-reference list entry.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "The hospital",
+          "number": "21",
+          "section": "See also:",
+          "visual_context": "Cross-reference list entry.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Bathroom",
+          "number": "31",
+          "section": "See also:",
+          "visual_context": "Cross-reference list entry.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "retina",
+          "number": "1",
+          "section": "22.2 OPTICIAN",
+          "visual_context": "Pointer to the inner back layer of the eye cross-section.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cornea",
+          "number": "2",
+          "section": "22.2 OPTICIAN",
+          "visual_context": "Pointer to the transparent front surface of the eye cross-section.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lens",
+          "number": "3",
+          "section": "22.2 OPTICIAN",
+          "visual_context": "Pointer to the lens inside the eye cross-section.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "eyeball",
+          "number": "4",
+          "section": "22.2 OPTICIAN",
+          "visual_context": "Pointer to the illustrated eye cross-section.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nerve",
+          "number": "5",
+          "section": "22.2 OPTICIAN",
+          "visual_context": "Pointer to the optic nerve leaving the back of the eye.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Snellen chart",
+          "number": "6",
+          "section": "22.2 OPTICIAN",
+          "visual_context": "Pointer to the letter eye-test chart.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "retinal camera",
+          "number": "7",
+          "section": "22.2 OPTICIAN",
+          "visual_context": "Pointer to the camera being used to examine the patient's eye.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "phoropter",
+          "number": "8",
+          "section": "22.2 OPTICIAN",
+          "visual_context": "Pointer to the multi-lens eye-testing device in front of the patient.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "optometrist",
+          "number": "9",
+          "section": "22.2 OPTICIAN",
+          "visual_context": "Pointer to the clinician examining the patient.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "I’m going to check your retina. Please look left and then right.",
+          "number": "10",
+          "section": "22.2 OPTICIAN",
+          "visual_context": "Speech bubble from the optometrist during an eye examination.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "case",
+          "number": "11",
+          "section": "22.2 OPTICIAN",
+          "visual_context": "Pointer to the small contact-lens case on the desk.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "vision",
+          "number": "12",
+          "section": "22.2 OPTICIAN",
+          "visual_context": "Eye diagram projecting a broad field of sight.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "farsighted (US) long-sighted (UK)",
+          "number": "13",
+          "section": "22.2 OPTICIAN",
+          "visual_context": "Eye diagram showing focus beyond a nearby object.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nearsighted (US) short-sighted (UK)",
+          "number": "14",
+          "section": "22.2 OPTICIAN",
+          "visual_context": "Eye diagram showing focus before a distant object.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tear",
+          "number": "15",
+          "section": "22.2 OPTICIAN",
+          "visual_context": "Eye illustration with a tear drop.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cataract",
+          "number": "16",
+          "section": "22.2 OPTICIAN",
+          "visual_context": "Eye illustration with a cloudy lens.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "astigmatism",
+          "number": "17",
+          "section": "22.2 OPTICIAN",
+          "visual_context": "Eye diagram with distorted light rays.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "reading glasses",
+          "number": "18",
+          "section": "22.2 OPTICIAN",
+          "visual_context": "Person reading while wearing glasses.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bifocal",
+          "number": "19",
+          "section": "22.2 OPTICIAN",
+          "visual_context": "Glasses with lenses divided into two viewing areas.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "monocle",
+          "number": "20",
+          "section": "22.2 OPTICIAN",
+          "visual_context": "Single eyepiece on a cord.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "opera glasses",
+          "number": "21",
+          "section": "22.2 OPTICIAN",
+          "visual_context": "Person using small binoculars.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "glasses",
+          "number": "22",
+          "section": "22.2 OPTICIAN",
+          "visual_context": "Pair of spectacles; pointer indicates a lens.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lens",
+          "number": "23",
+          "section": "22.2 OPTICIAN",
+          "visual_context": "Pointer to one lens of the spectacles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sunglasses",
+          "number": "24",
+          "section": "22.2 OPTICIAN",
+          "visual_context": "Dark glasses shown beneath a sun.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lens cleaning cloth",
+          "number": "25",
+          "section": "22.2 OPTICIAN",
+          "visual_context": "Cloth wiping a pair of glasses.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "contact lenses",
+          "number": "26",
+          "section": "22.2 OPTICIAN",
+          "visual_context": "Finger placing a contact lens into an eye.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "contact lens solution",
+          "number": "27",
+          "section": "22.2 OPTICIAN",
+          "visual_context": "Bottle dispensing solution into a contact-lens case.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lens case",
+          "number": "28",
+          "section": "22.2 OPTICIAN",
+          "visual_context": "Open round contact-lens storage case.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "eye drops",
+          "number": "29",
+          "section": "22.2 OPTICIAN",
+          "visual_context": "Bottle applying drops to an eye.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

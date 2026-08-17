@@ -1,0 +1,431 @@
+{
+  "pages": [
+    {
+      "page": 54,
+      "title": "The hospital",
+      "context": "21.1 AT THE HOSPITAL",
+      "entries": [
+        {
+          "source_text": "oxygen mask",
+          "number": "1",
+          "section": "21.1 AT THE HOSPITAL",
+          "visual_context": "Pointer to the mask over the patient’s nose and mouth.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "IV (US) drip (UK)",
+          "number": "2",
+          "section": "21.1 AT THE HOSPITAL",
+          "visual_context": "Pointer to the hanging intravenous fluid bag.",
+          "semantic_meaning": "intravenous infusion"
+        },
+        {
+          "source_text": "surgical mask",
+          "number": "3",
+          "section": "21.1 AT THE HOSPITAL",
+          "visual_context": "Pointer to the face mask worn by the medical worker.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "display",
+          "number": "4",
+          "section": "21.1 AT THE HOSPITAL",
+          "visual_context": "Pointer to the bank of medical monitor screens behind the bed.",
+          "semantic_meaning": "medical monitor screen"
+        },
+        {
+          "source_text": "hospital notes",
+          "number": "5",
+          "section": "21.1 AT THE HOSPITAL",
+          "visual_context": "Pointer to the clipboard held by the nurse.",
+          "semantic_meaning": "patient records"
+        },
+        {
+          "source_text": "IV pole (US) drip stand (UK)",
+          "number": "6",
+          "section": "21.1 AT THE HOSPITAL",
+          "visual_context": "Pointer to the wheeled stand holding the IV bag.",
+          "semantic_meaning": "intravenous drip stand"
+        },
+        {
+          "source_text": "patient",
+          "number": "7",
+          "section": "21.1 AT THE HOSPITAL",
+          "visual_context": "Pointer to the person lying in the hospital bed.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hospital bed",
+          "number": "8",
+          "section": "21.1 AT THE HOSPITAL",
+          "visual_context": "Pointer to the adjustable bed occupied by the patient.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "scrubs",
+          "number": "9",
+          "section": "21.1 AT THE HOSPITAL",
+          "visual_context": "Pointer to the nurse’s teal medical uniform.",
+          "semantic_meaning": "medical work clothes"
+        },
+        {
+          "source_text": "hospital",
+          "number": "10",
+          "section": "21.1 AT THE HOSPITAL",
+          "visual_context": "Blue icon of a hospital building.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ambulance",
+          "number": "11",
+          "section": "21.1 AT THE HOSPITAL",
+          "visual_context": "Blue icon of an ambulance vehicle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "paramedic",
+          "number": "12",
+          "section": "21.1 AT THE HOSPITAL",
+          "visual_context": "Blue icon of a paramedic standing beside an ambulance.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stretcher",
+          "number": "13",
+          "section": "21.1 AT THE HOSPITAL",
+          "visual_context": "Blue icon of a wheeled patient stretcher.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "surgeon",
+          "number": "14",
+          "section": "21.1 AT THE HOSPITAL",
+          "visual_context": "Blue icon of a surgeon in surgical clothing.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "doctor",
+          "number": "15",
+          "section": "21.1 AT THE HOSPITAL",
+          "visual_context": "Blue icon of a doctor with a stethoscope.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nurse",
+          "number": "16",
+          "section": "21.1 AT THE HOSPITAL",
+          "visual_context": "Blue icon of a nurse.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hospital porter",
+          "number": "17",
+          "section": "21.1 AT THE HOSPITAL",
+          "visual_context": "Blue icon of a porter pushing a patient in a wheelchair.",
+          "semantic_meaning": "hospital worker who transports patients"
+        },
+        {
+          "source_text": "wheelchair",
+          "number": "18",
+          "section": "21.1 AT THE HOSPITAL",
+          "visual_context": "Blue icon of a person using a wheelchair.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "scan",
+          "number": "19",
+          "section": "21.1 AT THE HOSPITAL",
+          "visual_context": "Blue icon of a clinician viewing a head scan image.",
+          "semantic_meaning": "medical imaging examination"
+        },
+        {
+          "source_text": "X-ray",
+          "number": "20",
+          "section": "21.1 AT THE HOSPITAL",
+          "visual_context": "Blue icon of a chest X-ray image.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "blood test",
+          "number": "21",
+          "section": "21.1 AT THE HOSPITAL",
+          "visual_context": "Blue icon of a test tube and blood drop.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "blood pressure monitor",
+          "number": "22",
+          "section": "21.1 AT THE HOSPITAL",
+          "visual_context": "Illustration of a seated patient wearing an arm cuff connected to a monitor.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "display",
+          "number": "23",
+          "section": "21.1 AT THE HOSPITAL",
+          "visual_context": "Pointer to the digital screen on the blood pressure monitor.",
+          "semantic_meaning": "digital readout screen"
+        },
+        {
+          "source_text": "cuff",
+          "number": "24",
+          "section": "21.1 AT THE HOSPITAL",
+          "visual_context": "Pointer to the band wrapped around the patient’s upper arm.",
+          "semantic_meaning": "blood-pressure arm band"
+        }
+      ]
+    },
+    {
+      "page": 55,
+      "title": "The hospital",
+      "context": "21.1 AT THE HOSPITAL; 21.2 DEPARTMENTS",
+      "entries": [
+        {
+          "source_text": "scalpel",
+          "number": "25",
+          "section": "21.1 AT THE HOSPITAL",
+          "visual_context": "Blue icon of a surgical scalpel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stitches",
+          "number": "26",
+          "section": "21.1 AT THE HOSPITAL",
+          "visual_context": "Blue icon of a patient’s torso with a stitched wound.",
+          "semantic_meaning": "sutures"
+        },
+        {
+          "source_text": "plastic surgery",
+          "number": "27",
+          "section": "21.1 AT THE HOSPITAL",
+          "visual_context": "Blue icon of a face marked with surgical guide lines and a scalpel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "treatment",
+          "number": "28",
+          "section": "21.1 AT THE HOSPITAL",
+          "visual_context": "Blue icon of a clinician treating a patient on a bed.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "operation",
+          "number": "29",
+          "section": "21.1 AT THE HOSPITAL",
+          "visual_context": "Blue icon of a surgeon operating on a patient.",
+          "semantic_meaning": "surgical procedure"
+        },
+        {
+          "source_text": "operating table",
+          "number": "30",
+          "section": "21.1 AT THE HOSPITAL",
+          "visual_context": "Blue icon of a patient on a surgical table with equipment.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "operating room (US) theatre (UK)",
+          "number": "31",
+          "section": "21.1 AT THE HOSPITAL",
+          "visual_context": "Blue icon of staff around a patient on an operating table.",
+          "semantic_meaning": "room for surgery"
+        },
+        {
+          "source_text": "emergency room (US) A&E (UK)",
+          "number": "32",
+          "section": "21.1 AT THE HOSPITAL",
+          "visual_context": "Blue icon of an emergency treatment area with beds and monitors.",
+          "semantic_meaning": "department for urgent medical care"
+        },
+        {
+          "source_text": "intensive care unit",
+          "number": "33",
+          "section": "21.1 AT THE HOSPITAL",
+          "visual_context": "Blue icon of a critically ill patient in bed with medical staff and equipment.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "recovery room",
+          "number": "34",
+          "section": "21.1 AT THE HOSPITAL",
+          "visual_context": "Blue icon of a patient recovering in bed with an IV stand.",
+          "semantic_meaning": "room for patients after treatment or surgery"
+        },
+        {
+          "source_text": "private room",
+          "number": "35",
+          "section": "21.1 AT THE HOSPITAL",
+          "visual_context": "Blue icon of a patient alone in a hospital room.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ward",
+          "number": "36",
+          "section": "21.1 AT THE HOSPITAL",
+          "visual_context": "Blue icon of a hospital ward with a patient bed, staff, and cabinet.",
+          "semantic_meaning": "shared hospital room or unit"
+        },
+        {
+          "source_text": "children’s ward",
+          "number": "37",
+          "section": "21.1 AT THE HOSPITAL",
+          "visual_context": "Blue icon of a child in a hospital bed with an adult.",
+          "semantic_meaning": "hospital ward for children"
+        },
+        {
+          "source_text": "maternity ward",
+          "number": "38",
+          "section": "21.1 AT THE HOSPITAL",
+          "visual_context": "Blue icon of a pregnant patient arriving at a hospital reception desk.",
+          "semantic_meaning": "hospital ward for childbirth"
+        },
+        {
+          "source_text": "to admit",
+          "number": "39",
+          "section": "21.1 AT THE HOSPITAL",
+          "visual_context": "Blue icon of a doctor directing a patient carrying hospital papers.",
+          "semantic_meaning": "to accept a patient into hospital"
+        },
+        {
+          "source_text": "to discharge",
+          "number": "40",
+          "section": "21.1 AT THE HOSPITAL",
+          "visual_context": "Blue icon of a patient leaving a hospital entrance.",
+          "semantic_meaning": "to officially allow a patient to leave hospital"
+        },
+        {
+          "source_text": "outpatient",
+          "number": "41",
+          "section": "21.1 AT THE HOSPITAL",
+          "visual_context": "Blue icon of a person walking through a hospital doorway.",
+          "semantic_meaning": "patient not staying overnight in hospital"
+        },
+        {
+          "source_text": "ENT (ear, nose, and throat)",
+          "number": "1",
+          "section": "21.2 DEPARTMENTS",
+          "visual_context": "Green icon showing a side view of a head with the ear, nose, and throat area.",
+          "semantic_meaning": "medical department for ear, nose, and throat conditions"
+        },
+        {
+          "source_text": "cardiology",
+          "number": "2",
+          "section": "21.2 DEPARTMENTS",
+          "visual_context": "Green icon of a heart-monitor trace and heart.",
+          "semantic_meaning": "medical department for heart conditions"
+        },
+        {
+          "source_text": "orthopedics (US) orthopaedics (UK)",
+          "number": "3",
+          "section": "21.2 DEPARTMENTS",
+          "visual_context": "Green icon of a bent knee joint.",
+          "semantic_meaning": "medical department for bones and joints"
+        },
+        {
+          "source_text": "neurology",
+          "number": "4",
+          "section": "21.2 DEPARTMENTS",
+          "visual_context": "Green icon of a head showing a brain.",
+          "semantic_meaning": "medical department for the nervous system"
+        },
+        {
+          "source_text": "radiology",
+          "number": "5",
+          "section": "21.2 DEPARTMENTS",
+          "visual_context": "Green icon of medical imaging films and an X-ray image.",
+          "semantic_meaning": "medical department for imaging"
+        },
+        {
+          "source_text": "pathology",
+          "number": "6",
+          "section": "21.2 DEPARTMENTS",
+          "visual_context": "Green icon of a microscope viewing a specimen.",
+          "semantic_meaning": "medical department for laboratory diagnosis"
+        },
+        {
+          "source_text": "pediatrics (US) paediatrics (UK)",
+          "number": "7",
+          "section": "21.2 DEPARTMENTS",
+          "visual_context": "Green icon of an adult healthcare worker with a child.",
+          "semantic_meaning": "medical department for children"
+        },
+        {
+          "source_text": "dermatology",
+          "number": "8",
+          "section": "21.2 DEPARTMENTS",
+          "visual_context": "Green icon depicting hairs and skin layers.",
+          "semantic_meaning": "medical department for skin conditions"
+        },
+        {
+          "source_text": "gynecology (US) gynaecology (UK)",
+          "number": "9",
+          "section": "21.2 DEPARTMENTS",
+          "visual_context": "Green icon of the female reproductive system.",
+          "semantic_meaning": "medical department for women’s reproductive health"
+        },
+        {
+          "source_text": "surgery",
+          "number": "10",
+          "section": "21.2 DEPARTMENTS",
+          "visual_context": "Green icon of a scalpel making an incision.",
+          "semantic_meaning": "medical department for operations"
+        },
+        {
+          "source_text": "physical therapy (US) physiotherapy (UK)",
+          "number": "11",
+          "section": "21.2 DEPARTMENTS",
+          "visual_context": "Green icon of a therapist assisting a patient on an examination table.",
+          "semantic_meaning": "treatment to improve movement and function"
+        },
+        {
+          "source_text": "urology",
+          "number": "12",
+          "section": "21.2 DEPARTMENTS",
+          "visual_context": "Green icon of the urinary system.",
+          "semantic_meaning": "medical department for urinary-system conditions"
+        },
+        {
+          "source_text": "maternity",
+          "number": "13",
+          "section": "21.2 DEPARTMENTS",
+          "visual_context": "Green icon of a pregnant person.",
+          "semantic_meaning": "medical department relating to pregnancy and childbirth"
+        },
+        {
+          "source_text": "psychiatry",
+          "number": "14",
+          "section": "21.2 DEPARTMENTS",
+          "visual_context": "Green icon of a head with gears inside.",
+          "semantic_meaning": "medical specialty for mental health"
+        },
+        {
+          "source_text": "ophthalmology",
+          "number": "15",
+          "section": "21.2 DEPARTMENTS",
+          "visual_context": "Green icon of an eye and magnifying lens.",
+          "semantic_meaning": "medical department for eye conditions"
+        },
+        {
+          "source_text": "endocrinology",
+          "number": "16",
+          "section": "21.2 DEPARTMENTS",
+          "visual_context": "Green icon of a human figure with gland symbols.",
+          "semantic_meaning": "medical specialty for hormones and glands"
+        },
+        {
+          "source_text": "oncology",
+          "number": "17",
+          "section": "21.2 DEPARTMENTS",
+          "visual_context": "Green icon of an irregular group of cells.",
+          "semantic_meaning": "medical specialty for cancer"
+        },
+        {
+          "source_text": "gastroenterology",
+          "number": "18",
+          "section": "21.2 DEPARTMENTS",
+          "visual_context": "Green icon of a stomach and digestive tract.",
+          "semantic_meaning": "medical specialty for the digestive system"
+        }
+      ]
+    }
+  ]
+}

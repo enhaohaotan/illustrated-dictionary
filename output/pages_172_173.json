@@ -1,0 +1,452 @@
+{
+  "pages": [
+    {
+      "page": 172,
+      "title": "At work",
+      "context": "81.1 OFFICE WORK",
+      "entries": [
+        {
+          "source_text": "company",
+          "number": "1",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Office buildings with employees.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "branch",
+          "number": "2",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "A central company building linked to smaller buildings.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "employment",
+          "number": "3",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Businessperson holding a briefcase.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to earn",
+          "number": "4",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Hand holding banknotes.",
+          "semantic_meaning": "to receive money for work"
+        },
+        {
+          "source_text": "permanent",
+          "number": "5",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Worker seated beneath a calendar.",
+          "semantic_meaning": "continuing employment"
+        },
+        {
+          "source_text": "temporary",
+          "number": "6",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Worker seated beneath a calendar.",
+          "semantic_meaning": "short-term employment"
+        },
+        {
+          "source_text": "nine-to-five job",
+          "number": "10",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Clock showing standard daytime working hours.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to work part-time",
+          "number": "11",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Worker shown within a partial clock face.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to work shifts",
+          "number": "12",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Worker surrounded by a circular clock arrow.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "vacation (US) annual leave (UK)",
+          "number": "13",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Person relaxing on a sunbed under a calendar and sun.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to have a day off",
+          "number": "14",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Person relaxing on a sofa at home, with a calendar and television.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to go on maternity leave",
+          "number": "15",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Pregnant woman with a partner and child.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to call in sick",
+          "number": "19",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Ill person in bed using a telephone.",
+          "semantic_meaning": "to notify work that one is ill"
+        },
+        {
+          "source_text": "to hand in your notice",
+          "number": "20",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Worker handing a document to another person.",
+          "semantic_meaning": "to formally resign"
+        },
+        {
+          "source_text": "to get fired",
+          "number": "21",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Manager dismissing a worker between two people.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to be laid off",
+          "number": "22",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Dejected worker holding a box of belongings.",
+          "semantic_meaning": "to lose a job because it is eliminated"
+        },
+        {
+          "source_text": "to be unemployed",
+          "number": "23",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Person sitting at a desk with a laptop.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "unemployment benefit",
+          "number": "24",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Hand receiving money below an unemployment symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "office reception",
+          "number": "28",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Reception area with desk, clocks, and seating.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "headquarters",
+          "number": "29",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Map pin pointing to the office building area.",
+          "semantic_meaning": "main office of an organization"
+        },
+        {
+          "source_text": "receptionist",
+          "number": "30",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Person standing behind the reception desk.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "waiting area",
+          "number": "31",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Chairs in the reception area.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "CEO’s office",
+          "number": "32",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Central executive office area.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "CEO (chief executive officer)",
+          "number": "33",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Senior executive standing in the central office.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "businessman",
+          "number": "34",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Male executive standing with arms folded.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "business deal",
+          "number": "35",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Two businesspeople shaking hands.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "businesswoman",
+          "number": "36",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Female businessperson standing in the CEO's office.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "meeting",
+          "number": "37",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "People gathered around a conference table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "apprentice",
+          "number": "38",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Young worker with glasses and a red tie in the meeting room.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "manager",
+          "number": "39",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Woman in white standing by the meeting table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "PA (personal assistant)",
+          "number": "40",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Woman holding documents beside the noticeboard.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "leader",
+          "number": "41",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Person seated at the head of the meeting table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "clients",
+          "number": "42",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "People seated at the meeting table.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 173,
+      "title": "At work",
+      "context": "81.1 OFFICE WORK; 81.2 PAY",
+      "entries": [
+        {
+          "source_text": "flextime (US) flexitime (UK)",
+          "number": "7",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Worker at a desk beside a clock and family.",
+          "semantic_meaning": "flexible working hours"
+        },
+        {
+          "source_text": "to work from home",
+          "number": "8",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Person using a laptop at home with a cat.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to work full-time",
+          "number": "9",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Worker shown inside a full clock face.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to be promoted",
+          "number": "16",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Worker being lifted upward by two colleagues.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to resign",
+          "number": "17",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Worker leaving through a door carrying a document.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to retire",
+          "number": "18",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Older people, including one with a walking stick.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "business trip",
+          "number": "25",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Traveller with suitcase beside the Eiffel Tower and Statue of Liberty.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "appointment",
+          "number": "26",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Visitor speaking to a receptionist at a desk, with a clock.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "business lunch",
+          "number": "27",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Three people eating at a restaurant table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hourly rate",
+          "number": "1",
+          "section": "81.2 PAY",
+          "visual_context": "Clock with an arrow pointing to a dollar symbol.",
+          "semantic_meaning": "amount paid per hour"
+        },
+        {
+          "source_text": "overtime",
+          "number": "2",
+          "section": "81.2 PAY",
+          "visual_context": "Clock with an arrow indicating extra time.",
+          "semantic_meaning": "work done beyond normal hours"
+        },
+        {
+          "source_text": "salary",
+          "number": "3",
+          "section": "81.2 PAY",
+          "visual_context": "Calendar next to a bag of money.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wages",
+          "number": "4",
+          "section": "81.2 PAY",
+          "visual_context": "Hand holding a bag of money.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pay slip",
+          "number": "5",
+          "section": "81.2 PAY",
+          "visual_context": "Pay document in an envelope.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bonus",
+          "number": "6",
+          "section": "81.2 PAY",
+          "visual_context": "Employee receiving extra money from another person.",
+          "semantic_meaning": "additional payment"
+        },
+        {
+          "source_text": "benefits",
+          "number": "7",
+          "section": "81.2 PAY",
+          "visual_context": "Hand with symbols for health, insurance, and medical care.",
+          "semantic_meaning": "non-salary employment advantages"
+        },
+        {
+          "source_text": "raise",
+          "number": "8",
+          "section": "81.2 PAY",
+          "visual_context": "Chart showing a 25% increase.",
+          "semantic_meaning": "an increase in pay"
+        },
+        {
+          "source_text": "pay cut",
+          "number": "9",
+          "section": "81.2 PAY",
+          "visual_context": "Chart showing a 25% decrease.",
+          "semantic_meaning": "a reduction in pay"
+        },
+        {
+          "source_text": "interview",
+          "number": "43",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Two people seated facing each other across a small table.",
+          "semantic_meaning": "job interview"
+        },
+        {
+          "source_text": "interviewer",
+          "number": "44",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Person conducting the interview on the left.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "applicant",
+          "number": "45",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Person being interviewed on the right.",
+          "semantic_meaning": "person applying for a job"
+        },
+        {
+          "source_text": "employer",
+          "number": "46",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Person conducting the job interview.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "staff",
+          "number": "47",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Group of workers in the office scene.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "worker",
+          "number": "48",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Office worker seated at a desk.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "co-worker / colleague",
+          "number": "49",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Male colleague exchanging documents with another worker.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "employee",
+          "number": "50",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Office worker seated at a computer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "supervisor",
+          "number": "51",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Worker supervising the staff area.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "intern",
+          "number": "52",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Young worker holding a red folder.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "office manager",
+          "number": "53",
+          "section": "81.1 OFFICE WORK",
+          "visual_context": "Woman working at a desk in the office.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

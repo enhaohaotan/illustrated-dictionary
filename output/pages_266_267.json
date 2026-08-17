@@ -1,0 +1,431 @@
+{
+  "pages": [
+    {
+      "page": 266,
+      "title": "Music",
+      "context": "128.1 ORCHESTRAL INSTRUMENTS",
+      "entries": [
+        {
+          "source_text": "woodwind",
+          "number": "1",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Pointer to the woodwind family band in the orchestral-seating diagram.",
+          "semantic_meaning": "Woodwind section."
+        },
+        {
+          "source_text": "percussion",
+          "number": "2",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Pointer to the percussion family band in the instrument-family diagram.",
+          "semantic_meaning": "Percussion section."
+        },
+        {
+          "source_text": "brass",
+          "number": "3",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Pointer to the brass family band in the instrument-family diagram.",
+          "semantic_meaning": "Brass section."
+        },
+        {
+          "source_text": "strings",
+          "number": "4",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Pointer to the strings family band in the instrument-family diagram.",
+          "semantic_meaning": "String section."
+        },
+        {
+          "source_text": "orchestra",
+          "number": "5",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "The full illustrated orchestra and its seating arrangement.",
+          "semantic_meaning": "Large ensemble of instrumental musicians."
+        },
+        {
+          "source_text": "harp",
+          "number": "6",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Pointer to the seated harp player.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cymbals",
+          "number": "7",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Pointer to the player holding two cymbals.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "snare drum",
+          "number": "8",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Pointer to the small drum on a stand behind the cymbal player.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "xylophone",
+          "number": "9",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Pointer to the keyboard-like percussion instrument at upper right.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "French horn",
+          "number": "10",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Pointer to a brass player holding a French horn.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "flute",
+          "number": "11",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Pointer to a seated woodwind player holding a flute.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "violin",
+          "number": "23",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Pointer to violin players in the blue string section.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "music stand",
+          "number": "24",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Pointer to a stand holding sheet music among the players.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "vibraphone",
+          "number": "30",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Red icon of a bar percussion instrument with mallets.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bongo drums",
+          "number": "31",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Red icon of two small joined drums.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tubular bells",
+          "number": "32",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Red icon of hanging vertical tubular bells.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tambourine",
+          "number": "33",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Red icon of a circular tambourine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "triangle",
+          "number": "34",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Red icon of a triangle struck with a beater.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "maracas",
+          "number": "35",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Red icon of two maracas.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "English horn (US) cor anglais (UK)",
+          "number": "36",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Red icon of the curved double-reed woodwind instrument.",
+          "semantic_meaning": "Alternative US and UK names for the same instrument."
+        },
+        {
+          "source_text": "piccolo",
+          "number": "37",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Red icon of a small transverse flute.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pipe organ",
+          "number": "38",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Red icon of an organ with pipes and keyboard.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "solo",
+          "number": "39",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Red icon of one singer with musical notes.",
+          "semantic_meaning": "A performance by one musician or singer."
+        },
+        {
+          "source_text": "composer",
+          "number": "40",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Red icon of a person writing at a grand piano.",
+          "semantic_meaning": "Person who writes music."
+        },
+        {
+          "source_text": "choir",
+          "number": "41",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Red icon of a group of singers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to compose",
+          "number": "42",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Red icon of a hand writing musical notation.",
+          "semantic_meaning": "To write music."
+        },
+        {
+          "source_text": "to conduct",
+          "number": "43",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Red icon of a conductor with raised arms and a music stand.",
+          "semantic_meaning": "To direct an orchestra or choir."
+        },
+        {
+          "source_text": "to play (the trumpet)",
+          "number": "44",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Red icon of a person playing a trumpet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "piano overture",
+          "number": "45",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Red icon of a pianist at a grand piano.",
+          "semantic_meaning": "An overture arranged or performed for piano."
+        },
+        {
+          "source_text": "symphony",
+          "number": "46",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Red icon of an orchestra with a conductor and musical notes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "violin sonata",
+          "number": "47",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Red icon of two violinists.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 267,
+      "title": null,
+      "context": "Continuation of 128.1 ORCHESTRAL INSTRUMENTS; 128.2 SCORE, NOTES, AND NOTATION",
+      "entries": [
+        {
+          "source_text": "piano",
+          "number": "12",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Pointer to the grand piano at upper left.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "oboe",
+          "number": "13",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Pointer to a seated player holding an oboe.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "trumpet",
+          "number": "14",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Pointer to a brass player holding a trumpet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "clarinet",
+          "number": "15",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Pointer to a seated player holding a clarinet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "kettledrum",
+          "number": "16",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Pointer to the large timpani-style drum.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "trombone",
+          "number": "17",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Pointer to a seated player holding a trombone.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bass drum",
+          "number": "18",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Pointer to the large vertical drum on a stand.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gong",
+          "number": "19",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Pointer to the large circular gong on a stand.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "saxophone",
+          "number": "20",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Pointer to the standing player holding a saxophone.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tuba",
+          "number": "21",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Pointer to a seated player holding a tuba.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bassoon",
+          "number": "22",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Pointer to a bassoon player at the right of the orchestra.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "conductor",
+          "number": "25",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Pointer to the person directing the orchestra at the front.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "podium",
+          "number": "26",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Pointer to the raised platform beneath the conductor.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "viola",
+          "number": "27",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Pointer to a player in the lower string section holding a viola.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cello",
+          "number": "28",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Pointer to a seated cellist and cello.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "double bass",
+          "number": "29",
+          "section": "128.1 ORCHESTRAL INSTRUMENTS",
+          "visual_context": "Pointer to the largest upright string instrument at lower right.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "notation",
+          "number": "1",
+          "section": "128.2 SCORE, NOTES, AND NOTATION",
+          "visual_context": "Pointer to written musical symbols on a staff in the score excerpt.",
+          "semantic_meaning": "Written system of musical symbols."
+        },
+        {
+          "source_text": "note",
+          "number": "2",
+          "section": "128.2 SCORE, NOTES, AND NOTATION",
+          "visual_context": "Pointer to an individual note in the music excerpt.",
+          "semantic_meaning": "A written musical sound symbol."
+        },
+        {
+          "source_text": "bass clef",
+          "number": "3",
+          "section": "128.2 SCORE, NOTES, AND NOTATION",
+          "visual_context": "Pointer to the bass clef on the lower staff of the score.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "treble clef",
+          "number": "4",
+          "section": "128.2 SCORE, NOTES, AND NOTATION",
+          "visual_context": "Pointer to the treble clef on the lower staff of the score.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "score",
+          "number": "5",
+          "section": "128.2 SCORE, NOTES, AND NOTATION",
+          "visual_context": "The multi-staff page of written music.",
+          "semantic_meaning": "Written music for an ensemble."
+        },
+        {
+          "source_text": "chord",
+          "number": "6",
+          "section": "128.2 SCORE, NOTES, AND NOTATION",
+          "visual_context": "Diagram of several notes sounded together on a staff.",
+          "semantic_meaning": "Several notes played together."
+        },
+        {
+          "source_text": "scale",
+          "number": "7",
+          "section": "128.2 SCORE, NOTES, AND NOTATION",
+          "visual_context": "Diagram of notes ascending step by step on a staff.",
+          "semantic_meaning": "Ordered sequence of notes."
+        },
+        {
+          "source_text": "lower pitch",
+          "number": "8",
+          "section": "128.2 SCORE, NOTES, AND NOTATION",
+          "visual_context": "Pointer to the lower-positioned note in the pitch diagram.",
+          "semantic_meaning": "A lower-sounding note."
+        },
+        {
+          "source_text": "higher pitch",
+          "number": "9",
+          "section": "128.2 SCORE, NOTES, AND NOTATION",
+          "visual_context": "Pointer to the higher-positioned note in the pitch diagram.",
+          "semantic_meaning": "A higher-sounding note."
+        },
+        {
+          "source_text": "pitch",
+          "number": "10",
+          "section": "128.2 SCORE, NOTES, AND NOTATION",
+          "visual_context": "Diagram comparing notes at different vertical positions on a staff.",
+          "semantic_meaning": "How high or low a sound is."
+        },
+        {
+          "source_text": "sharp",
+          "number": "11",
+          "section": "128.2 SCORE, NOTES, AND NOTATION",
+          "visual_context": "Sharp sign (♯) shown as a musical-notation symbol.",
+          "semantic_meaning": "Sign that raises a note by a semitone."
+        },
+        {
+          "source_text": "flat",
+          "number": "12",
+          "section": "128.2 SCORE, NOTES, AND NOTATION",
+          "visual_context": "Flat sign (♭) shown as a musical-notation symbol.",
+          "semantic_meaning": "Sign that lowers a note by a semitone."
+        }
+      ]
+    }
+  ]
+}

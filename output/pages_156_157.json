@@ -1,0 +1,543 @@
+{
+  "pages": [
+    {
+      "page": 156,
+      "title": "At school",
+      "context": "73.1 SCHOOL AND STUDY",
+      "entries": [
+        {
+          "source_text": "school",
+          "number": "1",
+          "section": "SCHOOL AND STUDY",
+          "visual_context": "School building with clock.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "classroom",
+          "number": "2",
+          "section": "SCHOOL AND STUDY",
+          "visual_context": "Room with desks, pupils, and bookshelves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "class",
+          "number": "3",
+          "section": "SCHOOL AND STUDY",
+          "visual_context": "Teacher addressing a group of seated pupils.",
+          "semantic_meaning": "A group of students being taught."
+        },
+        {
+          "source_text": "teacher",
+          "number": "4",
+          "section": "SCHOOL AND STUDY",
+          "visual_context": "Pointer line identifies the standing instructor.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "whiteboard",
+          "number": "5",
+          "section": "SCHOOL AND STUDY",
+          "visual_context": "Pointer line identifies the large board with writing and charts.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pupil",
+          "number": "6",
+          "section": "SCHOOL AND STUDY",
+          "visual_context": "Pointer line identifies a seated student.",
+          "semantic_meaning": "A school student."
+        },
+        {
+          "source_text": "desk",
+          "number": "7",
+          "section": "SCHOOL AND STUDY",
+          "visual_context": "Single school desk with books on top.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "school students",
+          "number": "8",
+          "section": "SCHOOL AND STUDY",
+          "visual_context": "Three students seated at desks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "school bag",
+          "number": "9",
+          "section": "SCHOOL AND STUDY",
+          "visual_context": "Student wearing a backpack.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "literature",
+          "number": "10",
+          "section": "SCHOOL AND STUDY",
+          "visual_context": "Open book.",
+          "semantic_meaning": "School subject involving literary works."
+        },
+        {
+          "source_text": "math (US)\nmaths (UK)",
+          "number": "11",
+          "section": "SCHOOL AND STUDY",
+          "visual_context": "Mathematical operation symbols.",
+          "semantic_meaning": "Mathematics; US and UK terms."
+        },
+        {
+          "source_text": "geography",
+          "number": "12",
+          "section": "SCHOOL AND STUDY",
+          "visual_context": "Globe.",
+          "semantic_meaning": "School subject about places and the Earth."
+        },
+        {
+          "source_text": "history",
+          "number": "13",
+          "section": "SCHOOL AND STUDY",
+          "visual_context": "Hourglass.",
+          "semantic_meaning": "School subject about the past."
+        },
+        {
+          "source_text": "science",
+          "number": "14",
+          "section": "SCHOOL AND STUDY",
+          "visual_context": "Microscope.",
+          "semantic_meaning": "General scientific school subject."
+        },
+        {
+          "source_text": "chemistry",
+          "number": "15",
+          "section": "SCHOOL AND STUDY",
+          "visual_context": "Laboratory flask.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "physics",
+          "number": "16",
+          "section": "SCHOOL AND STUDY",
+          "visual_context": "Atom symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "biology",
+          "number": "17",
+          "section": "SCHOOL AND STUDY",
+          "visual_context": "DNA double helix.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "English",
+          "number": "18",
+          "section": "SCHOOL AND STUDY",
+          "visual_context": "Speech bubble reading HELLO.",
+          "semantic_meaning": "English-language subject."
+        },
+        {
+          "source_text": "languages",
+          "number": "19",
+          "section": "SCHOOL AND STUDY",
+          "visual_context": "Speech bubble with Bonjour!, Hallo!, and ¡Hola!.",
+          "semantic_meaning": "School subject for learning languages."
+        },
+        {
+          "source_text": "design and\ntechnology",
+          "number": "20",
+          "section": "SCHOOL AND STUDY",
+          "visual_context": "Drawing and drafting tools.",
+          "semantic_meaning": "School subject."
+        },
+        {
+          "source_text": "information\ntechnology",
+          "number": "21",
+          "section": "SCHOOL AND STUDY",
+          "visual_context": "Computer monitor with @ symbol.",
+          "semantic_meaning": "School subject involving computers."
+        },
+        {
+          "source_text": "art",
+          "number": "22",
+          "section": "SCHOOL AND STUDY",
+          "visual_context": "Crossed paintbrush and pencil.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "music",
+          "number": "23",
+          "section": "SCHOOL AND STUDY",
+          "visual_context": "Musical note.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "drama",
+          "number": "24",
+          "section": "SCHOOL AND STUDY",
+          "visual_context": "Theatre stage with actor.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "physical\neducation",
+          "number": "25",
+          "section": "SCHOOL AND STUDY",
+          "visual_context": "Racket, ball, and shuttlecock.",
+          "semantic_meaning": "School subject involving sport and exercise."
+        },
+        {
+          "source_text": "head teacher /\nprincipal",
+          "number": "26",
+          "section": "SCHOOL AND STUDY",
+          "visual_context": "Person standing at a lectern.",
+          "semantic_meaning": "The person in charge of a school."
+        },
+        {
+          "source_text": "homework",
+          "number": "27",
+          "section": "SCHOOL AND STUDY",
+          "visual_context": "Student working at a desk with a school bag.",
+          "semantic_meaning": "Schoolwork done outside class."
+        },
+        {
+          "source_text": "lesson",
+          "number": "28",
+          "section": "SCHOOL AND STUDY",
+          "visual_context": "Teacher teaching pupils in a classroom.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "exam",
+          "number": "29",
+          "section": "SCHOOL AND STUDY",
+          "visual_context": "Student seated at a desk with a clock.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "essay",
+          "number": "30",
+          "section": "SCHOOL AND STUDY",
+          "visual_context": "Student writing at a desk.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "grade",
+          "number": "31",
+          "section": "SCHOOL AND STUDY",
+          "visual_context": "Papers marked A, A+, and A++.",
+          "semantic_meaning": "A mark for schoolwork."
+        },
+        {
+          "source_text": "encyclopedia",
+          "number": "32",
+          "section": "SCHOOL AND STUDY",
+          "visual_context": "Book with globe symbol on its cover.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dictionary",
+          "number": "33",
+          "section": "SCHOOL AND STUDY",
+          "visual_context": "Book marked A Z.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "atlas",
+          "number": "34",
+          "section": "SCHOOL AND STUDY",
+          "visual_context": "Open book displaying a world map.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "test",
+          "number": "35",
+          "section": "SCHOOL AND STUDY",
+          "visual_context": "Checklist sheet.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 157,
+      "title": null,
+      "context": "73.2 SCHOOL VERBS; 73.3 EQUIPMENT",
+      "entries": [
+        {
+          "source_text": "Mathematics",
+          "number": "74",
+          "section": "See also:",
+          "visual_context": "Listed as a cross-reference in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Physics",
+          "number": "75",
+          "section": "See also:",
+          "visual_context": "Listed as a cross-reference in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Chemistry",
+          "number": "76",
+          "section": "See also:",
+          "visual_context": "Listed as a cross-reference in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Biology",
+          "number": "77",
+          "section": "See also:",
+          "visual_context": "Listed as a cross-reference in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "History",
+          "number": "79",
+          "section": "See also:",
+          "visual_context": "Listed as a cross-reference in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "At college",
+          "number": "80",
+          "section": "See also:",
+          "visual_context": "Listed as a cross-reference in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Computers and technology",
+          "number": "83",
+          "section": "See also:",
+          "visual_context": "Listed as a cross-reference in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to read",
+          "number": "1",
+          "section": "SCHOOL VERBS",
+          "visual_context": "Person reading an open book.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to write",
+          "number": "2",
+          "section": "SCHOOL VERBS",
+          "visual_context": "Person writing at a desk.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to question",
+          "number": "3",
+          "section": "SCHOOL VERBS",
+          "visual_context": "Two people, one with a question mark overhead.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to take a test (US)\nto take an exam (UK)",
+          "number": "4",
+          "section": "SCHOOL VERBS",
+          "visual_context": "Students seated at desks with test papers.",
+          "semantic_meaning": "US and UK expressions for sitting a test/exam."
+        },
+        {
+          "source_text": "to learn",
+          "number": "5",
+          "section": "SCHOOL VERBS",
+          "visual_context": "Student thinking beside a board with a mathematical formula.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to draw",
+          "number": "6",
+          "section": "SCHOOL VERBS",
+          "visual_context": "Person drawing a figure on a board.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to answer",
+          "number": "7",
+          "section": "SCHOOL VERBS",
+          "visual_context": "Teacher asks students in front of a board; a student raises a hand.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to spell",
+          "number": "8",
+          "section": "SCHOOL VERBS",
+          "visual_context": "Person spelling CAT.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to review (US)\nto revise (UK)",
+          "number": "9",
+          "section": "SCHOOL VERBS",
+          "visual_context": "Student reading with a stack of books.",
+          "semantic_meaning": "US and UK terms for studying again."
+        },
+        {
+          "source_text": "to retake (US)\nto resit (UK)",
+          "number": "10",
+          "section": "SCHOOL VERBS",
+          "visual_context": "Student again seated at a desk, with a faded previous figure behind.",
+          "semantic_meaning": "US and UK terms for taking a test again."
+        },
+        {
+          "source_text": "to take notes",
+          "number": "11",
+          "section": "SCHOOL VERBS",
+          "visual_context": "Student writing from material displayed on a board.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to discuss",
+          "number": "12",
+          "section": "SCHOOL VERBS",
+          "visual_context": "Two people speaking, each with a speech bubble.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to fail",
+          "number": "13",
+          "section": "SCHOOL VERBS",
+          "visual_context": "Paper marked with a large X.",
+          "semantic_meaning": "Not to achieve a passing result."
+        },
+        {
+          "source_text": "to pass",
+          "number": "14",
+          "section": "SCHOOL VERBS",
+          "visual_context": "Paper marked with a tick.",
+          "semantic_meaning": "To achieve a passing result."
+        },
+        {
+          "source_text": "I’ve passed\nmy test.",
+          "number": "15",
+          "section": "SCHOOL VERBS",
+          "visual_context": "Student holding a paper marked 10/10 and speaking the sentence.",
+          "semantic_meaning": "Statement of successful test completion."
+        },
+        {
+          "source_text": "pencil",
+          "number": "1",
+          "section": "EQUIPMENT",
+          "visual_context": "Purple wooden pencil.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pencil\nsharpener",
+          "number": "2",
+          "section": "EQUIPMENT",
+          "visual_context": "Handheld pencil sharpener.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pen",
+          "number": "3",
+          "section": "EQUIPMENT",
+          "visual_context": "Purple ink pen.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nib",
+          "number": "4",
+          "section": "EQUIPMENT",
+          "visual_context": "Fountain-pen nib.",
+          "semantic_meaning": "Pointed writing tip of a pen."
+        },
+        {
+          "source_text": "eraser (US)\nrubber (UK)",
+          "number": "5",
+          "section": "EQUIPMENT",
+          "visual_context": "Eraser with a rubbed-out mark.",
+          "semantic_meaning": "US and UK terms for an item used to erase pencil marks."
+        },
+        {
+          "source_text": "colored pencils (US)\ncoloured pencils (UK)",
+          "number": "6",
+          "section": "EQUIPMENT",
+          "visual_context": "Several pencils in different colours.",
+          "semantic_meaning": "US and UK spellings."
+        },
+        {
+          "source_text": "pencil case",
+          "number": "7",
+          "section": "EQUIPMENT",
+          "visual_context": "Case holding pencils.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ruler",
+          "number": "8",
+          "section": "EQUIPMENT",
+          "visual_context": "Marked straight ruler.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "triangle (US)\nset square (UK)",
+          "number": "9",
+          "section": "EQUIPMENT",
+          "visual_context": "Triangular measuring and drawing tool.",
+          "semantic_meaning": "US and UK terms for the triangular ruler."
+        },
+        {
+          "source_text": "protractor",
+          "number": "10",
+          "section": "EQUIPMENT",
+          "visual_context": "Semicircular angle-measuring tool.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "calculator",
+          "number": "11",
+          "section": "EQUIPMENT",
+          "visual_context": "Calculator with display and buttons.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "compass",
+          "number": "12",
+          "section": "EQUIPMENT",
+          "visual_context": "Drawing compass.",
+          "semantic_meaning": "Instrument for drawing circles."
+        },
+        {
+          "source_text": "textbook",
+          "number": "13",
+          "section": "EQUIPMENT",
+          "visual_context": "Thick bound book.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "notebook /\nexercise book",
+          "number": "14",
+          "section": "EQUIPMENT",
+          "visual_context": "Lined book and pen.",
+          "semantic_meaning": "Book for writing school exercises."
+        },
+        {
+          "source_text": "digital\nprojector",
+          "number": "15",
+          "section": "EQUIPMENT",
+          "visual_context": "Projector on a stand projecting light beams.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "highlighter",
+          "number": "16",
+          "section": "EQUIPMENT",
+          "visual_context": "Chisel-tipped highlighting pen making a yellow mark.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "paper clip",
+          "number": "17",
+          "section": "EQUIPMENT",
+          "visual_context": "Paper clip.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stapler",
+          "number": "18",
+          "section": "EQUIPMENT",
+          "visual_context": "Stapler.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

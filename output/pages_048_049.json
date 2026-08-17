@@ -1,0 +1,347 @@
+{
+  "pages": [
+    {
+      "page": 48,
+      "title": "Beauty",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "mirror",
+          "number": "1",
+          "section": "18.1 MAKEUP",
+          "visual_context": "Pointer to a round hand mirror beside the makeup bag.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lip liner",
+          "number": "2",
+          "section": "18.1 MAKEUP",
+          "visual_context": "Pointer to a yellow lip-liner pencil.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "eyebrow brush",
+          "number": "3",
+          "section": "18.1 MAKEUP",
+          "visual_context": "Pointer to a spoolie-style eyebrow brush.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lip brush",
+          "number": "4",
+          "section": "18.1 MAKEUP",
+          "visual_context": "Pointer to a small brush for applying lip colour.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "concealer",
+          "number": "5",
+          "section": "18.1 MAKEUP",
+          "visual_context": "Pointer to a concealer applicator tube.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "powder puff",
+          "number": "6",
+          "section": "18.1 MAKEUP",
+          "visual_context": "Pointer to the puff in an open compact.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "eyebrow pencil",
+          "number": "7",
+          "section": "18.1 MAKEUP",
+          "visual_context": "Pointer to a dark eyebrow pencil.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "face powder",
+          "number": "8",
+          "section": "18.1 MAKEUP",
+          "visual_context": "Pointer to powder in an open compact.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "makeup bag",
+          "number": "9",
+          "section": "18.1 MAKEUP",
+          "visual_context": "Pointer to the large green cosmetics bag.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "blush (US)\nblusher (UK)",
+          "number": "10",
+          "section": "18.1 MAKEUP",
+          "visual_context": "Illustration of a compact and brush with cheek colour.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "eyeliner",
+          "number": "11",
+          "section": "18.1 MAKEUP",
+          "visual_context": "Illustration of eyeliner applicators.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "eyeshadow",
+          "number": "12",
+          "section": "18.1 MAKEUP",
+          "visual_context": "Illustration of a palette of coloured eye makeup.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "foundation",
+          "number": "13",
+          "section": "18.1 MAKEUP",
+          "visual_context": "Illustration of foundation being applied with a brush.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mascara",
+          "number": "14",
+          "section": "18.1 MAKEUP",
+          "visual_context": "Illustration of a mascara tube and wand.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lipstick",
+          "number": "15",
+          "section": "18.1 MAKEUP",
+          "visual_context": "Illustration of an open lipstick tube.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "normal",
+          "number": "1",
+          "section": "18.2 SKIN TYPE",
+          "visual_context": "Illustration of a face with evenly coloured skin.",
+          "semantic_meaning": "Neither dry nor oily skin."
+        },
+        {
+          "source_text": "dry",
+          "number": "2",
+          "section": "18.2 SKIN TYPE",
+          "visual_context": "Illustration of a pale white face representing dry skin.",
+          "semantic_meaning": "Skin lacking moisture."
+        },
+        {
+          "source_text": "oily",
+          "number": "3",
+          "section": "18.2 SKIN TYPE",
+          "visual_context": "Illustration of a yellow-toned face representing oily skin.",
+          "semantic_meaning": "Skin producing excess oil."
+        },
+        {
+          "source_text": "sensitive",
+          "number": "4",
+          "section": "18.2 SKIN TYPE",
+          "visual_context": "Illustration of a red or irritated-looking face.",
+          "semantic_meaning": "Skin easily irritated by products or conditions."
+        },
+        {
+          "source_text": "combination",
+          "number": "5",
+          "section": "18.2 SKIN TYPE",
+          "visual_context": "Illustration of a face with differently shaded areas.",
+          "semantic_meaning": "Skin with both dry and oily areas."
+        }
+      ]
+    },
+    {
+      "page": 49,
+      "title": "Beauty",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "nail scissors",
+          "number": "1",
+          "section": "18.3 MANICURE",
+          "visual_context": "Illustration of small curved nail scissors.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nail clippers",
+          "number": "2",
+          "section": "18.3 MANICURE",
+          "visual_context": "Illustration of nail clippers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nail polish /\nnail varnish (UK)",
+          "number": "3",
+          "section": "18.3 MANICURE",
+          "visual_context": "Illustration of a bottle with a nail-polish brush.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nail polish\nremover",
+          "number": "4",
+          "section": "18.3 MANICURE",
+          "visual_context": "Illustration of a bottle of nail polish remover.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nail file",
+          "number": "5",
+          "section": "18.3 MANICURE",
+          "visual_context": "Illustration of an orange nail file.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hand cream",
+          "number": "6",
+          "section": "18.3 MANICURE",
+          "visual_context": "Illustration of a tube of hand cream.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "moisturizer",
+          "number": "1",
+          "section": "18.4 TOILETRIES AND BEAUTY TREATMENTS",
+          "visual_context": "Illustration of an open jar of moisturizing cream.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "toner",
+          "number": "2",
+          "section": "18.4 TOILETRIES AND BEAUTY TREATMENTS",
+          "visual_context": "Illustration of a bottle of toner.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "face wash",
+          "number": "3",
+          "section": "18.4 TOILETRIES AND BEAUTY TREATMENTS",
+          "visual_context": "Illustration of a pump bottle labelled as face wash.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cleanser",
+          "number": "4",
+          "section": "18.4 TOILETRIES AND BEAUTY TREATMENTS",
+          "visual_context": "Illustration of a cleanser bottle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "perfume",
+          "number": "5",
+          "section": "18.4 TOILETRIES AND BEAUTY TREATMENTS",
+          "visual_context": "Illustration of a perfume bottle with an atomizer bulb.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "aftershave",
+          "number": "6",
+          "section": "18.4 TOILETRIES AND BEAUTY TREATMENTS",
+          "visual_context": "Illustration of a square aftershave bottle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lip balm",
+          "number": "7",
+          "section": "18.4 TOILETRIES AND BEAUTY TREATMENTS",
+          "visual_context": "Illustration of a lip-balm tube and cap.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bubble bath",
+          "number": "8",
+          "section": "18.4 TOILETRIES AND BEAUTY TREATMENTS",
+          "visual_context": "Illustration of a bubble-bath bottle amid bubbles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cotton balls",
+          "number": "9",
+          "section": "18.4 TOILETRIES AND BEAUTY TREATMENTS",
+          "visual_context": "Illustration of several white cotton balls.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hair dye",
+          "number": "10",
+          "section": "18.4 TOILETRIES AND BEAUTY TREATMENTS",
+          "visual_context": "Illustration of a hair-dye package.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tweezers",
+          "number": "11",
+          "section": "18.4 TOILETRIES AND BEAUTY TREATMENTS",
+          "visual_context": "Illustration of a pair of tweezers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wax",
+          "number": "12",
+          "section": "18.4 TOILETRIES AND BEAUTY TREATMENTS",
+          "visual_context": "Illustration of a waxing pot with an applicator stick.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pedicure",
+          "number": "13",
+          "section": "18.4 TOILETRIES AND BEAUTY TREATMENTS",
+          "visual_context": "Illustration of toenails being treated.",
+          "semantic_meaning": "Cosmetic treatment of the feet and toenails."
+        },
+        {
+          "source_text": "tanning cream (US)\nself-tanning lotion (UK)",
+          "number": "14",
+          "section": "18.4 TOILETRIES AND BEAUTY TREATMENTS",
+          "visual_context": "Illustration of a tube of tanning product.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tanning mitt",
+          "number": "15",
+          "section": "18.4 TOILETRIES AND BEAUTY TREATMENTS",
+          "visual_context": "Pointer to a pink mitt used to apply tanning product.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tanning bed (US) / sun bed (UK)",
+          "number": "16",
+          "section": "18.4 TOILETRIES AND BEAUTY TREATMENTS",
+          "visual_context": "Illustration of an open UV tanning bed.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "UV tubes",
+          "number": "17",
+          "section": "18.4 TOILETRIES AND BEAUTY TREATMENTS",
+          "visual_context": "Pointer to the light tubes inside the tanning bed.",
+          "semantic_meaning": "Ultraviolet light tubes."
+        },
+        {
+          "source_text": "tanning goggles",
+          "number": "18",
+          "section": "18.4 TOILETRIES AND BEAUTY TREATMENTS",
+          "visual_context": "Illustration of protective goggles for tanning.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "facial",
+          "number": "19",
+          "section": "18.4 TOILETRIES AND BEAUTY TREATMENTS",
+          "visual_context": "Illustration of a person receiving a face treatment.",
+          "semantic_meaning": "Beauty treatment for the face."
+        },
+        {
+          "source_text": "face mask",
+          "number": "20",
+          "section": "18.4 TOILETRIES AND BEAUTY TREATMENTS",
+          "visual_context": "Pointer to the green cosmetic mask on the person's face.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hair towel\nwrap",
+          "number": "21",
+          "section": "18.4 TOILETRIES AND BEAUTY TREATMENTS",
+          "visual_context": "Pointer to the towel wrapped around the person's hair.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

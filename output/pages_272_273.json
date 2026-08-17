@@ -1,0 +1,410 @@
+{
+  "pages": [
+    {
+      "page": 272,
+      "title": "Travel and accommodation",
+      "context": "131.1 TRAVEL; 131.2 ACCOMMODATION; 131.3 SERVICES",
+      "entries": [
+        {
+          "source_text": "guidebook",
+          "number": "1",
+          "section": "131.1 TRAVEL",
+          "visual_context": "A travel guide with a map on its cover.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "phrasebook",
+          "number": "2",
+          "section": "131.1 TRAVEL",
+          "visual_context": "A small book showing speech quotation marks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "one-way ticket",
+          "number": "3",
+          "section": "131.1 TRAVEL",
+          "visual_context": "A ticket with an arrow pointing in one direction.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "round-trip (US) return ticket (UK)",
+          "number": "4",
+          "section": "131.1 TRAVEL",
+          "visual_context": "A ticket with arrows pointing in opposite directions.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to book a vacation (US) to book a holiday (UK)",
+          "number": "5",
+          "section": "131.1 TRAVEL",
+          "visual_context": "A person arranging a beach trip at a desk.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to pack your bags",
+          "number": "6",
+          "section": "131.1 TRAVEL",
+          "visual_context": "A person carrying a stack of packed luggage.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to go on a vacation (US) to go on a holiday (UK)",
+          "number": "7",
+          "section": "131.1 TRAVEL",
+          "visual_context": "A person standing on a tropical beach.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to go on a cruise",
+          "number": "8",
+          "section": "131.1 TRAVEL",
+          "visual_context": "A large cruise ship.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to go abroad",
+          "number": "9",
+          "section": "131.1 TRAVEL",
+          "visual_context": "A plane travelling between two land masses.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to make a reservation",
+          "number": "10",
+          "section": "131.1 TRAVEL",
+          "visual_context": "Travellers speaking to a hotel desk clerk.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to rent a cottage",
+          "number": "11",
+          "section": "131.1 TRAVEL",
+          "visual_context": "People arriving at a cottage with luggage.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to go backpacking",
+          "number": "12",
+          "section": "131.1 TRAVEL",
+          "visual_context": "Two people hiking with backpacks in the mountains.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to check in",
+          "number": "13",
+          "section": "131.1 TRAVEL",
+          "visual_context": "Guests at a hotel reception desk.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to check out",
+          "number": "14",
+          "section": "131.1 TRAVEL",
+          "visual_context": "A guest leaving a hotel desk with luggage.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to stay in a hotel",
+          "number": "15",
+          "section": "131.1 TRAVEL",
+          "visual_context": "Guests outside a hotel building.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hotel",
+          "number": "1",
+          "section": "131.2 ACCOMMODATION",
+          "visual_context": "A multi-storey hotel entrance with stars above the door.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "apartment",
+          "number": "2",
+          "section": "131.2 ACCOMMODATION",
+          "visual_context": "A multi-storey apartment building.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hostel",
+          "number": "3",
+          "section": "131.2 ACCOMMODATION",
+          "visual_context": "A room with bunk beds and travellers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "guest house",
+          "number": "9",
+          "section": "131.2 ACCOMMODATION",
+          "visual_context": "A house with a B&B sign.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bed and breakfast",
+          "number": "10",
+          "section": "131.2 ACCOMMODATION",
+          "visual_context": "A bed and a breakfast plate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "villa",
+          "number": "11",
+          "section": "131.2 ACCOMMODATION",
+          "visual_context": "A large house with a swimming pool.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "elevator (US) / lift (UK)",
+          "number": "18",
+          "section": "131.2 ACCOMMODATION",
+          "visual_context": "Pointer to an elevator in the hotel lobby.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "guests",
+          "number": "19",
+          "section": "131.2 ACCOMMODATION",
+          "visual_context": "Pointer to a couple standing in the hotel lobby.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "trolley",
+          "number": "24",
+          "section": "131.2 ACCOMMODATION",
+          "visual_context": "Pointer to a luggage trolley.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "luggage",
+          "number": "25",
+          "section": "131.2 ACCOMMODATION",
+          "visual_context": "Pointer to suitcases on and beside the trolley.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "porter",
+          "number": "26",
+          "section": "131.2 ACCOMMODATION",
+          "visual_context": "Pointer to a uniformed hotel porter carrying luggage.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "restaurant",
+          "number": "1",
+          "section": "131.3 SERVICES",
+          "visual_context": "People eating at a restaurant table with a waiter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gym",
+          "number": "2",
+          "section": "131.3 SERVICES",
+          "visual_context": "People exercising in a gym.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "swimming pool",
+          "number": "3",
+          "section": "131.3 SERVICES",
+          "visual_context": "An outdoor swimming pool.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 273,
+      "title": null,
+      "context": "Continuation of 131.2 ACCOMMODATION and 131.3 SERVICES",
+      "entries": [
+        {
+          "source_text": "At the airport",
+          "number": "104",
+          "section": "See also:",
+          "visual_context": "Cross-reference entry in the “See also:” box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Sightseeing",
+          "number": "132",
+          "section": "See also:",
+          "visual_context": "Cross-reference entry in the “See also:” box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Outdoor activities",
+          "number": "133",
+          "section": "See also:",
+          "visual_context": "Cross-reference entry in the “See also:” box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "On the beach",
+          "number": "134",
+          "section": "See also:",
+          "visual_context": "Cross-reference entry in the “See also:” box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chalet",
+          "number": "4",
+          "section": "131.2 ACCOMMODATION",
+          "visual_context": "A large wooden mountain house among pine trees.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cabin",
+          "number": "5",
+          "section": "131.2 ACCOMMODATION",
+          "visual_context": "A small log cabin.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ecotourism",
+          "number": "6",
+          "section": "131.2 ACCOMMODATION",
+          "visual_context": "Stilted huts in a tropical forest.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "single room",
+          "number": "7",
+          "section": "131.2 ACCOMMODATION",
+          "visual_context": "A hotel room with one bed.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "twin room",
+          "number": "8",
+          "section": "131.2 ACCOMMODATION",
+          "visual_context": "A hotel room with two separate beds.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "double room",
+          "number": "12",
+          "section": "131.2 ACCOMMODATION",
+          "visual_context": "A hotel room with one double bed.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "private / en suite (UK) bathroom",
+          "number": "13",
+          "section": "131.2 ACCOMMODATION",
+          "visual_context": "A bathroom connected directly to a hotel room.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dorm",
+          "number": "14",
+          "section": "131.2 ACCOMMODATION",
+          "visual_context": "A shared room with bunk beds.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "room with a view",
+          "number": "15",
+          "section": "131.2 ACCOMMODATION",
+          "visual_context": "A bed facing a window with a sea view.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "vacancies",
+          "number": "16",
+          "section": "131.2 ACCOMMODATION",
+          "visual_context": "A receptionist beside a board showing available rooms.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "no vacancies",
+          "number": "17",
+          "section": "131.2 ACCOMMODATION",
+          "visual_context": "A receptionist beside a board showing no available rooms.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "receptionist",
+          "number": "20",
+          "section": "131.2 ACCOMMODATION",
+          "visual_context": "Pointer to the worker behind the hotel reception desk.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "front desk (US) reception (UK)",
+          "number": "21",
+          "section": "131.2 ACCOMMODATION",
+          "visual_context": "Pointer to the hotel reception area.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "restrooms (US) toilets (UK)",
+          "number": "22",
+          "section": "131.2 ACCOMMODATION",
+          "visual_context": "Pointer to a restroom sign in the lobby.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "emergency exit",
+          "number": "23",
+          "section": "131.2 ACCOMMODATION",
+          "visual_context": "Pointer to an exit door marked with an emergency sign.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "counter",
+          "number": "27",
+          "section": "131.2 ACCOMMODATION",
+          "visual_context": "Pointer to the reception counter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hotel lobby",
+          "number": "28",
+          "section": "131.2 ACCOMMODATION",
+          "visual_context": "Pointer to the main hotel entrance hall.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "room service",
+          "number": "4",
+          "section": "131.3 SERVICES",
+          "visual_context": "A hotel employee delivering a tray to a room.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "breakfast tray",
+          "number": "5",
+          "section": "131.3 SERVICES",
+          "visual_context": "Pointer to the tray with breakfast items.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "laundry service",
+          "number": "6",
+          "section": "131.3 SERVICES",
+          "visual_context": "A hotel employee ironing clothes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "maid service",
+          "number": "7",
+          "section": "131.3 SERVICES",
+          "visual_context": "A maid making a bed.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "minibar",
+          "number": "8",
+          "section": "131.3 SERVICES",
+          "visual_context": "A small in-room refrigerator stocked with drinks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "safe",
+          "number": "9",
+          "section": "131.3 SERVICES",
+          "visual_context": "An open hotel room safe.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

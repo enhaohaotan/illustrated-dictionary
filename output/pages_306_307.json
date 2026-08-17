@@ -1,0 +1,452 @@
+{
+  "pages": [
+    {
+      "page": 306,
+      "title": "Maps and directions",
+      "context": "148.1 READING A MAP",
+      "entries": [
+        {
+          "source_text": "map",
+          "number": "1",
+          "section": "148.1 READING A MAP",
+          "visual_context": "Large illustrated map.",
+          "semantic_meaning": "A representation of an area."
+        },
+        {
+          "source_text": "compass",
+          "number": "2",
+          "section": "148.1 READING A MAP",
+          "visual_context": "Compass rose showing cardinal and intermediate directions.",
+          "semantic_meaning": "A device or symbol for showing direction."
+        },
+        {
+          "source_text": "north",
+          "number": "3",
+          "section": "148.1 READING A MAP",
+          "visual_context": "N at the top of the compass rose.",
+          "semantic_meaning": "Cardinal direction."
+        },
+        {
+          "source_text": "northeast",
+          "number": "4",
+          "section": "148.1 READING A MAP",
+          "visual_context": "NE at the upper-right of the compass rose.",
+          "semantic_meaning": "Intermediate direction between north and east."
+        },
+        {
+          "source_text": "east",
+          "number": "5",
+          "section": "148.1 READING A MAP",
+          "visual_context": "E at the right of the compass rose.",
+          "semantic_meaning": "Cardinal direction."
+        },
+        {
+          "source_text": "southeast",
+          "number": "6",
+          "section": "148.1 READING A MAP",
+          "visual_context": "SE at the lower-right of the compass rose.",
+          "semantic_meaning": "Intermediate direction between south and east."
+        },
+        {
+          "source_text": "south",
+          "number": "7",
+          "section": "148.1 READING A MAP",
+          "visual_context": "S at the bottom of the compass rose.",
+          "semantic_meaning": "Cardinal direction."
+        },
+        {
+          "source_text": "southwest",
+          "number": "8",
+          "section": "148.1 READING A MAP",
+          "visual_context": "SW at the lower-left of the compass rose.",
+          "semantic_meaning": "Intermediate direction between south and west."
+        },
+        {
+          "source_text": "west",
+          "number": "9",
+          "section": "148.1 READING A MAP",
+          "visual_context": "W at the left of the compass rose.",
+          "semantic_meaning": "Cardinal direction."
+        },
+        {
+          "source_text": "northwest",
+          "number": "10",
+          "section": "148.1 READING A MAP",
+          "visual_context": "NW at the upper-left of the compass rose.",
+          "semantic_meaning": "Intermediate direction between north and west."
+        },
+        {
+          "source_text": "main road",
+          "number": "11",
+          "section": "148.1 READING A MAP",
+          "visual_context": "Thick red line map key.",
+          "semantic_meaning": "A principal road."
+        },
+        {
+          "source_text": "secondary road",
+          "number": "12",
+          "section": "148.1 READING A MAP",
+          "visual_context": "Thin pale-red line map key.",
+          "semantic_meaning": "A smaller road."
+        },
+        {
+          "source_text": "public footpath",
+          "number": "13",
+          "section": "148.1 READING A MAP",
+          "visual_context": "Green dashed-line map key.",
+          "semantic_meaning": "A path open to the public."
+        },
+        {
+          "source_text": "railroad (US) railway (UK)",
+          "number": "14",
+          "section": "148.1 READING A MAP",
+          "visual_context": "Black line map key.",
+          "semantic_meaning": "Rail transport route."
+        },
+        {
+          "source_text": "train station",
+          "number": "15",
+          "section": "148.1 READING A MAP",
+          "visual_context": "Black line with red circular station symbol.",
+          "semantic_meaning": "A place where trains stop."
+        },
+        {
+          "source_text": "campground (US) campsite (UK)",
+          "number": "16",
+          "section": "148.1 READING A MAP",
+          "visual_context": "Tent symbol.",
+          "semantic_meaning": "A place for camping."
+        },
+        {
+          "source_text": "rest stop (US) service station (UK)",
+          "number": "17",
+          "section": "148.1 READING A MAP",
+          "visual_context": "Cup-and-saucer symbol.",
+          "semantic_meaning": "A stopping place for travellers."
+        },
+        {
+          "source_text": "grid lines",
+          "number": "18",
+          "section": "148.1 READING A MAP",
+          "visual_context": "Blue square grid symbol.",
+          "semantic_meaning": "Lines dividing a map into squares."
+        },
+        {
+          "source_text": "nature reserve",
+          "number": "19",
+          "section": "148.1 READING A MAP",
+          "visual_context": "Bird symbol.",
+          "semantic_meaning": "Protected area for wildlife."
+        },
+        {
+          "source_text": "viewpoint",
+          "number": "20",
+          "section": "148.1 READING A MAP",
+          "visual_context": "Fan-shaped viewing symbol.",
+          "semantic_meaning": "A place with a good view."
+        },
+        {
+          "source_text": "walking trail",
+          "number": "21",
+          "section": "148.1 READING A MAP",
+          "visual_context": "Walker and purple dashed path symbol.",
+          "semantic_meaning": "A route for walking."
+        },
+        {
+          "source_text": "town",
+          "number": "22",
+          "section": "148.1 READING A MAP",
+          "visual_context": "Street-and-buildings symbol.",
+          "semantic_meaning": "Built-up settlement."
+        },
+        {
+          "source_text": "house / building",
+          "number": "23",
+          "section": "148.1 READING A MAP",
+          "visual_context": "House symbol.",
+          "semantic_meaning": "Structure or dwelling."
+        },
+        {
+          "source_text": "school",
+          "number": "24",
+          "section": "148.1 READING A MAP",
+          "visual_context": "Schoolhouse symbol.",
+          "semantic_meaning": "Educational building."
+        },
+        {
+          "source_text": "library",
+          "number": "25",
+          "section": "148.1 READING A MAP",
+          "visual_context": "Open-book symbol.",
+          "semantic_meaning": "Place where books are kept."
+        },
+        {
+          "source_text": "ferry route",
+          "number": "26",
+          "section": "148.1 READING A MAP",
+          "visual_context": "Dashed blue water route with a boat.",
+          "semantic_meaning": "Route travelled by a ferry."
+        },
+        {
+          "source_text": "contours",
+          "number": "27",
+          "section": "148.1 READING A MAP",
+          "visual_context": "Nested orange contour-line symbol.",
+          "semantic_meaning": "Lines showing land elevation."
+        },
+        {
+          "source_text": "river",
+          "number": "28",
+          "section": "148.1 READING A MAP",
+          "visual_context": "Branching blue watercourse symbol.",
+          "semantic_meaning": "Natural flowing watercourse."
+        },
+        {
+          "source_text": "lake",
+          "number": "29",
+          "section": "148.1 READING A MAP",
+          "visual_context": "Blue inland-water shape.",
+          "semantic_meaning": "Large inland body of water."
+        },
+        {
+          "source_text": "forest",
+          "number": "30",
+          "section": "148.1 READING A MAP",
+          "visual_context": "Green area with tree symbols.",
+          "semantic_meaning": "Area covered with trees."
+        },
+        {
+          "source_text": "beach",
+          "number": "31",
+          "section": "148.1 READING A MAP",
+          "visual_context": "Yellow dotted coastal strip.",
+          "semantic_meaning": "Sandy or pebbly shore."
+        }
+      ]
+    },
+    {
+      "page": 307,
+      "title": "Maps and directions",
+      "context": "148.2 PREPOSITIONS OF PLACE; 148.3 DIRECTION VERBS",
+      "entries": [
+        {
+          "source_text": "clockwise",
+          "number": "32",
+          "section": "148.1 READING A MAP",
+          "visual_context": "Orange circular arrow moving in a clock's direction.",
+          "semantic_meaning": "Moving in the same direction as clock hands."
+        },
+        {
+          "source_text": "counterclockwise (US) anticlockwise (UK)",
+          "number": "33",
+          "section": "148.1 READING A MAP",
+          "visual_context": "Orange circular arrow moving opposite to clock hands.",
+          "semantic_meaning": "Moving opposite to clock hands."
+        },
+        {
+          "source_text": "coordinates",
+          "number": "34",
+          "section": "148.1 READING A MAP",
+          "visual_context": "Map pin with three directional axes.",
+          "semantic_meaning": "Values locating a position."
+        },
+        {
+          "source_text": "orienteering",
+          "number": "35",
+          "section": "148.1 READING A MAP",
+          "visual_context": "Person navigating with a map and marker.",
+          "semantic_meaning": "Navigation activity using a map and compass."
+        },
+        {
+          "source_text": "latitude",
+          "number": "36",
+          "section": "148.1 READING A MAP",
+          "visual_context": "Globe marked with horizontal lines.",
+          "semantic_meaning": "North-south position on Earth."
+        },
+        {
+          "source_text": "longitude",
+          "number": "37",
+          "section": "148.1 READING A MAP",
+          "visual_context": "Globe marked with vertical lines.",
+          "semantic_meaning": "East-west position on Earth."
+        },
+        {
+          "source_text": "scale",
+          "number": "38",
+          "section": "148.1 READING A MAP",
+          "visual_context": "Distance bar labelled 0, 1 km, and 1 mile.",
+          "semantic_meaning": "Map relationship between distance and real distance."
+        },
+        {
+          "source_text": "cartographer",
+          "number": "39",
+          "section": "148.1 READING A MAP",
+          "visual_context": "Person drawing a map beside a globe.",
+          "semantic_meaning": "A person who makes maps."
+        },
+        {
+          "source_text": "online map",
+          "number": "40",
+          "section": "148.1 READING A MAP",
+          "visual_context": "Laptop displaying a map.",
+          "semantic_meaning": "A map accessed on the internet."
+        },
+        {
+          "source_text": "trail map (US) hiking map (UK)",
+          "number": "41",
+          "section": "148.1 READING A MAP",
+          "visual_context": "Map showing a winding trail.",
+          "semantic_meaning": "Map for walking routes."
+        },
+        {
+          "source_text": "roadmap (US) streetmap (UK)",
+          "number": "42",
+          "section": "148.1 READING A MAP",
+          "visual_context": "Map showing roads and a roundabout.",
+          "semantic_meaning": "Map of roads or streets."
+        },
+        {
+          "source_text": "next to / beside",
+          "number": "1",
+          "section": "148.2 PREPOSITIONS OF PLACE",
+          "visual_context": "Two adjacent buildings.",
+          "semantic_meaning": "At the side of."
+        },
+        {
+          "source_text": "across from (US) opposite (UK)",
+          "number": "2",
+          "section": "148.2 PREPOSITIONS OF PLACE",
+          "visual_context": "Buildings positioned on opposite sides of a road.",
+          "semantic_meaning": "On the other side from."
+        },
+        {
+          "source_text": "between",
+          "number": "3",
+          "section": "148.2 PREPOSITIONS OF PLACE",
+          "visual_context": "A dark house placed between two pale houses.",
+          "semantic_meaning": "In the space separating two things."
+        },
+        {
+          "source_text": "on the corner",
+          "number": "4",
+          "section": "148.2 PREPOSITIONS OF PLACE",
+          "visual_context": "House at the junction of two roads.",
+          "semantic_meaning": "At the point where streets meet."
+        },
+        {
+          "source_text": "in front of",
+          "number": "5",
+          "section": "148.2 PREPOSITIONS OF PLACE",
+          "visual_context": "Dark building shown before a pale building.",
+          "semantic_meaning": "Positioned ahead of."
+        },
+        {
+          "source_text": "behind",
+          "number": "6",
+          "section": "148.2 PREPOSITIONS OF PLACE",
+          "visual_context": "Dark building shown behind a pale building.",
+          "semantic_meaning": "Positioned at the back of."
+        },
+        {
+          "source_text": "on the left",
+          "number": "7",
+          "section": "148.2 PREPOSITIONS OF PLACE",
+          "visual_context": "House on the left side of a vertical road.",
+          "semantic_meaning": "Situated to the left."
+        },
+        {
+          "source_text": "on the right",
+          "number": "8",
+          "section": "148.2 PREPOSITIONS OF PLACE",
+          "visual_context": "House on the right side of a vertical road.",
+          "semantic_meaning": "Situated to the right."
+        },
+        {
+          "source_text": "to go left / to turn left",
+          "number": "1",
+          "section": "148.3 DIRECTION VERBS",
+          "visual_context": "Green arrow bending left.",
+          "semantic_meaning": "Move or turn to the left."
+        },
+        {
+          "source_text": "to go right / to turn right",
+          "number": "2",
+          "section": "148.3 DIRECTION VERBS",
+          "visual_context": "Green arrow bending right.",
+          "semantic_meaning": "Move or turn to the right."
+        },
+        {
+          "source_text": "to go straight ahead / on (UK)",
+          "number": "3",
+          "section": "148.3 DIRECTION VERBS",
+          "visual_context": "Green arrow continuing upward past a house.",
+          "semantic_meaning": "Continue without turning."
+        },
+        {
+          "source_text": "to go back",
+          "number": "4",
+          "section": "148.3 DIRECTION VERBS",
+          "visual_context": "Green U-turn arrow.",
+          "semantic_meaning": "Return in the direction one came from."
+        },
+        {
+          "source_text": "to go past (the restaurant)",
+          "number": "5",
+          "section": "148.3 DIRECTION VERBS",
+          "visual_context": "Arrow continuing past a restaurant symbol.",
+          "semantic_meaning": "Continue beyond a place."
+        },
+        {
+          "source_text": "to take the first left",
+          "number": "6",
+          "section": "148.3 DIRECTION VERBS",
+          "visual_context": "Road arrow turning at the first left side street.",
+          "semantic_meaning": "Turn left at the first opportunity."
+        },
+        {
+          "source_text": "to take the second right",
+          "number": "7",
+          "section": "148.3 DIRECTION VERBS",
+          "visual_context": "Road arrow turning at the second right side street.",
+          "semantic_meaning": "Turn right at the second opportunity."
+        },
+        {
+          "source_text": "to stop at (the hotel)",
+          "number": "8",
+          "section": "148.3 DIRECTION VERBS",
+          "visual_context": "Arrow ending at a hotel building.",
+          "semantic_meaning": "Finish or pause at a destination."
+        },
+        {
+          "source_text": "to plan your route",
+          "number": "9",
+          "section": "148.3 DIRECTION VERBS",
+          "visual_context": "Two people studying a folded map.",
+          "semantic_meaning": "Decide a journey's path in advance."
+        },
+        {
+          "source_text": "to lose your way",
+          "number": "10",
+          "section": "148.3 DIRECTION VERBS",
+          "visual_context": "Confused people with question marks and a map.",
+          "semantic_meaning": "Become unable to find the route."
+        },
+        {
+          "source_text": "to read a map",
+          "number": "11",
+          "section": "148.3 DIRECTION VERBS",
+          "visual_context": "Person holding an unfolded map.",
+          "semantic_meaning": "Interpret information on a map."
+        },
+        {
+          "source_text": "to ask directions",
+          "number": "12",
+          "section": "148.3 DIRECTION VERBS",
+          "visual_context": "Person asking another person while holding a map.",
+          "semantic_meaning": "Request guidance about how to get somewhere."
+        }
+      ]
+    }
+  ]
+}

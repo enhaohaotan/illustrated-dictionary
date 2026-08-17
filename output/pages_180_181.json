@@ -1,0 +1,466 @@
+{
+  "pages": [
+    {
+      "page": 180,
+      "title": "Law",
+      "context": "85.1 THE LEGAL SYSTEM",
+      "entries": [
+        {
+          "source_text": "lawyer",
+          "number": "1",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Pointer to the seated lawyer at the defence table.",
+          "semantic_meaning": "legal representative"
+        },
+        {
+          "source_text": "court officer",
+          "number": "2",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Pointer to the uniformed court officer beside the judge.",
+          "semantic_meaning": "court official maintaining order"
+        },
+        {
+          "source_text": "judge",
+          "number": "3",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Pointer to the judge seated at the bench.",
+          "semantic_meaning": "court official who presides over a case"
+        },
+        {
+          "source_text": "trial",
+          "number": "4",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Pointer to the courtroom proceedings.",
+          "semantic_meaning": "formal court hearing"
+        },
+        {
+          "source_text": "prosecutor",
+          "number": "5",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Pointer to the person presenting the case at the central stand.",
+          "semantic_meaning": "lawyer acting for the prosecution"
+        },
+        {
+          "source_text": "witness",
+          "number": "6",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Pointer to the person speaking at the witness stand.",
+          "semantic_meaning": "person giving evidence"
+        },
+        {
+          "source_text": "jury",
+          "number": "7",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Pointer to the group seated behind the jury box.",
+          "semantic_meaning": "group deciding a case"
+        },
+        {
+          "source_text": "The verdict is not guilty.",
+          "number": "8",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Speech bubble in the courtroom illustration.",
+          "semantic_meaning": "decision that the accused is not guilty"
+        },
+        {
+          "source_text": "jury box",
+          "number": "9",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Pointer to the enclosed seating area for jurors.",
+          "semantic_meaning": "seating area for the jury"
+        },
+        {
+          "source_text": "defense (US) defence (UK)",
+          "number": "10",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Pointer to the lawyer's side of the courtroom table.",
+          "semantic_meaning": "side representing the accused"
+        },
+        {
+          "source_text": "defendant (US) accused (UK)",
+          "number": "11",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Pointer to the person seated beside the defence lawyer.",
+          "semantic_meaning": "person charged in a court case"
+        },
+        {
+          "source_text": "court / law court (UK)",
+          "number": "12",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Pointer to the courtroom setting.",
+          "semantic_meaning": "place where legal cases are heard"
+        },
+        {
+          "source_text": "prosecution",
+          "number": "13",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Pointer to the prosecutor's side of the courtroom table.",
+          "semantic_meaning": "side bringing a criminal case"
+        },
+        {
+          "source_text": "plaintiff (US) claimant (UK)",
+          "number": "14",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Pointer to the woman bringing a case at the prosecution-side table.",
+          "semantic_meaning": "person bringing a civil legal claim"
+        },
+        {
+          "source_text": "courtroom",
+          "number": "15",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Pointer to the main court room.",
+          "semantic_meaning": "room where a court case is heard"
+        },
+        {
+          "source_text": "stenographer",
+          "number": "16",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Icon of a person typing at a desk.",
+          "semantic_meaning": "person who records court proceedings"
+        },
+        {
+          "source_text": "court official",
+          "number": "17",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Icon of an official holding a document.",
+          "semantic_meaning": "person working for the court"
+        },
+        {
+          "source_text": "lawyer’s office",
+          "number": "18",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Icon of a legal building with scales.",
+          "semantic_meaning": "office of a lawyer"
+        },
+        {
+          "source_text": "summons",
+          "number": "19",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Icon of an official document in an envelope.",
+          "semantic_meaning": "official order to appear in court"
+        },
+        {
+          "source_text": "client",
+          "number": "20",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Icon of a lawyer meeting a person at a desk.",
+          "semantic_meaning": "person receiving legal services"
+        },
+        {
+          "source_text": "warrant",
+          "number": "21",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Icon of an officer holding an official document.",
+          "semantic_meaning": "legal authorization issued by a court"
+        },
+        {
+          "source_text": "writ",
+          "number": "22",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Icon of a legal document with scales.",
+          "semantic_meaning": "formal written court order"
+        },
+        {
+          "source_text": "charge",
+          "number": "23",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Icon of a lawyer holding a document.",
+          "semantic_meaning": "formal accusation of a crime"
+        },
+        {
+          "source_text": "legal advice",
+          "number": "24",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Icon of two people shaking hands, one carrying a briefcase.",
+          "semantic_meaning": "advice about legal matters"
+        },
+        {
+          "source_text": "statement",
+          "number": "25",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Icon of a written document.",
+          "semantic_meaning": "formal written or spoken account"
+        },
+        {
+          "source_text": "court date",
+          "number": "26",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Icon of a calendar with a judge's gavel.",
+          "semantic_meaning": "scheduled date for a court appearance"
+        },
+        {
+          "source_text": "court case",
+          "number": "27",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Icon of a judge and people in court.",
+          "semantic_meaning": "legal action heard by a court"
+        },
+        {
+          "source_text": "verdict",
+          "number": "28",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Icon of a document struck by a gavel.",
+          "semantic_meaning": "jury's or court's decision"
+        },
+        {
+          "source_text": "to sentence",
+          "number": "29",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Icon of a judge addressing a standing person.",
+          "semantic_meaning": "to give a legal punishment"
+        },
+        {
+          "source_text": "jury deliberation",
+          "number": "30",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Illustration of jurors discussing and voting around a table.",
+          "semantic_meaning": "jury's private discussion before deciding"
+        },
+        {
+          "source_text": "foreperson",
+          "number": "31",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Pointer to the person leading the jury discussion.",
+          "semantic_meaning": "jury member who leads the jury"
+        },
+        {
+          "source_text": "vote",
+          "number": "32",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Pointer to raised hands during the jury discussion.",
+          "semantic_meaning": "jury members' expression of a choice"
+        }
+      ]
+    },
+    {
+      "page": 181,
+      "title": "Crime",
+      "context": "85.2 CRIME",
+      "entries": [
+        {
+          "source_text": "composite (US) photofit (UK)",
+          "number": "33",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Icon of an officer showing a facial composite to a witness.",
+          "semantic_meaning": "picture made from descriptions of a suspect"
+        },
+        {
+          "source_text": "evidence",
+          "number": "34",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Icon of documents viewed with a magnifying glass.",
+          "semantic_meaning": "information or objects used to prove a case"
+        },
+        {
+          "source_text": "suspect",
+          "number": "35",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Icon of a person under a magnifying glass and question mark.",
+          "semantic_meaning": "person thought possibly to have committed a crime"
+        },
+        {
+          "source_text": "criminal record",
+          "number": "36",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Icon of a masked person beside an official record document.",
+          "semantic_meaning": "official record of a person's crimes"
+        },
+        {
+          "source_text": "criminal",
+          "number": "37",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Icon of a masked person in striped clothing.",
+          "semantic_meaning": "person who commits a crime"
+        },
+        {
+          "source_text": "accused",
+          "number": "38",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Icon of one person pointing at another.",
+          "semantic_meaning": "person charged with a crime"
+        },
+        {
+          "source_text": "to plead",
+          "number": "39",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Icon of a person raising a hand before a court official.",
+          "semantic_meaning": "to state guilty or not guilty in court"
+        },
+        {
+          "source_text": "innocent",
+          "number": "40",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Icon of a person beneath a judge's gavel.",
+          "semantic_meaning": "not guilty of a crime"
+        },
+        {
+          "source_text": "guilty",
+          "number": "41",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Icon of a person beneath a judge's gavel.",
+          "semantic_meaning": "responsible for a crime"
+        },
+        {
+          "source_text": "to appeal",
+          "number": "42",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Icon of a person appealing toward a court building.",
+          "semantic_meaning": "to ask a higher court to review a decision"
+        },
+        {
+          "source_text": "prisoners",
+          "number": "43",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Pointer to people escorted by prison guards toward a vehicle.",
+          "semantic_meaning": "people held in prison"
+        },
+        {
+          "source_text": "prison guards",
+          "number": "44",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Pointer to the uniformed guards escorting prisoners.",
+          "semantic_meaning": "officers supervising prisoners"
+        },
+        {
+          "source_text": "prison",
+          "number": "45",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Icon of a prison building.",
+          "semantic_meaning": "building where prisoners are held"
+        },
+        {
+          "source_text": "cell",
+          "number": "46",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Icon of a prisoner behind bars.",
+          "semantic_meaning": "small room for a prisoner"
+        },
+        {
+          "source_text": "bail",
+          "number": "47",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Icon of money beside prison bars and a person leaving.",
+          "semantic_meaning": "money allowing temporary release before trial"
+        },
+        {
+          "source_text": "parole",
+          "number": "48",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Icon of a person leaving prison toward a home.",
+          "semantic_meaning": "conditional early release from prison"
+        },
+        {
+          "source_text": "fine",
+          "number": "49",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Icon of an officer issuing a document to a person.",
+          "semantic_meaning": "money paid as a legal punishment"
+        },
+        {
+          "source_text": "to be acquitted",
+          "number": "50",
+          "section": "85.1 THE LEGAL SYSTEM",
+          "visual_context": "Icon of a person celebrating beneath a judge's gavel.",
+          "semantic_meaning": "to be officially found not guilty"
+        },
+        {
+          "source_text": "robbery / burglary",
+          "number": "1",
+          "section": "85.2 CRIME",
+          "visual_context": "Illustration of masked robbers threatening a cashier at a counter.",
+          "semantic_meaning": "theft by force / theft by entering a building"
+        },
+        {
+          "source_text": "mugging",
+          "number": "2",
+          "section": "85.2 CRIME",
+          "visual_context": "Illustration of a person stealing a woman's handbag.",
+          "semantic_meaning": "robbery of a person in public"
+        },
+        {
+          "source_text": "car theft",
+          "number": "3",
+          "section": "85.2 CRIME",
+          "visual_context": "Illustration of a person stealing a car.",
+          "semantic_meaning": "stealing a vehicle"
+        },
+        {
+          "source_text": "hooliganism",
+          "number": "4",
+          "section": "85.2 CRIME",
+          "visual_context": "Illustration of a disruptive crowd holding a banner.",
+          "semantic_meaning": "violent or disruptive behaviour, often by a crowd"
+        },
+        {
+          "source_text": "vandalism",
+          "number": "5",
+          "section": "85.2 CRIME",
+          "visual_context": "Illustration of a person damaging a car window with a stick.",
+          "semantic_meaning": "deliberate damage to property"
+        },
+        {
+          "source_text": "smuggling",
+          "number": "6",
+          "section": "85.2 CRIME",
+          "visual_context": "Illustration of concealed goods in the open trunk of a car.",
+          "semantic_meaning": "illegal transport of goods"
+        },
+        {
+          "source_text": "fraud",
+          "number": "7",
+          "section": "85.2 CRIME",
+          "visual_context": "Illustration of a man at a computer with money spread across the desk.",
+          "semantic_meaning": "deception for financial gain"
+        },
+        {
+          "source_text": "hacking",
+          "number": "8",
+          "section": "85.2 CRIME",
+          "visual_context": "Illustration of a hooded person using a laptop.",
+          "semantic_meaning": "unauthorized access to computer systems"
+        },
+        {
+          "source_text": "pickpocketing",
+          "number": "9",
+          "section": "85.2 CRIME",
+          "visual_context": "Illustration of a hand taking a wallet from a back pocket.",
+          "semantic_meaning": "stealing from someone's pocket or bag"
+        },
+        {
+          "source_text": "bribery",
+          "number": "10",
+          "section": "85.2 CRIME",
+          "visual_context": "Illustration of a man handing money to a police officer.",
+          "semantic_meaning": "giving money to influence an official"
+        },
+        {
+          "source_text": "speeding",
+          "number": "11",
+          "section": "85.2 CRIME",
+          "visual_context": "Illustration of a car passing a speed camera quickly.",
+          "semantic_meaning": "driving faster than the legal limit"
+        },
+        {
+          "source_text": "drug dealing",
+          "number": "12",
+          "section": "85.2 CRIME",
+          "visual_context": "Illustration of two people exchanging goods or money.",
+          "semantic_meaning": "selling illegal drugs"
+        },
+        {
+          "source_text": "graffiti",
+          "number": "13",
+          "section": "85.2 CRIME",
+          "visual_context": "Illustration of a person spray-painting a wall.",
+          "semantic_meaning": "writing or drawings painted on property"
+        },
+        {
+          "source_text": "shoplifting",
+          "number": "14",
+          "section": "85.2 CRIME",
+          "visual_context": "Illustration of a woman concealing an item in a shop.",
+          "semantic_meaning": "stealing goods from a shop"
+        }
+      ]
+    }
+  ]
+}

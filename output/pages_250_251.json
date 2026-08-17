@@ -1,0 +1,389 @@
+{
+  "pages": [
+    {
+      "page": 250,
+      "title": "Horse riding",
+      "context": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+      "entries": [
+        {
+          "source_text": "jodhpurs",
+          "number": "1",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Arrow points to the rider's trousers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "saddle",
+          "number": "2",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Arrow points to the seat mounted on the horse's back.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tail",
+          "number": "3",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Arrow points to the horse's tail.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "saddlebag",
+          "number": "4",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Arrow points to the bag hanging beside the saddle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "riding hat",
+          "number": "5",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Arrow points to the rider's helmet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rider",
+          "number": "6",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Arrow points to the person riding the horse.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mane",
+          "number": "7",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Arrow points to the horse's neck hair.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "horse",
+          "number": "8",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Arrow points to the horse.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "triple bar vertical",
+          "number": "9",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Arrow points to the striped show-jumping obstacle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "muzzle",
+          "number": "10",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Arrow points to the horse's nose and mouth area.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "reins",
+          "number": "11",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Arrow points to the straps leading from the rider's hands to the bridle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hoof",
+          "number": "12",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Arrow points to a horse's hoof.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "girth",
+          "number": "13",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Arrow points to the strap fastening the saddle underneath the horse.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stirrup",
+          "number": "14",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Arrow points to the metal foot support beside the saddle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "riding boot",
+          "number": "15",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Arrow points to the rider's tall boot.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "horseshoe",
+          "number": "16",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Purple icon of a horseshoe.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "halter",
+          "number": "17",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Purple horse-head diagram showing a halter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "noseband",
+          "number": "18",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Purple horse-head diagram highlighting the band around the nose.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bit",
+          "number": "19",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Purple horse-head diagram highlighting the bit at the mouth.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "browband",
+          "number": "20",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Purple horse-head diagram highlighting the strap across the forehead.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bridle",
+          "number": "21",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Purple horse-head diagram showing the complete bridle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pommel",
+          "number": "22",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Saddle diagram highlighting its raised front.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "seat",
+          "number": "23",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Saddle diagram highlighting the part where the rider sits.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "riding crop",
+          "number": "24",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Purple icon of a short riding whip.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "jockey",
+          "number": "25",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Purple icon of a racing rider on a horse.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "racehorse",
+          "number": "26",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Purple icon of a numbered racing horse.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "verticals",
+          "number": "27",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Purple icon of stacked rail jumping fences.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 251,
+      "title": "VERBS",
+      "context": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK); 120.2 VERBS",
+      "entries": [
+        {
+          "source_text": "side-saddle",
+          "number": "28",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Illustration of a rider sitting sideways on a horse.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "horse race",
+          "number": "29",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Purple icon of horses racing.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "harness race",
+          "number": "30",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Purple icon of a horse pulling a harness-racing sulky.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "flat race",
+          "number": "31",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Purple icon of horses racing on a flat track.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "steeplechase",
+          "number": "32",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Purple icon of a horse jumping an obstacle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "carriage race",
+          "number": "33",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Purple icon of a horse pulling a carriage.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "showjumping",
+          "number": "34",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Purple icon of a horse and rider jumping a fence.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dressage",
+          "number": "35",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Purple icon of a horse and rider performing dressage.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "polo",
+          "number": "36",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Purple icon of a rider holding a polo mallet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rodeo",
+          "number": "37",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Purple icon of a rider on a bucking horse.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "trekking",
+          "number": "38",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Purple icon of a rider on a horse in a wooded landscape.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "arena",
+          "number": "39",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Purple icon of an enclosed riding area.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "racecourse",
+          "number": "40",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Purple icon of an oval racing track.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "paddock",
+          "number": "41",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Purple icon of fenced horses in an enclosure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stable",
+          "number": "42",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Purple icon of a horse inside a stable building.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stallion",
+          "number": "43",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Label points to the adult male horse.",
+          "semantic_meaning": "adult male horse"
+        },
+        {
+          "source_text": "mare",
+          "number": "44",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Label below the adult female horse.",
+          "semantic_meaning": "adult female horse"
+        },
+        {
+          "source_text": "foal",
+          "number": "45",
+          "section": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+          "visual_context": "Label below the young horse.",
+          "semantic_meaning": "young horse"
+        },
+        {
+          "source_text": "to groom",
+          "number": "1",
+          "section": "120.2 VERBS",
+          "visual_context": "Blue icon of a person brushing or caring for a horse.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to walk",
+          "number": "2",
+          "section": "120.2 VERBS",
+          "visual_context": "Blue icon of a rider walking a horse.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to trot",
+          "number": "3",
+          "section": "120.2 VERBS",
+          "visual_context": "Blue icon of a horse moving at a trot.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to canter",
+          "number": "4",
+          "section": "120.2 VERBS",
+          "visual_context": "Blue icon of a horse moving at a canter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to gallop",
+          "number": "5",
+          "section": "120.2 VERBS",
+          "visual_context": "Illustration of a horse running at full speed with a rider.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to jump",
+          "number": "6",
+          "section": "120.2 VERBS",
+          "visual_context": "Blue icon of a horse and rider jumping.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to breed",
+          "number": "7",
+          "section": "120.2 VERBS",
+          "visual_context": "Blue icons of adult horses, a foal, and mating horses.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to muck out",
+          "number": "8",
+          "section": "120.2 VERBS",
+          "visual_context": "Illustration of stable workers removing straw and manure.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,403 @@
+{
+  "pages": [
+    {
+      "page": 360,
+      "title": "Writing",
+      "context": "175.1 WRITING AND WRITING EQUIPMENT",
+      "entries": [
+        {
+          "source_text": "highlighter pen",
+          "number": "1",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Yellow highlighter pen.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "marker",
+          "number": "2",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Red marker drawing on lined paper.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ballpoint pen",
+          "number": "3",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Blue ballpoint pen at right.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "calligraphy",
+          "number": "4",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Decorative cursive word on paper.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "handwriting",
+          "number": "5",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Handwritten word “Monday” on paper.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ink",
+          "number": "6",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Black ink at the tip of a fountain pen.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nib",
+          "number": "7",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Pointed writing tip of the fountain pen.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fountain pen",
+          "number": "8",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Black and gold fountain pen.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pencil",
+          "number": "9",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Orange wooden pencil on lined paper.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "parchment",
+          "number": "10",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Rolled purple document.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "printing",
+          "number": "11",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Purple printer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "emojis",
+          "number": "12",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Three round face symbols.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "typeface",
+          "number": "13",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Displayed alphabet in purple type.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "letters",
+          "number": "14",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Examples “Aa”.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "uppercase / capital letters",
+          "number": "15",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Examples “ABc”.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lowercase",
+          "number": "16",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Examples “abc”.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bold",
+          "number": "17",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Bold “abc” type example.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "italic",
+          "number": "18",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Italic “abc” type example.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "numerals",
+          "number": "19",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Example “123”.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ligature",
+          "number": "20",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Joined “ft” character example.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "period (US) full stop (UK)",
+          "number": "21",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Dot punctuation mark.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hyphen",
+          "number": "22",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Short horizontal line.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dash",
+          "number": "23",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Long horizontal line.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "underscore",
+          "number": "24",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Low horizontal line.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "comma",
+          "number": "25",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Comma punctuation mark.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 361,
+      "title": "Writing",
+      "context": "175.1 WRITING AND WRITING EQUIPMENT",
+      "entries": [
+        {
+          "source_text": "semicolon",
+          "number": "26",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Semicolon punctuation mark.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "colon",
+          "number": "27",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Colon punctuation mark.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ellipsis",
+          "number": "28",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Three-dot punctuation mark.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "exclamation mark",
+          "number": "29",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Exclamation mark.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "question mark",
+          "number": "30",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Question mark.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "apostrophe",
+          "number": "31",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Apostrophe punctuation mark.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "single quotation mark",
+          "number": "32",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Single opening quotation mark.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "double quotation mark",
+          "number": "33",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Double opening quotation marks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "asterisk",
+          "number": "34",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Asterisk symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "at sign / at symbol",
+          "number": "35",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "At-sign symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ampersand",
+          "number": "36",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Ampersand symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tilde",
+          "number": "37",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Tilde symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "acute accent",
+          "number": "38",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Accent shown above “é”.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "grave accent",
+          "number": "39",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Accent shown above “è”.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "umlaut",
+          "number": "40",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Two dots shown above “ü”.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "circumflex",
+          "number": "41",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Circumflex shown above “ĉ”.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cedilla",
+          "number": "42",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Cedilla shown below “ç”.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "copyright",
+          "number": "43",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Copyright symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "registered trademark",
+          "number": "44",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Registered trademark symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "brackets",
+          "number": "45",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Pair of curved brackets.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hashtag",
+          "number": "46",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Hash symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Latin alphabet",
+          "number": "47",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Latin-letter example “cat”.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Greek alphabet",
+          "number": "48",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Greek-letter example “Γάτα”.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Cyrillic alphabet",
+          "number": "49",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Cyrillic-letter example “кошка”.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Braille",
+          "number": "50",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Grids of raised-dot characters.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Arabic script",
+          "number": "51",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Arabic writing samples.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Japanese characters",
+          "number": "52",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Japanese character samples.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Chinese characters",
+          "number": "53",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Chinese character samples.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Devanagari script",
+          "number": "54",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Devanagari writing samples.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Ancient Egyptian hieroglyphs",
+          "number": "55",
+          "section": "175.1 WRITING AND WRITING EQUIPMENT",
+          "visual_context": "Ancient Egyptian bird and symbol hieroglyphs.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

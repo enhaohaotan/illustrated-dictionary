@@ -1,0 +1,375 @@
+{
+  "pages": [
+    {
+      "page": 138,
+      "title": "The bakery continued",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "choux pastry",
+          "number": "1",
+          "section": "63.1 CAKES AND DESSERTS",
+          "visual_context": "Small cream-filled choux pastries.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "puff pastry",
+          "number": "2",
+          "section": "63.1 CAKES AND DESSERTS",
+          "visual_context": "Folded sheet of pastry.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "phyllo (US)\nfilo (UK)",
+          "number": "3",
+          "section": "63.1 CAKES AND DESSERTS",
+          "visual_context": "Stacked thin pastry sheets.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "filling",
+          "number": "4",
+          "section": "63.1 CAKES AND DESSERTS",
+          "visual_context": "Interior layer of the chocolate cake.",
+          "semantic_meaning": "Mixture inside a cake or pastry."
+        },
+        {
+          "source_text": "chocolate cake",
+          "number": "5",
+          "section": "63.1 CAKES AND DESSERTS",
+          "visual_context": "Large layered chocolate cake on the dessert trolley.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cheesecake",
+          "number": "6",
+          "section": "63.1 CAKES AND DESSERTS",
+          "visual_context": "Slice of pale cheesecake on the upper shelf.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tiramisu",
+          "number": "7",
+          "section": "63.1 CAKES AND DESSERTS",
+          "visual_context": "Three individual layered desserts in glasses.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fruit tart",
+          "number": "8",
+          "section": "63.1 CAKES AND DESSERTS",
+          "visual_context": "Tart topped with berries.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ice cream\nsundae",
+          "number": "9",
+          "section": "63.1 CAKES AND DESSERTS",
+          "visual_context": "Tall glass of ice cream with sauces and a cherry.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "meringue",
+          "number": "10",
+          "section": "63.1 CAKES AND DESSERTS",
+          "visual_context": "Piped pale meringue peaks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cupcake",
+          "number": "11",
+          "section": "63.1 CAKES AND DESSERTS",
+          "visual_context": "Small iced cakes in paper cases.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dessert cart (US)\nsweet trolley (UK)",
+          "number": "12",
+          "section": "63.1 CAKES AND DESSERTS",
+          "visual_context": "Wheeled trolley displaying desserts.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "crème\npâtissière",
+          "number": "13",
+          "section": "63.1 CAKES AND DESSERTS",
+          "visual_context": "Piping bag dispensing cream.",
+          "semantic_meaning": "Pastry cream."
+        },
+        {
+          "source_text": "mochi",
+          "number": "14",
+          "section": "63.1 CAKES AND DESSERTS",
+          "visual_context": "Three pastel-colored round sweets with fillings shown.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "donut (US)\ndoughnut (UK)",
+          "number": "15",
+          "section": "63.1 CAKES AND DESSERTS",
+          "visual_context": "Ring-shaped iced doughnut.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "jelly donut (US)\njam doughnut (UK)",
+          "number": "16",
+          "section": "63.1 CAKES AND DESSERTS",
+          "visual_context": "Doughnut cut open to show red filling.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chocolate donut (US)\nchocolate doughnut (UK)",
+          "number": "17",
+          "section": "63.1 CAKES AND DESSERTS",
+          "visual_context": "Ring doughnut coated in chocolate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "muffin",
+          "number": "18",
+          "section": "63.1 CAKES AND DESSERTS",
+          "visual_context": "Chocolate-topped muffin in a paper case.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "baklava",
+          "number": "19",
+          "section": "63.1 CAKES AND DESSERTS",
+          "visual_context": "Layered nut-filled pastry square.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pavlova",
+          "number": "20",
+          "section": "63.1 CAKES AND DESSERTS",
+          "visual_context": "Meringue dessert topped with cream and fruit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "layer cake",
+          "number": "21",
+          "section": "63.1 CAKES AND DESSERTS",
+          "visual_context": "Pink cake with many visible layers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sponge cake",
+          "number": "22",
+          "section": "63.1 CAKES AND DESSERTS",
+          "visual_context": "Plain round sponge cake.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fruitcake",
+          "number": "23",
+          "section": "63.1 CAKES AND DESSERTS",
+          "visual_context": "Brown cake slice containing pieces of fruit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gateau",
+          "number": "24",
+          "section": "63.1 CAKES AND DESSERTS",
+          "visual_context": "Multi-layered chocolate-and-cream cake.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "custard slice",
+          "number": "25",
+          "section": "63.1 CAKES AND DESSERTS",
+          "visual_context": "Rectangular custard-filled pastry slice.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "custard",
+          "number": "26",
+          "section": "63.1 CAKES AND DESSERTS",
+          "visual_context": "Cream layer inside the custard slice.",
+          "semantic_meaning": "Sweet egg-and-milk dessert or filling."
+        },
+        {
+          "source_text": "éclair",
+          "number": "27",
+          "section": "63.1 CAKES AND DESSERTS",
+          "visual_context": "Long pastry topped with chocolate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "iced bun",
+          "number": "28",
+          "section": "63.1 CAKES AND DESSERTS",
+          "visual_context": "Sweet bun covered with pink icing.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pastry",
+          "number": "29",
+          "section": "63.1 CAKES AND DESSERTS",
+          "visual_context": "Iced swirled pastry with a cherry.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rice pudding",
+          "number": "30",
+          "section": "63.1 CAKES AND DESSERTS",
+          "visual_context": "Bowl of pale rice pudding.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 139,
+      "title": null,
+      "context": "See also: 29 Cooking; 52 Drinking and eating; 67 Candy / Sweets; 71 Breakfast.",
+      "entries": [
+        {
+          "source_text": "chocolate chip\ncookie",
+          "number": "1",
+          "section": "63.2 COOKIES AND BISCUITS",
+          "visual_context": "Large round cookie with visible chocolate chips.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Florentine",
+          "number": "2",
+          "section": "63.2 COOKIES AND BISCUITS",
+          "visual_context": "Two thin cookies, one with a chocolate-coated underside.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shortbread",
+          "number": "3",
+          "section": "63.2 COOKIES AND BISCUITS",
+          "visual_context": "Rectangular pale biscuit fingers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "macaron",
+          "number": "4",
+          "section": "63.2 COOKIES AND BISCUITS",
+          "visual_context": "Small colored sandwich cookies.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gingerbread\nman",
+          "number": "5",
+          "section": "63.2 COOKIES AND BISCUITS",
+          "visual_context": "Gingerbread person-shaped cookie.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fortune\ncookies",
+          "number": "6",
+          "section": "63.2 COOKIES AND BISCUITS",
+          "visual_context": "Two folded fortune cookies.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Would you like\na piece of cake?",
+          "number": "1",
+          "section": "63.3 CELEBRATION CAKES",
+          "visual_context": "Speech bubble from the man beside the wedding cake.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Yes, it looks\nabsolutely delicious.",
+          "number": "2",
+          "section": "63.3 CELEBRATION CAKES",
+          "visual_context": "Speech bubble from the woman beside the wedding cake.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "top tier",
+          "number": "3",
+          "section": "63.3 CELEBRATION CAKES",
+          "visual_context": "Uppermost level of the wedding cake.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "decoration",
+          "number": "4",
+          "section": "63.3 CELEBRATION CAKES",
+          "visual_context": "Piped decorative border on the cake.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "icing",
+          "number": "5",
+          "section": "63.3 CELEBRATION CAKES",
+          "visual_context": "Smooth coating on the cake.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cake topper",
+          "number": "6",
+          "section": "63.3 CELEBRATION CAKES",
+          "visual_context": "Small bride-and-groom figures on top of the cake.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "marzipan",
+          "number": "7",
+          "section": "63.3 CELEBRATION CAKES",
+          "visual_context": "Yellow layer exposed in a cut slice of the cake.",
+          "semantic_meaning": "Sweet almond paste used to cover or fill cakes."
+        },
+        {
+          "source_text": "ribbon",
+          "number": "8",
+          "section": "63.3 CELEBRATION CAKES",
+          "visual_context": "Purple band around the base tier.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wedding cake",
+          "number": "9",
+          "section": "63.3 CELEBRATION CAKES",
+          "visual_context": "Large multi-tiered cake for the wedding couple.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to glaze",
+          "number": "10",
+          "section": "63.3 CELEBRATION CAKES",
+          "visual_context": "Pouring a glossy coating over a cake.",
+          "semantic_meaning": "To coat food with a smooth shiny layer."
+        },
+        {
+          "source_text": "to bake",
+          "number": "11",
+          "section": "63.3 CELEBRATION CAKES",
+          "visual_context": "Cakes cooking in an oven.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to decorate",
+          "number": "12",
+          "section": "63.3 CELEBRATION CAKES",
+          "visual_context": "Chef adding decoration to a small cake.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "birthday cake",
+          "number": "13",
+          "section": "63.3 CELEBRATION CAKES",
+          "visual_context": "Cake on a stand at a birthday celebration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "birthday\ncandles",
+          "number": "14",
+          "section": "63.3 CELEBRATION CAKES",
+          "visual_context": "Lit candles standing on the birthday cake.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to blow out",
+          "number": "15",
+          "section": "63.3 CELEBRATION CAKES",
+          "visual_context": "Person blowing toward the lit birthday candles.",
+          "semantic_meaning": "To extinguish a flame by blowing."
+        }
+      ]
+    }
+  ]
+}

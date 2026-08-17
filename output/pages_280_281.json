@@ -1,0 +1,403 @@
+{
+  "pages": [
+    {
+      "page": 280,
+      "title": "Camping",
+      "context": "135.1 CAMPING EQUIPMENT AND FACILITIES",
+      "entries": [
+        {
+          "source_text": "to camp",
+          "number": "1",
+          "section": "135.1 CAMPING EQUIPMENT AND FACILITIES",
+          "visual_context": "Tent under a moon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to pitch a tent",
+          "number": "2",
+          "section": "135.1 CAMPING EQUIPMENT AND FACILITIES",
+          "visual_context": "People putting up a tent.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "two-person tent",
+          "number": "3",
+          "section": "135.1 CAMPING EQUIPMENT AND FACILITIES",
+          "visual_context": "Tent marked with two pairs of footprints.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "site (US) / pitch (UK)",
+          "number": "4",
+          "section": "135.1 CAMPING EQUIPMENT AND FACILITIES",
+          "visual_context": "Marked tent space with an electrical connection.",
+          "semantic_meaning": "A designated camping space."
+        },
+        {
+          "source_text": "sites (US) / pitches (UK) available",
+          "number": "5",
+          "section": "135.1 CAMPING EQUIPMENT AND FACILITIES",
+          "visual_context": "Campground sign showing a tent and a check mark.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "full",
+          "number": "6",
+          "section": "135.1 CAMPING EQUIPMENT AND FACILITIES",
+          "visual_context": "Campground sign showing a tent and an X.",
+          "semantic_meaning": "No sites are available."
+        },
+        {
+          "source_text": "electric hook-up",
+          "number": "8",
+          "section": "135.1 CAMPING EQUIPMENT AND FACILITIES",
+          "visual_context": "Caravan connected to an electrical outlet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "trailer",
+          "number": "9",
+          "section": "135.1 CAMPING EQUIPMENT AND FACILITIES",
+          "visual_context": "Towable camping trailer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "motor home (US)\ncamper van (UK)",
+          "number": "10",
+          "section": "135.1 CAMPING EQUIPMENT AND FACILITIES",
+          "visual_context": "Motorized camper vehicle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hammock",
+          "number": "11",
+          "section": "135.1 CAMPING EQUIPMENT AND FACILITIES",
+          "visual_context": "Hammock hung between palm trees.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "campfire",
+          "number": "12",
+          "section": "135.1 CAMPING EQUIPMENT AND FACILITIES",
+          "visual_context": "Fire with campers sitting around it.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to light a fire",
+          "number": "13",
+          "section": "135.1 CAMPING EQUIPMENT AND FACILITIES",
+          "visual_context": "Person lighting a campfire.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "charcoal",
+          "number": "15",
+          "section": "135.1 CAMPING EQUIPMENT AND FACILITIES",
+          "visual_context": "Bag and lumps of charcoal.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "barbecue",
+          "number": "16",
+          "section": "135.1 CAMPING EQUIPMENT AND FACILITIES",
+          "visual_context": "People cooking on a barbecue grill.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "single-burner\ncamping stove",
+          "number": "17",
+          "section": "135.1 CAMPING EQUIPMENT AND FACILITIES",
+          "visual_context": "Portable stove with one burner.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "double burner\ncamping stove",
+          "number": "18",
+          "section": "135.1 CAMPING EQUIPMENT AND FACILITIES",
+          "visual_context": "Portable stove with two burners.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "folding grill",
+          "number": "19",
+          "section": "135.1 CAMPING EQUIPMENT AND FACILITIES",
+          "visual_context": "Foldable grill with utensils.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "picnic bench",
+          "number": "20",
+          "section": "135.1 CAMPING EQUIPMENT AND FACILITIES",
+          "visual_context": "Picnic table with attached benches.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shower block",
+          "number": "22",
+          "section": "135.1 CAMPING EQUIPMENT AND FACILITIES",
+          "visual_context": "Campground shower building.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "toilet block",
+          "number": "23",
+          "section": "135.1 CAMPING EQUIPMENT AND FACILITIES",
+          "visual_context": "Campground toilet building.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "waste disposal",
+          "number": "24",
+          "section": "135.1 CAMPING EQUIPMENT AND FACILITIES",
+          "visual_context": "Trash bin beside a brick disposal area.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "site manager’s\noffice",
+          "number": "25",
+          "section": "135.1 CAMPING EQUIPMENT AND FACILITIES",
+          "visual_context": "Campground office with a tent sign.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "backpack /\nrucksack (UK)",
+          "number": "26",
+          "section": "135.1 CAMPING EQUIPMENT AND FACILITIES",
+          "visual_context": "Person carrying a backpack.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "flashlight (US)\ntorch (UK)",
+          "number": "27",
+          "section": "135.1 CAMPING EQUIPMENT AND FACILITIES",
+          "visual_context": "Handheld flashlight.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "compass",
+          "number": "29",
+          "section": "135.1 CAMPING EQUIPMENT AND FACILITIES",
+          "visual_context": "Compass rose.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "thermals",
+          "number": "30",
+          "section": "135.1 CAMPING EQUIPMENT AND FACILITIES",
+          "visual_context": "Person wearing thermal clothing.",
+          "semantic_meaning": "Warm underclothing."
+        },
+        {
+          "source_text": "walking boots",
+          "number": "31",
+          "section": "135.1 CAMPING EQUIPMENT AND FACILITIES",
+          "visual_context": "Pair of hiking boots.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rain gear (US)\nwaterproofs (UK)",
+          "number": "32",
+          "section": "135.1 CAMPING EQUIPMENT AND FACILITIES",
+          "visual_context": "People wearing rain clothing.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "multi-purpose\nknife",
+          "number": "33",
+          "section": "135.1 CAMPING EQUIPMENT AND FACILITIES",
+          "visual_context": "Folded multi-tool knife.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "insect\nrepellent",
+          "number": "34",
+          "section": "135.1 CAMPING EQUIPMENT AND FACILITIES",
+          "visual_context": "Person spraying away insects.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sleeping bag",
+          "number": "36",
+          "section": "135.1 CAMPING EQUIPMENT AND FACILITIES",
+          "visual_context": "Rolled sleeping bag.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sleeping mat",
+          "number": "37",
+          "section": "135.1 CAMPING EQUIPMENT AND FACILITIES",
+          "visual_context": "Rolled foam sleeping mat.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "camp bed",
+          "number": "38",
+          "section": "135.1 CAMPING EQUIPMENT AND FACILITIES",
+          "visual_context": "Foldable camp cot.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "self-inflating\nmattress",
+          "number": "39",
+          "section": "135.1 CAMPING EQUIPMENT AND FACILITIES",
+          "visual_context": "Self-inflating sleeping mattress.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "air bed /\nair mattress",
+          "number": "40",
+          "section": "135.1 CAMPING EQUIPMENT AND FACILITIES",
+          "visual_context": "Inflatable mattress being inflated.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "air pump",
+          "number": "41",
+          "section": "135.1 CAMPING EQUIPMENT AND FACILITIES",
+          "visual_context": "Manual air pump.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 281,
+      "title": "Camping",
+      "context": "135.2 CAMPGROUND (US) / CAMPSITE (UK)",
+      "entries": [
+        {
+          "source_text": "family tent",
+          "number": "1",
+          "section": "135.2 CAMPGROUND (US) / CAMPSITE (UK)",
+          "visual_context": "Large multi-room tent in the campsite scene.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "frame",
+          "number": "2",
+          "section": "135.2 CAMPGROUND (US) / CAMPSITE (UK)",
+          "visual_context": "Structural frame of the large tent.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tent pole",
+          "number": "3",
+          "section": "135.2 CAMPGROUND (US) / CAMPSITE (UK)",
+          "visual_context": "Vertical support pole on the large tent.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "guy line (US)\nguy rope (UK)",
+          "number": "4",
+          "section": "135.2 CAMPGROUND (US) / CAMPSITE (UK)",
+          "visual_context": "Tension line securing the large tent.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pop-up tent",
+          "number": "5",
+          "section": "135.2 CAMPGROUND (US) / CAMPSITE (UK)",
+          "visual_context": "Small orange and gray tent.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cooler",
+          "number": "6",
+          "section": "135.2 CAMPGROUND (US) / CAMPSITE (UK)",
+          "visual_context": "Red insulated cooler box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hot drink\ncontainer (US)\nflask (UK)",
+          "number": "7",
+          "section": "135.2 CAMPGROUND (US) / CAMPSITE (UK)",
+          "visual_context": "Tall insulated drink container beside the cooler.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tent peg",
+          "number": "8",
+          "section": "135.2 CAMPGROUND (US) / CAMPSITE (UK)",
+          "visual_context": "Peg anchoring a tent line in the ground.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "firepit",
+          "number": "9",
+          "section": "135.2 CAMPGROUND (US) / CAMPSITE (UK)",
+          "visual_context": "Stone-ringed campfire area.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "water carrier",
+          "number": "10",
+          "section": "135.2 CAMPGROUND (US) / CAMPSITE (UK)",
+          "visual_context": "White portable water container.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rainfly (US)\nflysheet (UK)",
+          "number": "11",
+          "section": "135.2 CAMPGROUND (US) / CAMPSITE (UK)",
+          "visual_context": "Outer waterproof layer of the small tent.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lamp /\nlantern",
+          "number": "12",
+          "section": "135.2 CAMPGROUND (US) / CAMPSITE (UK)",
+          "visual_context": "Lit lantern beside the small tent.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "groundsheet",
+          "number": "13",
+          "section": "135.2 CAMPGROUND (US) / CAMPSITE (UK)",
+          "visual_context": "Blue sheet underneath the small tent.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "camper (US)\ncaravan (UK)",
+          "number": "7",
+          "section": "135.2 CAMPGROUND (US) / CAMPSITE (UK)",
+          "visual_context": "Family beside a caravan.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "firestarter (US)\nfirelighter (UK)",
+          "number": "14",
+          "section": "135.2 CAMPGROUND (US) / CAMPSITE (UK)",
+          "visual_context": "Fire-lighting blocks with a flame symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "water bottles",
+          "number": "21",
+          "section": "135.2 CAMPGROUND (US) / CAMPSITE (UK)",
+          "visual_context": "Three drinking-water bottles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "headlamp",
+          "number": "28",
+          "section": "135.2 CAMPGROUND (US) / CAMPSITE (UK)",
+          "visual_context": "Head-mounted lamp shining a beam.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mosquito net",
+          "number": "35",
+          "section": "135.2 CAMPGROUND (US) / CAMPSITE (UK)",
+          "visual_context": "Net suspended over a sleeping person.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "electric pump",
+          "number": "42",
+          "section": "135.2 CAMPGROUND (US) / CAMPSITE (UK)",
+          "visual_context": "Small electric air pump.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

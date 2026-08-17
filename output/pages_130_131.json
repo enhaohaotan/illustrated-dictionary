@@ -1,0 +1,417 @@
+{
+  "pages": [
+    {
+      "page": 130,
+      "title": "Herbs and spices",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "anise",
+          "number": "1",
+          "section": "59.1 SPICES",
+          "visual_context": "Jar of pale anise seeds on the upper shelf.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mace",
+          "number": "2",
+          "section": "59.1 SPICES",
+          "visual_context": "Jar of orange curled mace pieces.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nutmeg",
+          "number": "3",
+          "section": "59.1 SPICES",
+          "visual_context": "Jar of whole brown nutmegs.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cloves",
+          "number": "4",
+          "section": "59.1 SPICES",
+          "visual_context": "Jar of brown cloves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "vanilla",
+          "number": "5",
+          "section": "59.1 SPICES",
+          "visual_context": "Jar of dark vanilla pods.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "turmeric",
+          "number": "6",
+          "section": "59.1 SPICES",
+          "visual_context": "Jar containing pieces of turmeric root.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cumin",
+          "number": "7",
+          "section": "59.1 SPICES",
+          "visual_context": "Jar of pale cumin seeds on the lower shelf.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "coriander seeds",
+          "number": "8",
+          "section": "59.1 SPICES",
+          "visual_context": "Jar of round tan coriander seeds.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "saffron",
+          "number": "9",
+          "section": "59.1 SPICES",
+          "visual_context": "Jar of red saffron threads.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "peppercorns",
+          "number": "10",
+          "section": "59.1 SPICES",
+          "visual_context": "Jar of black peppercorns.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "paprika",
+          "number": "11",
+          "section": "59.1 SPICES",
+          "visual_context": "Jar of red paprika powder.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cardamom",
+          "number": "12",
+          "section": "59.1 SPICES",
+          "visual_context": "Jar of green cardamom pods.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cinnamon",
+          "number": "13",
+          "section": "59.1 SPICES",
+          "visual_context": "Bowl of pale ground cinnamon powder.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cinnamon stick",
+          "number": "14",
+          "section": "59.1 SPICES",
+          "visual_context": "Single brown cinnamon stick beside the bowl.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ground cinnamon",
+          "number": "15",
+          "section": "59.1 SPICES",
+          "visual_context": "Bowl of brown ground cinnamon, with cinnamon sticks behind it.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "white mustard",
+          "number": "22",
+          "section": "59.1 SPICES",
+          "visual_context": "Bowl of pale mustard seeds.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "black mustard",
+          "number": "23",
+          "section": "59.1 SPICES",
+          "visual_context": "Bowl of black mustard seeds.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "caraway seeds",
+          "number": "29",
+          "section": "59.1 SPICES",
+          "visual_context": "Bowl of narrow brown caraway seeds.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "poppy seeds",
+          "number": "30",
+          "section": "59.1 SPICES",
+          "visual_context": "Poppy seed pod with scattered small black seeds.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fennel",
+          "number": "1",
+          "section": "59.2 HERBS",
+          "visual_context": "Feathery fennel sprigs.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bay leaf",
+          "number": "2",
+          "section": "59.2 HERBS",
+          "visual_context": "Branch with long green bay leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "parsley",
+          "number": "3",
+          "section": "59.2 HERBS",
+          "visual_context": "Curly-leaved parsley sprig.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chives",
+          "number": "4",
+          "section": "59.2 HERBS",
+          "visual_context": "Bundle of long thin chive leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mint",
+          "number": "5",
+          "section": "59.2 HERBS",
+          "visual_context": "Mint leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cilantro (US) coriander (UK)",
+          "number": "6",
+          "section": "59.2 HERBS",
+          "visual_context": "Cilantro/coriander sprig.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "thyme",
+          "number": "13",
+          "section": "59.2 HERBS",
+          "visual_context": "Leafy thyme sprig.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sage",
+          "number": "14",
+          "section": "59.2 HERBS",
+          "visual_context": "Broad gray-green sage leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tarragon",
+          "number": "15",
+          "section": "59.2 HERBS",
+          "visual_context": "Narrow-leaved tarragon sprig.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "marjoram",
+          "number": "16",
+          "section": "59.2 HERBS",
+          "visual_context": "Marjoram leaves on a stem.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "basil",
+          "number": "17",
+          "section": "59.2 HERBS",
+          "visual_context": "Broad green basil leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "oregano",
+          "number": "18",
+          "section": "59.2 HERBS",
+          "visual_context": "Oregano sprig with small oval leaves.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 131,
+      "title": null,
+      "context": "See also: 29 Cooking; 52 Drinking and eating; 53 Meat; 55-56 Vegetables; 60 In the pantry.",
+      "entries": [
+        {
+          "source_text": "star anise",
+          "number": "16",
+          "section": "59.1 SPICES",
+          "visual_context": "Bowl and scattered star-shaped star anise.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sumac",
+          "number": "17",
+          "section": "59.1 SPICES",
+          "visual_context": "Bowl of red sumac powder.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "five spice",
+          "number": "18",
+          "section": "59.1 SPICES",
+          "visual_context": "Assorted spices, including cinnamon, star anise, seeds, and cloves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ras el hanout",
+          "number": "19",
+          "section": "59.1 SPICES",
+          "visual_context": "Pile of assorted colored ground spices.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "allspice",
+          "number": "20",
+          "section": "59.1 SPICES",
+          "visual_context": "Allspice berries and a bowl of brown powder.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "curry powder",
+          "number": "21",
+          "section": "59.1 SPICES",
+          "visual_context": "Bowl of yellow curry powder.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ginger",
+          "number": "24",
+          "section": "59.1 SPICES",
+          "visual_context": "Ginger roots in a bowl.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cayenne pepper",
+          "number": "25",
+          "section": "59.1 SPICES",
+          "visual_context": "Red cayenne chile and a bowl of orange-red powder.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "jalapeños",
+          "number": "26",
+          "section": "59.1 SPICES",
+          "visual_context": "Green jalapeño peppers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bird’s eye chiles (US) bird’s eye chillis (UK)",
+          "number": "27",
+          "section": "59.1 SPICES",
+          "visual_context": "Small upright red bird’s eye chiles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ground chile (US) ground chilli (UK)",
+          "number": "28",
+          "section": "59.1 SPICES",
+          "visual_context": "Large mound of red ground chile powder.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fennel seeds",
+          "number": "31",
+          "section": "59.1 SPICES",
+          "visual_context": "Loose pale fennel seeds.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nigella seeds",
+          "number": "32",
+          "section": "59.1 SPICES",
+          "visual_context": "Bowl of small black nigella seeds.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fresh chile (US) fresh chilli (UK)",
+          "number": "33",
+          "section": "59.1 SPICES",
+          "visual_context": "Fresh long red chiles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chile flakes (US) chilli flakes (UK)",
+          "number": "34",
+          "section": "59.1 SPICES",
+          "visual_context": "Pile of red and yellow chile flakes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hyssop",
+          "number": "7",
+          "section": "59.2 HERBS",
+          "visual_context": "Hyssop sprig with small blue flowers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dill",
+          "number": "8",
+          "section": "59.2 HERBS",
+          "visual_context": "Feathery dill sprig.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rosemary",
+          "number": "9",
+          "section": "59.2 HERBS",
+          "visual_context": "Rosemary branch with needle-like leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chervil",
+          "number": "10",
+          "section": "59.2 HERBS",
+          "visual_context": "Lobed chervil leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lovage",
+          "number": "11",
+          "section": "59.2 HERBS",
+          "visual_context": "Lovage leaves on a stem.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sorrel",
+          "number": "12",
+          "section": "59.2 HERBS",
+          "visual_context": "Pale green sorrel leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lemongrass",
+          "number": "19",
+          "section": "59.2 HERBS",
+          "visual_context": "Cut lemongrass stalks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lemon balm",
+          "number": "20",
+          "section": "59.2 HERBS",
+          "visual_context": "Serrated lemon balm leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "borage",
+          "number": "21",
+          "section": "59.2 HERBS",
+          "visual_context": "Borage stems with blue star-shaped flowers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fenugreek leaves",
+          "number": "22",
+          "section": "59.2 HERBS",
+          "visual_context": "Cluster of rounded fenugreek leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bouquet garni",
+          "number": "23",
+          "section": "59.2 HERBS",
+          "visual_context": "Tied bundle of mixed herb sprigs.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

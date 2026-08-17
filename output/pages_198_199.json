@@ -1,0 +1,354 @@
+{
+  "pages": [
+    {
+      "page": 198,
+      "title": "Money and finance",
+      "context": "94.1 MONEY",
+      "entries": [
+        {
+          "source_text": "denomination",
+          "number": "1",
+          "section": "94.1 MONEY",
+          "visual_context": "Pointer to the value marking on a banknote.",
+          "semantic_meaning": "value of a particular banknote or coin"
+        },
+        {
+          "source_text": "watermark",
+          "number": "2",
+          "section": "94.1 MONEY",
+          "visual_context": "Pointer to the pale security feature on a banknote.",
+          "semantic_meaning": "security image or pattern in paper money"
+        },
+        {
+          "source_text": "coins",
+          "number": "3",
+          "section": "94.1 MONEY",
+          "visual_context": "Pointer to a group of loose coins.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "credit card",
+          "number": "4",
+          "section": "94.1 MONEY",
+          "visual_context": "Pointer to a red payment card.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "debit card",
+          "number": "5",
+          "section": "94.1 MONEY",
+          "visual_context": "Pointer to a blue bank payment card.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wallet",
+          "number": "6",
+          "section": "94.1 MONEY",
+          "visual_context": "Pointer to a brown folding wallet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wallet (US)\npurse (UK)",
+          "number": "7",
+          "section": "94.1 MONEY",
+          "visual_context": "Pointer to a purple clasped wallet/purse.",
+          "semantic_meaning": "US/UK terms for a small money holder"
+        },
+        {
+          "source_text": "counterfeit\nmoney",
+          "number": "8",
+          "section": "94.1 MONEY",
+          "visual_context": "Pointer to a pile of fake-looking banknotes.",
+          "semantic_meaning": "fake money"
+        },
+        {
+          "source_text": "money",
+          "number": "9",
+          "section": "94.1 MONEY",
+          "visual_context": "Pointer to a pile of banknotes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bills (US)\nnotes (UK)",
+          "number": "10",
+          "section": "94.1 MONEY",
+          "visual_context": "Pointer to a pile of paper banknotes.",
+          "semantic_meaning": "US/UK terms for paper money"
+        },
+        {
+          "source_text": "digital wallet",
+          "number": "11",
+          "section": "94.1 MONEY",
+          "visual_context": "Illustration of a smartphone payment application.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "digital currency",
+          "number": "12",
+          "section": "94.1 MONEY",
+          "visual_context": "Illustration of a smartphone showing a digital coin.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bank",
+          "number": "13",
+          "section": "94.1 MONEY",
+          "visual_context": "Illustration of a bank building.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "online banking",
+          "number": "14",
+          "section": "94.1 MONEY",
+          "visual_context": "Illustration of banking on a desktop computer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mobile banking",
+          "number": "15",
+          "section": "94.1 MONEY",
+          "visual_context": "Illustration of banking on a mobile phone.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "telephone\nbanking",
+          "number": "16",
+          "section": "94.1 MONEY",
+          "visual_context": "Illustration of a person using a telephone and holding a card.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "receipt",
+          "number": "17",
+          "section": "94.1 MONEY",
+          "visual_context": "Illustration of a printed purchase receipt.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "currency",
+          "number": "18",
+          "section": "94.1 MONEY",
+          "visual_context": "Illustration of banknotes in different designs.",
+          "semantic_meaning": "money used in a particular country"
+        },
+        {
+          "source_text": "invoice",
+          "number": "19",
+          "section": "94.1 MONEY",
+          "visual_context": "Illustration of a billing document.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "check (US)\ncheque (UK)",
+          "number": "20",
+          "section": "94.1 MONEY",
+          "visual_context": "Illustration of a written check/cheque and pen.",
+          "semantic_meaning": "US/UK spellings for a written bank payment order"
+        },
+        {
+          "source_text": "cash register\n(US) / till (UK)",
+          "number": "21",
+          "section": "94.1 MONEY",
+          "visual_context": "Illustration of a cash register.",
+          "semantic_meaning": "US/UK terms for a checkout cash machine"
+        },
+        {
+          "source_text": "to pay by card",
+          "number": "22",
+          "section": "94.1 MONEY",
+          "visual_context": "Illustration of a card being used in a payment terminal.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to pay with cash",
+          "number": "23",
+          "section": "94.1 MONEY",
+          "visual_context": "Illustration of a customer handing cash to a cashier.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Do you accept\ncash here?",
+          "number": "24",
+          "section": "94.1 MONEY",
+          "visual_context": "Speech bubble from a customer at a counter paying with a banknote.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 199,
+      "title": "Money and finance",
+      "context": "94.2 FINANCE",
+      "entries": [
+        {
+          "source_text": "stockbroker",
+          "number": "1",
+          "section": "94.2 FINANCE",
+          "visual_context": "Pointer to a person monitoring stock-market screens.",
+          "semantic_meaning": "person who buys and sells shares for clients"
+        },
+        {
+          "source_text": "stock exchange",
+          "number": "2",
+          "section": "94.2 FINANCE",
+          "visual_context": "Illustration of traders facing multiple market-information screens.",
+          "semantic_meaning": "market where shares are bought and sold"
+        },
+        {
+          "source_text": "shares",
+          "number": "3",
+          "section": "94.2 FINANCE",
+          "visual_context": "Illustration of share certificates.",
+          "semantic_meaning": "units of ownership in a company"
+        },
+        {
+          "source_text": "share price",
+          "number": "4",
+          "section": "94.2 FINANCE",
+          "visual_context": "Illustration of a fluctuating price chart.",
+          "semantic_meaning": "current price of a share"
+        },
+        {
+          "source_text": "dividends",
+          "number": "5",
+          "section": "94.2 FINANCE",
+          "visual_context": "Illustration of a financial statement and cash.",
+          "semantic_meaning": "company profits paid to shareholders"
+        },
+        {
+          "source_text": "commission",
+          "number": "6",
+          "section": "94.2 FINANCE",
+          "visual_context": "Illustration of a phone displaying a percentage charge.",
+          "semantic_meaning": "fee paid for a financial service or sale"
+        },
+        {
+          "source_text": "equity",
+          "number": "7",
+          "section": "94.2 FINANCE",
+          "visual_context": "Illustration of property/company documents and banknotes.",
+          "semantic_meaning": "value of ownership in an asset or business"
+        },
+        {
+          "source_text": "investment",
+          "number": "8",
+          "section": "94.2 FINANCE",
+          "visual_context": "Illustration of stacks of money and a rising arrow.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "portfolio",
+          "number": "9",
+          "section": "94.2 FINANCE",
+          "visual_context": "Illustration of a pie chart, bar chart, and banknotes.",
+          "semantic_meaning": "collection of investments"
+        },
+        {
+          "source_text": "stocks",
+          "number": "10",
+          "section": "94.2 FINANCE",
+          "visual_context": "Illustration of a stock-market quotation board.",
+          "semantic_meaning": "shares in companies"
+        },
+        {
+          "source_text": "exchange rate",
+          "number": "11",
+          "section": "94.2 FINANCE",
+          "visual_context": "Illustration of currency symbols with exchange arrows.",
+          "semantic_meaning": "value of one currency relative to another"
+        },
+        {
+          "source_text": "income",
+          "number": "12",
+          "section": "94.2 FINANCE",
+          "visual_context": "Illustration of a hand holding banknotes.",
+          "semantic_meaning": "money received or earned"
+        },
+        {
+          "source_text": "budget",
+          "number": "13",
+          "section": "94.2 FINANCE",
+          "visual_context": "Illustration of a computer chart with quarterly bars.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to get into debt",
+          "number": "14",
+          "section": "94.2 FINANCE",
+          "visual_context": "Illustration of a person beside money with a falling red arrow.",
+          "semantic_meaning": "to owe money"
+        },
+        {
+          "source_text": "to make a profit",
+          "number": "15",
+          "section": "94.2 FINANCE",
+          "visual_context": "Illustration of a person gaining money from a box of goods.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to take (US) /\nmake (UK) a loss",
+          "number": "16",
+          "section": "94.2 FINANCE",
+          "visual_context": "Illustration of a person with unsold fruit and goods.",
+          "semantic_meaning": "US/UK expressions for losing money"
+        },
+        {
+          "source_text": "to break even",
+          "number": "17",
+          "section": "94.2 FINANCE",
+          "visual_context": "Illustration of balanced scales holding cash and assets.",
+          "semantic_meaning": "to have neither profit nor loss"
+        },
+        {
+          "source_text": "to go out of business",
+          "number": "18",
+          "section": "94.2 FINANCE",
+          "visual_context": "Illustration of a boarded-up shop.",
+          "semantic_meaning": "to close a business because it cannot continue"
+        },
+        {
+          "source_text": "overdraft",
+          "number": "19",
+          "section": "94.2 FINANCE",
+          "visual_context": "Illustration of a bank statement showing a negative balance.",
+          "semantic_meaning": "bank account borrowing beyond the available balance"
+        },
+        {
+          "source_text": "expenditure /\noutlay",
+          "number": "20",
+          "section": "94.2 FINANCE",
+          "visual_context": "Illustration of a presentation board and financial chart.",
+          "semantic_meaning": "money spent"
+        },
+        {
+          "source_text": "economic\ndownturn",
+          "number": "21",
+          "section": "94.2 FINANCE",
+          "visual_context": "Illustration of falling stacks of coins and a downward arrow.",
+          "semantic_meaning": "period of declining economic activity"
+        },
+        {
+          "source_text": "accountant",
+          "number": "22",
+          "section": "94.2 FINANCE",
+          "visual_context": "Illustration of a person calculating accounts at a desk.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "financial advisor",
+          "number": "23",
+          "section": "94.2 FINANCE",
+          "visual_context": "Illustration of a suited advisor holding a financial report.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "I can advise you where\nto invest your money.",
+          "number": "24",
+          "section": "94.2 FINANCE",
+          "visual_context": "Speech bubble from a financial advisor holding a report.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

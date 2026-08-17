@@ -1,0 +1,305 @@
+{
+  "pages": [
+    {
+      "page": 232,
+      "title": "Cricket",
+      "context": "111.1 CRICKET PITCH AND POSITIONS",
+      "entries": [
+        {
+          "source_text": "boundary",
+          "number": "1",
+          "section": "CRICKET PITCH AND POSITIONS",
+          "visual_context": "Pointer to the outer boundary line of the cricket ground.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "third man",
+          "number": "2",
+          "section": "CRICKET PITCH AND POSITIONS",
+          "visual_context": "Pointer to a fielder in the deep outfield behind the batter.",
+          "semantic_meaning": "Fielding position."
+        },
+        {
+          "source_text": "out field",
+          "number": "3",
+          "section": "CRICKET PITCH AND POSITIONS",
+          "visual_context": "Pointer to the grassy area outside the inner field.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gully",
+          "number": "4",
+          "section": "CRICKET PITCH AND POSITIONS",
+          "visual_context": "Pointer to a close fielder beside the pitch.",
+          "semantic_meaning": "Fielding position."
+        },
+        {
+          "source_text": "slip",
+          "number": "5",
+          "section": "CRICKET PITCH AND POSITIONS",
+          "visual_context": "Pointer to a close fielder behind the batter.",
+          "semantic_meaning": "Fielding position."
+        },
+        {
+          "source_text": "wicket-keeper",
+          "number": "6",
+          "section": "CRICKET PITCH AND POSITIONS",
+          "visual_context": "Pointer to the crouching player behind the wicket.",
+          "semantic_meaning": "Player who keeps wicket."
+        },
+        {
+          "source_text": "cover",
+          "number": "8",
+          "section": "CRICKET PITCH AND POSITIONS",
+          "visual_context": "Pointer to a fielder on the off side.",
+          "semantic_meaning": "Fielding position."
+        },
+        {
+          "source_text": "point",
+          "number": "9",
+          "section": "CRICKET PITCH AND POSITIONS",
+          "visual_context": "Pointer to a fielder on the off side near the batter.",
+          "semantic_meaning": "Fielding position."
+        },
+        {
+          "source_text": "return crease",
+          "number": "10",
+          "section": "CRICKET PITCH AND POSITIONS",
+          "visual_context": "Pointer to the marked crease line beside the batter's wicket.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "batter",
+          "number": "11",
+          "section": "CRICKET PITCH AND POSITIONS",
+          "visual_context": "Pointer to the player holding a bat at the wicket.",
+          "semantic_meaning": "Player who bats."
+        },
+        {
+          "source_text": "wicket",
+          "number": "13",
+          "section": "CRICKET PITCH AND POSITIONS",
+          "visual_context": "Pointer to the three stumps and bails at one end of the pitch.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pitch",
+          "number": "14",
+          "section": "CRICKET PITCH AND POSITIONS",
+          "visual_context": "Pointer to the central rectangular playing strip.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "popping crease",
+          "number": "15",
+          "section": "CRICKET PITCH AND POSITIONS",
+          "visual_context": "Pointer to the white crease line in front of the wicket.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bowler",
+          "number": "16",
+          "section": "CRICKET PITCH AND POSITIONS",
+          "visual_context": "Pointer to the player delivering the ball.",
+          "semantic_meaning": "Player who bowls."
+        },
+        {
+          "source_text": "mid-off",
+          "number": "17",
+          "section": "CRICKET PITCH AND POSITIONS",
+          "visual_context": "Pointer to a fielder on the off side near the bowler.",
+          "semantic_meaning": "Fielding position."
+        },
+        {
+          "source_text": "square leg",
+          "number": "18",
+          "section": "CRICKET PITCH AND POSITIONS",
+          "visual_context": "Pointer to a fielder on the leg side at right angles to the pitch.",
+          "semantic_meaning": "Fielding position."
+        },
+        {
+          "source_text": "screen",
+          "number": "20",
+          "section": "CRICKET PITCH AND POSITIONS",
+          "visual_context": "Pointer to the large sight screen beyond the boundary.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bowling crease",
+          "number": "21",
+          "section": "CRICKET PITCH AND POSITIONS",
+          "visual_context": "Pointer to the crease at the bowler's wicket.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mid-wicket",
+          "number": "22",
+          "section": "CRICKET PITCH AND POSITIONS",
+          "visual_context": "Pointer to a fielder on the leg side.",
+          "semantic_meaning": "Fielding position."
+        },
+        {
+          "source_text": "fielding\npositions",
+          "number": "23",
+          "section": "CRICKET PITCH AND POSITIONS",
+          "visual_context": "Label for the arrangement of fielders around the pitch.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 233,
+      "title": "Cricket",
+      "context": "111.2 CRICKET EQUIPMENT; 111.3 CRICKET VERBS",
+      "entries": [
+        {
+          "source_text": "in field",
+          "number": "7",
+          "section": "CRICKET PITCH AND POSITIONS",
+          "visual_context": "Pointer to the inner grassy field area.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fine leg",
+          "number": "12",
+          "section": "CRICKET PITCH AND POSITIONS",
+          "visual_context": "Pointer to a fielder in the deep leg-side area.",
+          "semantic_meaning": "Fielding position."
+        },
+        {
+          "source_text": "umpire",
+          "number": "19",
+          "section": "CRICKET PITCH AND POSITIONS",
+          "visual_context": "Pointer to the official standing near the pitch.",
+          "semantic_meaning": "Match official."
+        },
+        {
+          "source_text": "cricket shoes",
+          "number": "1",
+          "section": "CRICKET EQUIPMENT",
+          "visual_context": "Illustration of a pair of spiked cricket shoes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "studs",
+          "number": "2",
+          "section": "CRICKET EQUIPMENT",
+          "visual_context": "Pointer to the projections on the soles of cricket shoes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cricket ball",
+          "number": "3",
+          "section": "CRICKET EQUIPMENT",
+          "visual_context": "Illustration of a blue cricket ball.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "seam",
+          "number": "4",
+          "section": "CRICKET EQUIPMENT",
+          "visual_context": "Illustration highlighting the stitched seam around a ball.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stumps",
+          "number": "5",
+          "section": "CRICKET EQUIPMENT",
+          "visual_context": "Illustration of three upright wicket posts.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bail",
+          "number": "6",
+          "section": "CRICKET EQUIPMENT",
+          "visual_context": "Illustration of the small crosspiece placed on stumps.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "scoreboard",
+          "number": "7",
+          "section": "CRICKET EQUIPMENT",
+          "visual_context": "Pointer to an electronic cricket scoreboard.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "helmet",
+          "number": "8",
+          "section": "CRICKET EQUIPMENT",
+          "visual_context": "Pointer to the batter's protective helmet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "facemask",
+          "number": "9",
+          "section": "CRICKET EQUIPMENT",
+          "visual_context": "Pointer to the grille on the helmet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bat",
+          "number": "10",
+          "section": "CRICKET EQUIPMENT",
+          "visual_context": "Pointer to the bat held by the batter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "leg pad",
+          "number": "11",
+          "section": "CRICKET EQUIPMENT",
+          "visual_context": "Pointer to the protective pad on the batter's lower leg.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "batter / batsman",
+          "number": "12",
+          "section": "CRICKET EQUIPMENT",
+          "visual_context": "Illustration of a protected player holding a bat.",
+          "semantic_meaning": "Player who bats."
+        },
+        {
+          "source_text": "to run",
+          "number": "1",
+          "section": "CRICKET VERBS",
+          "visual_context": "Illustration of a player running between wickets.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to bowl",
+          "number": "2",
+          "section": "CRICKET VERBS",
+          "visual_context": "Illustration of a player delivering the ball toward a batter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to bat",
+          "number": "3",
+          "section": "CRICKET VERBS",
+          "visual_context": "Illustration of a player standing with a bat at the wicket.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to field",
+          "number": "4",
+          "section": "CRICKET VERBS",
+          "visual_context": "Illustration of a fielder moving to catch or stop a ball.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to strike out",
+          "number": "5",
+          "section": "CRICKET VERBS",
+          "visual_context": "Illustration of a batter being dismissed at the wicket.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to stump",
+          "number": "6",
+          "section": "CRICKET VERBS",
+          "visual_context": "Illustration of a wicket-keeper breaking the wicket as a batter is out of the crease.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

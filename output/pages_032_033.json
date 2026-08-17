@@ -1,0 +1,431 @@
+{
+  "pages": [
+    {
+      "page": 32,
+      "title": "Personality traits",
+      "context": "10.1 DESCRIBING PERSONALITIES",
+      "entries": [
+        {
+          "source_text": "friendly",
+          "number": "1",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "People socializing together.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "unfriendly",
+          "number": "2",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "People sitting apart and a person standing alone.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "talkative",
+          "number": "3",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Person speaking to two others, including a wheelchair user.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "enthusiastic",
+          "number": "4",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Person thinking excitedly about a prize or trophy.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "serious",
+          "number": "5",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Businesslike people near a meeting table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "assertive",
+          "number": "6",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Person standing and speaking firmly at a table meeting.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "critical",
+          "number": "7",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Standing person criticizing a wheelchair user.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "caring",
+          "number": "8",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Person tending to someone seated in an armchair.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sensitive",
+          "number": "9",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Two people standing closely, one comforting the other.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "insensitive",
+          "number": "10",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Person has dropped litter while another reacts.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "reasonable",
+          "number": "11",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Child and cyclist obeying road signs.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "unreasonable",
+          "number": "12",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Cyclist ignores a road sign while another person reacts.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "kind",
+          "number": "13",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Person helping an older person with shopping.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "unkind",
+          "number": "14",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "People walking past an older person without helping.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "secretive",
+          "number": "15",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Person whispers privately to another person.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mature",
+          "number": "16",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Two people calmly playing a board game.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "immature",
+          "number": "17",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Person kneeling and playing with toys while another stands nearby.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cautious",
+          "number": "18",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Person cautiously approaches a lion from behind a barrier.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "generous",
+          "number": "19",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Person gives gifts to other people.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "brave",
+          "number": "20",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Superhero figure flying.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "funny",
+          "number": "21",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "People laughing at a joking dancer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mean",
+          "number": "22",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "People gossip while another person is left alone.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "patient",
+          "number": "23",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Person calmly fishing from a boat.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "impatient",
+          "number": "24",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Customers waiting and arguing at a checkout.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lazy",
+          "number": "25",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Person lying on a sofa amid spilled snacks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "optimistic",
+          "number": "26",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Person cheerfully standing in the rain.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "outgoing",
+          "number": "27",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "People energetically greeting each other at a party.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "passionate",
+          "number": "28",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Person enthusiastically singing or performing.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "polite",
+          "number": "29",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Person holds a door open for another person.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rude",
+          "number": "30",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Person rudely points at another person.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shy",
+          "number": "31",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Person hangs back while others socialize.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "intelligent",
+          "number": "32",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Person writing equations on a board.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nervous",
+          "number": "33",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Performer anxiously faces an audience on stage.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "confident",
+          "number": "34",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Performer confidently addresses an audience on stage.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "silly",
+          "number": "35",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Person behaves foolishly, hitting another with a large object.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "selfish",
+          "number": "36",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Person keeps goods in a shopping trolley away from others.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 33,
+      "title": null,
+      "context": "Personality traits — DESCRIBING PERSONALITIES",
+      "entries": [
+        {
+          "source_text": "laid-back",
+          "number": "37",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Person relaxes in a hammock between trees.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "My work can wait until later.",
+          "number": "38",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Speech bubble from the person relaxing in the hammock.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ambitious",
+          "number": "39",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Person points toward a mountain summit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "spontaneous",
+          "number": "40",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "People run through a fountain.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "romantic",
+          "number": "41",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Two people have dinner by candlelight.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "calm",
+          "number": "42",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Person meditates beside wind chimes and flowers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "eccentric",
+          "number": "43",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Unusually dressed person walks with an umbrella.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "honest",
+          "number": "44",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Person puts rubbish into a bin.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dishonest",
+          "number": "45",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Person drops litter while another watches.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "supportive",
+          "number": "46",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Person reassures another person who is seated.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "impulsive",
+          "number": "47",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Person leaps from a high cliff into water.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "reliable",
+          "number": "48",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Person helps another with a house-related task.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "unreliable",
+          "number": "49",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Person leaves a house task unfinished while another reacts.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "talented",
+          "number": "50",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Person displays trophies and medals.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "arrogant",
+          "number": "51",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Person poses proudly beneath a first-place award.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "considerate",
+          "number": "52",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Person turns down music for another person.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "adventurous",
+          "number": "53",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Hiker walks through a forest.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "approachable",
+          "number": "54",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Person gives directions at an information sign.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "unapproachable",
+          "number": "55",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Seated person at an information sign rejects someone seeking help.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "decisive",
+          "number": "56",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Person chooses between two shirts.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "meticulous",
+          "number": "57",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Person carefully brushes the ground.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "clumsy",
+          "number": "58",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Person slips and falls.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "thoughtless",
+          "number": "59",
+          "section": "DESCRIBING PERSONALITIES",
+          "visual_context": "Person drops rubbish beside a bin.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

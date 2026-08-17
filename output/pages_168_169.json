@@ -1,0 +1,431 @@
+{
+  "pages": [
+    {
+      "page": 168,
+      "title": "History",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "chariot",
+          "number": "1",
+          "section": "79.1 WAR AND WEAPONS",
+          "visual_context": "A horse-drawn two-wheeled chariot in the battle scene.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bow",
+          "number": "2",
+          "section": "79.1 WAR AND WEAPONS",
+          "visual_context": "A curved bow held by an archer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "arrow",
+          "number": "3",
+          "section": "79.1 WAR AND WEAPONS",
+          "visual_context": "Flying arrows above the battlefield.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gada / mace",
+          "number": "5",
+          "section": "79.1 WAR AND WEAPONS",
+          "visual_context": "A club-like weapon carried by a warrior at lower left.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "scimitar",
+          "number": "6",
+          "section": "79.1 WAR AND WEAPONS",
+          "visual_context": "A curved sword held by a warrior.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "warfare",
+          "number": "7",
+          "section": "79.1 WAR AND WEAPONS",
+          "visual_context": "The overall illustrated battle scene.",
+          "semantic_meaning": "war or fighting"
+        },
+        {
+          "source_text": "ax (US) axe (UK)",
+          "number": "8",
+          "section": "79.1 WAR AND WEAPONS",
+          "visual_context": "A bladed hand weapon held by a fighter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shield",
+          "number": "9",
+          "section": "79.1 WAR AND WEAPONS",
+          "visual_context": "A round protective shield carried by a warrior.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sword",
+          "number": "10",
+          "section": "79.1 WAR AND WEAPONS",
+          "visual_context": "A straight bladed weapon held by a mounted fighter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "the stone age",
+          "number": "1",
+          "section": "79.2 PEOPLE THROUGH TIME",
+          "visual_context": "A prehistoric man holding a stone tool.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "flint tools",
+          "number": "2",
+          "section": "79.2 PEOPLE THROUGH TIME",
+          "visual_context": "The stone tool held by the prehistoric man.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "the bronze age",
+          "number": "3",
+          "section": "79.2 PEOPLE THROUGH TIME",
+          "visual_context": "An early historical man holding a weapon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "the iron age",
+          "number": "4",
+          "section": "79.2 PEOPLE THROUGH TIME",
+          "visual_context": "An early historical man carrying an axe.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "farmer",
+          "number": "5",
+          "section": "79.2 PEOPLE THROUGH TIME",
+          "visual_context": "A person ploughing a field with an animal.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "merchant",
+          "number": "6",
+          "section": "79.2 PEOPLE THROUGH TIME",
+          "visual_context": "People trading cloth and goods.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "artisan",
+          "number": "7",
+          "section": "79.2 PEOPLE THROUGH TIME",
+          "visual_context": "A craft worker kneeling beside tools.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "emperor",
+          "number": "12",
+          "section": "79.2 PEOPLE THROUGH TIME",
+          "visual_context": "A crowned ruler in formal robes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "empress",
+          "number": "13",
+          "section": "79.2 PEOPLE THROUGH TIME",
+          "visual_context": "A female ruler holding a sceptre.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "king",
+          "number": "14",
+          "section": "79.2 PEOPLE THROUGH TIME",
+          "visual_context": "A crowned male ruler seated on a throne.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "queen",
+          "number": "15",
+          "section": "79.2 PEOPLE THROUGH TIME",
+          "visual_context": "A crowned female ruler seated on a throne.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "prince / princess",
+          "number": "16",
+          "section": "79.2 PEOPLE THROUGH TIME",
+          "visual_context": "A young royal couple in formal clothing.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nobles",
+          "number": "17",
+          "section": "79.2 PEOPLE THROUGH TIME",
+          "visual_context": "Two aristocratic people in elaborate dress.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "the Islamic Golden Age",
+          "number": "22",
+          "section": "79.2 PEOPLE THROUGH TIME",
+          "visual_context": "A scholar in a turban writing at a desk.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "philosopher",
+          "number": "23",
+          "section": "79.2 PEOPLE THROUGH TIME",
+          "visual_context": "A historical thinker holding a book.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "the Enlightenment",
+          "number": "24",
+          "section": "79.2 PEOPLE THROUGH TIME",
+          "visual_context": "A group of formally dressed people from the Enlightenment era.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "the industrial revolution",
+          "number": "25",
+          "section": "79.2 PEOPLE THROUGH TIME",
+          "visual_context": "Workers operating a large industrial machine.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 169,
+      "title": "History",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "spear",
+          "number": "4",
+          "section": "79.1 WAR AND WEAPONS",
+          "visual_context": "A long spear held by a mounted warrior on an elephant.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "warhorse",
+          "number": "11",
+          "section": "79.1 WAR AND WEAPONS",
+          "visual_context": "A horse ridden in battle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "war elephant",
+          "number": "12",
+          "section": "79.1 WAR AND WEAPONS",
+          "visual_context": "A large elephant carrying armed riders in battle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "battle",
+          "number": "13",
+          "section": "79.1 WAR AND WEAPONS",
+          "visual_context": "Opposing mounted soldiers fighting.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cannon",
+          "number": "14",
+          "section": "79.1 WAR AND WEAPONS",
+          "visual_context": "A wheeled cannon firing a cannonball.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "catapult",
+          "number": "15",
+          "section": "79.1 WAR AND WEAPONS",
+          "visual_context": "A siege engine launching a projectile.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "battering ram",
+          "number": "16",
+          "section": "79.1 WAR AND WEAPONS",
+          "visual_context": "A suspended log carried by soldiers for attacking a gate or wall.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "knight",
+          "number": "17",
+          "section": "79.1 WAR AND WEAPONS",
+          "visual_context": "An armored mounted warrior.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "armor (US) armour (UK)",
+          "number": "18",
+          "section": "79.1 WAR AND WEAPONS",
+          "visual_context": "Protective metal clothing worn by a medieval warrior.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "warrior",
+          "number": "19",
+          "section": "79.1 WAR AND WEAPONS",
+          "visual_context": "An armed fighter in historical clothing.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "blacksmith",
+          "number": "8",
+          "section": "79.2 PEOPLE THROUGH TIME",
+          "visual_context": "A worker hammering metal at an anvil.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "peasants",
+          "number": "9",
+          "section": "79.2 PEOPLE THROUGH TIME",
+          "visual_context": "Two rural laborers holding farming tools.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "kingdom",
+          "number": "10",
+          "section": "79.2 PEOPLE THROUGH TIME",
+          "visual_context": "A crowned king beside a map of a territory.",
+          "semantic_meaning": "a country ruled by a king or queen"
+        },
+        {
+          "source_text": "empire",
+          "number": "11",
+          "section": "79.2 PEOPLE THROUGH TIME",
+          "visual_context": "A group of soldiers beside a map showing an expanded territory.",
+          "semantic_meaning": "a group of territories ruled by one authority"
+        },
+        {
+          "source_text": "lord / lady",
+          "number": "18",
+          "section": "79.2 PEOPLE THROUGH TIME",
+          "visual_context": "A medieval nobleman and noblewoman.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "minstrel",
+          "number": "19",
+          "section": "79.2 PEOPLE THROUGH TIME",
+          "visual_context": "A performer playing a stringed instrument.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "jester",
+          "number": "20",
+          "section": "79.2 PEOPLE THROUGH TIME",
+          "visual_context": "A court entertainer in colorful costume.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "scribe",
+          "number": "21",
+          "section": "79.2 PEOPLE THROUGH TIME",
+          "visual_context": "A person writing at a desk.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "the technological revolution",
+          "number": "26",
+          "section": "79.2 PEOPLE THROUGH TIME",
+          "visual_context": "A telephone, computer mouse, and clock representing modern technology.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "the information age",
+          "number": "27",
+          "section": "79.2 PEOPLE THROUGH TIME",
+          "visual_context": "People connected by digital communication icons.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "historian",
+          "number": "1",
+          "section": "79.3 STUDYING THE PAST",
+          "visual_context": "A person thinking about a classical building.",
+          "semantic_meaning": "a person who studies history"
+        },
+        {
+          "source_text": "archive",
+          "number": "2",
+          "section": "79.3 STUDYING THE PAST",
+          "visual_context": "A person retrieving material from shelves of labeled storage boxes.",
+          "semantic_meaning": "a collection or place for historical records"
+        },
+        {
+          "source_text": "sources",
+          "number": "3",
+          "section": "79.3 STUDYING THE PAST",
+          "visual_context": "Open books examined with a magnifying glass.",
+          "semantic_meaning": "materials used as evidence about the past"
+        },
+        {
+          "source_text": "scroll",
+          "number": "4",
+          "section": "79.3 STUDYING THE PAST",
+          "visual_context": "A rolled parchment document.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "document",
+          "number": "5",
+          "section": "79.3 STUDYING THE PAST",
+          "visual_context": "Rolled papers and an open written manuscript.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "archeology (US) archaeology (UK)",
+          "number": "6",
+          "section": "79.3 STUDYING THE PAST",
+          "visual_context": "An excavation tent and an archaeologist at a site.",
+          "semantic_meaning": "the study of the past through material remains"
+        },
+        {
+          "source_text": "archeologist (US) archaeologist (UK)",
+          "number": "7",
+          "section": "79.3 STUDYING THE PAST",
+          "visual_context": "A person excavating in the ground.",
+          "semantic_meaning": "a person who studies material remains from the past"
+        },
+        {
+          "source_text": "dig / excavation",
+          "number": "8",
+          "section": "79.3 STUDYING THE PAST",
+          "visual_context": "An excavated mound containing a skull and artifacts.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "remains",
+          "number": "9",
+          "section": "79.3 STUDYING THE PAST",
+          "visual_context": "People uncovering objects in a trench.",
+          "semantic_meaning": "surviving traces or objects from the past"
+        },
+        {
+          "source_text": "peat bog",
+          "number": "10",
+          "section": "79.3 STUDYING THE PAST",
+          "visual_context": "An excavated wet bog area with preserved bodies or objects.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "finds",
+          "number": "11",
+          "section": "79.3 STUDYING THE PAST",
+          "visual_context": "A row of excavated human-shaped artifacts or remains.",
+          "semantic_meaning": "objects discovered during excavation"
+        },
+        {
+          "source_text": "tomb",
+          "number": "12",
+          "section": "79.3 STUDYING THE PAST",
+          "visual_context": "An open burial chamber or sarcophagus.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "historical site",
+          "number": "13",
+          "section": "79.3 STUDYING THE PAST",
+          "visual_context": "An ancient temple or monumental building.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

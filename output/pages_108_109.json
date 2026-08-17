@@ -1,0 +1,396 @@
+{
+  "pages": [
+    {
+      "page": 108,
+      "title": "The supermarket",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "open",
+          "number": "1",
+          "section": "48.1 SUPERMARKET",
+          "visual_context": "Open supermarket entrance with a customer carrying a basket.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "closed",
+          "number": "2",
+          "section": "48.1 SUPERMARKET",
+          "visual_context": "Supermarket storefront with closed doors.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "customer",
+          "number": "3",
+          "section": "48.1 SUPERMARKET",
+          "visual_context": "Shopper holding a basket and an item.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "receipt",
+          "number": "4",
+          "section": "48.1 SUPERMARKET",
+          "visual_context": "Printed store receipt.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "special offer",
+          "number": "5",
+          "section": "48.1 SUPERMARKET",
+          "visual_context": "Price-and-scissors promotional offer symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bargain",
+          "number": "6",
+          "section": "48.1 SUPERMARKET",
+          "visual_context": "Customers comparing low-priced goods.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wide range",
+          "number": "7",
+          "section": "48.1 SUPERMARKET",
+          "visual_context": "Shopper standing between two fully stocked shelves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "line (US)\nqueue (UK)",
+          "number": "8",
+          "section": "48.1 SUPERMARKET",
+          "visual_context": "People waiting in a line.",
+          "semantic_meaning": "A group of people waiting."
+        },
+        {
+          "source_text": "card machine",
+          "number": "9",
+          "section": "48.1 SUPERMARKET",
+          "visual_context": "Electronic payment-card terminal.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "online\nshopping",
+          "number": "10",
+          "section": "48.1 SUPERMARKET",
+          "visual_context": "Computer screen showing goods for purchase.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "delivery man",
+          "number": "11",
+          "section": "48.1 SUPERMARKET",
+          "visual_context": "Courier carrying a box of groceries.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "home delivery",
+          "number": "12",
+          "section": "48.1 SUPERMARKET",
+          "visual_context": "Delivery person at a house entrance.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "exit",
+          "number": "1",
+          "section": "48.2 CHECKOUT",
+          "visual_context": "Double doors at the store exit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cashier",
+          "number": "2",
+          "section": "48.2 CHECKOUT",
+          "visual_context": "Worker operating the checkout.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cash register (US)\ntill (UK)",
+          "number": "3",
+          "section": "48.2 CHECKOUT",
+          "visual_context": "Checkout register operated by the cashier.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shelves",
+          "number": "4",
+          "section": "48.2 CHECKOUT",
+          "visual_context": "Shelves stocked with packaged goods.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "self checkout",
+          "number": "5",
+          "section": "48.2 CHECKOUT",
+          "visual_context": "Customer using a self-service checkout screen.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shopping bag (US)\ncarrier bag (UK)",
+          "number": "6",
+          "section": "48.2 CHECKOUT",
+          "visual_context": "Customer carrying grocery bags.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "conveyor belt",
+          "number": "7",
+          "section": "48.2 CHECKOUT",
+          "visual_context": "Moving belt at the cashier's checkout.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "basket",
+          "number": "8",
+          "section": "48.2 CHECKOUT",
+          "visual_context": "Hand shopping basket beside a customer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shopping cart (US)\ntrolley (UK)",
+          "number": "9",
+          "section": "48.2 CHECKOUT",
+          "visual_context": "Wheeled cart filled with groceries.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "checkout",
+          "number": "10",
+          "section": "48.2 CHECKOUT",
+          "visual_context": "The payment area and self-service checkout station.",
+          "semantic_meaning": "Place where purchases are paid for."
+        },
+        {
+          "source_text": "barcode",
+          "number": "11",
+          "section": "48.2 CHECKOUT",
+          "visual_context": "Striped barcode symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "scanner",
+          "number": "12",
+          "section": "48.2 CHECKOUT",
+          "visual_context": "Handheld barcode scanner reading a product barcode.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "coupon (US)\ndiscount voucher (UK)",
+          "number": "13",
+          "section": "48.2 CHECKOUT",
+          "visual_context": "Discount coupon marked with a percentage sign.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 109,
+      "title": null,
+      "context": "Continuation of The supermarket.",
+      "entries": [
+        {
+          "source_text": "bakery",
+          "number": "1",
+          "section": "48.3 AISLES / SECTIONS",
+          "visual_context": "Bread and pastry products.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dairy",
+          "number": "2",
+          "section": "48.3 AISLES / SECTIONS",
+          "visual_context": "Milk carton and cheese.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "breakfast\ncereals",
+          "number": "3",
+          "section": "48.3 AISLES / SECTIONS",
+          "visual_context": "Boxes of breakfast cereal.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tinned /\ncanned food",
+          "number": "4",
+          "section": "48.3 AISLES / SECTIONS",
+          "visual_context": "Food cans and a tin.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "candy (US)\nconfectionery (UK)",
+          "number": "5",
+          "section": "48.3 AISLES / SECTIONS",
+          "visual_context": "Wrapped sweets and candy.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "vegetables",
+          "number": "6",
+          "section": "48.3 AISLES / SECTIONS",
+          "visual_context": "Carrot and other vegetables.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fruit",
+          "number": "7",
+          "section": "48.3 AISLES / SECTIONS",
+          "visual_context": "Bananas, orange, and other fruit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "meat and\npoultry",
+          "number": "8",
+          "section": "48.3 AISLES / SECTIONS",
+          "visual_context": "Meat cut and chicken drumstick.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fish",
+          "number": "9",
+          "section": "48.3 AISLES / SECTIONS",
+          "visual_context": "Whole fish.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "deli",
+          "number": "10",
+          "section": "48.3 AISLES / SECTIONS",
+          "visual_context": "Delicatessen counter with meats and cheeses.",
+          "semantic_meaning": "Counter selling prepared foods, meats, and cheeses."
+        },
+        {
+          "source_text": "frozen food",
+          "number": "11",
+          "section": "48.3 AISLES / SECTIONS",
+          "visual_context": "Frozen-food package with a snowflake.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "convenience\nfood",
+          "number": "12",
+          "section": "48.3 AISLES / SECTIONS",
+          "visual_context": "Takeaway meal container with cutlery.",
+          "semantic_meaning": "Prepared food requiring little preparation."
+        },
+        {
+          "source_text": "drinks",
+          "number": "13",
+          "section": "48.3 AISLES / SECTIONS",
+          "visual_context": "Bottles and beverage containers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "household\nproducts",
+          "number": "14",
+          "section": "48.3 AISLES / SECTIONS",
+          "visual_context": "Cleaning spray and household containers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "toiletries",
+          "number": "15",
+          "section": "48.3 AISLES / SECTIONS",
+          "visual_context": "Personal-care bottles, tube, and comb.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "baby products",
+          "number": "16",
+          "section": "48.3 AISLES / SECTIONS",
+          "visual_context": "Baby bottle, pacifier, and baby-care items.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "electrical\ngoods",
+          "number": "17",
+          "section": "48.3 AISLES / SECTIONS",
+          "visual_context": "Fan and electrical appliances.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pet food",
+          "number": "18",
+          "section": "48.3 AISLES / SECTIONS",
+          "visual_context": "Pet-food bag with a paw print and bowl.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "newspaper",
+          "number": "1",
+          "section": "48.4 NEWSSTAND / KIOSK",
+          "visual_context": "Folded newspaper.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "magazine",
+          "number": "2",
+          "section": "48.4 NEWSSTAND / KIOSK",
+          "visual_context": "Magazine cover.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "comic",
+          "number": "3",
+          "section": "48.4 NEWSSTAND / KIOSK",
+          "visual_context": "Comic-book cover.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "postcard",
+          "number": "4",
+          "section": "48.4 NEWSSTAND / KIOSK",
+          "visual_context": "Picture postcard.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tourist map",
+          "number": "5",
+          "section": "48.4 NEWSSTAND / KIOSK",
+          "visual_context": "Tourists holding an unfolded map.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stamps",
+          "number": "6",
+          "section": "48.4 NEWSSTAND / KIOSK",
+          "visual_context": "Postage stamps.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "travel card",
+          "number": "7",
+          "section": "48.4 NEWSSTAND / KIOSK",
+          "visual_context": "Public-transport travel card.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sim card",
+          "number": "8",
+          "section": "48.4 NEWSSTAND / KIOSK",
+          "visual_context": "Mobile-phone SIM card.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "snack bar",
+          "number": "9",
+          "section": "48.4 NEWSSTAND / KIOSK",
+          "visual_context": "Wrapped snack bar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chips (US)\ncrisps (UK)",
+          "number": "10",
+          "section": "48.4 NEWSSTAND / KIOSK",
+          "visual_context": "Bag of potato chips/crisps.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "water",
+          "number": "11",
+          "section": "48.4 NEWSSTAND / KIOSK",
+          "visual_context": "Bottle of water.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

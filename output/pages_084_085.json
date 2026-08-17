@@ -1,0 +1,361 @@
+{
+  "pages": [
+    {
+      "page": 84,
+      "title": "Tools",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "monkey wrench",
+          "number": "1",
+          "section": "36.1 TOOLBOX",
+          "visual_context": "Pointer to the adjustable wrench in the toolbox.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "socket wrench",
+          "number": "2",
+          "section": "36.1 TOOLBOX",
+          "visual_context": "Pointer to the socket wrench lying in the toolbox.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "needle-nose pliers",
+          "number": "3",
+          "section": "36.1 TOOLBOX",
+          "visual_context": "Pointer to the long-jawed pliers in the toolbox.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wrench (US) spanner (UK)",
+          "number": "4",
+          "section": "36.1 TOOLBOX",
+          "visual_context": "Pointer to the open-ended wrench/spanner standing in the toolbox.",
+          "semantic_meaning": "US/UK alternative names for the same tool."
+        },
+        {
+          "source_text": "flat head screwdriver",
+          "number": "5",
+          "section": "36.1 TOOLBOX",
+          "visual_context": "Pointer to the flat-bladed screwdriver in the toolbox.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Phillips screwdriver",
+          "number": "6",
+          "section": "36.1 TOOLBOX",
+          "visual_context": "Pointer to the cross-head screwdriver at the right of the toolbox.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bull-nose pliers",
+          "number": "7",
+          "section": "36.1 TOOLBOX",
+          "visual_context": "Pointer to the short-nosed pliers in the front of the toolbox.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "toolbox",
+          "number": "8",
+          "section": "36.1 TOOLBOX",
+          "visual_context": "Pointer to the red box holding the tools.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hammer",
+          "number": "9",
+          "section": "36.1 TOOLBOX",
+          "visual_context": "Pointer to the hammer handle and head in the toolbox.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "metal bit",
+          "number": "1",
+          "section": "36.2 DRILL BITS",
+          "visual_context": "Illustration of a drill bit beside a metal beam.",
+          "semantic_meaning": "Drill bit for metal."
+        },
+        {
+          "source_text": "masonry bit",
+          "number": "2",
+          "section": "36.2 DRILL BITS",
+          "visual_context": "Illustration of a drill bit beside a brick.",
+          "semantic_meaning": "Drill bit for masonry."
+        },
+        {
+          "source_text": "carpentry bit",
+          "number": "3",
+          "section": "36.2 DRILL BITS",
+          "visual_context": "Illustration of a drill bit beside a wooden board.",
+          "semantic_meaning": "Drill bit for woodwork."
+        },
+        {
+          "source_text": "flat wood bit",
+          "number": "4",
+          "section": "36.2 DRILL BITS",
+          "visual_context": "Illustration of a flat paddle-shaped wood drill bit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "security bit",
+          "number": "5",
+          "section": "36.2 DRILL BITS",
+          "visual_context": "Illustration of a security-type screwdriver/drill bit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "reamer",
+          "number": "6",
+          "section": "36.2 DRILL BITS",
+          "visual_context": "Illustration of a fluted reaming tool.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 85,
+      "title": "Tools",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "tool belt",
+          "number": "1",
+          "section": "36.3 TOOLS",
+          "visual_context": "Illustration of a belt with pockets holding tools.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nail",
+          "number": "2",
+          "section": "36.3 TOOLS",
+          "visual_context": "Illustration of a nail.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "screw",
+          "number": "3",
+          "section": "36.3 TOOLS",
+          "visual_context": "Illustration of a threaded screw.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bolt",
+          "number": "4",
+          "section": "36.3 TOOLS",
+          "visual_context": "Illustration of a bolt.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "washer",
+          "number": "5",
+          "section": "36.3 TOOLS",
+          "visual_context": "Illustration of two circular washers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nut",
+          "number": "6",
+          "section": "36.3 TOOLS",
+          "visual_context": "Illustration of a hexagonal nut.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hex keys / Allen keys (UK)",
+          "number": "7",
+          "section": "36.3 TOOLS",
+          "visual_context": "Illustration of a set of L-shaped hex keys.",
+          "semantic_meaning": "UK term shown for hex keys."
+        },
+        {
+          "source_text": "tape measure",
+          "number": "8",
+          "section": "36.3 TOOLS",
+          "visual_context": "Illustration of a retractable tape measure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "craft knife",
+          "number": "9",
+          "section": "36.3 TOOLS",
+          "visual_context": "Illustration of a utility/craft knife.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hacksaw",
+          "number": "10",
+          "section": "36.3 TOOLS",
+          "visual_context": "Illustration of a small framed hacksaw.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tenon saw",
+          "number": "11",
+          "section": "36.3 TOOLS",
+          "visual_context": "Illustration of a backsaw with a reinforced top edge.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "handsaw",
+          "number": "12",
+          "section": "36.3 TOOLS",
+          "visual_context": "Illustration of a hand-operated saw.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "plane",
+          "number": "13",
+          "section": "36.3 TOOLS",
+          "visual_context": "Illustration of a woodworking plane.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hand drill",
+          "number": "14",
+          "section": "36.3 TOOLS",
+          "visual_context": "Illustration of a manual hand drill.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wrench (US) spanner (UK)",
+          "number": "15",
+          "section": "36.3 TOOLS",
+          "visual_context": "Illustration of an open-ended adjustable wrench/spanner.",
+          "semantic_meaning": "US/UK alternative names for the same tool."
+        },
+        {
+          "source_text": "chisel",
+          "number": "16",
+          "section": "36.3 TOOLS",
+          "visual_context": "Illustration of a chisel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "file",
+          "number": "17",
+          "section": "36.3 TOOLS",
+          "visual_context": "Illustration of a hand file.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sharpening stone",
+          "number": "18",
+          "section": "36.3 TOOLS",
+          "visual_context": "Illustration of a blade being sharpened on a stone.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ladder",
+          "number": "19",
+          "section": "36.3 TOOLS",
+          "visual_context": "Illustration of a wooden ladder.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rung",
+          "number": "20",
+          "section": "36.3 TOOLS",
+          "visual_context": "Pointer to a horizontal step of the ladder.",
+          "semantic_meaning": "A horizontal bar or step of a ladder."
+        },
+        {
+          "source_text": "wire strippers",
+          "number": "21",
+          "section": "36.3 TOOLS",
+          "visual_context": "Illustration of pliers for stripping insulation from wire.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wire cutters",
+          "number": "22",
+          "section": "36.3 TOOLS",
+          "visual_context": "Illustration of cutters for cutting wire.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "insulating tape",
+          "number": "23",
+          "section": "36.3 TOOLS",
+          "visual_context": "Illustration of a roll of insulating tape.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pipe cutter",
+          "number": "24",
+          "section": "36.3 TOOLS",
+          "visual_context": "Illustration of a pipe-cutting tool.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "plunger",
+          "number": "25",
+          "section": "36.3 TOOLS",
+          "visual_context": "Illustration of a plunger.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mallet",
+          "number": "26",
+          "section": "36.3 TOOLS",
+          "visual_context": "Illustration of a wooden-handled mallet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ax (US) axe (UK)",
+          "number": "27",
+          "section": "36.3 TOOLS",
+          "visual_context": "Illustration of an ax/axe.",
+          "semantic_meaning": "US/UK spelling alternatives."
+        },
+        {
+          "source_text": "steel wool (US) wire wool (UK)",
+          "number": "28",
+          "section": "36.3 TOOLS",
+          "visual_context": "Illustration of a bundle of fine metal wool.",
+          "semantic_meaning": "US/UK alternative names for abrasive metal wool."
+        },
+        {
+          "source_text": "sandpaper",
+          "number": "29",
+          "section": "36.3 TOOLS",
+          "visual_context": "Illustration of sandpaper being rubbed on wood.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "safety goggles",
+          "number": "30",
+          "section": "36.3 TOOLS",
+          "visual_context": "Illustration of protective goggles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "soldering iron",
+          "number": "31",
+          "section": "36.3 TOOLS",
+          "visual_context": "Illustration of an electric soldering iron.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "solder",
+          "number": "32",
+          "section": "36.3 TOOLS",
+          "visual_context": "Illustration of a spool of solder wire.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "vial",
+          "number": "33",
+          "section": "36.3 TOOLS",
+          "visual_context": "Pointer to the bubble-containing vial in the spirit level.",
+          "semantic_meaning": "A liquid-filled bubble tube in a level."
+        },
+        {
+          "source_text": "level (US) spirit level (UK)",
+          "number": "34",
+          "section": "36.3 TOOLS",
+          "visual_context": "Illustration of a yellow bubble level.",
+          "semantic_meaning": "US/UK alternative names for a tool used to check whether a surface is horizontal or vertical."
+        }
+      ]
+    }
+  ]
+}

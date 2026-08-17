@@ -1,0 +1,438 @@
+{
+  "pages": [
+    {
+      "page": 76,
+      "title": "House and home",
+      "context": "32.1 TYPES OF HOUSES",
+      "entries": [
+        {
+          "source_text": "detached house",
+          "number": "1",
+          "section": "32.1 TYPES OF HOUSES",
+          "visual_context": "Two separate houses.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "duplex (US) semi-detached (UK)",
+          "number": "2",
+          "section": "32.1 TYPES OF HOUSES",
+          "visual_context": "A pair of joined houses.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "row house (US) terraced house (UK)",
+          "number": "3",
+          "section": "32.1 TYPES OF HOUSES",
+          "visual_context": "A continuous row of attached houses.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "town house",
+          "number": "4",
+          "section": "32.1 TYPES OF HOUSES",
+          "visual_context": "A tall narrow multi-storey house.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cottage",
+          "number": "5",
+          "section": "32.1 TYPES OF HOUSES",
+          "visual_context": "A small detached house with a garden.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "villa",
+          "number": "6",
+          "section": "32.1 TYPES OF HOUSES",
+          "visual_context": "A large holiday-style house with palm trees and a pool.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ranch house (US) bungalow (UK)",
+          "number": "7",
+          "section": "32.1 TYPES OF HOUSES",
+          "visual_context": "A single-storey house with an attached garage.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mansion",
+          "number": "8",
+          "section": "32.1 TYPES OF HOUSES",
+          "visual_context": "A very large house with a car outside.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mobile home (US) caravan (UK)",
+          "number": "9",
+          "section": "32.1 TYPES OF HOUSES",
+          "visual_context": "A family beside a towable caravan.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cabin",
+          "number": "10",
+          "section": "32.1 TYPES OF HOUSES",
+          "visual_context": "A small log cabin among trees.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tree house",
+          "number": "11",
+          "section": "32.1 TYPES OF HOUSES",
+          "visual_context": "A small house built in a tree, reached by a ladder.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chalet",
+          "number": "12",
+          "section": "32.1 TYPES OF HOUSES",
+          "visual_context": "A mountain house surrounded by snowy pine trees.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "yurt",
+          "number": "13",
+          "section": "32.1 TYPES OF HOUSES",
+          "visual_context": "A round tent-like dwelling.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hut",
+          "number": "14",
+          "section": "32.1 TYPES OF HOUSES",
+          "visual_context": "A small simple hut.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wigwam",
+          "number": "15",
+          "section": "32.1 TYPES OF HOUSES",
+          "visual_context": "A domed indigenous-style dwelling.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "igloo",
+          "number": "16",
+          "section": "32.1 TYPES OF HOUSES",
+          "visual_context": "A dome-shaped snow-block dwelling.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "teepee",
+          "number": "17",
+          "section": "32.1 TYPES OF HOUSES",
+          "visual_context": "A conical tent.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "houseboat",
+          "number": "18",
+          "section": "32.1 TYPES OF HOUSES",
+          "visual_context": "A boat used as a home.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "prefab house",
+          "number": "19",
+          "section": "32.1 TYPES OF HOUSES",
+          "visual_context": "A prefabricated house shown with construction outlines.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stilt house",
+          "number": "20",
+          "section": "32.1 TYPES OF HOUSES",
+          "visual_context": "A house raised above water on stilts.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chimney",
+          "number": "21",
+          "section": "32.1 TYPES OF HOUSES",
+          "visual_context": "Pointer to the chimney on the cottage roof.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "arch window",
+          "number": "22",
+          "section": "32.1 TYPES OF HOUSES",
+          "visual_context": "Pointer to an arched upper window of the cottage.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "eaves",
+          "number": "23",
+          "section": "32.1 TYPES OF HOUSES",
+          "visual_context": "Pointer to the overhanging lower edge of the roof.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "thatched roof",
+          "number": "24",
+          "section": "32.1 TYPES OF HOUSES",
+          "visual_context": "Pointer to the thick straw-like cottage roof.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "We’ve just moved into this pretty cottage in the countryside.",
+          "number": "25",
+          "section": "32.1 TYPES OF HOUSES",
+          "visual_context": "Speech bubble beside people moving into the cottage.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "There’s so much to unpack!",
+          "number": "26",
+          "section": "32.1 TYPES OF HOUSES",
+          "visual_context": "Speech bubble beside moving boxes at the cottage.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "light",
+          "number": "27",
+          "section": "32.1 TYPES OF HOUSES",
+          "visual_context": "Pointer to the exterior lamp by the front door.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gate",
+          "number": "28",
+          "section": "32.1 TYPES OF HOUSES",
+          "visual_context": "Pointer to the white front gate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "thatched cottage",
+          "number": "29",
+          "section": "32.1 TYPES OF HOUSES",
+          "visual_context": "The large cottage with a thatched roof.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 77,
+      "title": "House and home",
+      "context": "32.2 BUYING AND RENTING A HOUSE",
+      "entries": [
+        {
+          "source_text": "realtor (US) estate agent (UK)",
+          "number": "1",
+          "section": "32.2 BUYING AND RENTING A HOUSE",
+          "visual_context": "An agent showing a house for sale.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "real estate (US) property (UK)",
+          "number": "2",
+          "section": "32.2 BUYING AND RENTING A HOUSE",
+          "visual_context": "People looking at property listings.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to view a house",
+          "number": "3",
+          "section": "32.2 BUYING AND RENTING A HOUSE",
+          "visual_context": "People viewing a house with a for-sale sign.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "furnished",
+          "number": "4",
+          "section": "32.2 BUYING AND RENTING A HOUSE",
+          "visual_context": "A room containing a sofa, lamp, and pictures.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "unfurnished",
+          "number": "5",
+          "section": "32.2 BUYING AND RENTING A HOUSE",
+          "visual_context": "An empty room with a person standing inside.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "open-plan",
+          "number": "6",
+          "section": "32.2 BUYING AND RENTING A HOUSE",
+          "visual_context": "A combined kitchen and living area without dividing walls.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "parking space",
+          "number": "7",
+          "section": "32.2 BUYING AND RENTING A HOUSE",
+          "visual_context": "A car in a marked parking place.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "storage",
+          "number": "8",
+          "section": "32.2 BUYING AND RENTING A HOUSE",
+          "visual_context": "A person beside a storage unit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to save up",
+          "number": "9",
+          "section": "32.2 BUYING AND RENTING A HOUSE",
+          "visual_context": "Coins being put into a savings jar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to buy",
+          "number": "10",
+          "section": "32.2 BUYING AND RENTING A HOUSE",
+          "visual_context": "People beside a house marked for sale.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to own",
+          "number": "11",
+          "section": "32.2 BUYING AND RENTING A HOUSE",
+          "visual_context": "A house resting in an open hand.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "boxes",
+          "number": "12",
+          "section": "32.2 BUYING AND RENTING A HOUSE",
+          "visual_context": "People carrying and stacking moving boxes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tape",
+          "number": "13",
+          "section": "32.2 BUYING AND RENTING A HOUSE",
+          "visual_context": "A roll of packing tape.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "keys",
+          "number": "14",
+          "section": "32.2 BUYING AND RENTING A HOUSE",
+          "visual_context": "A set of keys.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to pack",
+          "number": "15",
+          "section": "32.2 BUYING AND RENTING A HOUSE",
+          "visual_context": "People putting belongings into boxes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "moving truck (US) removal van (UK)",
+          "number": "16",
+          "section": "32.2 BUYING AND RENTING A HOUSE",
+          "visual_context": "A removal truck carrying a house symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to move out",
+          "number": "17",
+          "section": "32.2 BUYING AND RENTING A HOUSE",
+          "visual_context": "A truck leaving a house with arrows pointing outward.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to move in",
+          "number": "18",
+          "section": "32.2 BUYING AND RENTING A HOUSE",
+          "visual_context": "A truck arriving at a house with arrows pointing inward.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to unpack",
+          "number": "19",
+          "section": "32.2 BUYING AND RENTING A HOUSE",
+          "visual_context": "A person removing items from a box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to rent out",
+          "number": "20",
+          "section": "32.2 BUYING AND RENTING A HOUSE",
+          "visual_context": "A person handing a house key to another person.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to rent",
+          "number": "21",
+          "section": "32.2 BUYING AND RENTING A HOUSE",
+          "visual_context": "A calendar and banknotes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lease / tenancy agreement (UK)",
+          "number": "22",
+          "section": "32.2 BUYING AND RENTING A HOUSE",
+          "visual_context": "A signed document and pen.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tenant",
+          "number": "23",
+          "section": "32.2 BUYING AND RENTING A HOUSE",
+          "visual_context": "A person entering or standing outside a rented house.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "landlord",
+          "number": "24",
+          "section": "32.2 BUYING AND RENTING A HOUSE",
+          "visual_context": "A hand giving a key to another hand.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "deposit",
+          "number": "25",
+          "section": "32.2 BUYING AND RENTING A HOUSE",
+          "visual_context": "A person paying money at a counter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to give notice",
+          "number": "26",
+          "section": "32.2 BUYING AND RENTING A HOUSE",
+          "visual_context": "A notice document with a warning symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mortgage",
+          "number": "27",
+          "section": "32.2 BUYING AND RENTING A HOUSE",
+          "visual_context": "Banknotes in front of a house.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bills",
+          "number": "28",
+          "section": "32.2 BUYING AND RENTING A HOUSE",
+          "visual_context": "A bill document with banknotes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "roomer (US) lodger (UK)",
+          "number": "29",
+          "section": "32.2 BUYING AND RENTING A HOUSE",
+          "visual_context": "A house with two people standing on either side.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "roommate (US) housemate (UK)",
+          "number": "30",
+          "section": "32.2 BUYING AND RENTING A HOUSE",
+          "visual_context": "Two people standing in front of a house.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "residential area",
+          "number": "31",
+          "section": "32.2 BUYING AND RENTING A HOUSE",
+          "visual_context": "A neighbourhood street with houses, apartment buildings, and pedestrians.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

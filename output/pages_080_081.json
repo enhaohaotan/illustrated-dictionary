@@ -1,0 +1,473 @@
+{
+  "pages": [
+    {
+      "page": 80,
+      "title": "Household chores",
+      "context": "34.1 HOUSEHOLD TASKS",
+      "entries": [
+        {
+          "source_text": "to change the sheets",
+          "number": "1",
+          "section": "34.1 HOUSEHOLD TASKS",
+          "visual_context": "Person changing bedding on a bed.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to make the bed",
+          "number": "2",
+          "section": "34.1 HOUSEHOLD TASKS",
+          "visual_context": "Person arranging the bedcovers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to feed the pets",
+          "number": "3",
+          "section": "34.1 HOUSEHOLD TASKS",
+          "visual_context": "Person kneeling and feeding a cat.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to water the plants",
+          "number": "4",
+          "section": "34.1 HOUSEHOLD TASKS",
+          "visual_context": "Person watering potted plants with a watering can.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to wash the car",
+          "number": "5",
+          "section": "34.1 HOUSEHOLD TASKS",
+          "visual_context": "Person washing a car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to sweep the floor",
+          "number": "6",
+          "section": "34.1 HOUSEHOLD TASKS",
+          "visual_context": "Person using a broom on a floor.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to scrub the floor",
+          "number": "7",
+          "section": "34.1 HOUSEHOLD TASKS",
+          "visual_context": "Person scrubbing a floor on hands and knees.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to clean the oven",
+          "number": "8",
+          "section": "34.1 HOUSEHOLD TASKS",
+          "visual_context": "Person cleaning the inside of an oven.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to clean the windows",
+          "number": "9",
+          "section": "34.1 HOUSEHOLD TASKS",
+          "visual_context": "Person cleaning a window.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to defrost the freezer",
+          "number": "10",
+          "section": "34.1 HOUSEHOLD TASKS",
+          "visual_context": "Person defrosting an open freezer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to vacuum the carpet",
+          "number": "11",
+          "section": "34.1 HOUSEHOLD TASKS",
+          "visual_context": "Person using a vacuum cleaner on carpet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to dust",
+          "number": "12",
+          "section": "34.1 HOUSEHOLD TASKS",
+          "visual_context": "Person dusting a surface with a duster.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to clean the bathroom",
+          "number": "13",
+          "section": "34.1 HOUSEHOLD TASKS",
+          "visual_context": "Person cleaning a bath in a bathroom.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to clean up (US) to tidy (UK)",
+          "number": "14",
+          "section": "34.1 HOUSEHOLD TASKS",
+          "visual_context": "Person putting scattered items away and tidying a room.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to buy groceries",
+          "number": "15",
+          "section": "34.1 HOUSEHOLD TASKS",
+          "visual_context": "Two people carrying a shopping basket and groceries.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to do the laundry",
+          "number": "16",
+          "section": "34.1 HOUSEHOLD TASKS",
+          "visual_context": "Person loading clothes into a washing machine beside a laundry basket.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to hang clothes (US) to hang out clothes (UK)",
+          "number": "17",
+          "section": "34.1 HOUSEHOLD TASKS",
+          "visual_context": "Person hanging clothes on a washing line.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to do the ironing",
+          "number": "18",
+          "section": "34.1 HOUSEHOLD TASKS",
+          "visual_context": "Person ironing clothes on an ironing board.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to mop the floor",
+          "number": "19",
+          "section": "34.1 HOUSEHOLD TASKS",
+          "visual_context": "Mop and cleaning bucket.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "I usually do the housework in the evening.",
+          "number": "20",
+          "section": "34.1 HOUSEHOLD TASKS",
+          "visual_context": "Speech bubble from a person holding a mop.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to fold clothes",
+          "number": "21",
+          "section": "34.1 HOUSEHOLD TASKS",
+          "visual_context": "Person folding clothes beside a stack of folded items.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to set the table",
+          "number": "22",
+          "section": "34.1 HOUSEHOLD TASKS",
+          "visual_context": "Person placing dishes and glasses on a table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to clear the table",
+          "number": "23",
+          "section": "34.1 HOUSEHOLD TASKS",
+          "visual_context": "Person removing dishes from a table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to load the dishwasher",
+          "number": "24",
+          "section": "34.1 HOUSEHOLD TASKS",
+          "visual_context": "Person placing dishes into a dishwasher.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to unload the dishwasher",
+          "number": "25",
+          "section": "34.1 HOUSEHOLD TASKS",
+          "visual_context": "Person taking dishes out of a dishwasher.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to wipe the surfaces",
+          "number": "26",
+          "section": "34.1 HOUSEHOLD TASKS",
+          "visual_context": "Person wiping a table or other surface.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to do the dishes",
+          "number": "27",
+          "section": "34.1 HOUSEHOLD TASKS",
+          "visual_context": "Person washing dishes at a sink.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to dry the dishes",
+          "number": "28",
+          "section": "34.1 HOUSEHOLD TASKS",
+          "visual_context": "Person drying a dish with a cloth.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to take out the trash (US) / rubbish (UK)",
+          "number": "29",
+          "section": "34.1 HOUSEHOLD TASKS",
+          "visual_context": "Person carrying trash bags away.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 81,
+      "title": "Laundry and cleaning",
+      "context": "34.2 LAUNDRY AND CLEANING",
+      "entries": [
+        {
+          "source_text": "scouring pad",
+          "number": "1",
+          "section": "34.2 LAUNDRY AND CLEANING",
+          "visual_context": "A rectangular abrasive cleaning pad.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sponge",
+          "number": "2",
+          "section": "34.2 LAUNDRY AND CLEANING",
+          "visual_context": "A porous sponge.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cloth",
+          "number": "3",
+          "section": "34.2 LAUNDRY AND CLEANING",
+          "visual_context": "A folded cleaning cloth.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "duster",
+          "number": "4",
+          "section": "34.2 LAUNDRY AND CLEANING",
+          "visual_context": "A hand-held dusting cloth.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "feather duster",
+          "number": "5",
+          "section": "34.2 LAUNDRY AND CLEANING",
+          "visual_context": "A long-handled feather duster.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "squeegee",
+          "number": "6",
+          "section": "34.2 LAUNDRY AND CLEANING",
+          "visual_context": "A window-cleaning squeegee.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bucket",
+          "number": "7",
+          "section": "34.2 LAUNDRY AND CLEANING",
+          "visual_context": "A cleaning bucket.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mop",
+          "number": "8",
+          "section": "34.2 LAUNDRY AND CLEANING",
+          "visual_context": "A mop with a long handle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "scrubbing brush",
+          "number": "9",
+          "section": "34.2 LAUNDRY AND CLEANING",
+          "visual_context": "A hand-held brush with stiff bristles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dustpan",
+          "number": "10",
+          "section": "34.2 LAUNDRY AND CLEANING",
+          "visual_context": "A dustpan.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "brush",
+          "number": "11",
+          "section": "34.2 LAUNDRY AND CLEANING",
+          "visual_context": "A long-handled cleaning brush.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "broom",
+          "number": "12",
+          "section": "34.2 LAUNDRY AND CLEANING",
+          "visual_context": "A long-handled broom.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "recycling bin",
+          "number": "13",
+          "section": "34.2 LAUNDRY AND CLEANING",
+          "visual_context": "A bin marked with a recycling symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "trash bag (US) bin liner (UK)",
+          "number": "14",
+          "section": "34.2 LAUNDRY AND CLEANING",
+          "visual_context": "A tied plastic bag for rubbish.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "polish",
+          "number": "15",
+          "section": "34.2 LAUNDRY AND CLEANING",
+          "visual_context": "A spray bottle of polish.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "surface cleaner",
+          "number": "16",
+          "section": "34.2 LAUNDRY AND CLEANING",
+          "visual_context": "A trigger spray bottle for cleaning surfaces.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "toilet cleaner",
+          "number": "17",
+          "section": "34.2 LAUNDRY AND CLEANING",
+          "visual_context": "A bottle of toilet-cleaning liquid.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "toilet block",
+          "number": "18",
+          "section": "34.2 LAUNDRY AND CLEANING",
+          "visual_context": "A toilet-cleaning block and holder.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "vacuum cleaner",
+          "number": "19",
+          "section": "34.2 LAUNDRY AND CLEANING",
+          "visual_context": "A canister vacuum cleaner.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "suction hose",
+          "number": "20",
+          "section": "34.2 LAUNDRY AND CLEANING",
+          "visual_context": "Pointer to the flexible hose of the vacuum cleaner.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rubber gloves",
+          "number": "21",
+          "section": "34.2 LAUNDRY AND CLEANING",
+          "visual_context": "A pair of protective cleaning gloves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "white vinegar",
+          "number": "22",
+          "section": "34.2 LAUNDRY AND CLEANING",
+          "visual_context": "A bottle of white vinegar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dirty clothes (US) dirty washing (UK)",
+          "number": "23",
+          "section": "34.2 LAUNDRY AND CLEANING",
+          "visual_context": "Pointer to clothes in a laundry basket.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "laundry hamper (US) laundry basket (UK)",
+          "number": "24",
+          "section": "34.2 LAUNDRY AND CLEANING",
+          "visual_context": "A basket holding dirty laundry.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "washing machine",
+          "number": "25",
+          "section": "34.2 LAUNDRY AND CLEANING",
+          "visual_context": "A front-loading washing machine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tumble dryer",
+          "number": "26",
+          "section": "34.2 LAUNDRY AND CLEANING",
+          "visual_context": "A front-loading tumble dryer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "iron",
+          "number": "27",
+          "section": "34.2 LAUNDRY AND CLEANING",
+          "visual_context": "An electric iron.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ironing board",
+          "number": "28",
+          "section": "34.2 LAUNDRY AND CLEANING",
+          "visual_context": "A folding ironing board.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "clothes pin (US) clothes peg (UK)",
+          "number": "29",
+          "section": "34.2 LAUNDRY AND CLEANING",
+          "visual_context": "Several clothes pegs.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "clothesline / washing line (UK)",
+          "number": "30",
+          "section": "34.2 LAUNDRY AND CLEANING",
+          "visual_context": "Clothes hanging from a line.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "laundry detergent",
+          "number": "31",
+          "section": "34.2 LAUNDRY AND CLEANING",
+          "visual_context": "A box of laundry detergent.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fabric softener",
+          "number": "32",
+          "section": "34.2 LAUNDRY AND CLEANING",
+          "visual_context": "A bottle of fabric softener.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dishwasher",
+          "number": "33",
+          "section": "34.2 LAUNDRY AND CLEANING",
+          "visual_context": "An open dishwasher containing dishes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dishwasher tablets",
+          "number": "34",
+          "section": "34.2 LAUNDRY AND CLEANING",
+          "visual_context": "A box containing a dishwasher tablet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dishwashing liquid (US) washing-up liquid (UK)",
+          "number": "35",
+          "section": "34.2 LAUNDRY AND CLEANING",
+          "visual_context": "A bottle of washing-up liquid.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bleach",
+          "number": "36",
+          "section": "34.2 LAUNDRY AND CLEANING",
+          "visual_context": "A bottle of bleach.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

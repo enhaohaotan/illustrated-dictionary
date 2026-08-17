@@ -1,0 +1,466 @@
+{
+  "pages": [
+    {
+      "page": 132,
+      "title": "In the pantry",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "oil",
+          "number": "1",
+          "section": "60.1 BOTTLED OILS",
+          "visual_context": "Bottle of plain oil.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "palm oil",
+          "number": "2",
+          "section": "60.1 BOTTLED OILS",
+          "visual_context": "Bottle with a palm-tree label.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sunflower oil",
+          "number": "3",
+          "section": "60.1 BOTTLED OILS",
+          "visual_context": "Bottle with a sunflower label.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "canola / rapeseed oil",
+          "number": "4",
+          "section": "60.1 BOTTLED OILS",
+          "visual_context": "Bottle with a flowering rapeseed-style label.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "corn oil",
+          "number": "5",
+          "section": "60.1 BOTTLED OILS",
+          "visual_context": "Bottle with a corn label.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "soybean oil",
+          "number": "6",
+          "section": "60.1 BOTTLED OILS",
+          "visual_context": "Bottle with a soybean label.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "peanut oil (US) groundnut oil (UK)",
+          "number": "7",
+          "section": "60.1 BOTTLED OILS",
+          "visual_context": "Bottle with a peanut label.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hazelnut oil",
+          "number": "8",
+          "section": "60.1 BOTTLED OILS",
+          "visual_context": "Bottle with a hazelnut label.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "coconut oil",
+          "number": "9",
+          "section": "60.1 BOTTLED OILS",
+          "visual_context": "Jar with a coconut label.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "flavored oil (US) flavoured oil (UK)",
+          "number": "10",
+          "section": "60.1 BOTTLED OILS",
+          "visual_context": "Large bottle containing chili peppers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chile (US) chilli (UK)",
+          "number": "11",
+          "section": "60.1 BOTTLED OILS",
+          "visual_context": "Pointer to the chili peppers inside the flavored-oil bottle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cork",
+          "number": "12",
+          "section": "60.1 BOTTLED OILS",
+          "visual_context": "Pointer to the stopper in the flavored-oil bottle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sesame seed oil",
+          "number": "13",
+          "section": "60.1 BOTTLED OILS",
+          "visual_context": "Bottle with a sesame-seed label.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "almond oil",
+          "number": "14",
+          "section": "60.1 BOTTLED OILS",
+          "visual_context": "Bottle with an almond label.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "walnut oil",
+          "number": "15",
+          "section": "60.1 BOTTLED OILS",
+          "visual_context": "Bottle with a walnut label.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "grapeseed oil",
+          "number": "16",
+          "section": "60.1 BOTTLED OILS",
+          "visual_context": "Bottle with a grape label.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "olive oil",
+          "number": "17",
+          "section": "60.1 BOTTLED OILS",
+          "visual_context": "Two olive-oil bottles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "extra virgin",
+          "number": "18",
+          "section": "60.1 BOTTLED OILS",
+          "visual_context": "Pointer to a large cruet of pale olive oil.",
+          "semantic_meaning": "Quality description for olive oil."
+        },
+        {
+          "source_text": "lemon curd",
+          "number": "1",
+          "section": "60.2 SWEET SPREADS",
+          "visual_context": "Jar with a lemon label.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "raspberry jam",
+          "number": "2",
+          "section": "60.2 SWEET SPREADS",
+          "visual_context": "Jar with a raspberry label.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "strawberry jam",
+          "number": "3",
+          "section": "60.2 SWEET SPREADS",
+          "visual_context": "Jar with a strawberry label.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "jar",
+          "number": "4",
+          "section": "60.2 SWEET SPREADS",
+          "visual_context": "Pointer to a strawberry-jam jar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "crystalized honey (US) set honey (UK)",
+          "number": "5",
+          "section": "60.2 SWEET SPREADS",
+          "visual_context": "Cream-colored jar of honey.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "honey",
+          "number": "6",
+          "section": "60.2 SWEET SPREADS",
+          "visual_context": "Jar of liquid honey beside honeycomb.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "honeycomb",
+          "number": "7",
+          "section": "60.2 SWEET SPREADS",
+          "visual_context": "Pointer to the piece of honeycomb beside the honey jar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "honey dipper",
+          "number": "8",
+          "section": "60.2 SWEET SPREADS",
+          "visual_context": "Pointer to the grooved honey-dipping tool.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "marmalade",
+          "number": "9",
+          "section": "60.2 SWEET SPREADS",
+          "visual_context": "Orange preserve in a jar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "maple syrup",
+          "number": "10",
+          "section": "60.2 SWEET SPREADS",
+          "visual_context": "Bottle with a maple-leaf label.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "peanut butter",
+          "number": "11",
+          "section": "60.2 SWEET SPREADS",
+          "visual_context": "Jar with a peanut label.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chocolate spread",
+          "number": "12",
+          "section": "60.2 SWEET SPREADS",
+          "visual_context": "Jar with a chocolate-and-hazelnut label.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "preserving jar",
+          "number": "13",
+          "section": "60.2 SWEET SPREADS",
+          "visual_context": "Glass jar containing preserved fruit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "preserved fruit",
+          "number": "14",
+          "section": "60.2 SWEET SPREADS",
+          "visual_context": "Pointer to fruit inside the preserving jar.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 133,
+      "title": "In the pantry",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "chutney",
+          "number": "1",
+          "section": "60.3 SAUCES AND CONDIMENTS",
+          "visual_context": "Pointer to a purple-lidded jar of chutney.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "English mustard",
+          "number": "2",
+          "section": "60.3 SAUCES AND CONDIMENTS",
+          "visual_context": "Pointer to a yellow mustard container.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ketchup",
+          "number": "3",
+          "section": "60.3 SAUCES AND CONDIMENTS",
+          "visual_context": "Pointer to a tomato-labeled ketchup bottle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "balsamic vinegar",
+          "number": "4",
+          "section": "60.3 SAUCES AND CONDIMENTS",
+          "visual_context": "Pointer to a dark bottle of balsamic vinegar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "malt vinegar",
+          "number": "5",
+          "section": "60.3 SAUCES AND CONDIMENTS",
+          "visual_context": "Pointer to a brown bottle of malt vinegar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "yellow mustard",
+          "number": "6",
+          "section": "60.3 SAUCES AND CONDIMENTS",
+          "visual_context": "Pointer to a yellow squeeze bottle of mustard.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "oyster sauce",
+          "number": "7",
+          "section": "60.3 SAUCES AND CONDIMENTS",
+          "visual_context": "Pointer to the tall dark bottle at right.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mayonnaise",
+          "number": "8",
+          "section": "60.3 SAUCES AND CONDIMENTS",
+          "visual_context": "Pointer to the blue-lidded mayonnaise jar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "vinegar",
+          "number": "9",
+          "section": "60.3 SAUCES AND CONDIMENTS",
+          "visual_context": "Pointer to a pale bottle with a droplet label.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cider vinegar",
+          "number": "10",
+          "section": "60.3 SAUCES AND CONDIMENTS",
+          "visual_context": "Pointer to an apple-labeled vinegar bottle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hot sauce",
+          "number": "11",
+          "section": "60.3 SAUCES AND CONDIMENTS",
+          "visual_context": "Pointer to a red bottle with a chili-and-flame label.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sweet chilli",
+          "number": "12",
+          "section": "60.3 SAUCES AND CONDIMENTS",
+          "visual_context": "Pointer to a red chili-sauce bottle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wine vinegar",
+          "number": "13",
+          "section": "60.3 SAUCES AND CONDIMENTS",
+          "visual_context": "Pointer to a pale bottle with a grape label.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fish sauce",
+          "number": "14",
+          "section": "60.3 SAUCES AND CONDIMENTS",
+          "visual_context": "Pointer to a bottle with a fish label.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "soy sauce",
+          "number": "15",
+          "section": "60.3 SAUCES AND CONDIMENTS",
+          "visual_context": "Dark sauce bottles at the lower left.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dark",
+          "number": "16",
+          "section": "60.3 SAUCES AND CONDIMENTS",
+          "visual_context": "Pointer to the darker soy-sauce bottle.",
+          "semantic_meaning": "Describes dark soy sauce."
+        },
+        {
+          "source_text": "light",
+          "number": "17",
+          "section": "60.3 SAUCES AND CONDIMENTS",
+          "visual_context": "Pointer to the lighter soy-sauce bottle.",
+          "semantic_meaning": "Describes light soy sauce."
+        },
+        {
+          "source_text": "harissa",
+          "number": "18",
+          "section": "60.3 SAUCES AND CONDIMENTS",
+          "visual_context": "Red jar of harissa.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Dijon mustard",
+          "number": "19",
+          "section": "60.3 SAUCES AND CONDIMENTS",
+          "visual_context": "Yellow jar of Dijon mustard.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "whole-grain (US) wholegrain (UK) mustard",
+          "number": "20",
+          "section": "60.3 SAUCES AND CONDIMENTS",
+          "visual_context": "Jar containing whole-grain mustard.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wasabi",
+          "number": "21",
+          "section": "60.3 SAUCES AND CONDIMENTS",
+          "visual_context": "Small pale-green bottle of wasabi.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dill",
+          "number": "1",
+          "section": "60.4 PICKLES",
+          "visual_context": "Pointer to dill inside the large gherkin jar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gherkin",
+          "number": "2",
+          "section": "60.4 PICKLES",
+          "visual_context": "Pointer to a small cucumber pickle inside the large jar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mustard seeds",
+          "number": "3",
+          "section": "60.4 PICKLES",
+          "visual_context": "Pointer to seeds in the large gherkin jar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sauerkraut",
+          "number": "4",
+          "section": "60.4 PICKLES",
+          "visual_context": "Jar of shredded pale pickled cabbage.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "kimchi",
+          "number": "5",
+          "section": "60.4 PICKLES",
+          "visual_context": "Jar of red fermented vegetables.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lime pickle",
+          "number": "6",
+          "section": "60.4 PICKLES",
+          "visual_context": "Orange jar with a lime label.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pickled onions",
+          "number": "7",
+          "section": "60.4 PICKLES",
+          "visual_context": "Jar containing small pale onions.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pickled beets (US) / beetroot (UK)",
+          "number": "8",
+          "section": "60.4 PICKLES",
+          "visual_context": "Jar containing purple pickled beets.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sandwich pickle",
+          "number": "9",
+          "section": "60.4 PICKLES",
+          "visual_context": "Brown jar with a vegetable label.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "piccalilli",
+          "number": "10",
+          "section": "60.4 PICKLES",
+          "visual_context": "Yellow jar of chopped vegetable pickle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cornichons",
+          "number": "11",
+          "section": "60.4 PICKLES",
+          "visual_context": "Jar of small green pickled cucumbers.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,473 @@
+{
+  "pages": [
+    {
+      "page": 174,
+      "title": "In the office",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "bulletin board (US) notice board (UK)",
+          "number": "1",
+          "section": "82.1 OFFICE",
+          "visual_context": "Wall-mounted board covered with pinned notices.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "files / folders",
+          "number": "2",
+          "section": "82.1 OFFICE",
+          "visual_context": "Upright files and folders on the desk.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lamp",
+          "number": "3",
+          "section": "82.1 OFFICE",
+          "visual_context": "Red adjustable desk lamp.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "computer",
+          "number": "4",
+          "section": "82.1 OFFICE",
+          "visual_context": "Desktop computer monitor on the desk.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "trash can (US) bin (UK)",
+          "number": "5",
+          "section": "82.1 OFFICE",
+          "visual_context": "Waste bin beside the filing cabinet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "paper",
+          "number": "6",
+          "section": "82.1 OFFICE",
+          "visual_context": "Stack of loose sheets on the desk.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "notepad",
+          "number": "7",
+          "section": "82.1 OFFICE",
+          "visual_context": "Small pad of paper on the desk.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sticky notes",
+          "number": "8",
+          "section": "82.1 OFFICE",
+          "visual_context": "Yellow self-adhesive notes beside the computer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "trays",
+          "number": "9",
+          "section": "82.1 OFFICE",
+          "visual_context": "Stacked document trays on the right side of the desk.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "water cooler",
+          "number": "10",
+          "section": "82.1 OFFICE",
+          "visual_context": "Freestanding water dispenser.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "printer",
+          "number": "11",
+          "section": "82.1 OFFICE",
+          "visual_context": "Printer on top of the filing cabinet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "filing cabinet",
+          "number": "12",
+          "section": "82.1 OFFICE",
+          "visual_context": "Cabinet with drawers beneath the printer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "drawer",
+          "number": "13",
+          "section": "82.1 OFFICE",
+          "visual_context": "A pull-out drawer in the filing cabinet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "desk",
+          "number": "14",
+          "section": "82.1 OFFICE",
+          "visual_context": "Main work surface with computer and office supplies.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chair",
+          "number": "15",
+          "section": "82.1 OFFICE",
+          "visual_context": "Blue wheeled office chair.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "workstation",
+          "number": "16",
+          "section": "82.1 OFFICE",
+          "visual_context": "Desk-and-chair computer work area.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "presentation",
+          "number": "1",
+          "section": "82.2 MEETING-ROOM EQUIPMENT",
+          "visual_context": "Displayed material on a projection screen.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "proposal",
+          "number": "2",
+          "section": "82.2 MEETING-ROOM EQUIPMENT",
+          "visual_context": "Document held by a seated meeting participant.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "report",
+          "number": "3",
+          "section": "82.2 MEETING-ROOM EQUIPMENT",
+          "visual_context": "Document held at the meeting table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "digital projector",
+          "number": "4",
+          "section": "82.2 MEETING-ROOM EQUIPMENT",
+          "visual_context": "Projector casting onto a screen.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "meeting",
+          "number": "5",
+          "section": "82.2 MEETING-ROOM EQUIPMENT",
+          "visual_context": "People gathered around a conference table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "flip chart",
+          "number": "6",
+          "section": "82.2 MEETING-ROOM EQUIPMENT",
+          "visual_context": "Presentation board with sheets, showing figures.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "easel",
+          "number": "7",
+          "section": "82.2 MEETING-ROOM EQUIPMENT",
+          "visual_context": "Legged stand supporting the flip chart.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 175,
+      "title": "In the office",
+      "context": "See also: 81 At work; 83 Computers and technology; 91 Industries and departments; 92 Applying for a job; 93 Workplace skills; 95 Meeting and presenting.",
+      "entries": [
+        {
+          "source_text": "At work",
+          "number": "81",
+          "section": "See also:",
+          "visual_context": null,
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Computers and technology",
+          "number": "83",
+          "section": "See also:",
+          "visual_context": null,
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Industries and departments",
+          "number": "91",
+          "section": "See also:",
+          "visual_context": null,
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Applying for a job",
+          "number": "92",
+          "section": "See also:",
+          "visual_context": null,
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Workplace skills",
+          "number": "93",
+          "section": "See also:",
+          "visual_context": null,
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Meeting and presenting",
+          "number": "95",
+          "section": "See also:",
+          "visual_context": null,
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "photocopier",
+          "number": "1",
+          "section": "82.3 OFFICE EQUIPMENT",
+          "visual_context": "Large multifunction copying machine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "scanner",
+          "number": "2",
+          "section": "82.3 OFFICE EQUIPMENT",
+          "visual_context": "Flatbed document scanner with raised lid.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "telephone / phone",
+          "number": "3",
+          "section": "82.3 OFFICE EQUIPMENT",
+          "visual_context": "Desk telephone with handset and keypad.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "laptop",
+          "number": "4",
+          "section": "82.3 OFFICE EQUIPMENT",
+          "visual_context": "Portable computer with open screen.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "projector",
+          "number": "5",
+          "section": "82.3 OFFICE EQUIPMENT",
+          "visual_context": "Device projecting a cone of light.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "headset",
+          "number": "6",
+          "section": "82.3 OFFICE EQUIPMENT",
+          "visual_context": "Headphones with a microphone boom.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shredder",
+          "number": "7",
+          "section": "82.3 OFFICE EQUIPMENT",
+          "visual_context": "Paper-shredding bin with a sheet inserted.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cell phone (US) mobile phone (UK)",
+          "number": "8",
+          "section": "82.3 OFFICE EQUIPMENT",
+          "visual_context": "Handheld touchscreen phone.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "footrest",
+          "number": "9",
+          "section": "82.3 OFFICE EQUIPMENT",
+          "visual_context": "Angled platform for supporting feet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "kneeling chair",
+          "number": "10",
+          "section": "82.3 OFFICE EQUIPMENT",
+          "visual_context": "Ergonomic chair with knee support.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "movable panel",
+          "number": "11",
+          "section": "82.3 OFFICE EQUIPMENT",
+          "visual_context": "Two freestanding partition panels.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stationery",
+          "number": "12",
+          "section": "82.3 OFFICE EQUIPMENT",
+          "visual_context": "Assorted desk supplies, including pens, clips, and pins.",
+          "semantic_meaning": "Writing and office supplies."
+        },
+        {
+          "source_text": "letter",
+          "number": "13",
+          "section": "82.3 OFFICE EQUIPMENT",
+          "visual_context": "Written business letter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "envelope",
+          "number": "14",
+          "section": "82.3 OFFICE EQUIPMENT",
+          "visual_context": "Mailing envelope.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "calendar",
+          "number": "15",
+          "section": "82.3 OFFICE EQUIPMENT",
+          "visual_context": "Month-view desk calendar marked JUNE.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "planner (US) diary (UK)",
+          "number": "16",
+          "section": "82.3 OFFICE EQUIPMENT",
+          "visual_context": "Ring-bound personal scheduling book.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "clipboard",
+          "number": "17",
+          "section": "82.3 OFFICE EQUIPMENT",
+          "visual_context": "Board holding a sheet of paper with a clip.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hole punch",
+          "number": "18",
+          "section": "82.3 OFFICE EQUIPMENT",
+          "visual_context": "Hand-operated paper hole punch.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rubber bands",
+          "number": "19",
+          "section": "82.3 OFFICE EQUIPMENT",
+          "visual_context": "Colored elastic loops.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "binder clip",
+          "number": "20",
+          "section": "82.3 OFFICE EQUIPMENT",
+          "visual_context": "Black metal paper clamp with wire handles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "scissors",
+          "number": "21",
+          "section": "82.3 OFFICE EQUIPMENT",
+          "visual_context": "Pair of cutting scissors.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pencil sharpener",
+          "number": "22",
+          "section": "82.3 OFFICE EQUIPMENT",
+          "visual_context": "Small orange manual pencil sharpener.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stapler",
+          "number": "23",
+          "section": "82.3 OFFICE EQUIPMENT",
+          "visual_context": "Blue desktop stapling tool.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "staples",
+          "number": "24",
+          "section": "82.3 OFFICE EQUIPMENT",
+          "visual_context": "Strip of metal staples beside the stapler.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "correction fluid",
+          "number": "25",
+          "section": "82.3 OFFICE EQUIPMENT",
+          "visual_context": "Bottle with applicator brush for covering writing errors.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "minutes",
+          "number": "26",
+          "section": "82.3 OFFICE EQUIPMENT",
+          "visual_context": "Sheet headed “MINUTES”.",
+          "semantic_meaning": "Written record of a meeting."
+        },
+        {
+          "source_text": "ring binder",
+          "number": "27",
+          "section": "82.3 OFFICE EQUIPMENT",
+          "visual_context": "Folder with metal binder rings.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "highlighter",
+          "number": "28",
+          "section": "82.3 OFFICE EQUIPMENT",
+          "visual_context": "Green marker pen with chisel tip.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "glue",
+          "number": "29",
+          "section": "82.3 OFFICE EQUIPMENT",
+          "visual_context": "Bottle of adhesive.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tape",
+          "number": "30",
+          "section": "82.3 OFFICE EQUIPMENT",
+          "visual_context": "Desktop tape dispenser.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "thumbtack (US) drawing pin (UK)",
+          "number": "31",
+          "section": "82.3 OFFICE EQUIPMENT",
+          "visual_context": "Red pushpins.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pencil",
+          "number": "32",
+          "section": "82.3 OFFICE EQUIPMENT",
+          "visual_context": "Purple wooden pencil.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pen",
+          "number": "33",
+          "section": "82.3 OFFICE EQUIPMENT",
+          "visual_context": "Black ink pen.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "paper clips",
+          "number": "34",
+          "section": "82.3 OFFICE EQUIPMENT",
+          "visual_context": "Loose metal paper clips.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "eraser (US) rubber (UK)",
+          "number": "35",
+          "section": "82.3 OFFICE EQUIPMENT",
+          "visual_context": "Red-and-blue eraser.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ruler",
+          "number": "36",
+          "section": "82.3 OFFICE EQUIPMENT",
+          "visual_context": "Graduated measuring ruler.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

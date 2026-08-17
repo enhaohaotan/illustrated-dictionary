@@ -1,0 +1,410 @@
+{
+  "pages": [
+    {
+      "page": 334,
+      "title": "Insects and bugs",
+      "context": "162.1 BUTTERFLIES AND MOTHS",
+      "entries": [
+        {
+          "source_text": "forewing",
+          "number": "1",
+          "section": "BUTTERFLIES AND MOTHS",
+          "visual_context": "Pointer to the butterfly's upper front wing.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "antenna",
+          "number": "2",
+          "section": "BUTTERFLIES AND MOTHS",
+          "visual_context": "Pointer to one of the butterfly's feelers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "head",
+          "number": "3",
+          "section": "BUTTERFLIES AND MOTHS",
+          "visual_context": "Pointer to the butterfly's head.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "abdomen",
+          "number": "4",
+          "section": "BUTTERFLIES AND MOTHS",
+          "visual_context": "Pointer to the butterfly's long rear body section.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hindwing",
+          "number": "5",
+          "section": "BUTTERFLIES AND MOTHS",
+          "visual_context": "Pointer to the butterfly's lower rear wing.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "butterfly",
+          "number": "6",
+          "section": "BUTTERFLIES AND MOTHS",
+          "visual_context": "Large illustrated butterfly.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cocoon",
+          "number": "7",
+          "section": "BUTTERFLIES AND MOTHS",
+          "visual_context": "Small hanging cocoon illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "caterpillar",
+          "number": "8",
+          "section": "BUTTERFLIES AND MOTHS",
+          "visual_context": "Green caterpillar illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "peacock\nbutterfly",
+          "number": "9",
+          "section": "BUTTERFLIES AND MOTHS",
+          "visual_context": "Illustration of a peacock butterfly with eye-like wing markings.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "monarch\nbutterfly",
+          "number": "10",
+          "section": "BUTTERFLIES AND MOTHS",
+          "visual_context": "Orange-and-black monarch butterfly illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "painted\nlady butterfly",
+          "number": "11",
+          "section": "BUTTERFLIES AND MOTHS",
+          "visual_context": "Painted lady butterfly illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "swallowtail\nbutterfly",
+          "number": "12",
+          "section": "BUTTERFLIES AND MOTHS",
+          "visual_context": "Swallowtail butterfly illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "glasswing\nbutterfly",
+          "number": "13",
+          "section": "BUTTERFLIES AND MOTHS",
+          "visual_context": "Butterfly illustration with transparent-looking pale wings.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cabbage\nwhite butterfly",
+          "number": "14",
+          "section": "BUTTERFLIES AND MOTHS",
+          "visual_context": "Pale cabbage white butterfly illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "peppered\nmoth",
+          "number": "15",
+          "section": "BUTTERFLIES AND MOTHS",
+          "visual_context": "Black-and-white speckled moth illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "luna moth",
+          "number": "16",
+          "section": "BUTTERFLIES AND MOTHS",
+          "visual_context": "Pale green luna moth illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hummingbird\nhawkmoth",
+          "number": "17",
+          "section": "BUTTERFLIES AND MOTHS",
+          "visual_context": "Hummingbird hawkmoth hovering by a flower.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "emperor\nmoth",
+          "number": "18",
+          "section": "BUTTERFLIES AND MOTHS",
+          "visual_context": "Large orange and brown emperor moth illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "atlas moth",
+          "number": "19",
+          "section": "BUTTERFLIES AND MOTHS",
+          "visual_context": "Large patterned atlas moth illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "clothes moth",
+          "number": "20",
+          "section": "BUTTERFLIES AND MOTHS",
+          "visual_context": "Small pale moth illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hawk moth",
+          "number": "21",
+          "section": "BUTTERFLIES AND MOTHS",
+          "visual_context": "Brown and cream hawk moth illustration.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 335,
+      "title": "Insects and bugs",
+      "context": "162.2 OTHER BUGS AND INVERTEBRATES",
+      "entries": [
+        {
+          "source_text": "rhinoceros\nbeetle",
+          "number": "1",
+          "section": "OTHER BUGS AND INVERTEBRATES",
+          "visual_context": "Illustration of a dark beetle with a horn.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stag beetle",
+          "number": "2",
+          "section": "OTHER BUGS AND INVERTEBRATES",
+          "visual_context": "Illustration of a beetle with large mandibles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "weevil",
+          "number": "3",
+          "section": "OTHER BUGS AND INVERTEBRATES",
+          "visual_context": "Red beetle illustration with a long snout.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cockroach",
+          "number": "4",
+          "section": "OTHER BUGS AND INVERTEBRATES",
+          "visual_context": "Brown cockroach illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ladybug (US)\nladybird (UK)",
+          "number": "5",
+          "section": "OTHER BUGS AND INVERTEBRATES",
+          "visual_context": "Red spotted beetle illustration.",
+          "semantic_meaning": "US and UK names for the same insect."
+        },
+        {
+          "source_text": "fly",
+          "number": "6",
+          "section": "OTHER BUGS AND INVERTEBRATES",
+          "visual_context": "Fly illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "grasshopper",
+          "number": "7",
+          "section": "OTHER BUGS AND INVERTEBRATES",
+          "visual_context": "Green grasshopper illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "locust",
+          "number": "8",
+          "section": "OTHER BUGS AND INVERTEBRATES",
+          "visual_context": "Patterned locust illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "leaf insect",
+          "number": "9",
+          "section": "OTHER BUGS AND INVERTEBRATES",
+          "visual_context": "Green leaf-shaped insect illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "praying mantis",
+          "number": "10",
+          "section": "OTHER BUGS AND INVERTEBRATES",
+          "visual_context": "Green praying mantis illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "scorpion",
+          "number": "11",
+          "section": "OTHER BUGS AND INVERTEBRATES",
+          "visual_context": "Scorpion illustration with raised tail and pincers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sting",
+          "number": "12",
+          "section": "OTHER BUGS AND INVERTEBRATES",
+          "visual_context": "Pointer to the scorpion's tail tip.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cricket",
+          "number": "13",
+          "section": "OTHER BUGS AND INVERTEBRATES",
+          "visual_context": "Cricket illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "centipede",
+          "number": "14",
+          "section": "OTHER BUGS AND INVERTEBRATES",
+          "visual_context": "Long many-legged centipede illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "millipede",
+          "number": "15",
+          "section": "OTHER BUGS AND INVERTEBRATES",
+          "visual_context": "Coiled many-legged millipede illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dragonfly",
+          "number": "16",
+          "section": "OTHER BUGS AND INVERTEBRATES",
+          "visual_context": "Dragonfly illustration with outspread wings.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mosquito",
+          "number": "17",
+          "section": "OTHER BUGS AND INVERTEBRATES",
+          "visual_context": "Mosquito illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "worm",
+          "number": "18",
+          "section": "OTHER BUGS AND INVERTEBRATES",
+          "visual_context": "Pink worm illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tarantula",
+          "number": "19",
+          "section": "OTHER BUGS AND INVERTEBRATES",
+          "visual_context": "Large black spider with orange-banded legs.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "black widow\nspider",
+          "number": "20",
+          "section": "OTHER BUGS AND INVERTEBRATES",
+          "visual_context": "Black spider illustration with a red abdominal marking.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "jumping\nspider",
+          "number": "21",
+          "section": "OTHER BUGS AND INVERTEBRATES",
+          "visual_context": "Small patterned jumping spider illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "orb weaver",
+          "number": "22",
+          "section": "OTHER BUGS AND INVERTEBRATES",
+          "visual_context": "Long-legged orb-weaver spider illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "slug",
+          "number": "23",
+          "section": "OTHER BUGS AND INVERTEBRATES",
+          "visual_context": "Shell-less slug illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "snail",
+          "number": "24",
+          "section": "OTHER BUGS AND INVERTEBRATES",
+          "visual_context": "Snail illustration with a spiral shell.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "termite",
+          "number": "25",
+          "section": "OTHER BUGS AND INVERTEBRATES",
+          "visual_context": "Yellow termite illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ant",
+          "number": "26",
+          "section": "OTHER BUGS AND INVERTEBRATES",
+          "visual_context": "Black ant illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bumble bee",
+          "number": "27",
+          "section": "OTHER BUGS AND INVERTEBRATES",
+          "visual_context": "Large fuzzy yellow-and-black bee illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wasp",
+          "number": "28",
+          "section": "OTHER BUGS AND INVERTEBRATES",
+          "visual_context": "Yellow-and-black wasp illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "honey bee",
+          "number": "29",
+          "section": "OTHER BUGS AND INVERTEBRATES",
+          "visual_context": "Striped honey bee illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to sting",
+          "number": "30",
+          "section": "OTHER BUGS AND INVERTEBRATES",
+          "visual_context": "Person reacting to a bee sting.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to fly",
+          "number": "31",
+          "section": "OTHER BUGS AND INVERTEBRATES",
+          "visual_context": "Bee flying.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to buzz",
+          "number": "32",
+          "section": "OTHER BUGS AND INVERTEBRATES",
+          "visual_context": "Bee shown with radiating zigzag sound lines.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wasp nest",
+          "number": "33",
+          "section": "OTHER BUGS AND INVERTEBRATES",
+          "visual_context": "Hanging paper wasp nest illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "beehive",
+          "number": "34",
+          "section": "OTHER BUGS AND INVERTEBRATES",
+          "visual_context": "Golden beehive illustration with a bee at its entrance.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "swarm",
+          "number": "35",
+          "section": "OTHER BUGS AND INVERTEBRATES",
+          "visual_context": "Large group of flying insects.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

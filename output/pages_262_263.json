@@ -1,0 +1,403 @@
+{
+  "pages": [
+    {
+      "page": 262,
+      "title": "On stage",
+      "context": "126.1 THEATER (US) / THEATRE (UK)",
+      "entries": [
+        {
+          "source_text": "performer",
+          "number": "1",
+          "section": "THEATER (US) / THEATRE (UK)",
+          "visual_context": "Person performing on the stage.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "set",
+          "number": "2",
+          "section": "THEATER (US) / THEATRE (UK)",
+          "visual_context": "The stage scenery behind the performer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "curtain",
+          "number": "3",
+          "section": "THEATER (US) / THEATRE (UK)",
+          "visual_context": "Large red stage drape.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "balcony (US) / grand circle (UK)",
+          "number": "4",
+          "section": "THEATER (US) / THEATRE (UK)",
+          "visual_context": "Upper-level audience seating at the side.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "box",
+          "number": "5",
+          "section": "THEATER (US) / THEATRE (UK)",
+          "visual_context": "Private side seating compartment.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wings",
+          "number": "6",
+          "section": "THEATER (US) / THEATRE (UK)",
+          "visual_context": "Side area beside the stage behind the curtain.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stage",
+          "number": "7",
+          "section": "THEATER (US) / THEATRE (UK)",
+          "visual_context": "Main raised performance area.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "orchestra pit",
+          "number": "8",
+          "section": "THEATER (US) / THEATRE (UK)",
+          "visual_context": "Sunken area in front of the stage for musicians.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "orchestra seating (US) / stalls (UK)",
+          "number": "9",
+          "section": "THEATER (US) / THEATRE (UK)",
+          "visual_context": "Main ground-floor audience seating.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mezzanine (US) dress circle (UK)",
+          "number": "10",
+          "section": "THEATER (US) / THEATRE (UK)",
+          "visual_context": "Intermediate elevated audience seating level.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "aisle",
+          "number": "11",
+          "section": "THEATER (US) / THEATRE (UK)",
+          "visual_context": "Passage between blocks of seats.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "seating",
+          "number": "12",
+          "section": "THEATER (US) / THEATRE (UK)",
+          "visual_context": "Individual audience seats.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "theater (US) theatre (UK)",
+          "number": "13",
+          "section": "THEATER (US) / THEATRE (UK)",
+          "visual_context": "The whole theater auditorium.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "audience",
+          "number": "14",
+          "section": "THEATER (US) / THEATRE (UK)",
+          "visual_context": "People watching the performance.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "row",
+          "number": "15",
+          "section": "THEATER (US) / THEATRE (UK)",
+          "visual_context": "Horizontal line of audience seats.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "play",
+          "number": "16",
+          "section": "THEATER (US) / THEATRE (UK)",
+          "visual_context": "Dramatic performance on a stage.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "costumes",
+          "number": "17",
+          "section": "THEATER (US) / THEATRE (UK)",
+          "visual_context": "Actors' theatrical clothing.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "props",
+          "number": "18",
+          "section": "THEATER (US) / THEATRE (UK)",
+          "visual_context": "Objects used in a theatrical production.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sets",
+          "number": "19",
+          "section": "THEATER (US) / THEATRE (UK)",
+          "visual_context": "Stage scenery and furnishings.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "backdrop",
+          "number": "20",
+          "section": "THEATER (US) / THEATRE (UK)",
+          "visual_context": "Scenic background behind the stage.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "script",
+          "number": "21",
+          "section": "THEATER (US) / THEATRE (UK)",
+          "visual_context": "Written text for a production.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "producer",
+          "number": "22",
+          "section": "THEATER (US) / THEATRE (UK)",
+          "visual_context": "Person associated with planning and financing a production.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "director",
+          "number": "23",
+          "section": "THEATER (US) / THEATRE (UK)",
+          "visual_context": "Person directing from a folding chair with a megaphone.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "actor",
+          "number": "24",
+          "section": "THEATER (US) / THEATRE (UK)",
+          "visual_context": "Performer holding a theatrical mask.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cast",
+          "number": "25",
+          "section": "THEATER (US) / THEATRE (UK)",
+          "visual_context": "Group of performers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "opening night",
+          "number": "26",
+          "section": "THEATER (US) / THEATRE (UK)",
+          "visual_context": "Theater entrance with a waiting crowd.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "intermission (US) interval (UK)",
+          "number": "27",
+          "section": "THEATER (US) / THEATRE (UK)",
+          "visual_context": "Audience leaving the auditorium during a break.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 263,
+      "title": "On stage",
+      "context": "126.2 BALLET; 126.3 OPERA",
+      "entries": [
+        {
+          "source_text": "program (US) programme (UK)",
+          "number": "28",
+          "section": "THEATER (US) / THEATRE (UK)",
+          "visual_context": "Printed theater booklet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "usher",
+          "number": "29",
+          "section": "THEATER (US) / THEATRE (UK)",
+          "visual_context": "Staff member showing theatergoers to their seats.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tragedy",
+          "number": "30",
+          "section": "THEATER (US) / THEATRE (UK)",
+          "visual_context": "Theatrical scene with a distressed figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "comedy",
+          "number": "31",
+          "section": "THEATER (US) / THEATRE (UK)",
+          "visual_context": "Smiling theatrical mask.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "musical",
+          "number": "32",
+          "section": "THEATER (US) / THEATRE (UK)",
+          "visual_context": "Stage performers with musical notes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "standing ovation",
+          "number": "33",
+          "section": "THEATER (US) / THEATRE (UK)",
+          "visual_context": "Audience standing and applauding.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "arm",
+          "number": "1",
+          "section": "BALLET",
+          "visual_context": "Ballerina's raised arm.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "knee",
+          "number": "2",
+          "section": "BALLET",
+          "visual_context": "Ballerina's bent knee.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "toe box",
+          "number": "3",
+          "section": "BALLET",
+          "visual_context": "Reinforced front end of a pointe shoe.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to pirouette / to turn",
+          "number": "4",
+          "section": "BALLET",
+          "visual_context": "Ballerina rotating, indicated by circular arrows.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to plié / to bend",
+          "number": "5",
+          "section": "BALLET",
+          "visual_context": "Ballet dancer bending the knees.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "male ballet dancer",
+          "number": "6",
+          "section": "BALLET",
+          "visual_context": "Male dancer in a ballet pose.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ballerina",
+          "number": "7",
+          "section": "BALLET",
+          "visual_context": "Female ballet dancer in a pose.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tutu",
+          "number": "8",
+          "section": "BALLET",
+          "visual_context": "Short, flared ballet skirt.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ballet leotard",
+          "number": "9",
+          "section": "BALLET",
+          "visual_context": "Close-fitting ballet garment.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ballet shoes",
+          "number": "10",
+          "section": "BALLET",
+          "visual_context": "Pair of ballet shoes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "performance",
+          "number": "11",
+          "section": "BALLET",
+          "visual_context": "Ballerina performing onstage before an audience.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "encore",
+          "number": "12",
+          "section": "BALLET",
+          "visual_context": "Performers returning to the stage before an audience.",
+          "semantic_meaning": "An additional performance requested by the audience."
+        },
+        {
+          "source_text": "applause",
+          "number": "13",
+          "section": "BALLET",
+          "visual_context": "Clapping hands.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bass",
+          "number": "1",
+          "section": "OPERA",
+          "visual_context": "Low-voiced male singer.",
+          "semantic_meaning": "Lowest male singing voice."
+        },
+        {
+          "source_text": "baritone",
+          "number": "2",
+          "section": "OPERA",
+          "visual_context": "Male singer.",
+          "semantic_meaning": "Male singing voice between bass and tenor."
+        },
+        {
+          "source_text": "tenor",
+          "number": "3",
+          "section": "OPERA",
+          "visual_context": "High-voiced male singer.",
+          "semantic_meaning": "Highest common adult male singing voice."
+        },
+        {
+          "source_text": "opera house",
+          "number": "4",
+          "section": "OPERA",
+          "visual_context": "Large opera building.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "alto",
+          "number": "5",
+          "section": "OPERA",
+          "visual_context": "Low-voiced singer.",
+          "semantic_meaning": "Low singing voice, especially female."
+        },
+        {
+          "source_text": "mezzo-soprano",
+          "number": "6",
+          "section": "OPERA",
+          "visual_context": "Female singer.",
+          "semantic_meaning": "Female singing voice between alto and soprano."
+        },
+        {
+          "source_text": "soprano",
+          "number": "7",
+          "section": "OPERA",
+          "visual_context": "High-voiced female singer.",
+          "semantic_meaning": "Highest female singing voice."
+        },
+        {
+          "source_text": "prima donna",
+          "number": "8",
+          "section": "OPERA",
+          "visual_context": "Leading female opera performer.",
+          "semantic_meaning": "Principal female singer in an opera."
+        },
+        {
+          "source_text": "libretto",
+          "number": "9",
+          "section": "OPERA",
+          "visual_context": "Opera singer holding a written booklet.",
+          "semantic_meaning": "The text or script of an opera."
+        }
+      ]
+    }
+  ]
+}

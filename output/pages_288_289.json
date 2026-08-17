@@ -1,0 +1,431 @@
+{
+  "pages": [
+    {
+      "page": 288,
+      "title": "Fantasy and myth",
+      "context": "139.1 MYTHS, STORIES, AND FANTASTIC CREATURES",
+      "entries": [
+        {
+          "source_text": "fairy tale",
+          "number": "1",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Open storybook showing a princess, knight, castle, and dragon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Once upon a time in a land far away...",
+          "number": "2",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Speech bubble above the fairy-tale scene.",
+          "semantic_meaning": "Traditional opening phrase for a fairy tale."
+        },
+        {
+          "source_text": "unicorn",
+          "number": "3",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "White horse-like creature with a single horn.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "spell book",
+          "number": "4",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Open book with magical writing.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wand",
+          "number": "5",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Stick held over the spell book.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to cast a spell",
+          "number": "6",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Hand using a wand with sparkles.",
+          "semantic_meaning": "To perform magic."
+        },
+        {
+          "source_text": "cauldron",
+          "number": "7",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Large pot of bubbling green liquid.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "witches’ brew",
+          "number": "8",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Bubbling mixture inside the cauldron.",
+          "semantic_meaning": "A witch's magical mixture."
+        },
+        {
+          "source_text": "crystal ball",
+          "number": "9",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Glowing blue ball on a stand.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "potion",
+          "number": "10",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Small corked bottle containing green and blue liquid.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "candle magic",
+          "number": "11",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Lit candle with magical sparkles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Greek mythology",
+          "number": "12",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Hero fighting the Minotaur.",
+          "semantic_meaning": "Myths from ancient Greece."
+        },
+        {
+          "source_text": "Minotaur",
+          "number": "13",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Bull-headed human creature confronting the hero.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hero",
+          "number": "14",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Armoured figure with sword and shield fighting the Minotaur.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "elixir",
+          "number": "15",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Bottle of sparkling purple liquid.",
+          "semantic_meaning": "A magical or medicinal drink."
+        },
+        {
+          "source_text": "amulet",
+          "number": "16",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Sparkling pendant on a chain.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wizard",
+          "number": "17",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Bearded man in a purple pointed hat and robe.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "staff",
+          "number": "18",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Wizard's long stick topped with a globe.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "quest",
+          "number": "19",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Map with a dotted route across an island.",
+          "semantic_meaning": "A long search or adventurous journey."
+        },
+        {
+          "source_text": "treasure",
+          "number": "20",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Open chest full of coins, jewels, and a crown.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "flying carpet",
+          "number": "21",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Person standing on a carpet flying through the air.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "genie",
+          "number": "22",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Green magical figure emerging from a lamp.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lamp",
+          "number": "23",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Golden genie lamp.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 289,
+      "title": "Fantasy and myth",
+      "context": "139.1 MYTHS, STORIES, AND FANTASTIC CREATURES",
+      "entries": [
+        {
+          "source_text": "sea serpent",
+          "number": "24",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Long-necked serpent rising from the sea.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Hugin and Munin",
+          "number": "25",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Two ravens.",
+          "semantic_meaning": "The two ravens in Norse mythology."
+        },
+        {
+          "source_text": "the Disir",
+          "number": "26",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Three robed female figures holding staffs.",
+          "semantic_meaning": "Female spirits in Norse mythology."
+        },
+        {
+          "source_text": "monster",
+          "number": "27",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Horned, fanged creature with raised arms.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "zombie",
+          "number": "28",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Three shambling human-like figures.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "werewolf",
+          "number": "29",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Wolf-headed human figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "vampire",
+          "number": "30",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Cloaked figure with bats above.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ghost",
+          "number": "31",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Floating white shape frightening two people.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "jack-o’-lantern",
+          "number": "32",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Carved pumpkin with a glowing face.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dragon",
+          "number": "33",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Winged fire-breathing reptile.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "knight",
+          "number": "34",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Armoured figure holding a sword and shield.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "witch",
+          "number": "35",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Pointed-hat figure riding a broomstick.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "broomstick",
+          "number": "36",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Broom beneath the flying witch.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fairy",
+          "number": "37",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Winged figure surrounded by stars.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pixie",
+          "number": "38",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Small winged figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "faun",
+          "number": "39",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Human-like figure with animal legs playing a flute.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gnome",
+          "number": "40",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Small bearded figure in a pointed hat.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "leprechaun",
+          "number": "41",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Small figure in a tall hat.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gremlin",
+          "number": "42",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Small horned creature with a tail.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "goblin",
+          "number": "43",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Small pointed-eared creature.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "troll",
+          "number": "44",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Large human-like creature holding a club.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ogre",
+          "number": "45",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Large broad-shouldered human-like creature.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "orc",
+          "number": "46",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Armoured creature holding an axe.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "giant",
+          "number": "47",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Huge human figure beside two tiny people.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "elf",
+          "number": "48",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Pointed-eared figure holding a bow.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dwarf",
+          "number": "49",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Short figure holding a hammer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mermaid",
+          "number": "50",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Female figure with a fish tail.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "merman",
+          "number": "51",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Male figure with a fish tail holding a trident.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "phoenix",
+          "number": "52",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Large winged bird.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "griffin",
+          "number": "53",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Creature with an eagle head and wings and a lion body.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hydra",
+          "number": "54",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Serpent-like creature with multiple heads.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "centaur",
+          "number": "55",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Horse-bodied figure shooting a bow.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sphinx",
+          "number": "56",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Winged lion-like creature with a human head.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Cerberus",
+          "number": "57",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Three-headed dog.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bad robot",
+          "number": "58",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Menacing robot with clawed arms.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "alien",
+          "number": "59",
+          "section": "MYTHS, STORIES, AND FANTASTIC CREATURES",
+          "visual_context": "Figure beneath a flying saucer.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

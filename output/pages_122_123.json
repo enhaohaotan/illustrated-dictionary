@@ -1,0 +1,452 @@
+{
+  "pages": [
+    {
+      "page": 122,
+      "title": "Vegetables",
+      "context": "55.1 VEGETABLES",
+      "entries": [
+        {
+          "source_text": "fava beans (US)\nbroad beans (UK)",
+          "number": "1",
+          "section": "55.1 VEGETABLES",
+          "visual_context": "Illustration of broad green bean pods and pale beans.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "runner beans",
+          "number": "2",
+          "section": "55.1 VEGETABLES",
+          "visual_context": "Illustration of long green runner bean pods.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "green beans /\nFrench beans (UK)",
+          "number": "3",
+          "section": "55.1 VEGETABLES",
+          "visual_context": "Illustration of thin green beans.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dried beans",
+          "number": "4",
+          "section": "55.1 VEGETABLES",
+          "visual_context": "Illustration of assorted dried beans.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "celery",
+          "number": "5",
+          "section": "55.1 VEGETABLES",
+          "visual_context": "Illustration of celery stalks with leafy tops.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "garden peas",
+          "number": "7",
+          "section": "55.1 VEGETABLES",
+          "visual_context": "Illustration of an opened pea pod.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pod",
+          "number": "8",
+          "section": "55.1 VEGETABLES",
+          "visual_context": "Pointer to the outer casing of the opened garden pea.",
+          "semantic_meaning": "The case surrounding peas."
+        },
+        {
+          "source_text": "pea",
+          "number": "9",
+          "section": "55.1 VEGETABLES",
+          "visual_context": "Pointer to an individual round pea inside the pod.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mangetout",
+          "number": "10",
+          "section": "55.1 VEGETABLES",
+          "visual_context": "Illustration of flat edible-pod peas.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "okra",
+          "number": "11",
+          "section": "55.1 VEGETABLES",
+          "visual_context": "Illustration of green okra pods, including cut ends.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bamboo",
+          "number": "12",
+          "section": "55.1 VEGETABLES",
+          "visual_context": "Illustration of pale bamboo shoots.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bean sprouts",
+          "number": "13",
+          "section": "55.1 VEGETABLES",
+          "visual_context": "Illustration of bean sprouts in a dish.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chicory",
+          "number": "15",
+          "section": "55.1 VEGETABLES",
+          "visual_context": "Illustration of pale chicory leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fennel",
+          "number": "16",
+          "section": "55.1 VEGETABLES",
+          "visual_context": "Illustration of a fennel bulb with stalks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "palm hearts",
+          "number": "17",
+          "section": "55.1 VEGETABLES",
+          "visual_context": "Illustration of cut white palm hearts.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "baby corn (US)\nbaby sweetcorn (UK)",
+          "number": "18",
+          "section": "55.1 VEGETABLES",
+          "visual_context": "Illustration of small yellow corn cobs.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "kernel",
+          "number": "19",
+          "section": "55.1 VEGETABLES",
+          "visual_context": "Pointer to an individual grain on the corn cob.",
+          "semantic_meaning": "An individual grain of corn."
+        },
+        {
+          "source_text": "corn /\nsweetcorn (UK)",
+          "number": "20",
+          "section": "55.1 VEGETABLES",
+          "visual_context": "Illustration of ears of corn with green husks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "endive",
+          "number": "23",
+          "section": "55.1 VEGETABLES",
+          "visual_context": "Illustration of pale endive leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dandelion",
+          "number": "24",
+          "section": "55.1 VEGETABLES",
+          "visual_context": "Illustration of dandelion greens.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Swiss chard",
+          "number": "25",
+          "section": "55.1 VEGETABLES",
+          "visual_context": "Illustration of chard leaves with red and pale stems.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "kale",
+          "number": "26",
+          "section": "55.1 VEGETABLES",
+          "visual_context": "Illustration of a bunch of curly kale.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sorrel",
+          "number": "27",
+          "section": "55.1 VEGETABLES",
+          "visual_context": "Illustration of veined sorrel leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "spinach",
+          "number": "28",
+          "section": "55.1 VEGETABLES",
+          "visual_context": "Illustration of spinach leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bok choi (US)\npak-choi (UK)",
+          "number": "31",
+          "section": "55.1 VEGETABLES",
+          "visual_context": "Illustration of bok choi with pale stalks and dark leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "kohlrabi",
+          "number": "32",
+          "section": "55.1 VEGETABLES",
+          "visual_context": "Illustration of a round kohlrabi bulb with stems.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Brussels sprouts",
+          "number": "33",
+          "section": "55.1 VEGETABLES",
+          "visual_context": "Illustration of small round Brussels sprouts.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "spring greens",
+          "number": "34",
+          "section": "55.1 VEGETABLES",
+          "visual_context": "Illustration of a leafy green vegetable.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "broccoli",
+          "number": "35",
+          "section": "55.1 VEGETABLES",
+          "visual_context": "Large illustration of a broccoli head.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stalk",
+          "number": "36",
+          "section": "55.1 VEGETABLES",
+          "visual_context": "Pointer to the thick pale stem of the broccoli.",
+          "semantic_meaning": "The main stem of the broccoli."
+        },
+        {
+          "source_text": "floret",
+          "number": "37",
+          "section": "55.1 VEGETABLES",
+          "visual_context": "Pointer to one of the broccoli's green flowering heads.",
+          "semantic_meaning": "A small flowering head of broccoli."
+        },
+        {
+          "source_text": "leaf",
+          "number": "38",
+          "section": "55.1 VEGETABLES",
+          "visual_context": "Pointer to a green broccoli leaf.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 123,
+      "title": "SALAD VEGETABLES",
+      "context": "Continuation of 55.1 VEGETABLES and 55.2 SALAD VEGETABLES",
+      "entries": [
+        {
+          "source_text": "Cooking",
+          "number": "29",
+          "section": "See also:",
+          "visual_context": "Reference listed in the boxed “See also:” panel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Drinking and eating",
+          "number": "52",
+          "section": "See also:",
+          "visual_context": "Reference listed in the boxed “See also:” panel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Vegetables (continued)",
+          "number": "56",
+          "section": "See also:",
+          "visual_context": "Reference listed in the boxed “See also:” panel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Fruit",
+          "number": "57",
+          "section": "See also:",
+          "visual_context": "Reference listed in the boxed “See also:” panel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Fruit and nuts",
+          "number": "58",
+          "section": "See also:",
+          "visual_context": "Reference listed in the boxed “See also:” panel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Herbs and spices",
+          "number": "59",
+          "section": "See also:",
+          "visual_context": "Reference listed in the boxed “See also:” panel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "At the restaurant",
+          "number": "69",
+          "section": "See also:",
+          "visual_context": "Reference listed in the boxed “See also:” panel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Lunch and dinner",
+          "number": "72",
+          "section": "See also:",
+          "visual_context": "Reference listed in the boxed “See also:” panel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "collards",
+          "number": "6",
+          "section": "55.1 VEGETABLES",
+          "visual_context": "Large illustration of collard leaves on the left continuation page.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "savoy cabbage",
+          "number": "14",
+          "section": "55.1 VEGETABLES",
+          "visual_context": "Illustration of crinkled savoy cabbage leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cabbage",
+          "number": "21",
+          "section": "55.1 VEGETABLES",
+          "visual_context": "Illustration of a pale green cabbage.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "red cabbage",
+          "number": "22",
+          "section": "55.1 VEGETABLES",
+          "visual_context": "Illustration of a purple-red cabbage.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cavolo nero",
+          "number": "29",
+          "section": "55.1 VEGETABLES",
+          "visual_context": "Illustration of dark narrow leafy greens.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "beet greens (US)\nbeet leaves (UK)",
+          "number": "30",
+          "section": "55.1 VEGETABLES",
+          "visual_context": "Illustration of leafy beet greens with pink stems.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "organic vegetables",
+          "number": "39",
+          "section": "55.1 VEGETABLES",
+          "visual_context": "Crossed-out pesticide-sprayer symbol beside a leafy vegetable.",
+          "semantic_meaning": "Vegetables grown without synthetic pesticides."
+        },
+        {
+          "source_text": "pesticides",
+          "number": "40",
+          "section": "55.1 VEGETABLES",
+          "visual_context": "Pointer to the pesticide sprayer in the crossed-out symbol.",
+          "semantic_meaning": "Chemicals used to kill pests."
+        },
+        {
+          "source_text": "cress",
+          "number": "1",
+          "section": "55.2 SALAD VEGETABLES",
+          "visual_context": "Illustration of cress growing on a mat.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "arugula (US)\nrocket (UK)",
+          "number": "2",
+          "section": "55.2 SALAD VEGETABLES",
+          "visual_context": "Illustration of a sprig of arugula leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "iceberg lettuce",
+          "number": "3",
+          "section": "55.2 SALAD VEGETABLES",
+          "visual_context": "Illustration of a round iceberg lettuce.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "romaine\nlettuce",
+          "number": "4",
+          "section": "55.2 SALAD VEGETABLES",
+          "visual_context": "Illustration of upright romaine lettuce leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "little gem",
+          "number": "5",
+          "section": "55.2 SALAD VEGETABLES",
+          "visual_context": "Illustration of a small lettuce head.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "spring onion",
+          "number": "6",
+          "section": "55.2 SALAD VEGETABLES",
+          "visual_context": "Illustration of long spring onions.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cherry\ntomatoes",
+          "number": "7",
+          "section": "55.2 SALAD VEGETABLES",
+          "visual_context": "Illustration of a vine of small red tomatoes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cucumber",
+          "number": "8",
+          "section": "55.2 SALAD VEGETABLES",
+          "visual_context": "Illustration of a cucumber with cut slices.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "frisée",
+          "number": "9",
+          "section": "55.2 SALAD VEGETABLES",
+          "visual_context": "Illustration of curly frisée leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "watercress",
+          "number": "10",
+          "section": "55.2 SALAD VEGETABLES",
+          "visual_context": "Illustration of watercress stems and rounded leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "radicchio",
+          "number": "11",
+          "section": "55.2 SALAD VEGETABLES",
+          "visual_context": "Illustration of purple radicchio leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lettuce",
+          "number": "12",
+          "section": "55.2 SALAD VEGETABLES",
+          "visual_context": "Illustration of a green lettuce head.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Vegetables are a\ngreat source of vitamins\nand minerals.",
+          "number": "13",
+          "section": "55.2 SALAD VEGETABLES",
+          "visual_context": "Speech bubble above people eating salads.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "salad",
+          "number": "14",
+          "section": "55.2 SALAD VEGETABLES",
+          "visual_context": "Pointer to a bowl of salad on the table.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,424 @@
+{
+  "pages": [
+    {
+      "page": 102,
+      "title": "The bank and post office",
+      "context": "45.1 BANK",
+      "entries": [
+        {
+          "source_text": "branch manager",
+          "number": "1",
+          "section": "BANK",
+          "visual_context": "Pointer to the suited man standing behind the bank counter.",
+          "semantic_meaning": "manager of a bank branch"
+        },
+        {
+          "source_text": "cashier",
+          "number": "2",
+          "section": "BANK",
+          "visual_context": "Pointer to the employee seated behind the bank counter.",
+          "semantic_meaning": "bank employee who handles customer transactions"
+        },
+        {
+          "source_text": "I’d like to pay $400 into my savings account.",
+          "number": "3",
+          "section": "BANK",
+          "visual_context": "Speech bubble from a customer at the counter.",
+          "semantic_meaning": "request to deposit money into a savings account"
+        },
+        {
+          "source_text": "to pay in",
+          "number": "4",
+          "section": "BANK",
+          "visual_context": "Pointer to the customer handing money across the counter.",
+          "semantic_meaning": "to deposit money into an account"
+        },
+        {
+          "source_text": "counter",
+          "number": "5",
+          "section": "BANK",
+          "visual_context": "Pointer to the long service desk in the bank.",
+          "semantic_meaning": "service desk in a bank"
+        },
+        {
+          "source_text": "customer",
+          "number": "6",
+          "section": "BANK",
+          "visual_context": "Pointer to the person standing at the bank counter.",
+          "semantic_meaning": "person using the bank's services"
+        },
+        {
+          "source_text": "credit card",
+          "number": "7",
+          "section": "BANK",
+          "visual_context": "Illustration of a red payment card.",
+          "semantic_meaning": "card allowing purchases on credit"
+        },
+        {
+          "source_text": "debit card",
+          "number": "8",
+          "section": "BANK",
+          "visual_context": "Illustration of a blue payment card.",
+          "semantic_meaning": "card that takes payment directly from a bank account"
+        },
+        {
+          "source_text": "amount",
+          "number": "9",
+          "section": "BANK",
+          "visual_context": "Pointer to the monetary value field on a check.",
+          "semantic_meaning": "sum of money"
+        },
+        {
+          "source_text": "signature",
+          "number": "10",
+          "section": "BANK",
+          "visual_context": "Pointer to the signed line on a check, beside a pen.",
+          "semantic_meaning": "written name confirming authorization"
+        },
+        {
+          "source_text": "account number",
+          "number": "11",
+          "section": "BANK",
+          "visual_context": "Pointer to the long number printed along the bottom of a check.",
+          "semantic_meaning": "number identifying a bank account"
+        },
+        {
+          "source_text": "check (US)\ncheque (UK)",
+          "number": "12",
+          "section": "BANK",
+          "visual_context": "Illustration of a completed check with a pen.",
+          "semantic_meaning": "written order instructing a bank to pay money"
+        },
+        {
+          "source_text": "savings account",
+          "number": "13",
+          "section": "BANK",
+          "visual_context": "Piggy bank illustration.",
+          "semantic_meaning": "bank account for saving money"
+        },
+        {
+          "source_text": "savings",
+          "number": "14",
+          "section": "BANK",
+          "visual_context": "Person thinking about a jar of money.",
+          "semantic_meaning": "money kept rather than spent"
+        },
+        {
+          "source_text": "checking account (US)\ncurrent account (UK)",
+          "number": "15",
+          "section": "BANK",
+          "visual_context": "Mobile banking image with money moving in and out.",
+          "semantic_meaning": "account used for everyday payments"
+        },
+        {
+          "source_text": "direct debit",
+          "number": "16",
+          "section": "BANK",
+          "visual_context": "Money shown moving automatically from an account to organizations.",
+          "semantic_meaning": "automatic bank payment to an organization"
+        },
+        {
+          "source_text": "bank statement",
+          "number": "17",
+          "section": "BANK",
+          "visual_context": "Printed account statement illustration.",
+          "semantic_meaning": "record of transactions and balance"
+        },
+        {
+          "source_text": "in the black / in credit",
+          "number": "18",
+          "section": "BANK",
+          "visual_context": "Statement illustration showing a positive balance of 350.50.",
+          "semantic_meaning": "having money remaining in an account"
+        },
+        {
+          "source_text": "in the red / in debt",
+          "number": "19",
+          "section": "BANK",
+          "visual_context": "Statement illustration showing a negative balance of -125.50.",
+          "semantic_meaning": "owing money; having a negative balance"
+        },
+        {
+          "source_text": "overdraft",
+          "number": "20",
+          "section": "BANK",
+          "visual_context": "Statement illustration with a negative balance and an overdraft limit.",
+          "semantic_meaning": "permission to spend more than the account balance"
+        },
+        {
+          "source_text": "online banking",
+          "number": "21",
+          "section": "BANK",
+          "visual_context": "Computer displaying a banking website.",
+          "semantic_meaning": "banking services accessed on the internet"
+        },
+        {
+          "source_text": "interest rate",
+          "number": "22",
+          "section": "BANK",
+          "visual_context": "Bag of money with coins.",
+          "semantic_meaning": "percentage charged or paid on money"
+        },
+        {
+          "source_text": "bank loan",
+          "number": "23",
+          "section": "BANK",
+          "visual_context": "Bank building with an arrow toward cash.",
+          "semantic_meaning": "money borrowed from a bank"
+        },
+        {
+          "source_text": "mortgage",
+          "number": "24",
+          "section": "BANK",
+          "visual_context": "House shown with money.",
+          "semantic_meaning": "loan used to buy property"
+        },
+        {
+          "source_text": "to withdraw money",
+          "number": "25",
+          "section": "BANK",
+          "visual_context": "Hand taking cash from a cash machine.",
+          "semantic_meaning": "to take money out of a bank account"
+        },
+        {
+          "source_text": "to transfer money",
+          "number": "26",
+          "section": "BANK",
+          "visual_context": "Money shown moving between two mobile banking devices.",
+          "semantic_meaning": "to move money from one account to another"
+        }
+      ]
+    },
+    {
+      "page": 103,
+      "title": null,
+      "context": "45.2 MONEY; 45.3 POST OFFICE",
+      "entries": [
+        {
+          "source_text": "currency",
+          "number": "1",
+          "section": "MONEY",
+          "visual_context": "Illustration of banknotes and different forms of money.",
+          "semantic_meaning": "money used in a country"
+        },
+        {
+          "source_text": "coins",
+          "number": "2",
+          "section": "MONEY",
+          "visual_context": "Illustration of assorted coins.",
+          "semantic_meaning": "small metal units of money"
+        },
+        {
+          "source_text": "bills (US)\nnotes (UK)",
+          "number": "3",
+          "section": "MONEY",
+          "visual_context": "Stack of paper banknotes.",
+          "semantic_meaning": "paper money"
+        },
+        {
+          "source_text": "PIN",
+          "number": "4",
+          "section": "MONEY",
+          "visual_context": "Pointer to masked digits on a card machine display.",
+          "semantic_meaning": "personal identification number"
+        },
+        {
+          "source_text": "card machine",
+          "number": "5",
+          "section": "MONEY",
+          "visual_context": "Electronic payment terminal with a card inserted.",
+          "semantic_meaning": "device for taking card payments"
+        },
+        {
+          "source_text": "screen",
+          "number": "6",
+          "section": "MONEY",
+          "visual_context": "Pointer to the display of a cash machine.",
+          "semantic_meaning": "display panel"
+        },
+        {
+          "source_text": "keypad",
+          "number": "7",
+          "section": "MONEY",
+          "visual_context": "Pointer to the numbered buttons of a cash machine.",
+          "semantic_meaning": "set of buttons for entering numbers"
+        },
+        {
+          "source_text": "cash machine / ATM",
+          "number": "8",
+          "section": "MONEY",
+          "visual_context": "Illustration of an automated cash machine.",
+          "semantic_meaning": "machine for withdrawing cash and banking transactions"
+        },
+        {
+          "source_text": "exchange rate",
+          "number": "9",
+          "section": "MONEY",
+          "visual_context": "Currency-symbol board with arrows between currencies.",
+          "semantic_meaning": "value of one currency in relation to another"
+        },
+        {
+          "source_text": "to change money",
+          "number": "10",
+          "section": "MONEY",
+          "visual_context": "Pointer to a customer at a currency-exchange counter.",
+          "semantic_meaning": "to exchange one currency for another"
+        },
+        {
+          "source_text": "Can I change this into euros, please?",
+          "number": "11",
+          "section": "MONEY",
+          "visual_context": "Speech bubble from a customer handing money to the exchange clerk.",
+          "semantic_meaning": "request to exchange money for euros"
+        },
+        {
+          "source_text": "currency exchange (US)\nbureau de change (UK)",
+          "number": "12",
+          "section": "MONEY",
+          "visual_context": "Currency-exchange counter with customer and clerk.",
+          "semantic_meaning": "place where currencies are exchanged"
+        },
+        {
+          "source_text": "postal worker",
+          "number": "1",
+          "section": "POST OFFICE",
+          "visual_context": "Worker standing behind a post-office counter.",
+          "semantic_meaning": "person employed by the postal service"
+        },
+        {
+          "source_text": "scales",
+          "number": "2",
+          "section": "POST OFFICE",
+          "visual_context": "Parcel placed on weighing scales.",
+          "semantic_meaning": "device for measuring weight"
+        },
+        {
+          "source_text": "letter",
+          "number": "3",
+          "section": "POST OFFICE",
+          "visual_context": "Illustration of a written letter.",
+          "semantic_meaning": "written message sent by post"
+        },
+        {
+          "source_text": "postmark",
+          "number": "4",
+          "section": "POST OFFICE",
+          "visual_context": "Pointer to the circular cancellation mark beside the stamp on an envelope.",
+          "semantic_meaning": "official mark showing where and when mail was processed"
+        },
+        {
+          "source_text": "zip code (US)\npostcode (UK)",
+          "number": "5",
+          "section": "POST OFFICE",
+          "visual_context": "Pointer to the number 85203 in the address on an envelope.",
+          "semantic_meaning": "postal address code"
+        },
+        {
+          "source_text": "stamp",
+          "number": "6",
+          "section": "POST OFFICE",
+          "visual_context": "Pointer to the red stamp on the envelope.",
+          "semantic_meaning": "prepaid label for mailing"
+        },
+        {
+          "source_text": "envelope",
+          "number": "7",
+          "section": "POST OFFICE",
+          "visual_context": "Pointer to the addressed envelope.",
+          "semantic_meaning": "paper cover for a letter"
+        },
+        {
+          "source_text": "address",
+          "number": "8",
+          "section": "POST OFFICE",
+          "visual_context": "Pointer to the recipient's written location details on the envelope.",
+          "semantic_meaning": "details showing where mail should be sent"
+        },
+        {
+          "source_text": "mail carrier (US)\npostman / postwoman (UK)",
+          "number": "9",
+          "section": "POST OFFICE",
+          "visual_context": "Postal worker delivering letters by bicycle.",
+          "semantic_meaning": "person who delivers mail"
+        },
+        {
+          "source_text": "package /\nparcel (UK)",
+          "number": "10",
+          "section": "POST OFFICE",
+          "visual_context": "Pointer to a cardboard box being carried.",
+          "semantic_meaning": "wrapped item sent by post"
+        },
+        {
+          "source_text": "courier",
+          "number": "11",
+          "section": "POST OFFICE",
+          "visual_context": "Person carrying a parcel for delivery.",
+          "semantic_meaning": "person or service delivering packages"
+        },
+        {
+          "source_text": "delivery",
+          "number": "12",
+          "section": "POST OFFICE",
+          "visual_context": "Courier handing a package to a recipient at a doorway.",
+          "semantic_meaning": "act of bringing mail or goods to a recipient"
+        },
+        {
+          "source_text": "fragile",
+          "number": "13",
+          "section": "POST OFFICE",
+          "visual_context": "Package symbol showing a cracked glass.",
+          "semantic_meaning": "easily broken"
+        },
+        {
+          "source_text": "handle with care",
+          "number": "14",
+          "section": "POST OFFICE",
+          "visual_context": "Package symbol showing hands holding a box.",
+          "semantic_meaning": "instruction to treat a package carefully"
+        },
+        {
+          "source_text": "this way up",
+          "number": "15",
+          "section": "POST OFFICE",
+          "visual_context": "Package symbol with two upward arrows.",
+          "semantic_meaning": "instruction to keep a package upright"
+        },
+        {
+          "source_text": "do not bend",
+          "number": "16",
+          "section": "POST OFFICE",
+          "visual_context": "Package symbol showing a shoe bending an item.",
+          "semantic_meaning": "instruction not to fold or bend an item"
+        },
+        {
+          "source_text": "airmail",
+          "number": "17",
+          "section": "POST OFFICE",
+          "visual_context": "Airmail envelope with red-and-blue border and airplane symbol.",
+          "semantic_meaning": "mail transported by air"
+        },
+        {
+          "source_text": "registered mail (US)\nregistered post (UK)",
+          "number": "18",
+          "section": "POST OFFICE",
+          "visual_context": "Mail item with registration labels and a checklist.",
+          "semantic_meaning": "mail recorded and tracked by the postal service"
+        },
+        {
+          "source_text": "mailbox (US)\npostbox (UK)",
+          "number": "19",
+          "section": "POST OFFICE",
+          "visual_context": "Person posting a letter into a red collection box.",
+          "semantic_meaning": "public box for collecting outgoing mail"
+        },
+        {
+          "source_text": "mail slot (US)\nletterbox (UK)",
+          "number": "20",
+          "section": "POST OFFICE",
+          "visual_context": "Letter being pushed through a slot in a door.",
+          "semantic_meaning": "opening in a door for receiving mail"
+        }
+      ]
+    }
+  ]
+}

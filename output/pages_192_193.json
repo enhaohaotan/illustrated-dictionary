@@ -1,0 +1,445 @@
+{
+  "pages": [
+    {
+      "page": 192,
+      "title": "Industries and departments",
+      "context": "91.1 INDUSTRIES",
+      "entries": [
+        {
+          "source_text": "advertising",
+          "number": "1",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "People viewing an advertising display.",
+          "semantic_meaning": "industry of promoting products or services"
+        },
+        {
+          "source_text": "personal services",
+          "number": "2",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "A hairdresser styling a customer's hair.",
+          "semantic_meaning": "services provided directly to individuals"
+        },
+        {
+          "source_text": "agriculture / farming",
+          "number": "3",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "A tractor working in a field.",
+          "semantic_meaning": "cultivating land and raising crops"
+        },
+        {
+          "source_text": "military",
+          "number": "4",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "A uniformed soldier.",
+          "semantic_meaning": "armed forces sector"
+        },
+        {
+          "source_text": "real estate (US) / property (UK)",
+          "number": "5",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "Houses and apartment buildings.",
+          "semantic_meaning": "business of buying, selling, or renting land and buildings"
+        },
+        {
+          "source_text": "automotive industry",
+          "number": "6",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "A mechanic repairing a car.",
+          "semantic_meaning": "car manufacturing and related business"
+        },
+        {
+          "source_text": "banking",
+          "number": "10",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "A bank teller at a counter.",
+          "semantic_meaning": "financial services involving banks"
+        },
+        {
+          "source_text": "aerospace",
+          "number": "11",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "A satellite orbiting Earth.",
+          "semantic_meaning": "aircraft and spacecraft industry"
+        },
+        {
+          "source_text": "petroleum engineering",
+          "number": "12",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "An offshore oil platform.",
+          "semantic_meaning": "engineering concerned with oil and gas extraction"
+        },
+        {
+          "source_text": "chemical industry",
+          "number": "13",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "Workers in protective suits handling chemical equipment.",
+          "semantic_meaning": "industry producing chemicals"
+        },
+        {
+          "source_text": "arts",
+          "number": "14",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "People looking at a painting in a gallery.",
+          "semantic_meaning": "creative visual and performing disciplines"
+        },
+        {
+          "source_text": "education",
+          "number": "15",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "A teacher addressing students.",
+          "semantic_meaning": "teaching and learning sector"
+        },
+        {
+          "source_text": "gaming",
+          "number": "19",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "A person playing computer games at a monitor.",
+          "semantic_meaning": "video-game industry"
+        },
+        {
+          "source_text": "energy",
+          "number": "20",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "Wind turbines generating power.",
+          "semantic_meaning": "power-production sector"
+        },
+        {
+          "source_text": "research",
+          "number": "21",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "Scientists working in a laboratory.",
+          "semantic_meaning": "systematic investigation to discover information"
+        },
+        {
+          "source_text": "fashion",
+          "number": "22",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "Models walking on a runway.",
+          "semantic_meaning": "clothing-design industry"
+        },
+        {
+          "source_text": "recycling",
+          "number": "23",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "Workers sorting waste at a recycling facility.",
+          "semantic_meaning": "processing waste for reuse"
+        },
+        {
+          "source_text": "entertainment",
+          "number": "24",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "Performers and a presenter under stage lights.",
+          "semantic_meaning": "industry providing amusement"
+        },
+        {
+          "source_text": "shipping",
+          "number": "28",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "A cargo ship at sea.",
+          "semantic_meaning": "transport of goods by ship"
+        },
+        {
+          "source_text": "online retail",
+          "number": "29",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "An online shopping website shown on a computer screen.",
+          "semantic_meaning": "selling goods via the internet"
+        },
+        {
+          "source_text": "journalism",
+          "number": "30",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "Reporters interviewing a woman.",
+          "semantic_meaning": "news reporting and writing"
+        },
+        {
+          "source_text": "textiles",
+          "number": "31",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "Folded and rolled fabrics.",
+          "semantic_meaning": "woven or knitted fabrics industry"
+        },
+        {
+          "source_text": "media",
+          "number": "32",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "A television screen showing broadcasters, with a newspaper.",
+          "semantic_meaning": "mass communication channels"
+        },
+        {
+          "source_text": "hospitality",
+          "number": "33",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "A hotel reception desk with clocks.",
+          "semantic_meaning": "hotel, restaurant, and guest-service sector"
+        },
+        {
+          "source_text": "online delivery",
+          "number": "37",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "A courier delivering a parcel at a door.",
+          "semantic_meaning": "delivery ordered through the internet"
+        },
+        {
+          "source_text": "water",
+          "number": "38",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "Workers repairing or installing water pipes.",
+          "semantic_meaning": "water-supply industry"
+        },
+        {
+          "source_text": "performing arts",
+          "number": "39",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "Dancers performing.",
+          "semantic_meaning": "arts performed before an audience"
+        },
+        {
+          "source_text": "biotechnology",
+          "number": "40",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "A scientist using a pipette in a laboratory.",
+          "semantic_meaning": "technology using living organisms or biological systems"
+        },
+        {
+          "source_text": "finance",
+          "number": "41",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "Financial workers in front of market charts.",
+          "semantic_meaning": "management of money and investments"
+        },
+        {
+          "source_text": "Our stocks have fallen dramatically.",
+          "number": "42",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "A financial trader speaks while stock-market screens show falling graphs.",
+          "semantic_meaning": "statement that share values have decreased sharply"
+        }
+      ]
+    },
+    {
+      "page": 193,
+      "title": "Industries and departments",
+      "context": "91.1 INDUSTRIES; 91.2 DEPARTMENTS",
+      "entries": [
+        {
+          "source_text": "tourism",
+          "number": "7",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "Visitors viewing a famous building, with a guide pointing.",
+          "semantic_meaning": "travel for pleasure and related business"
+        },
+        {
+          "source_text": "This is one of our most famous buildings.",
+          "number": "8",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "A tour guide speaks to visitors in front of a landmark building.",
+          "semantic_meaning": "tour-guide statement"
+        },
+        {
+          "source_text": "pet services",
+          "number": "9",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "A veterinarian examining a dog.",
+          "semantic_meaning": "services for domestic animals"
+        },
+        {
+          "source_text": "catering / food",
+          "number": "16",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "Cooks preparing food.",
+          "semantic_meaning": "food preparation and supply sector"
+        },
+        {
+          "source_text": "pharmaceuticals",
+          "number": "17",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "Pills and a medicine bottle.",
+          "semantic_meaning": "medicinal drugs industry"
+        },
+        {
+          "source_text": "construction",
+          "number": "18",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "A construction worker building a brick wall.",
+          "semantic_meaning": "building industry"
+        },
+        {
+          "source_text": "fishing",
+          "number": "25",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "A fishing boat on the water.",
+          "semantic_meaning": "catching fish commercially"
+        },
+        {
+          "source_text": "electronics",
+          "number": "26",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "A worker assembling or testing electronic equipment.",
+          "semantic_meaning": "electronic devices industry"
+        },
+        {
+          "source_text": "retail",
+          "number": "27",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "People shopping in a clothing store.",
+          "semantic_meaning": "selling goods directly to consumers"
+        },
+        {
+          "source_text": "healthcare",
+          "number": "34",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "Medical staff operating on a patient.",
+          "semantic_meaning": "medical care sector"
+        },
+        {
+          "source_text": "manufacturing",
+          "number": "35",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "Workers assembling a car in a factory.",
+          "semantic_meaning": "making goods in factories"
+        },
+        {
+          "source_text": "mining",
+          "number": "36",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "An excavator and truck extracting material from the ground.",
+          "semantic_meaning": "extracting minerals from the earth"
+        },
+        {
+          "source_text": "transportation (US) / transport (UK)",
+          "number": "43",
+          "section": "91.1 INDUSTRIES",
+          "visual_context": "Ships, aircraft, road vehicles, and a train.",
+          "semantic_meaning": "movement of people or goods"
+        },
+        {
+          "source_text": "accounts / finance",
+          "number": "1",
+          "section": "91.2 DEPARTMENTS",
+          "visual_context": "An office worker working with charts at a desk.",
+          "semantic_meaning": "department managing accounts and money"
+        },
+        {
+          "source_text": "production",
+          "number": "2",
+          "section": "91.2 DEPARTMENTS",
+          "visual_context": "A worker operating industrial machinery.",
+          "semantic_meaning": "department making goods"
+        },
+        {
+          "source_text": "legal",
+          "number": "3",
+          "section": "91.2 DEPARTMENTS",
+          "visual_context": "A contract and pen.",
+          "semantic_meaning": "department handling law and contracts"
+        },
+        {
+          "source_text": "marketing",
+          "number": "4",
+          "section": "91.2 DEPARTMENTS",
+          "visual_context": "Staff presenting ideas around a table.",
+          "semantic_meaning": "department promoting products or services"
+        },
+        {
+          "source_text": "information technology (IT)",
+          "number": "5",
+          "section": "91.2 DEPARTMENTS",
+          "visual_context": "A technician repairing a computer.",
+          "semantic_meaning": "department managing computer systems"
+        },
+        {
+          "source_text": "facilities / office services",
+          "number": "6",
+          "section": "91.2 DEPARTMENTS",
+          "visual_context": "A worker vacuuming an office floor.",
+          "semantic_meaning": "department maintaining workplace services"
+        },
+        {
+          "source_text": "sales",
+          "number": "7",
+          "section": "91.2 DEPARTMENTS",
+          "visual_context": "A salesperson presenting a product to customers.",
+          "semantic_meaning": "department selling products or services"
+        },
+        {
+          "source_text": "administration",
+          "number": "8",
+          "section": "91.2 DEPARTMENTS",
+          "visual_context": "An office worker handling documents at a copier.",
+          "semantic_meaning": "department managing organizational operations"
+        },
+        {
+          "source_text": "public relations (PR)",
+          "number": "9",
+          "section": "91.2 DEPARTMENTS",
+          "visual_context": "A person speaking at a podium to an audience.",
+          "semantic_meaning": "department managing an organization's public image"
+        },
+        {
+          "source_text": "purchasing",
+          "number": "10",
+          "section": "91.2 DEPARTMENTS",
+          "visual_context": "A buyer shaking hands with a supplier beside goods.",
+          "semantic_meaning": "department buying supplies and goods"
+        },
+        {
+          "source_text": "human resources (HR)",
+          "number": "11",
+          "section": "91.2 DEPARTMENTS",
+          "visual_context": "People conducting a job interview.",
+          "semantic_meaning": "department managing employees"
+        },
+        {
+          "source_text": "research and development (R&D)",
+          "number": "12",
+          "section": "91.2 DEPARTMENTS",
+          "visual_context": "Two people reviewing designs at a large computer screen.",
+          "semantic_meaning": "department developing new products or ideas"
+        },
+        {
+          "source_text": "I love these ideas for the new project.",
+          "number": "13",
+          "section": "91.2 DEPARTMENTS",
+          "visual_context": "A person praises ideas while reviewing a project design with a colleague.",
+          "semantic_meaning": "positive response to project proposals"
+        },
+        {
+          "source_text": "At work",
+          "number": "81",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "In the office",
+          "number": "82",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Jobs",
+          "number": "89-90",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Applying for a job",
+          "number": "92",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Workplace skills",
+          "number": "93",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the See also box.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

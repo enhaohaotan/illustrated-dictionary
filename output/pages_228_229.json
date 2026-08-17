@@ -1,0 +1,347 @@
+{
+  "pages": [
+    {
+      "page": 228,
+      "title": "Soccer (US) / Football (UK)",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "The second half is about to start.",
+          "number": "1",
+          "section": "SOCCER (US) / FOOTBALL (UK) GAME",
+          "visual_context": "Speech bubble beside a person standing by the goalpost.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "goalpost",
+          "number": "2",
+          "section": "SOCCER (US) / FOOTBALL (UK) GAME",
+          "visual_context": "Pointer to the left goal structure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "penalty area",
+          "number": "3",
+          "section": "SOCCER (US) / FOOTBALL (UK) GAME",
+          "visual_context": "Pointer to the rectangular marked area in front of the goal.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "security (US) steward (UK)",
+          "number": "4",
+          "section": "SOCCER (US) / FOOTBALL (UK) GAME",
+          "visual_context": "Pointer to a yellow-jacketed stadium security worker.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fans",
+          "number": "5",
+          "section": "SOCCER (US) / FOOTBALL (UK) GAME",
+          "visual_context": "Pointer to the crowd in the stand.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "linesman",
+          "number": "6",
+          "section": "SOCCER (US) / FOOTBALL (UK) GAME",
+          "visual_context": "Pointer to an official holding a flag beside the field.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "manager",
+          "number": "7",
+          "section": "SOCCER (US) / FOOTBALL (UK) GAME",
+          "visual_context": "Pointer to a standing team manager by the substitutes' bench.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "half-way line",
+          "number": "8",
+          "section": "SOCCER (US) / FOOTBALL (UK) GAME",
+          "visual_context": "Pointer to the white line dividing the field in half.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "corner",
+          "number": "17",
+          "section": "SOCCER (US) / FOOTBALL (UK) GAME",
+          "visual_context": "Pointer to the marked corner of the field and corner flag.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "defender",
+          "number": "18",
+          "section": "SOCCER (US) / FOOTBALL (UK) GAME",
+          "visual_context": "Pointer to a player positioned in defence.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "forward (US) striker (UK)",
+          "number": "19",
+          "section": "SOCCER (US) / FOOTBALL (UK) GAME",
+          "visual_context": "Pointer to an attacking player near midfield.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "center (US) centre (UK) circle",
+          "number": "20",
+          "section": "SOCCER (US) / FOOTBALL (UK) GAME",
+          "visual_context": "Pointer to the circular field marking at the center.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ball",
+          "number": "21",
+          "section": "SOCCER (US) / FOOTBALL (UK) GAME",
+          "visual_context": "Pointer to the soccer ball on the half-way line.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "kickoff",
+          "number": "1",
+          "section": "TIMING AND RULES",
+          "visual_context": "Player beginning play with a ball at the center.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "half time",
+          "number": "2",
+          "section": "TIMING AND RULES",
+          "visual_context": "Clock showing 45:00.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "full time",
+          "number": "3",
+          "section": "TIMING AND RULES",
+          "visual_context": "Clock showing 90:00.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "throw-in",
+          "number": "4",
+          "section": "TIMING AND RULES",
+          "visual_context": "Player throwing the ball overhead from the sideline.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "final whistle",
+          "number": "5",
+          "section": "TIMING AND RULES",
+          "visual_context": "Referee blowing a whistle with arms raised.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stoppage time (US) injury time (UK)",
+          "number": "6",
+          "section": "TIMING AND RULES",
+          "visual_context": "Official holding a board showing added time.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "corner kick",
+          "number": "9",
+          "section": "TIMING AND RULES",
+          "visual_context": "Player kicking a ball from the corner arc.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "yellow card",
+          "number": "10",
+          "section": "TIMING AND RULES",
+          "visual_context": "Hand holding up a yellow card.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "red card",
+          "number": "11",
+          "section": "TIMING AND RULES",
+          "visual_context": "Hand holding up a red card.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to be sent off",
+          "number": "12",
+          "section": "TIMING AND RULES",
+          "visual_context": "Referee showing a red card to a player.",
+          "semantic_meaning": "To be expelled from the game."
+        },
+        {
+          "source_text": "to tie (US) to draw (UK)",
+          "number": "13",
+          "section": "TIMING AND RULES",
+          "visual_context": "Scoreboard showing an equal score.",
+          "semantic_meaning": "To finish with equal scores."
+        },
+        {
+          "source_text": "to lose",
+          "number": "14",
+          "section": "TIMING AND RULES",
+          "visual_context": "Dejected player beside a scoreboard.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 229,
+      "title": "Soccer (US) / Football (UK)",
+      "context": "See also: 107 American football; 108 Rugby; 110 Hockey and lacrosse; 112 Basketball and volleyball",
+      "entries": [
+        {
+          "source_text": "referee",
+          "number": "9",
+          "section": "SOCCER (US) / FOOTBALL (UK) GAME",
+          "visual_context": "Pointer to the match official on the field.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "substitutes",
+          "number": "10",
+          "section": "SOCCER (US) / FOOTBALL (UK) GAME",
+          "visual_context": "Pointer to the replacement players seated by the field.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "players’ bench",
+          "number": "11",
+          "section": "SOCCER (US) / FOOTBALL (UK) GAME",
+          "visual_context": "Pointer to the bench where the substitutes sit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "banner",
+          "number": "12",
+          "section": "SOCCER (US) / FOOTBALL (UK) GAME",
+          "visual_context": "Pointer to a sign displayed above the crowd.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stand",
+          "number": "13",
+          "section": "SOCCER (US) / FOOTBALL (UK) GAME",
+          "visual_context": "Pointer to the spectator seating area.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "penalty spot",
+          "number": "14",
+          "section": "SOCCER (US) / FOOTBALL (UK) GAME",
+          "visual_context": "Pointer to the white spot in front of the goal.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bar",
+          "number": "15",
+          "section": "SOCCER (US) / FOOTBALL (UK) GAME",
+          "visual_context": "Pointer to the crossbar of the goal.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mascot",
+          "number": "16",
+          "section": "SOCCER (US) / FOOTBALL (UK) GAME",
+          "visual_context": "Pointer to the costumed blue character beside the field.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "players’ entrance / exit",
+          "number": "22",
+          "section": "SOCCER (US) / FOOTBALL (UK) GAME",
+          "visual_context": "Pointer to the entrance/exit tunnel area at the side of the stand.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "midfielder",
+          "number": "23",
+          "section": "SOCCER (US) / FOOTBALL (UK) GAME",
+          "visual_context": "Pointer to a player in the middle area of the field.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "field (US) pitch (UK)",
+          "number": "24",
+          "section": "SOCCER (US) / FOOTBALL (UK) GAME",
+          "visual_context": "Pointer to the playing surface.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "corner flag",
+          "number": "25",
+          "section": "SOCCER (US) / FOOTBALL (UK) GAME",
+          "visual_context": "Pointer to the flag at the field corner.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to win",
+          "number": "7",
+          "section": "TIMING AND RULES",
+          "visual_context": "Celebrating player beside a winning scoreboard.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "winners’ cup",
+          "number": "8",
+          "section": "TIMING AND RULES",
+          "visual_context": "Players raising a trophy.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "soccer jersey (US) football shirt (UK)",
+          "number": "15",
+          "section": "TIMING AND RULES",
+          "visual_context": "Illustrations of red and blue team shirts.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "soccer cleats (US) football boots (UK)",
+          "number": "16",
+          "section": "TIMING AND RULES",
+          "visual_context": "Illustration of a studded soccer shoe.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to take a penalty",
+          "number": "17",
+          "section": "TIMING AND RULES",
+          "visual_context": "Player kicking the ball from the penalty spot.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "goal",
+          "number": "18",
+          "section": "TIMING AND RULES",
+          "visual_context": "Pointer to the goal structure behind the goalkeeper.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "goalkeeper",
+          "number": "19",
+          "section": "TIMING AND RULES",
+          "visual_context": "Pointer to the player guarding the goal.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "net",
+          "number": "20",
+          "section": "TIMING AND RULES",
+          "visual_context": "Pointer to the mesh of the goal.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gloves",
+          "number": "21",
+          "section": "TIMING AND RULES",
+          "visual_context": "Pointer to the goalkeeper's yellow gloves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "penalty kick",
+          "number": "22",
+          "section": "TIMING AND RULES",
+          "visual_context": "Caption for the illustration of a player taking a shot at goal.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "pages": [
+    {
+      "page": 368,
+      "title": "Useful expressions",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "to meet",
+          "number": "1",
+          "section": "179.1 GREETINGS",
+          "visual_context": "Two people meeting and shaking hands.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Hi!",
+          "number": "2",
+          "section": "179.1 GREETINGS",
+          "visual_context": "Speech bubble from one of two people shaking hands.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Hello.",
+          "number": "3",
+          "section": "179.1 GREETINGS",
+          "visual_context": "Speech bubble from the other person shaking hands.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to greet (formal)",
+          "number": "4",
+          "section": "179.1 GREETINGS",
+          "visual_context": "Two people formally greeting one another.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Good evening.",
+          "number": "5",
+          "section": "179.1 GREETINGS",
+          "visual_context": "A person with a walking stick greeting another person.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Good morning.",
+          "number": "6",
+          "section": "179.1 GREETINGS",
+          "visual_context": "Two people greeting each other in the morning.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Good afternoon.",
+          "number": "7",
+          "section": "179.1 GREETINGS",
+          "visual_context": "Two people greeting each other in the afternoon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Good night!",
+          "number": "8",
+          "section": "179.1 GREETINGS",
+          "visual_context": "Two people saying good night beneath a moon and stars.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to greet (informal)",
+          "number": "9",
+          "section": "179.1 GREETINGS",
+          "visual_context": "Three people conversing informally by a park bench.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Hi! How are you?",
+          "number": "10",
+          "section": "179.1 GREETINGS",
+          "visual_context": "Speech bubble from a person greeting a group near a bench.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "I'm fine, thanks.",
+          "number": "11",
+          "section": "179.1 GREETINGS",
+          "visual_context": "Replying speaker in the informal group by the bench.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Nice to see you, Ed.",
+          "number": "12",
+          "section": "179.1 GREETINGS",
+          "visual_context": "Speech bubble from another person in the informal group.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to leave",
+          "number": "13",
+          "section": "179.1 GREETINGS",
+          "visual_context": "A traveller leaving through a doorway with a wheeled suitcase.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Goodbye!",
+          "number": "14",
+          "section": "179.1 GREETINGS",
+          "visual_context": "Speech bubble from a person at a departure doorway.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "See you later!",
+          "number": "15",
+          "section": "179.1 GREETINGS",
+          "visual_context": "A departing traveller waving with a suitcase.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "What's your name?",
+          "number": "1",
+          "section": "179.2 GETTING TO KNOW SOMEONE",
+          "visual_context": "A person at a party asking another person's name.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "My name is Sally.",
+          "number": "2",
+          "section": "179.2 GETTING TO KNOW SOMEONE",
+          "visual_context": "A partygoer introducing herself.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "How old are you?",
+          "number": "3",
+          "section": "179.2 GETTING TO KNOW SOMEONE",
+          "visual_context": "Two people talking at a café table, one using a wheelchair.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "I'm 25 years old.",
+          "number": "4",
+          "section": "179.2 GETTING TO KNOW SOMEONE",
+          "visual_context": "Reply from the other person at the café table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Where do you live?",
+          "number": "5",
+          "section": "179.2 GETTING TO KNOW SOMEONE",
+          "visual_context": "A person asking another beside a car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "I live in Edinburgh.",
+          "number": "6",
+          "section": "179.2 GETTING TO KNOW SOMEONE",
+          "visual_context": "Reply from a traveller with a wheeled suitcase beside a car.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 369,
+      "title": null,
+      "context": "Useful expressions (continued)",
+      "entries": [
+        {
+          "source_text": "How much is this?",
+          "number": "1",
+          "section": "179.3 SHOPPING",
+          "visual_context": "A shopper holding a garment asks at a checkout counter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "It's 15 dollars.",
+          "number": "2",
+          "section": "179.3 SHOPPING",
+          "visual_context": "A cashier at the checkout counter gives the price.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Can I pay here?",
+          "number": "3",
+          "section": "179.3 SHOPPING",
+          "visual_context": "A shopper with a trolley asks a cashier at a checkout.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Could you get the red cup for me, please?",
+          "number": "4",
+          "section": "179.3 SHOPPING",
+          "visual_context": "A shopper points to a red cup on a high shelf in a cup shop.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Can I help you?",
+          "number": "5",
+          "section": "179.3 SHOPPING",
+          "visual_context": "A shop assistant offers help to a shopper.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "I'm just browsing, thanks.",
+          "number": "6",
+          "section": "179.3 SHOPPING",
+          "visual_context": "A shopper responds while looking around a shop.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Do you sell umbrellas?",
+          "number": "7",
+          "section": "179.3 SHOPPING",
+          "visual_context": "A shopper asks at a counter displaying umbrellas.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Do you have this in a smaller size?",
+          "number": "8",
+          "section": "179.3 SHOPPING",
+          "visual_context": "A shopper holds up clothing beside dress mannequins.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Let me check for you.",
+          "number": "9",
+          "section": "179.3 SHOPPING",
+          "visual_context": "A shop assistant responds beside the clothing display.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Where are you from?",
+          "number": "7",
+          "section": "179.2 GETTING TO KNOW SOMEONE",
+          "visual_context": "Two people talking beside a drinks machine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "I’m from Italy.",
+          "number": "8",
+          "section": "179.2 GETTING TO KNOW SOMEONE",
+          "visual_context": "The other person replies beside the drinks machine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "What do you do?",
+          "number": "9",
+          "section": "179.2 GETTING TO KNOW SOMEONE",
+          "visual_context": "A person asks another person holding a walking stick.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "I’m a retired diplomat.",
+          "number": "10",
+          "section": "179.2 GETTING TO KNOW SOMEONE",
+          "visual_context": "The person with a walking stick replies.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Do you speak English?",
+          "number": "11",
+          "section": "179.2 GETTING TO KNOW SOMEONE",
+          "visual_context": "A person asks another person who appears uncertain.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Only a little. Could you speak more slowly, please?",
+          "number": "12",
+          "section": "179.2 GETTING TO KNOW SOMEONE",
+          "visual_context": "The uncertain person replies, with a question mark above them.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

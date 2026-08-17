@@ -1,0 +1,368 @@
+{
+  "pages": [
+    {
+      "page": 346,
+      "title": "Plants and trees continued",
+      "context": "168.1 PLANTS AND TREES",
+      "entries": [
+        {
+          "source_text": "celandine",
+          "number": "1",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Yellow flowers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "common poppy",
+          "number": "2",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Red poppy flower.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "barberry",
+          "number": "3",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Branch with green leaves and red berries.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "London plane",
+          "number": "4",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Leaf and tree.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "buttercup",
+          "number": "5",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Yellow flower.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "opium poppy",
+          "number": "6",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Three poppy seed heads.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "traveler’s tree (US) traveller’s tree (UK)",
+          "number": "7",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Large fan-shaped tree.",
+          "semantic_meaning": "US and UK alternative names."
+        },
+        {
+          "source_text": "macadamia",
+          "number": "8",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Branch, leaves, and a halved nut.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "golden guinea vine",
+          "number": "9",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Vine with pale yellow flowers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gunnera",
+          "number": "10",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Large-leaved plant with a red flower spike.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "columbine",
+          "number": "11",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Purple and white flowers on stems.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fairy elephant’s feet",
+          "number": "12",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Low succulent-like plant with a purple flower.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "living stones",
+          "number": "13",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Rounded blue-green succulent forms with white flowers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "old man cactus",
+          "number": "14",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Two tall pale hairy cacti.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "barrel cactus",
+          "number": "15",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Round spiny cactus.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "prickly pear",
+          "number": "16",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Flat-padded cactus.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "campion",
+          "number": "17",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Purple flower.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "glory of Texas",
+          "number": "18",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Flowering cactus.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sundew",
+          "number": "19",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Insectivorous plant with sticky red-tipped tentacles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sticky prong",
+          "number": "20",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Pointer to one sticky red-tipped tentacle of the sundew.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "trapped insect",
+          "number": "21",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Pointer to an insect caught on the sundew.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Venus fly-trap",
+          "number": "22",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Plant with open and closed toothed traps, with insects nearby.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pitcher plant",
+          "number": "23",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Tall tubular insect-trapping pitcher.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fly",
+          "number": "24",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Pointer to a fly inside the pitcher plant.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 347,
+      "title": null,
+      "context": "PLANTS AND TREES (continued)",
+      "entries": [
+        {
+          "source_text": "bougainvillea",
+          "number": "25",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Purple flower with a pale center.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fire tree",
+          "number": "26",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Red flower with a speckled pale upper petal.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mistletoe",
+          "number": "27",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Leafy twig with white berries.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "common houseleek",
+          "number": "28",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Green rosette succulent.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "grapevine",
+          "number": "29",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Vine with leaves and bunches of dark grapes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mother of thousands",
+          "number": "30",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Succulent leaves with many tiny plantlets along their edges.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "peony",
+          "number": "31",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Large red-pink flower.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Virginia creeper",
+          "number": "32",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Five-leaflet climbing plant.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "myrtle",
+          "number": "33",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Branch with white flowers and green leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pomegranate",
+          "number": "34",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Small fruiting tree and red pomegranate fruit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "purple loosestrife",
+          "number": "35",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Tall spike of purple flowers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "henna",
+          "number": "36",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Twig with leaves and small pale flowers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Tonghi bottlebrush",
+          "number": "37",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Red cylindrical bottlebrush flower.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "guava",
+          "number": "38",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Green fruit and leafy branch.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fuchsia",
+          "number": "39",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Hanging red and purple flower.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mimosa",
+          "number": "40",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Feathery compound leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "silk tree",
+          "number": "41",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Feathery leaves and a pink-and-white puffball flower.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hornbeam",
+          "number": "42",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Branch with ribbed leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hazel",
+          "number": "43",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Twig with broad leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "seed",
+          "number": "44",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Pointer to the hanging seed/catkin beside the hazel illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "walnut",
+          "number": "45",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Tree with leaf, walnut shell, and nut illustrations.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Spanish chestnut",
+          "number": "46",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Tree with leaf and spiny chestnut burr.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pecan",
+          "number": "47",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Tree with compound leaves and a pecan nut.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "beech",
+          "number": "48",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Tree with a serrated leaf.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "birch",
+          "number": "49",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Birch tree with white-and-dark marked trunk and leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "poplar",
+          "number": "50",
+          "section": "PLANTS AND TREES",
+          "visual_context": "Tall narrow tree with a leaf.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

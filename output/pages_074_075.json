@@ -1,0 +1,375 @@
+{
+  "pages": [
+    {
+      "page": 74,
+      "title": "Bathroom",
+      "context": "31.1 IN THE BATHROOM",
+      "entries": [
+        {
+          "source_text": "hand towel",
+          "number": "1",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Blue towel hanging beside the toilet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "faucet (US) / tap (UK)",
+          "number": "3",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Fixture above the sink.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hot water",
+          "number": "2",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Red-marked faucet control.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cold water",
+          "number": "4",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Blue-marked faucet control.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "towel rail",
+          "number": "14",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Wall-mounted bar holding the hand towel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "toilet paper holder",
+          "number": "15",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Wall-mounted holder beside the toilet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "toilet paper",
+          "number": "16",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Roll on the toilet paper holder.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "toilet seat",
+          "number": "17",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Seat on the toilet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "toilet brush",
+          "number": "18",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Brush standing on the floor beside the toilet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "toilet",
+          "number": "19",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "White toilet fixture.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "drain",
+          "number": "20",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Opening at the base of the toilet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bidet",
+          "number": "21",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Low basin fixture beside the toilet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "soap",
+          "number": "22",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Bar of soap on the vanity.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "laundry hamper (US) / laundry basket (UK)",
+          "number": "23",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Tall container holding laundry.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bathrobe (US) / dressing gown (UK)",
+          "number": "28",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Belted robe illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sponge",
+          "number": "29",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Yellow bath sponge.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pumice stone",
+          "number": "30",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Gray porous stone with a hanging loop.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "back brush",
+          "number": "31",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Long-handled brush.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "face cream",
+          "number": "32",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Round blue cosmetic cream jar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "body powder",
+          "number": "33",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Powder bottle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "toothpaste",
+          "number": "34",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Toothpaste tube and paste on toothbrush.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "toothbrush",
+          "number": "35",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Blue toothbrush.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dental floss",
+          "number": "36",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Floss container with a length of floss.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mouthwash",
+          "number": "37",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Blue mouthwash bottle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bubble bath",
+          "number": "38",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Bottle pouring bubbles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "body lotion",
+          "number": "39",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Pump bottle and smaller lotion bottle.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 75,
+      "title": null,
+      "context": "31.1 IN THE BATHROOM",
+      "entries": [
+        {
+          "source_text": "towels",
+          "number": "5",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Stacks of folded towels on wall shelves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bathroom exhaust fan (US) / bathroom extractor fan (UK)",
+          "number": "6",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Wall-mounted ventilation fan.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shower curtain",
+          "number": "7",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Green curtain around the bathtub.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shower",
+          "number": "8",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Showerhead above the shower enclosure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shower door",
+          "number": "9",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Glass door of the shower enclosure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shower gel",
+          "number": "10",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Bottles mounted inside the shower.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "grab bar",
+          "number": "11",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Vertical safety bar inside the shower.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "soap dish",
+          "number": "12",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Dish holding soap at the bathtub edge.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "drain (US) / plughole (UK)",
+          "number": "13",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Drain opening in the shower floor.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bath toys",
+          "number": "24",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Toy duck and animal toys in a box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bath towel",
+          "number": "25",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Large blue towel draped over the bathtub.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bathmat",
+          "number": "26",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Oval mat on the floor in front of the tub.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bath tub",
+          "number": "27",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Large bathtub.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shaving cream (US) / foam (UK)",
+          "number": "40",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Shaving cream and aerosol can.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "razor blade",
+          "number": "41",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Double-edged razor blade.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "disposable razor",
+          "number": "42",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Blue disposable shaving razor.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "electric razor",
+          "number": "43",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Electric shaver.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "aftershave",
+          "number": "44",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Bottle of aftershave.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bathroom scales",
+          "number": "45",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Digital weighing scales.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "plunger",
+          "number": "46",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Red rubber toilet plunger.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "plug",
+          "number": "47",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Bath plug with chain.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to dry yourself",
+          "number": "48",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Person drying with a towel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to shave",
+          "number": "49",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Person shaving at a sink.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to take (or have) a shower",
+          "number": "50",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Person showering.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to take (or have) a bath",
+          "number": "51",
+          "section": "31.1 IN THE BATHROOM",
+          "visual_context": "Person bathing in a tub.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

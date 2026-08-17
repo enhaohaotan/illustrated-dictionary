@@ -1,0 +1,403 @@
+{
+  "pages": [
+    {
+      "page": 286,
+      "title": "Books and reading",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "illustration",
+          "number": "1",
+          "section": "138.1 BOOKS",
+          "visual_context": "Pointer to the picture on an open book.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "page",
+          "number": "2",
+          "section": "138.1 BOOKS",
+          "visual_context": "Pointer to one leaf of the open book.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "text",
+          "number": "3",
+          "section": "138.1 BOOKS",
+          "visual_context": "Pointer to printed lines on the open book's page.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "spine",
+          "number": "4",
+          "section": "138.1 BOOKS",
+          "visual_context": "Pointer to the bound lower edge of the open book.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "book",
+          "number": "5",
+          "section": "138.1 BOOKS",
+          "visual_context": "The large open book.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cover",
+          "number": "6",
+          "section": "138.1 BOOKS",
+          "visual_context": "Pointer to the outer cover edge of the open book.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "author",
+          "number": "7",
+          "section": "138.1 BOOKS",
+          "visual_context": "Person writing at a desk.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "paperback",
+          "number": "8",
+          "section": "138.1 BOOKS",
+          "visual_context": "Green soft-covered book.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hardback",
+          "number": "9",
+          "section": "138.1 BOOKS",
+          "visual_context": "Red hard-covered book.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "review",
+          "number": "13",
+          "section": "138.1 BOOKS",
+          "visual_context": "Newspaper or magazine review pages.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "contents",
+          "number": "14",
+          "section": "138.1 BOOKS",
+          "visual_context": "An open contents page.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chapter",
+          "number": "15",
+          "section": "138.1 BOOKS",
+          "visual_context": "An open book page headed with a chapter number.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nonfiction (US) non-fiction (UK)",
+          "number": "1",
+          "section": "138.2 READING AND GENRES",
+          "visual_context": "Book illustrated with a horse.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dictionary",
+          "number": "2",
+          "section": "138.2 READING AND GENRES",
+          "visual_context": "Open reference book with alphabet tab.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "encyclopedia",
+          "number": "3",
+          "section": "138.2 READING AND GENRES",
+          "visual_context": "Set of numbered reference volumes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gardening book",
+          "number": "4",
+          "section": "138.2 READING AND GENRES",
+          "visual_context": "Book with flowers and gardening imagery.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "TV guide",
+          "number": "5",
+          "section": "138.2 READING AND GENRES",
+          "visual_context": "Guide cover showing a television screen.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "self-help",
+          "number": "6",
+          "section": "138.2 READING AND GENRES",
+          "visual_context": "Purple book with a figure lifting rays overhead.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "autobiography",
+          "number": "7",
+          "section": "138.2 READING AND GENRES",
+          "visual_context": "Person holding a portrait-like book.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "biography",
+          "number": "8",
+          "section": "138.2 READING AND GENRES",
+          "visual_context": "Person holding a photograph of another person.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cookbook",
+          "number": "9",
+          "section": "138.2 READING AND GENRES",
+          "visual_context": "Book cover with food ingredients.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "guidebook",
+          "number": "10",
+          "section": "138.2 READING AND GENRES",
+          "visual_context": "Book showing a landmark and a viewer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nature writing",
+          "number": "11",
+          "section": "138.2 READING AND GENRES",
+          "visual_context": "Book cover with a landscape, river, and sun.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "textbook / course book",
+          "number": "12",
+          "section": "138.2 READING AND GENRES",
+          "visual_context": "Book with flamingo imagery.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fiction",
+          "number": "13",
+          "section": "138.2 READING AND GENRES",
+          "visual_context": "Book cover with a unicorn.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "novel",
+          "number": "14",
+          "section": "138.2 READING AND GENRES",
+          "visual_context": "Book titled “Great Adventure Stories”.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "science fiction",
+          "number": "15",
+          "section": "138.2 READING AND GENRES",
+          "visual_context": "Book cover with a spaceship and planets.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fantasy",
+          "number": "16",
+          "section": "138.2 READING AND GENRES",
+          "visual_context": "Book cover with a castle, bats, and moon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "comic",
+          "number": "17",
+          "section": "138.2 READING AND GENRES",
+          "visual_context": "Colorful comic-book cover.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "travel writing",
+          "number": "18",
+          "section": "138.2 READING AND GENRES",
+          "visual_context": "Travel-themed books with airplane and globe imagery.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 287,
+      "title": "Books and reading",
+      "context": "Continuation of 138.1 BOOKS and 138.2 READING AND GENRES.",
+      "entries": [
+        {
+          "source_text": "title",
+          "number": "10",
+          "section": "138.1 BOOKS",
+          "visual_context": "Pointer to the words on a book cover.",
+          "semantic_meaning": "The name of a book."
+        },
+        {
+          "source_text": "to flip through",
+          "number": "11",
+          "section": "138.1 BOOKS",
+          "visual_context": "Hands quickly turning book pages.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "e-reader",
+          "number": "12",
+          "section": "138.1 BOOKS",
+          "visual_context": "Electronic reading device with a screen.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bibliography",
+          "number": "16",
+          "section": "138.1 BOOKS",
+          "visual_context": "Open book showing a bibliography page.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "glossary",
+          "number": "17",
+          "section": "138.1 BOOKS",
+          "visual_context": "Open book showing a glossary page.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "index",
+          "number": "18",
+          "section": "138.1 BOOKS",
+          "visual_context": "Open book showing an index page.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "reading",
+          "number": "19",
+          "section": "138.1 BOOKS",
+          "visual_context": "Two people seated and reading books.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "I love this crime novel. It’s a real page-turner.",
+          "number": "20",
+          "section": "138.1 BOOKS",
+          "visual_context": "Speech bubble from the person reading a red book.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "I hate this fantasy novel. The plot is ridiculous.",
+          "number": "21",
+          "section": "138.1 BOOKS",
+          "visual_context": "Speech bubble from the person reading a green book.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "character",
+          "number": "21",
+          "section": "138.1 BOOKS",
+          "visual_context": "Pointer to the crocodile figure in a children's book.",
+          "semantic_meaning": "A person or creature in a story."
+        },
+        {
+          "source_text": "literary fiction",
+          "number": "19",
+          "section": "138.2 READING AND GENRES",
+          "visual_context": "Shelf of books by named literary authors.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "children’s book",
+          "number": "20",
+          "section": "138.2 READING AND GENRES",
+          "visual_context": "Open illustrated book with animal characters.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "coloring book (US) colouring book (UK)",
+          "number": "22",
+          "section": "138.2 READING AND GENRES",
+          "visual_context": "Open book with an outlined flower picture and coloring tools.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fairy tale",
+          "number": "23",
+          "section": "138.2 READING AND GENRES",
+          "visual_context": "Adult reading an illustrated storybook to a child.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "romance",
+          "number": "24",
+          "section": "138.2 READING AND GENRES",
+          "visual_context": "Person reading a book decorated with hearts.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "crime fiction",
+          "number": "25",
+          "section": "138.2 READING AND GENRES",
+          "visual_context": "Book cover with a detective holding a magnifying glass.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "humor (US) humour (UK)",
+          "number": "26",
+          "section": "138.2 READING AND GENRES",
+          "visual_context": "Book cover with a clown face.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "planner (US) diary (UK)",
+          "number": "27",
+          "section": "138.2 READING AND GENRES",
+          "visual_context": "Open dated weekly planner.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bestseller",
+          "number": "28",
+          "section": "138.2 READING AND GENRES",
+          "visual_context": "Red book marked number one.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "horoscope",
+          "number": "29",
+          "section": "138.2 READING AND GENRES",
+          "visual_context": "Book cover with zodiac symbols.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gossip magazine",
+          "number": "30",
+          "section": "138.2 READING AND GENRES",
+          "visual_context": "Magazine cover showing a woman and an inset celebrity image.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "puzzles",
+          "number": "31",
+          "section": "138.2 READING AND GENRES",
+          "visual_context": "Book with a crossword puzzle on its cover.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "newspaper",
+          "number": "32",
+          "section": "138.2 READING AND GENRES",
+          "visual_context": "Large folded newspaper.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "headline",
+          "number": "33",
+          "section": "138.2 READING AND GENRES",
+          "visual_context": "Pointer to the large heading strip on the newspaper.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "article",
+          "number": "34",
+          "section": "138.2 READING AND GENRES",
+          "visual_context": "Pointer to a newspaper text item.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

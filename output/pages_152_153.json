@@ -1,0 +1,417 @@
+{
+  "pages": [
+    {
+      "page": 152,
+      "title": "Breakfast",
+      "context": "71.1 BREAKFAST BUFFET",
+      "entries": [
+        {
+          "source_text": "muesli",
+          "number": "1",
+          "section": "BREAKFAST BUFFET",
+          "visual_context": "A box of muesli on the buffet table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cereal",
+          "number": "2",
+          "section": "BREAKFAST BUFFET",
+          "visual_context": "A cereal box on the buffet table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "milk",
+          "number": "3",
+          "section": "BREAKFAST BUFFET",
+          "visual_context": "A carton of milk.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "condiments",
+          "number": "4",
+          "section": "BREAKFAST BUFFET",
+          "visual_context": "Bottles and containers of sauces and seasonings.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "crispbread",
+          "number": "5",
+          "section": "BREAKFAST BUFFET",
+          "visual_context": "Crispbread crackers beside the condiments.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "croissant",
+          "number": "6",
+          "section": "BREAKFAST BUFFET",
+          "visual_context": "Croissants on a plate and one being served.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cereal bowl",
+          "number": "10",
+          "section": "BREAKFAST BUFFET",
+          "visual_context": "Green bowls for cereal.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "French\ntoast",
+          "number": "11",
+          "section": "BREAKFAST BUFFET",
+          "visual_context": "Sliced French toast on a plate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pâté",
+          "number": "12",
+          "section": "BREAKFAST BUFFET",
+          "visual_context": "A sliced pâté or meat spread on a plate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fresh\nfruit",
+          "number": "13",
+          "section": "BREAKFAST BUFFET",
+          "visual_context": "A platter of fresh fruit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cheese",
+          "number": "14",
+          "section": "BREAKFAST BUFFET",
+          "visual_context": "Cheese wedges and slices on a plate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ham",
+          "number": "17",
+          "section": "BREAKFAST BUFFET",
+          "visual_context": "Slices of ham on a plate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "toasted\nsandwich",
+          "number": "18",
+          "section": "BREAKFAST BUFFET",
+          "visual_context": "A grilled toasted sandwich.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "omelet (US)\nomelette (UK)",
+          "number": "19",
+          "section": "BREAKFAST BUFFET",
+          "visual_context": "A folded omelet on a plate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "avocado toast",
+          "number": "20",
+          "section": "BREAKFAST BUFFET",
+          "visual_context": "Toast topped with sliced avocado.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bagel",
+          "number": "21",
+          "section": "BREAKFAST BUFFET",
+          "visual_context": "A sliced bagel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cinnamon\nrolls",
+          "number": "22",
+          "section": "BREAKFAST BUFFET",
+          "visual_context": "Two iced cinnamon rolls.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "jam",
+          "number": "25",
+          "section": "BREAKFAST BUFFET",
+          "visual_context": "A jar of berry jam.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "marmalade",
+          "number": "26",
+          "section": "BREAKFAST BUFFET",
+          "visual_context": "A jar of orange marmalade.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "honey",
+          "number": "27",
+          "section": "BREAKFAST BUFFET",
+          "visual_context": "A honey jar with a honey dipper.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tea",
+          "number": "28",
+          "section": "BREAKFAST BUFFET",
+          "visual_context": "A cup of tea.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "coffee",
+          "number": "29",
+          "section": "BREAKFAST BUFFET",
+          "visual_context": "A cup of coffee.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fruit juice",
+          "number": "30",
+          "section": "BREAKFAST BUFFET",
+          "visual_context": "A glass of fruit juice.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 153,
+      "title": "Breakfast",
+      "context": "71.1 BREAKFAST BUFFET; 71.2 COOKED BREAKFAST",
+      "entries": [
+        {
+          "source_text": "cold meats",
+          "number": "7",
+          "section": "BREAKFAST BUFFET",
+          "visual_context": "Sliced cold meats on a plate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "brioche",
+          "number": "8",
+          "section": "BREAKFAST BUFFET",
+          "visual_context": "A small loaf of brioche.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bread basket",
+          "number": "9",
+          "section": "BREAKFAST BUFFET",
+          "visual_context": "A basket holding bread rolls.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "butter",
+          "number": "15",
+          "section": "BREAKFAST BUFFET",
+          "visual_context": "A block of butter on a dish.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bread",
+          "number": "16",
+          "section": "BREAKFAST BUFFET",
+          "visual_context": "A loaf of bread on the buffet table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "waffles",
+          "number": "23",
+          "section": "BREAKFAST BUFFET",
+          "visual_context": "Waffles on a plate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cream",
+          "number": "24",
+          "section": "BREAKFAST BUFFET",
+          "visual_context": "A serving of whipped cream.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dried fruit",
+          "number": "31",
+          "section": "BREAKFAST BUFFET",
+          "visual_context": "Assorted dried fruit on a plate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fruit yogurt (US)\nfruit yoghurt (UK)",
+          "number": "32",
+          "section": "BREAKFAST BUFFET",
+          "visual_context": "A bowl of fruit yogurt with berries.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sausage",
+          "number": "1",
+          "section": "COOKED BREAKFAST",
+          "visual_context": "Cooked sausages on a plate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sausage\npatties",
+          "number": "2",
+          "section": "COOKED BREAKFAST",
+          "visual_context": "Round sausage patties on a plate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bacon",
+          "number": "3",
+          "section": "COOKED BREAKFAST",
+          "visual_context": "Strips of bacon on a plate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "kippers",
+          "number": "4",
+          "section": "COOKED BREAKFAST",
+          "visual_context": "A cooked split fish on a plate.",
+          "semantic_meaning": "Smoked herring."
+        },
+        {
+          "source_text": "smoked\nsalmon",
+          "number": "5",
+          "section": "COOKED BREAKFAST",
+          "visual_context": "Slices of smoked salmon with lemon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "smoked\nmackerel",
+          "number": "6",
+          "section": "COOKED BREAKFAST",
+          "visual_context": "A cooked mackerel fillet on a plate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "black pudding /\nblood sausage (UK)",
+          "number": "7",
+          "section": "COOKED BREAKFAST",
+          "visual_context": "A dark sausage shown whole and sliced.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "kidneys",
+          "number": "8",
+          "section": "COOKED BREAKFAST",
+          "visual_context": "Cooked kidneys on a plate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "scrambled\neggs",
+          "number": "9",
+          "section": "COOKED BREAKFAST",
+          "visual_context": "Scrambled eggs on a plate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "poached egg",
+          "number": "10",
+          "section": "COOKED BREAKFAST",
+          "visual_context": "A poached egg on toast.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "boiled egg",
+          "number": "11",
+          "section": "COOKED BREAKFAST",
+          "visual_context": "Boiled eggs in an egg cup.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "egg\nwhite",
+          "number": "12",
+          "section": "COOKED BREAKFAST",
+          "visual_context": "The white portion of a fried egg.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "yolk",
+          "number": "13",
+          "section": "COOKED BREAKFAST",
+          "visual_context": "The yellow center of a fried egg.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fried egg",
+          "number": "14",
+          "section": "COOKED BREAKFAST",
+          "visual_context": "A fried egg in a frying pan.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "toast",
+          "number": "15",
+          "section": "COOKED BREAKFAST",
+          "visual_context": "Toast popping from a toaster.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fried\nmushrooms",
+          "number": "16",
+          "section": "COOKED BREAKFAST",
+          "visual_context": "Mushrooms cooking in a frying pan.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hash browns",
+          "number": "17",
+          "section": "COOKED BREAKFAST",
+          "visual_context": "Hash brown patties on a plate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "grilled tomato",
+          "number": "18",
+          "section": "COOKED BREAKFAST",
+          "visual_context": "A grilled tomato slice.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "canned (US) /\ntinned (UK) tomato",
+          "number": "19",
+          "section": "COOKED BREAKFAST",
+          "visual_context": "A can of tomatoes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "baked beans",
+          "number": "20",
+          "section": "COOKED BREAKFAST",
+          "visual_context": "A can of baked beans.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "breakfast roll",
+          "number": "21",
+          "section": "COOKED BREAKFAST",
+          "visual_context": "A bread roll filled with breakfast ingredients.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "breakfast\nburrito",
+          "number": "22",
+          "section": "COOKED BREAKFAST",
+          "visual_context": "A wrapped breakfast burrito.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "potato cakes",
+          "number": "23",
+          "section": "COOKED BREAKFAST",
+          "visual_context": "Potato cakes on a plate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pancakes",
+          "number": "24",
+          "section": "COOKED BREAKFAST",
+          "visual_context": "A stack of pancakes with syrup.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "oatmeal (US)\nporridge (UK)",
+          "number": "25",
+          "section": "COOKED BREAKFAST",
+          "visual_context": "A steaming bowl of oatmeal or porridge.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

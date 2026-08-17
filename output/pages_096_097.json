@@ -1,0 +1,284 @@
+{
+  "pages": [
+    {
+      "page": 96,
+      "title": "In town",
+      "context": "42.1 BUILDINGS AND OTHER FEATURES",
+      "entries": [
+        {
+          "source_text": "hotel",
+          "number": "1",
+          "section": "42.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Pointer to a multi-storey building with stars above its entrance.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "store (US) / shop (UK)",
+          "number": "2",
+          "section": "42.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Pointer to a small storefront with a shopping-cart sign.",
+          "semantic_meaning": "US and UK terms for a retail shop."
+        },
+        {
+          "source_text": "shopping mall / shopping centre (UK)",
+          "number": "3",
+          "section": "42.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Pointer to a large glazed mall building with shop windows.",
+          "semantic_meaning": "US/neutral and UK terms for a large shopping complex."
+        },
+        {
+          "source_text": "parking lot (US) / car park (UK)",
+          "number": "4",
+          "section": "42.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Pointer to parked cars beside the shopping mall.",
+          "semantic_meaning": "US and UK terms for an area where vehicles are parked."
+        },
+        {
+          "source_text": "commercial district",
+          "number": "5",
+          "section": "42.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Pointer to the cluster of tall buildings and shops.",
+          "semantic_meaning": "Area of a town used mainly for business and commerce."
+        },
+        {
+          "source_text": "post office",
+          "number": "10",
+          "section": "42.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Pointer to the red building with an envelope sign.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "café",
+          "number": "11",
+          "section": "42.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Pointer to a small building with outdoor tables and a cup sign.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "restaurant",
+          "number": "12",
+          "section": "42.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Pointer to a building with a fork-and-knife sign.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "police station",
+          "number": "13",
+          "section": "42.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Pointer to the blue building with a police badge sign.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fire station",
+          "number": "14",
+          "section": "42.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Pointer to the building with a flame emblem and fire engine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fountain",
+          "number": "15",
+          "section": "42.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Pointer to the water fountain in the landscaped park area.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gas station (US) / petrol station (UK)",
+          "number": "19",
+          "section": "42.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Pointer to fuel pumps beneath a red canopy.",
+          "semantic_meaning": "US and UK terms for a place where vehicles are refuelled."
+        },
+        {
+          "source_text": "side street",
+          "number": "20",
+          "section": "42.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Pointer to a smaller road branching from the main road.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hospital",
+          "number": "21",
+          "section": "42.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Pointer to the large building marked with green medical crosses.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pharmacy",
+          "number": "22",
+          "section": "42.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Pointer to the shop with a green medical cross.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "monument",
+          "number": "23",
+          "section": "42.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Pointer to the tall statue or column in the square.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "square",
+          "number": "24",
+          "section": "42.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Pointer to the open paved public space with benches around the monument.",
+          "semantic_meaning": "An open public area in a town."
+        },
+        {
+          "source_text": "districts",
+          "number": "30",
+          "section": "42.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Illustration of a map divided into separate coloured areas.",
+          "semantic_meaning": "Separate areas of a town or city."
+        },
+        {
+          "source_text": "downtown (US) / city centre (UK)",
+          "number": "31",
+          "section": "42.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Pointer to the dense central area of tall city buildings.",
+          "semantic_meaning": "US and UK terms for the central business area of a city."
+        },
+        {
+          "source_text": "residential district",
+          "number": "32",
+          "section": "42.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Pointer to an area of closely grouped houses.",
+          "semantic_meaning": "Area where people live."
+        },
+        {
+          "source_text": "suburb",
+          "number": "33",
+          "section": "42.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Illustration of houses on the edge of the city.",
+          "semantic_meaning": "Residential area outside the city centre."
+        },
+        {
+          "source_text": "pedestrian zone",
+          "number": "34",
+          "section": "42.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Illustration of people walking beside a pedestrian sign.",
+          "semantic_meaning": "Area where pedestrians, rather than vehicles, are allowed."
+        }
+      ]
+    },
+    {
+      "page": 97,
+      "title": "In town",
+      "context": "42.1 BUILDINGS AND OTHER FEATURES",
+      "entries": [
+        {
+          "source_text": "skyscraper",
+          "number": "6",
+          "section": "42.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Pointer to a very tall tower building.",
+          "semantic_meaning": "A very tall city building."
+        },
+        {
+          "source_text": "office building",
+          "number": "7",
+          "section": "42.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Pointer to a multi-storey yellow building with people entering.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "industrial zone (US) industrial estate (UK)",
+          "number": "8",
+          "section": "42.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Pointer to the factory and warehouse area.",
+          "semantic_meaning": "US and UK terms for an area used for industry."
+        },
+        {
+          "source_text": "factory",
+          "number": "9",
+          "section": "42.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Pointer to the building with smokestacks emitting smoke.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "park",
+          "number": "16",
+          "section": "42.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Pointer to the green recreational area with trees, benches, and paths.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nightclub",
+          "number": "17",
+          "section": "42.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Pointer to a building with a cocktail sign.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "theater (US) / theatre (UK)",
+          "number": "18",
+          "section": "42.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Pointer to the building with comedy and tragedy masks.",
+          "semantic_meaning": "US and UK spellings for a venue for live performances."
+        },
+        {
+          "source_text": "street",
+          "number": "25",
+          "section": "42.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Pointer to the main road.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "street corner",
+          "number": "26",
+          "section": "42.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Pointer to the junction where two streets meet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bus station",
+          "number": "27",
+          "section": "42.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Pointer to the building with buses parked inside.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "train station",
+          "number": "28",
+          "section": "42.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Pointer to the station building and railway tracks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "movie theater (US) cinema (UK)",
+          "number": "29",
+          "section": "42.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Pointer to the building with a movie camera sign.",
+          "semantic_meaning": "US and UK terms for a cinema."
+        },
+        {
+          "source_text": "alley",
+          "number": "35",
+          "section": "42.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Illustration of a narrow passage between buildings.",
+          "semantic_meaning": "A narrow street or passage."
+        },
+        {
+          "source_text": "rush hour",
+          "number": "36",
+          "section": "42.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Illustration of heavy traffic and many pedestrians beneath a clock.",
+          "semantic_meaning": "Time when traffic is especially busy."
+        },
+        {
+          "source_text": "one-way system",
+          "number": "37",
+          "section": "42.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Illustration of cars travelling under a one-way arrow sign.",
+          "semantic_meaning": "Road arrangement in which traffic travels in only one direction."
+        },
+        {
+          "source_text": "tourist office (US) tourist information (UK)",
+          "number": "38",
+          "section": "42.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Illustration of a visitor-information desk with information symbols.",
+          "semantic_meaning": "US and UK terms for a place providing information to visitors."
+        }
+      ]
+    }
+  ]
+}

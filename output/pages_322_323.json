@@ -1,0 +1,438 @@
+{
+  "pages": [
+    {
+      "page": 322,
+      "title": "Rocks and minerals",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "sedimentary",
+          "number": "1",
+          "section": "156.1 ROCKS",
+          "visual_context": "Diagram of layered material settling underwater.",
+          "semantic_meaning": "formed from deposited sediment"
+        },
+        {
+          "source_text": "sandstone",
+          "number": "2",
+          "section": "156.1 ROCKS",
+          "visual_context": "Block of visibly layered sandy rock.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "limestone",
+          "number": "3",
+          "section": "156.1 ROCKS",
+          "visual_context": "Two pale rectangular stone slabs.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chalk",
+          "number": "4",
+          "section": "156.1 ROCKS",
+          "visual_context": "Dark chalkboard with white chalk writing and flower drawing.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "flint",
+          "number": "5",
+          "section": "156.1 ROCKS",
+          "visual_context": "Orange-brown irregular flint stone.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "conglomerate",
+          "number": "6",
+          "section": "156.1 ROCKS",
+          "visual_context": "Pale rock containing many rounded embedded pebbles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "metamorphic",
+          "number": "7",
+          "section": "156.1 ROCKS",
+          "visual_context": "Diagram showing rock altered by underground heat and pressure.",
+          "semantic_meaning": "changed by heat or pressure"
+        },
+        {
+          "source_text": "slate",
+          "number": "8",
+          "section": "156.1 ROCKS",
+          "visual_context": "Stacked dark flat stone sheets.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "schist",
+          "number": "9",
+          "section": "156.1 ROCKS",
+          "visual_context": "Two dark, striped layered rock slabs.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gneiss",
+          "number": "10",
+          "section": "156.1 ROCKS",
+          "visual_context": "Rounded gray rock with folded pale bands.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "marble",
+          "number": "11",
+          "section": "156.1 ROCKS",
+          "visual_context": "White block with gray veining.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "quartzite",
+          "number": "12",
+          "section": "156.1 ROCKS",
+          "visual_context": "Pale rock block with gold and light-blue bands.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "igneous",
+          "number": "13",
+          "section": "156.1 ROCKS",
+          "visual_context": "Volcano diagram showing molten material cooling into rock.",
+          "semantic_meaning": "formed from cooled molten rock"
+        },
+        {
+          "source_text": "granite",
+          "number": "14",
+          "section": "156.1 ROCKS",
+          "visual_context": "Pink speckled rock sample.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "obsidian",
+          "number": "15",
+          "section": "156.1 ROCKS",
+          "visual_context": "Glossy black chipped stone.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "basalt",
+          "number": "16",
+          "section": "156.1 ROCKS",
+          "visual_context": "Cluster of brown-black columnar rock blocks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tuff",
+          "number": "17",
+          "section": "156.1 ROCKS",
+          "visual_context": "Pointer to a dark speckled volcanic rock.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pumice",
+          "number": "18",
+          "section": "156.1 ROCKS",
+          "visual_context": "Light porous stone with a strap/handle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "quartz",
+          "number": "1",
+          "section": "156.2 MINERALS",
+          "visual_context": "Cluster of pink-purple crystals.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mica",
+          "number": "2",
+          "section": "156.2 MINERALS",
+          "visual_context": "Stack of thin brown flaky sheets.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "agate",
+          "number": "3",
+          "section": "156.2 MINERALS",
+          "visual_context": "Polished cross-section with concentric multicolored bands.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hematite",
+          "number": "4",
+          "section": "156.2 MINERALS",
+          "visual_context": "Cluster of dark gray rounded mineral pieces.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "calcite",
+          "number": "5",
+          "section": "156.2 MINERALS",
+          "visual_context": "Pale pink-white crystalline mineral.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "malachite",
+          "number": "6",
+          "section": "156.2 MINERALS",
+          "visual_context": "Green banded polished mineral stone.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "turquoise",
+          "number": "7",
+          "section": "156.2 MINERALS",
+          "visual_context": "Blue-green rough mineral stone.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "onyx",
+          "number": "8",
+          "section": "156.2 MINERALS",
+          "visual_context": "Dark faceted mineral chunk.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sulfur (US)\nsulphur (UK)",
+          "number": "9",
+          "section": "156.2 MINERALS",
+          "visual_context": "Bright yellow crystal cluster.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "graphite",
+          "number": "10",
+          "section": "156.2 MINERALS",
+          "visual_context": "Dark gray layered mineral piece.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "geode",
+          "number": "11",
+          "section": "156.2 MINERALS",
+          "visual_context": "Purple crystal-lined rock cavity.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sand rose",
+          "number": "12",
+          "section": "156.2 MINERALS",
+          "visual_context": "Brown-and-white rose-like cluster of crystal blades.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 323,
+      "title": "Rocks and minerals",
+      "context": "See also: 76 Chemistry; 78 The periodic table; 145 Planet Earth; 146-147 Geography",
+      "entries": [
+        {
+          "source_text": "diamond",
+          "number": "1",
+          "section": "156.3 GEMS",
+          "visual_context": "Faceted pale-blue diamond.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sapphire",
+          "number": "2",
+          "section": "156.3 GEMS",
+          "visual_context": "Faceted blue rectangular gem.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "emerald",
+          "number": "3",
+          "section": "156.3 GEMS",
+          "visual_context": "Faceted green rectangular gem.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ruby",
+          "number": "4",
+          "section": "156.3 GEMS",
+          "visual_context": "Faceted red oval gem.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "amethyst",
+          "number": "5",
+          "section": "156.3 GEMS",
+          "visual_context": "Faceted purple rectangular gem.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "topaz",
+          "number": "6",
+          "section": "156.3 GEMS",
+          "visual_context": "Faceted orange rectangular gem.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "aquamarine",
+          "number": "7",
+          "section": "156.3 GEMS",
+          "visual_context": "Faceted turquoise-blue rectangular gem.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "moonstone",
+          "number": "8",
+          "section": "156.3 GEMS",
+          "visual_context": "Pale milky oval cabochon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "opal",
+          "number": "9",
+          "section": "156.3 GEMS",
+          "visual_context": "Oval blue stone with multicolored flecks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tourmaline",
+          "number": "10",
+          "section": "156.3 GEMS",
+          "visual_context": "Faceted gem shaded green, brown, and pink.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "garnet",
+          "number": "11",
+          "section": "156.3 GEMS",
+          "visual_context": "Faceted round red gem.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "citrine",
+          "number": "12",
+          "section": "156.3 GEMS",
+          "visual_context": "Faceted orange oval gem.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "jade",
+          "number": "13",
+          "section": "156.3 GEMS",
+          "visual_context": "Green oval stone with pale veining.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "jet",
+          "number": "14",
+          "section": "156.3 GEMS",
+          "visual_context": "Black oval stone with white streaks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lapis lazuli",
+          "number": "15",
+          "section": "156.3 GEMS",
+          "visual_context": "Blue oval stone with gold-colored flecks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "jasper",
+          "number": "16",
+          "section": "156.3 GEMS",
+          "visual_context": "Red oval stone with white and gray swirls.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tiger’s eye",
+          "number": "17",
+          "section": "156.3 GEMS",
+          "visual_context": "Brown-and-gold striped oval stone.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "carnelian",
+          "number": "18",
+          "section": "156.3 GEMS",
+          "visual_context": "Orange-red banded oval stone.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gold",
+          "number": "1",
+          "section": "156.4 METALS",
+          "visual_context": "Stacked gold bars.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "silver",
+          "number": "2",
+          "section": "156.4 METALS",
+          "visual_context": "Silver chain and jewelry.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "platinum",
+          "number": "3",
+          "section": "156.4 METALS",
+          "visual_context": "Pale metal jewelry, including necklaces and rings.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "magnesium",
+          "number": "4",
+          "section": "156.4 METALS",
+          "visual_context": "Bright burning sparkler/firework.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "iron",
+          "number": "5",
+          "section": "156.4 METALS",
+          "visual_context": "Three dark iron nails.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "copper",
+          "number": "6",
+          "section": "156.4 METALS",
+          "visual_context": "Coil of orange copper wire.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tin",
+          "number": "7",
+          "section": "156.4 METALS",
+          "visual_context": "Tin can with its lid partly open.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "aluminum (US)\naluminium (UK)",
+          "number": "8",
+          "section": "156.4 METALS",
+          "visual_context": "Silver drinks can.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mercury",
+          "number": "9",
+          "section": "156.4 METALS",
+          "visual_context": "Glass thermometer containing liquid metal.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nickel",
+          "number": "10",
+          "section": "156.4 METALS",
+          "visual_context": "Two cylindrical batteries.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "zinc",
+          "number": "11",
+          "section": "156.4 METALS",
+          "visual_context": "Gray metal nuts.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chromium",
+          "number": "12",
+          "section": "156.4 METALS",
+          "visual_context": "Chrome-colored car grille/body detail.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

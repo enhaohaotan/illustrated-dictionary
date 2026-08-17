@@ -1,0 +1,410 @@
+{
+  "pages": [
+    {
+      "page": 292,
+      "title": "Arts and crafts",
+      "context": "141.1 PAINTING",
+      "entries": [
+        {
+          "source_text": "brush",
+          "number": "1",
+          "section": "141.1 PAINTING",
+          "visual_context": "Brush held by the artist and touching the canvas.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "painting",
+          "number": "2",
+          "section": "141.1 PAINTING",
+          "visual_context": "Painted flower image on the canvas.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "canvas",
+          "number": "3",
+          "section": "141.1 PAINTING",
+          "visual_context": "Canvas mounted on the easel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "artist",
+          "number": "4",
+          "section": "141.1 PAINTING",
+          "visual_context": "Person painting the flower.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "palette",
+          "number": "5",
+          "section": "141.1 PAINTING",
+          "visual_context": "Handheld board containing mixed paints.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "paint tube",
+          "number": "6",
+          "section": "141.1 PAINTING",
+          "visual_context": "Small tube of paint on the table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "palette knife",
+          "number": "7",
+          "section": "141.1 PAINTING",
+          "visual_context": "Flat knife among the tools on the table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "easel",
+          "number": "8",
+          "section": "141.1 PAINTING",
+          "visual_context": "Wooden stand supporting the canvas.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "red",
+          "number": "9",
+          "section": "141.1 PAINTING",
+          "visual_context": "Red paint tube.",
+          "semantic_meaning": "A colour."
+        },
+        {
+          "source_text": "scarlet",
+          "number": "10",
+          "section": "141.1 PAINTING",
+          "visual_context": "Scarlet paint tube.",
+          "semantic_meaning": "A bright red colour."
+        },
+        {
+          "source_text": "blue",
+          "number": "11",
+          "section": "141.1 PAINTING",
+          "visual_context": "Blue paint tube.",
+          "semantic_meaning": "A colour."
+        },
+        {
+          "source_text": "turquoise",
+          "number": "12",
+          "section": "141.1 PAINTING",
+          "visual_context": "Turquoise paint tube.",
+          "semantic_meaning": "A blue-green colour."
+        },
+        {
+          "source_text": "navy blue",
+          "number": "13",
+          "section": "141.1 PAINTING",
+          "visual_context": "Navy blue paint tube.",
+          "semantic_meaning": "A dark blue colour."
+        },
+        {
+          "source_text": "yellow",
+          "number": "14",
+          "section": "141.1 PAINTING",
+          "visual_context": "Yellow paint tube.",
+          "semantic_meaning": "A colour."
+        },
+        {
+          "source_text": "green",
+          "number": "15",
+          "section": "141.1 PAINTING",
+          "visual_context": "Green paint tube.",
+          "semantic_meaning": "A colour."
+        },
+        {
+          "source_text": "orange",
+          "number": "16",
+          "section": "141.1 PAINTING",
+          "visual_context": "Orange paint tube.",
+          "semantic_meaning": "A colour."
+        },
+        {
+          "source_text": "purple",
+          "number": "17",
+          "section": "141.1 PAINTING",
+          "visual_context": "Purple paint tube.",
+          "semantic_meaning": "A colour."
+        },
+        {
+          "source_text": "indigo",
+          "number": "18",
+          "section": "141.1 PAINTING",
+          "visual_context": "Indigo paint tube.",
+          "semantic_meaning": "A deep blue-violet colour."
+        },
+        {
+          "source_text": "pink",
+          "number": "19",
+          "section": "141.1 PAINTING",
+          "visual_context": "Pink paint tube.",
+          "semantic_meaning": "A colour."
+        },
+        {
+          "source_text": "brown",
+          "number": "20",
+          "section": "141.1 PAINTING",
+          "visual_context": "Brown paint tube.",
+          "semantic_meaning": "A colour."
+        },
+        {
+          "source_text": "gray (US) grey (UK)",
+          "number": "21",
+          "section": "141.1 PAINTING",
+          "visual_context": "Gray paint tube.",
+          "semantic_meaning": "A colour; US and UK spellings."
+        },
+        {
+          "source_text": "black",
+          "number": "22",
+          "section": "141.1 PAINTING",
+          "visual_context": "Black paint tube.",
+          "semantic_meaning": "A colour."
+        },
+        {
+          "source_text": "white",
+          "number": "23",
+          "section": "141.1 PAINTING",
+          "visual_context": "White paint tube.",
+          "semantic_meaning": "A colour."
+        },
+        {
+          "source_text": "oil paints",
+          "number": "24",
+          "section": "141.1 PAINTING",
+          "visual_context": "Several small paint tubes.",
+          "semantic_meaning": "Paints made with oil-based pigment."
+        },
+        {
+          "source_text": "watercolors (US) watercolour paints (UK)",
+          "number": "25",
+          "section": "141.1 PAINTING",
+          "visual_context": "Box of watercolor paints.",
+          "semantic_meaning": "Water-based paints; US and UK terms."
+        },
+        {
+          "source_text": "pastels",
+          "number": "26",
+          "section": "141.1 PAINTING",
+          "visual_context": "Coloured pastel sticks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "acrylic paints",
+          "number": "27",
+          "section": "141.1 PAINTING",
+          "visual_context": "Upright tubes of acrylic paint.",
+          "semantic_meaning": "Fast-drying water-based paints."
+        },
+        {
+          "source_text": "poster paint",
+          "number": "28",
+          "section": "141.1 PAINTING",
+          "visual_context": "Paintbrush and round container of paint.",
+          "semantic_meaning": "Opaque water-based paint."
+        }
+      ]
+    },
+    {
+      "page": 293,
+      "title": "Arts and crafts",
+      "context": "141.2 OTHER ARTS AND CRAFTS",
+      "entries": [
+        {
+          "source_text": "sculpture",
+          "number": "1",
+          "section": "141.2 OTHER ARTS AND CRAFTS",
+          "visual_context": "Carved lion-head artwork in stone.",
+          "semantic_meaning": "A three-dimensional artwork."
+        },
+        {
+          "source_text": "chisel",
+          "number": "2",
+          "section": "141.2 OTHER ARTS AND CRAFTS",
+          "visual_context": "Tool cutting into the stone.",
+          "semantic_meaning": "A metal tool for carving."
+        },
+        {
+          "source_text": "mallet",
+          "number": "3",
+          "section": "141.2 OTHER ARTS AND CRAFTS",
+          "visual_context": "Hammer striking the chisel.",
+          "semantic_meaning": "A hammer with a large head."
+        },
+        {
+          "source_text": "stone",
+          "number": "4",
+          "section": "141.2 OTHER ARTS AND CRAFTS",
+          "visual_context": "Block being carved into a lion sculpture.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sculpting",
+          "number": "5",
+          "section": "141.2 OTHER ARTS AND CRAFTS",
+          "visual_context": "Person carving a stone lion with a chisel and mallet.",
+          "semantic_meaning": "The activity of making a sculpture."
+        },
+        {
+          "source_text": "drawing",
+          "number": "6",
+          "section": "141.2 OTHER ARTS AND CRAFTS",
+          "visual_context": "Person drawing on a board.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sketch",
+          "number": "7",
+          "section": "141.2 OTHER ARTS AND CRAFTS",
+          "visual_context": "Loose drawing of an eye.",
+          "semantic_meaning": "A quick rough drawing."
+        },
+        {
+          "source_text": "charcoal",
+          "number": "8",
+          "section": "141.2 OTHER ARTS AND CRAFTS",
+          "visual_context": "Black charcoal drawing sticks.",
+          "semantic_meaning": "Black drawing material."
+        },
+        {
+          "source_text": "pencil",
+          "number": "9",
+          "section": "141.2 OTHER ARTS AND CRAFTS",
+          "visual_context": "Black pencil.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sketch pad",
+          "number": "10",
+          "section": "141.2 OTHER ARTS AND CRAFTS",
+          "visual_context": "Spiral-bound pad of drawing paper.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "printing",
+          "number": "11",
+          "section": "141.2 OTHER ARTS AND CRAFTS",
+          "visual_context": "Hand pressing a printing block onto paper.",
+          "semantic_meaning": "Making images by transferring ink."
+        },
+        {
+          "source_text": "ink",
+          "number": "12",
+          "section": "141.2 OTHER ARTS AND CRAFTS",
+          "visual_context": "Ink bottle and spilled ink.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "engraving",
+          "number": "13",
+          "section": "141.2 OTHER ARTS AND CRAFTS",
+          "visual_context": "Hands cutting a design into a plate.",
+          "semantic_meaning": "Cutting a design into a hard surface."
+        },
+        {
+          "source_text": "woodworking",
+          "number": "14",
+          "section": "141.2 OTHER ARTS AND CRAFTS",
+          "visual_context": "Person shaping wood at a workbench.",
+          "semantic_meaning": "Making things from wood."
+        },
+        {
+          "source_text": "wood",
+          "number": "15",
+          "section": "141.2 OTHER ARTS AND CRAFTS",
+          "visual_context": "Wooden piece being worked on at the bench.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cardboard (US) card (UK)",
+          "number": "16",
+          "section": "141.2 OTHER ARTS AND CRAFTS",
+          "visual_context": "Sheets of coloured card.",
+          "semantic_meaning": "Stiff paper; US and UK terms."
+        },
+        {
+          "source_text": "collage",
+          "number": "17",
+          "section": "141.2 OTHER ARTS AND CRAFTS",
+          "visual_context": "Picture assembled from cut-out materials.",
+          "semantic_meaning": "Artwork made by sticking materials together."
+        },
+        {
+          "source_text": "glue",
+          "number": "18",
+          "section": "141.2 OTHER ARTS AND CRAFTS",
+          "visual_context": "Tube of adhesive.",
+          "semantic_meaning": "An adhesive."
+        },
+        {
+          "source_text": "origami",
+          "number": "19",
+          "section": "141.2 OTHER ARTS AND CRAFTS",
+          "visual_context": "Sequence of folded-paper diagrams.",
+          "semantic_meaning": "Japanese art of paper folding."
+        },
+        {
+          "source_text": "model making",
+          "number": "20",
+          "section": "141.2 OTHER ARTS AND CRAFTS",
+          "visual_context": "Hands assembling a small model with glue.",
+          "semantic_meaning": "Making miniature representations."
+        },
+        {
+          "source_text": "papier-mâché",
+          "number": "21",
+          "section": "141.2 OTHER ARTS AND CRAFTS",
+          "visual_context": "Craft object formed from pasted paper strips.",
+          "semantic_meaning": "Material made from paper and paste."
+        },
+        {
+          "source_text": "modeling (US) modelling (UK) tool",
+          "number": "22",
+          "section": "141.2 OTHER ARTS AND CRAFTS",
+          "visual_context": "Two orange tools for shaping material.",
+          "semantic_meaning": "A tool for shaping modelling material; US and UK spellings."
+        },
+        {
+          "source_text": "making jewelry (US) jewellery (UK)",
+          "number": "23",
+          "section": "141.2 OTHER ARTS AND CRAFTS",
+          "visual_context": "Hands stringing beads and making an ornament.",
+          "semantic_meaning": "Creating decorative personal ornaments; US and UK spellings."
+        },
+        {
+          "source_text": "potter",
+          "number": "24",
+          "section": "141.2 OTHER ARTS AND CRAFTS",
+          "visual_context": "Person shaping clay on a wheel.",
+          "semantic_meaning": "A person who makes pottery."
+        },
+        {
+          "source_text": "clay",
+          "number": "25",
+          "section": "141.2 OTHER ARTS AND CRAFTS",
+          "visual_context": "Brown material being shaped into a pot.",
+          "semantic_meaning": "Soft earth used for making pots."
+        },
+        {
+          "source_text": "potter’s wheel",
+          "number": "26",
+          "section": "141.2 OTHER ARTS AND CRAFTS",
+          "visual_context": "Rotating wheel beneath the clay pot.",
+          "semantic_meaning": "A spinning device for shaping clay."
+        },
+        {
+          "source_text": "pottery",
+          "number": "27",
+          "section": "141.2 OTHER ARTS AND CRAFTS",
+          "visual_context": "Finished clay pots beside the potter.",
+          "semantic_meaning": "Pots and other objects made from clay."
+        },
+        {
+          "source_text": "I make pots in my spare time.",
+          "number": "28",
+          "section": "141.2 OTHER ARTS AND CRAFTS",
+          "visual_context": "Speech bubble from the potter.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

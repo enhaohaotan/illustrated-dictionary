@@ -1,0 +1,270 @@
+{
+  "pages": [
+    {
+      "page": 274,
+      "title": "Sightseeing",
+      "context": "Chapter 132: Sightseeing",
+      "entries": [
+        {
+          "source_text": "tour bus (US)\ntourist bus (UK)",
+          "number": "1",
+          "section": "132.1 TOURIST ATTRACTION",
+          "visual_context": "Pointer to the large coach carrying visitors.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to go on an excursion",
+          "number": "2",
+          "section": "132.1 TOURIST ATTRACTION",
+          "visual_context": "Pointer to people travelling in an open vehicle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "guided tour",
+          "number": "3",
+          "section": "132.1 TOURIST ATTRACTION",
+          "visual_context": "Pointer to a group being led by a guide.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to go on a tour",
+          "number": "6",
+          "section": "132.1 TOURIST ATTRACTION",
+          "visual_context": "Label beside the sightseeing scene with groups travelling.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tourist",
+          "number": "7",
+          "section": "132.1 TOURIST ATTRACTION",
+          "visual_context": "Pointer to an individual visitor in the crowd.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tour guide",
+          "number": "8",
+          "section": "132.1 TOURIST ATTRACTION",
+          "visual_context": "Pointer to the guide wearing an identification badge and whistle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sightseeing",
+          "number": "9",
+          "section": "132.1 TOURIST ATTRACTION",
+          "visual_context": "Label for visiting the scenic tourist location.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "art gallery",
+          "number": "1",
+          "section": "132.2 ATTRACTIONS",
+          "visual_context": "Illustration of a gallery building with artworks visible inside.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "museum",
+          "number": "2",
+          "section": "132.2 ATTRACTIONS",
+          "visual_context": "Illustration of a classical museum building.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "monument",
+          "number": "3",
+          "section": "132.2 ATTRACTIONS",
+          "visual_context": "Illustration of a domed landmark visited by a group.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "palace",
+          "number": "4",
+          "section": "132.2 ATTRACTIONS",
+          "visual_context": "Illustration of a large castle-like royal building.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "historic building",
+          "number": "5",
+          "section": "132.2 ATTRACTIONS",
+          "visual_context": "Illustration of an old grand building with columns.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "botanical gardens",
+          "number": "6",
+          "section": "132.2 ATTRACTIONS",
+          "visual_context": "Illustration of landscaped gardens and a glasshouse.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "national park",
+          "number": "7",
+          "section": "132.2 ATTRACTIONS",
+          "visual_context": "Illustration of a protected canyon landscape.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "landscape",
+          "number": "8",
+          "section": "132.2 ATTRACTIONS",
+          "visual_context": "Pointer to the broad canyon scenery in the national-park illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "scenic",
+          "number": "9",
+          "section": "132.2 ATTRACTIONS",
+          "visual_context": "Pointer to the visually attractive canyon view.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 275,
+      "title": "Sightseeing",
+      "context": "Chapter 132: Sightseeing",
+      "entries": [
+        {
+          "source_text": "archeological site (US)\narchaeological site (UK)",
+          "number": "4",
+          "section": "132.1 TOURIST ATTRACTION",
+          "visual_context": "Pointer to the mountain-side historical site.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Do we have to pay\nan admission fee?",
+          "number": "5",
+          "section": "132.1 TOURIST ATTRACTION",
+          "visual_context": "Speech bubble from visitors standing at a souvenir stall.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "line (US)\nqueue (UK)",
+          "number": "10",
+          "section": "132.1 TOURIST ATTRACTION",
+          "visual_context": "Pointer to the row of people waiting at the stall.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "souvenir stall",
+          "number": "11",
+          "section": "132.1 TOURIST ATTRACTION",
+          "visual_context": "Pointer to the market stall selling small keepsakes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "entrance fee",
+          "number": "12",
+          "section": "132.1 TOURIST ATTRACTION",
+          "visual_context": "Illustration of an admission-ticket sign.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "open",
+          "number": "13",
+          "section": "132.1 TOURIST ATTRACTION",
+          "visual_context": "Green sign with a check mark.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "closed",
+          "number": "14",
+          "section": "132.1 TOURIST ATTRACTION",
+          "visual_context": "Red sign with an X.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "guidebook",
+          "number": "15",
+          "section": "132.1 TOURIST ATTRACTION",
+          "visual_context": "Illustration of a small tourist guidebook with a map.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "postcard",
+          "number": "16",
+          "section": "132.1 TOURIST ATTRACTION",
+          "visual_context": "Illustration of a scenic postcard.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "souvenir",
+          "number": "17",
+          "section": "132.1 TOURIST ATTRACTION",
+          "visual_context": "Illustration of souvenir animal statuettes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tourist map",
+          "number": "18",
+          "section": "132.1 TOURIST ATTRACTION",
+          "visual_context": "Pointer to a large public map board used by tourists.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "directions",
+          "number": "19",
+          "section": "132.1 TOURIST ATTRACTION",
+          "visual_context": "Pointer to a person indicating a route on the tourist map.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "waterfront",
+          "number": "10",
+          "section": null,
+          "visual_context": "Illustration of a city shoreline with water and a ferry.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "craft market",
+          "number": "11",
+          "section": null,
+          "visual_context": "Illustration of stalls selling handmade goods.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tourist office (US)\ntourist information (UK)",
+          "number": "12",
+          "section": null,
+          "visual_context": "Illustration of a visitor speaking to staff at an information counter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Can I have some information\non the local sights?",
+          "number": "13",
+          "section": null,
+          "visual_context": "Speech bubble at the tourist-information counter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "floor plan",
+          "number": "14",
+          "section": null,
+          "visual_context": "Illustration of a building layout diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "map",
+          "number": "15",
+          "section": null,
+          "visual_context": "Illustration of two people unfolding and reading a map.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "timetable",
+          "number": "16",
+          "section": null,
+          "visual_context": "Illustration of a schedule board.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "opening\ntimes",
+          "number": "17",
+          "section": null,
+          "visual_context": "Pointer to the times shown on the timetable.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

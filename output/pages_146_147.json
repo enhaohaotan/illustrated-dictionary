@@ -1,0 +1,438 @@
+{
+  "pages": [
+    {
+      "page": 146,
+      "title": "At the bar",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "coffee\nmachine",
+          "number": "1",
+          "section": "68.1 BAR",
+          "visual_context": "Pointer to the espresso coffee machine on the bar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "beer",
+          "number": "2",
+          "section": "68.1 BAR",
+          "visual_context": "Pointer to a glass of beer beneath a beer tap.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "beer tap",
+          "number": "3",
+          "section": "68.1 BAR",
+          "visual_context": "Pointer to the beer dispensing tap.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "spirit optics",
+          "number": "4",
+          "section": "68.1 BAR",
+          "visual_context": "Pointer to the wall-mounted inverted spirit-bottle dispensers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stirrer",
+          "number": "5",
+          "section": "68.1 BAR",
+          "visual_context": "Pointer to a long drink stirrer on the counter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bartender",
+          "number": "6",
+          "section": "68.1 BAR",
+          "visual_context": "Pointer to the person preparing a drink behind the bar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cash register (US)\ntill (UK)",
+          "number": "7",
+          "section": "68.1 BAR",
+          "visual_context": "Pointer to the register terminal.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ice",
+          "number": "8",
+          "section": "68.1 BAR",
+          "visual_context": "Pointer to ice cubes in the ice bucket.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "glasses",
+          "number": "9",
+          "section": "68.1 BAR",
+          "visual_context": "Pointer to assorted glasses on the shelf.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bar counter",
+          "number": "10",
+          "section": "68.1 BAR",
+          "visual_context": "Pointer to the long serving counter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bar stool",
+          "number": "11",
+          "section": "68.1 BAR",
+          "visual_context": "Pointer to a stool in front of the counter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "coaster",
+          "number": "12",
+          "section": "68.1 BAR",
+          "visual_context": "Pointer to the small round mat beneath the beer bottle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bottle opener",
+          "number": "13",
+          "section": "68.1 BAR",
+          "visual_context": "Pointer to the handheld bottle opener on the counter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bar",
+          "number": "14",
+          "section": "68.1 BAR",
+          "visual_context": "Pointer to the bar establishment/counter area.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cocktail glass",
+          "number": "15",
+          "section": "68.1 BAR",
+          "visual_context": "Pointer to the stemmed cocktail glass.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cocktail shaker",
+          "number": "16",
+          "section": "68.1 BAR",
+          "visual_context": "Pointer to the shaker held by the bartender.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ice bucket",
+          "number": "17",
+          "section": "68.1 BAR",
+          "visual_context": "Pointer to the metal bucket filled with ice.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "corkscrew",
+          "number": "18",
+          "section": "68.1 BAR",
+          "visual_context": "Pointer to the corkscrew on the counter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lager",
+          "number": "1",
+          "section": "68.2 BEER AND WINE",
+          "visual_context": "Illustration of a pale lager bottle and glass.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Pilsner",
+          "number": "2",
+          "section": "68.2 BEER AND WINE",
+          "visual_context": "Illustration of a Pilsner bottle and glass.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wheat beer",
+          "number": "3",
+          "section": "68.2 BEER AND WINE",
+          "visual_context": "Illustration of a wheat-beer bottle and tall glass.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Indian pale ale\n(IPA)",
+          "number": "4",
+          "section": "68.2 BEER AND WINE",
+          "visual_context": "Illustration of a handled mug of pale ale.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ale",
+          "number": "5",
+          "section": "68.2 BEER AND WINE",
+          "visual_context": "Illustration of a handled mug of amber ale.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stout",
+          "number": "6",
+          "section": "68.2 BEER AND WINE",
+          "visual_context": "Illustration of a dark stout glass with a creamy head.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "alcohol-free\nbeer",
+          "number": "7",
+          "section": "68.2 BEER AND WINE",
+          "visual_context": "Illustration of a bottle marked 0%.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "red wine",
+          "number": "8",
+          "section": "68.2 BEER AND WINE",
+          "visual_context": "Illustration of a glass of red wine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "white wine",
+          "number": "9",
+          "section": "68.2 BEER AND WINE",
+          "visual_context": "Illustration of a glass of white wine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rosé",
+          "number": "10",
+          "section": "68.2 BEER AND WINE",
+          "visual_context": "Illustration of a glass of pink rosé wine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sparkling wine",
+          "number": "11",
+          "section": "68.2 BEER AND WINE",
+          "visual_context": "Illustration of a sparkling-wine bottle and flute.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Champagne",
+          "number": "12",
+          "section": "68.2 BEER AND WINE",
+          "visual_context": "Illustration of a Champagne bottle and flute.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 147,
+      "title": null,
+      "context": null,
+      "entries": [
+        {
+          "source_text": "mineral water",
+          "number": "1",
+          "section": "68.3 DRINKS",
+          "visual_context": "Illustration of a bottle of water.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cider",
+          "number": "2",
+          "section": "68.3 DRINKS",
+          "visual_context": "Illustration of a cider bottle and glass.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rum",
+          "number": "3",
+          "section": "68.3 DRINKS",
+          "visual_context": "Illustration of a rum bottle and short glass.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rum and cola",
+          "number": "4",
+          "section": "68.3 DRINKS",
+          "visual_context": "Illustration of rum and cola served with a can.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "vodka",
+          "number": "5",
+          "section": "68.3 DRINKS",
+          "visual_context": "Illustration of a vodka bottle and shot glass.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "vodka and\norange",
+          "number": "6",
+          "section": "68.3 DRINKS",
+          "visual_context": "Illustration of a tall orange vodka drink with citrus.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gin and tonic",
+          "number": "7",
+          "section": "68.3 DRINKS",
+          "visual_context": "Illustration of a tall gin and tonic with lime.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Martini",
+          "number": "8",
+          "section": "68.3 DRINKS",
+          "visual_context": "Illustration of a Martini glass with an olive.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cocktail",
+          "number": "9",
+          "section": "68.3 DRINKS",
+          "visual_context": "Illustration of a red mixed drink in a cocktail glass.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mocktail",
+          "number": "10",
+          "section": "68.3 DRINKS",
+          "visual_context": "Illustration of a non-alcoholic orange mixed drink.",
+          "semantic_meaning": "a non-alcoholic cocktail"
+        },
+        {
+          "source_text": "sherry",
+          "number": "11",
+          "section": "68.3 DRINKS",
+          "visual_context": "Illustration of a sherry bottle and small glass.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "port",
+          "number": "12",
+          "section": "68.3 DRINKS",
+          "visual_context": "Illustration of a port bottle and glass.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "whiskey (US)\nwhisky (UK)",
+          "number": "13",
+          "section": "68.3 DRINKS",
+          "visual_context": "Illustration of a glass of whisky.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Scotch and\nwater",
+          "number": "14",
+          "section": "68.3 DRINKS",
+          "visual_context": "Illustration of Scotch bottle with water and a glass.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "brandy",
+          "number": "15",
+          "section": "68.3 DRINKS",
+          "visual_context": "Illustration of a brandy bottle and snifter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "liqueur",
+          "number": "16",
+          "section": "68.3 DRINKS",
+          "visual_context": "Illustration of a liqueur bottle and small glass.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "with ice",
+          "number": "17",
+          "section": "68.3 DRINKS",
+          "visual_context": "Illustration of a drink containing ice cubes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "without ice",
+          "number": "18",
+          "section": "68.3 DRINKS",
+          "visual_context": "Illustration of a drink with ice crossed out.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "single",
+          "number": "19",
+          "section": "68.3 DRINKS",
+          "visual_context": "Pointer to a glass containing one measure of spirit.",
+          "semantic_meaning": "one measure of a spirit"
+        },
+        {
+          "source_text": "double",
+          "number": "20",
+          "section": "68.3 DRINKS",
+          "visual_context": "Pointer to a glass containing two measures of spirit.",
+          "semantic_meaning": "two measures of a spirit"
+        },
+        {
+          "source_text": "shot",
+          "number": "21",
+          "section": "68.3 DRINKS",
+          "visual_context": "Pointer to a small shot glass of spirit.",
+          "semantic_meaning": "a small serving of spirit"
+        },
+        {
+          "source_text": "measure",
+          "number": "22",
+          "section": "68.3 DRINKS",
+          "visual_context": "Label beneath the illustrated spirit servings.",
+          "semantic_meaning": "a standard quantity of spirit"
+        },
+        {
+          "source_text": "ice and lemon",
+          "number": "23",
+          "section": "68.3 DRINKS",
+          "visual_context": "Illustration of ice cubes and lemon wedges.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tongs",
+          "number": "24",
+          "section": "68.3 DRINKS",
+          "visual_context": "Pointer to serving tongs beside the ice and lemon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chips (US)\ncrisps (UK)",
+          "number": "1",
+          "section": "68.4 BAR SNACKS",
+          "visual_context": "Illustration of potato chips/crisps spilling from a packet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nuts",
+          "number": "2",
+          "section": "68.4 BAR SNACKS",
+          "visual_context": "Illustration of mixed nuts spilling from a packet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "almonds",
+          "number": "3",
+          "section": "68.4 BAR SNACKS",
+          "visual_context": "Illustration of almonds.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cashews (US)\ncashew nuts (UK)",
+          "number": "4",
+          "section": "68.4 BAR SNACKS",
+          "visual_context": "Illustration of cashew nuts.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "peanuts",
+          "number": "5",
+          "section": "68.4 BAR SNACKS",
+          "visual_context": "Illustration of peanuts in shells and kernels.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "olives",
+          "number": "6",
+          "section": "68.4 BAR SNACKS",
+          "visual_context": "Illustration of green olives on a plate.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

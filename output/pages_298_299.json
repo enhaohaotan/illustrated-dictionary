@@ -1,0 +1,382 @@
+{
+  "pages": [
+    {
+      "page": 298,
+      "title": "Space continued",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "binoculars",
+          "number": "1",
+          "section": "144.1 ASTRONOMY",
+          "visual_context": "A pair of binoculars.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "refractor telescope",
+          "number": "2",
+          "section": "144.1 ASTRONOMY",
+          "visual_context": "Diagram of a telescope using lenses to refract incoming light.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "reflector telescope",
+          "number": "3",
+          "section": "144.1 ASTRONOMY",
+          "visual_context": "Diagram of a telescope using mirrors to reflect light.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "radio telescope",
+          "number": "4",
+          "section": "144.1 ASTRONOMY",
+          "visual_context": "Large parabolic radio dish antenna.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "observatory",
+          "number": "5",
+          "section": "144.1 ASTRONOMY",
+          "visual_context": "Building with a domed telescope housing.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "space telescope",
+          "number": "6",
+          "section": "144.1 ASTRONOMY",
+          "visual_context": "Satellite telescope orbiting in space.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "constellation",
+          "number": "7",
+          "section": "144.1 ASTRONOMY",
+          "visual_context": "Stars joined by lines to form star patterns.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "star chart",
+          "number": "8",
+          "section": "144.1 ASTRONOMY",
+          "visual_context": "Circular map showing stars and constellations.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "I’ve just spotted a comet.",
+          "number": "9",
+          "section": "144.1 ASTRONOMY",
+          "visual_context": "Speech bubble from the observer using the telescope.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "eyepiece",
+          "number": "10",
+          "section": "144.1 ASTRONOMY",
+          "visual_context": "Pointer to the viewing end of the telescope.",
+          "semantic_meaning": "The lens or opening looked through on a telescope."
+        },
+        {
+          "source_text": "finderscope",
+          "number": "11",
+          "section": "144.1 ASTRONOMY",
+          "visual_context": "Pointer to the small auxiliary sighting telescope mounted on the main telescope.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "comet",
+          "number": "12",
+          "section": "144.1 ASTRONOMY",
+          "visual_context": "Pointer to the bright object with a trailing tail in the night sky.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tripod",
+          "number": "13",
+          "section": "144.1 ASTRONOMY",
+          "visual_context": "Pointer to the three-legged telescope stand.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "focusing knob",
+          "number": "14",
+          "section": "144.1 ASTRONOMY",
+          "visual_context": "Pointer to the adjustment knob on the telescope.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "telescope",
+          "number": "15",
+          "section": "144.1 ASTRONOMY",
+          "visual_context": "Pointer to the main telescope on its stand.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gravity",
+          "number": "1",
+          "section": "144.2 STARS AND CONSTELLATIONS",
+          "visual_context": "Earth surrounded by arrows pointing inward.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "aurora",
+          "number": "2",
+          "section": "144.2 STARS AND CONSTELLATIONS",
+          "visual_context": "Colored glowing lights over Earth’s polar region.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "star",
+          "number": "3",
+          "section": "144.2 STARS AND CONSTELLATIONS",
+          "visual_context": "A single bright star in space.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "flare",
+          "number": "4",
+          "section": "144.2 STARS AND CONSTELLATIONS",
+          "visual_context": "A star emitting a bright explosive burst of rays.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "double star",
+          "number": "5",
+          "section": "144.2 STARS AND CONSTELLATIONS",
+          "visual_context": "Two nearby colored stars.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "neutron star",
+          "number": "6",
+          "section": "144.2 STARS AND CONSTELLATIONS",
+          "visual_context": "Dense orange star with surrounding rings and jets.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "the Pole Star / Polaris",
+          "number": "13",
+          "section": "144.2 STARS AND CONSTELLATIONS",
+          "visual_context": "Pointer to the prominent star beside the Big Dipper pattern.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "the Big Dipper (US) the Plough (UK)",
+          "number": "14",
+          "section": "144.2 STARS AND CONSTELLATIONS",
+          "visual_context": "The dipper-shaped constellation drawn with linked stars.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "the Southern Cross",
+          "number": "15",
+          "section": "144.2 STARS AND CONSTELLATIONS",
+          "visual_context": "Cross-shaped constellation formed by linked stars.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Orion",
+          "number": "16",
+          "section": "144.2 STARS AND CONSTELLATIONS",
+          "visual_context": "The Orion constellation diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "red giant",
+          "number": "17",
+          "section": "144.2 STARS AND CONSTELLATIONS",
+          "visual_context": "Large red-orange star.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "white dwarf",
+          "number": "18",
+          "section": "144.2 STARS AND CONSTELLATIONS",
+          "visual_context": "Small pale blue-white star remnant.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 299,
+      "title": null,
+      "context": null,
+      "entries": [
+        {
+          "source_text": "zodiac constellations",
+          "number": "1",
+          "section": "144.3 THE ZODIAC",
+          "visual_context": "Pointer to the inner ring of twelve star-pattern constellations on the zodiac wheel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "zodiac symbols",
+          "number": "2",
+          "section": "144.3 THE ZODIAC",
+          "visual_context": "Pointer to the outer ring of symbolic zodiac signs.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Aries",
+          "number": "3",
+          "section": "144.3 THE ZODIAC",
+          "visual_context": "Pointer to the Aries ram symbol and its constellation.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Taurus",
+          "number": "4",
+          "section": "144.3 THE ZODIAC",
+          "visual_context": "Pointer to the Taurus bull symbol and its constellation.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Gemini",
+          "number": "5",
+          "section": "144.3 THE ZODIAC",
+          "visual_context": "Pointer to the Gemini twins symbol and its constellation.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Cancer",
+          "number": "6",
+          "section": "144.3 THE ZODIAC",
+          "visual_context": "Pointer to the Cancer crab symbol and its constellation.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Leo",
+          "number": "7",
+          "section": "144.3 THE ZODIAC",
+          "visual_context": "Pointer to the Leo lion symbol and its constellation.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Virgo",
+          "number": "8",
+          "section": "144.3 THE ZODIAC",
+          "visual_context": "Pointer to the Virgo symbol and its constellation.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Libra",
+          "number": "9",
+          "section": "144.3 THE ZODIAC",
+          "visual_context": "Pointer to the Libra scales symbol and its constellation.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Scorpio",
+          "number": "10",
+          "section": "144.3 THE ZODIAC",
+          "visual_context": "Pointer to the Scorpio symbol and its constellation.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Sagittarius",
+          "number": "11",
+          "section": "144.3 THE ZODIAC",
+          "visual_context": "Pointer to the Sagittarius archer symbol and its constellation.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Capricorn",
+          "number": "12",
+          "section": "144.3 THE ZODIAC",
+          "visual_context": "Pointer to the Capricorn symbol and its constellation.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Aquarius",
+          "number": "13",
+          "section": "144.3 THE ZODIAC",
+          "visual_context": "Pointer to the Aquarius water-bearer symbol and its constellation.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Pisces",
+          "number": "14",
+          "section": "144.3 THE ZODIAC",
+          "visual_context": "Pointer to the Pisces fish symbol and its constellation.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "supernova",
+          "number": "7",
+          "section": "144.2 STARS AND CONSTELLATIONS",
+          "visual_context": "Bright stellar explosion.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nebula",
+          "number": "8",
+          "section": "144.2 STARS AND CONSTELLATIONS",
+          "visual_context": "Colorful cloud of gas and dust in space.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "the Big Bang",
+          "number": "9",
+          "section": "144.2 STARS AND CONSTELLATIONS",
+          "visual_context": "Explosive origin event illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "star cluster",
+          "number": "10",
+          "section": "144.2 STARS AND CONSTELLATIONS",
+          "visual_context": "Dense grouping of many stars.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "elliptical galaxy",
+          "number": "11",
+          "section": "144.2 STARS AND CONSTELLATIONS",
+          "visual_context": "Smooth, glowing oval galaxy.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "spiral galaxy",
+          "number": "12",
+          "section": "144.2 STARS AND CONSTELLATIONS",
+          "visual_context": "Galaxy with winding spiral arms.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "black hole",
+          "number": "19",
+          "section": "144.2 STARS AND CONSTELLATIONS",
+          "visual_context": "Dark circular center surrounded by a swirling ring.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "meteor",
+          "number": "20",
+          "section": "144.2 STARS AND CONSTELLATIONS",
+          "visual_context": "Single burning object streaking through space.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "meteor shower",
+          "number": "21",
+          "section": "144.2 STARS AND CONSTELLATIONS",
+          "visual_context": "Several meteors streaking through space.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "the Milky Way",
+          "number": "22",
+          "section": "144.2 STARS AND CONSTELLATIONS",
+          "visual_context": "Illustration of a large spiral galaxy viewed at an angle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "the universe",
+          "number": "23",
+          "section": "144.2 STARS AND CONSTELLATIONS",
+          "visual_context": "Dense field of countless stars and galaxies.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

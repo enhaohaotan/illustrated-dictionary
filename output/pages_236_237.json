@@ -1,0 +1,354 @@
+{
+  "pages": [
+    {
+      "page": 236,
+      "title": "Baseball",
+      "context": "113.1 BASEBALL GAME",
+      "entries": [
+        {
+          "source_text": "handle",
+          "number": "1",
+          "section": "BASEBALL GAME",
+          "visual_context": "Pointer to the grip end of the bat.",
+          "semantic_meaning": "part of a bat held by the player"
+        },
+        {
+          "source_text": "knob",
+          "number": "2",
+          "section": "BASEBALL GAME",
+          "visual_context": "Pointer to the knob at the end of the bat handle.",
+          "semantic_meaning": "rounded end of a bat handle"
+        },
+        {
+          "source_text": "batting glove",
+          "number": "3",
+          "section": "BASEBALL GAME",
+          "visual_context": "Pointer to the glove on the batter's hand.",
+          "semantic_meaning": "glove worn by a batter"
+        },
+        {
+          "source_text": "batter",
+          "number": "4",
+          "section": "BASEBALL GAME",
+          "visual_context": "Baseball player shown swinging a bat.",
+          "semantic_meaning": "player who hits the ball"
+        },
+        {
+          "source_text": "bat",
+          "number": "5",
+          "section": "BASEBALL GAME",
+          "visual_context": "Pointer to the wooden bat.",
+          "semantic_meaning": "implement used to hit a baseball"
+        },
+        {
+          "source_text": "helmet",
+          "number": "6",
+          "section": "BASEBALL GAME",
+          "visual_context": "Pointer to the batter's blue protective helmet.",
+          "semantic_meaning": "protective headgear"
+        },
+        {
+          "source_text": "stitches",
+          "number": "7",
+          "section": "BASEBALL GAME",
+          "visual_context": "Pointer to the red stitched seams on a baseball.",
+          "semantic_meaning": "sewn seams on a baseball"
+        },
+        {
+          "source_text": "baseball",
+          "number": "8",
+          "section": "BASEBALL GAME",
+          "visual_context": "Illustration of a white ball with red stitches.",
+          "semantic_meaning": "ball used in baseball"
+        },
+        {
+          "source_text": "mitt",
+          "number": "9",
+          "section": "BASEBALL GAME",
+          "visual_context": "Illustration of a padded baseball glove.",
+          "semantic_meaning": "fielder's catching glove"
+        },
+        {
+          "source_text": "inning",
+          "number": "10",
+          "section": "BASEBALL GAME",
+          "visual_context": "Scoreboard display showing innings.",
+          "semantic_meaning": "division of a baseball game"
+        },
+        {
+          "source_text": "mask",
+          "number": "11",
+          "section": "BASEBALL GAME",
+          "visual_context": "Illustration of a catcher's face mask.",
+          "semantic_meaning": "protective face guard"
+        },
+        {
+          "source_text": "strike",
+          "number": "12",
+          "section": "BASEBALL GAME",
+          "visual_context": "Icon shows a batter missing a pitched ball.",
+          "semantic_meaning": "missed pitch or pitch not hit legally"
+        },
+        {
+          "source_text": "out",
+          "number": "13",
+          "section": "BASEBALL GAME",
+          "visual_context": "Icon depicts a player being put out.",
+          "semantic_meaning": "play ending a batter's or runner's turn"
+        },
+        {
+          "source_text": "foul ball",
+          "number": "14",
+          "section": "BASEBALL GAME",
+          "visual_context": "Icon shows a batted ball traveling outside fair territory.",
+          "semantic_meaning": "ball hit outside the foul lines"
+        },
+        {
+          "source_text": "safe",
+          "number": "15",
+          "section": "BASEBALL GAME",
+          "visual_context": "Icon depicts a runner reaching a base safely.",
+          "semantic_meaning": "not out at a base"
+        },
+        {
+          "source_text": "to play",
+          "number": "16",
+          "section": "BASEBALL GAME",
+          "visual_context": "Icon depicts baseball players in action.",
+          "semantic_meaning": "to take part in a game"
+        },
+        {
+          "source_text": "to throw",
+          "number": "17",
+          "section": "BASEBALL GAME",
+          "visual_context": "Icon shows a player throwing a ball.",
+          "semantic_meaning": "to propel a ball with the arm"
+        },
+        {
+          "source_text": "to catch",
+          "number": "18",
+          "section": "BASEBALL GAME",
+          "visual_context": "Icon shows a player catching a ball in a glove.",
+          "semantic_meaning": "to receive a ball"
+        },
+        {
+          "source_text": "to bat",
+          "number": "19",
+          "section": "BASEBALL GAME",
+          "visual_context": "Icon shows a player holding a bat ready to hit.",
+          "semantic_meaning": "to hit or attempt to hit with a bat"
+        },
+        {
+          "source_text": "to slide",
+          "number": "20",
+          "section": "BASEBALL GAME",
+          "visual_context": "Icon shows a runner sliding into a base.",
+          "semantic_meaning": "to slide feet-first or head-first toward a base"
+        },
+        {
+          "source_text": "to pitch",
+          "number": "21",
+          "section": "BASEBALL GAME",
+          "visual_context": "Icon shows a pitcher delivering a ball.",
+          "semantic_meaning": "to throw the ball to the batter"
+        },
+        {
+          "source_text": "to run",
+          "number": "22",
+          "section": "BASEBALL GAME",
+          "visual_context": "Icon shows a runner moving between bases.",
+          "semantic_meaning": "to move quickly on foot"
+        },
+        {
+          "source_text": "to tag",
+          "number": "23",
+          "section": "BASEBALL GAME",
+          "visual_context": "Icon shows a fielder touching a runner with the ball or glove.",
+          "semantic_meaning": "to put a runner out by touching them with the ball"
+        },
+        {
+          "source_text": "to field",
+          "number": "24",
+          "section": "BASEBALL GAME",
+          "visual_context": "Icon shows a player ready to field a ball.",
+          "semantic_meaning": "to play defense and handle batted balls"
+        },
+        {
+          "source_text": "foul pole",
+          "number": "25",
+          "section": "BASEBALL GAME",
+          "visual_context": "Pointer to the tall red pole at the edge of the field.",
+          "semantic_meaning": "upright marker defining fair territory"
+        },
+        {
+          "source_text": "foul line",
+          "number": "26",
+          "section": "BASEBALL GAME",
+          "visual_context": "Pointer to the white line running from home plate into the outfield.",
+          "semantic_meaning": "line separating fair and foul territory"
+        },
+        {
+          "source_text": "warning track",
+          "number": "27",
+          "section": "BASEBALL GAME",
+          "visual_context": "Pointer to the brown strip bordering the outfield near the wall.",
+          "semantic_meaning": "track near an outfield wall warning fielders"
+        },
+        {
+          "source_text": "outfield",
+          "number": "28",
+          "section": "BASEBALL GAME",
+          "visual_context": "Pointer to the grass area beyond the infield.",
+          "semantic_meaning": "part of the field beyond the bases"
+        }
+      ]
+    },
+    {
+      "page": 237,
+      "title": "Baseball",
+      "context": "113.1 BASEBALL GAME",
+      "entries": [
+        {
+          "source_text": "first base",
+          "number": "29",
+          "section": "BASEBALL GAME",
+          "visual_context": "Pointer to the base at the right side of the diamond.",
+          "semantic_meaning": "first base reached by a batter-runner"
+        },
+        {
+          "source_text": "coach",
+          "number": "30",
+          "section": "BASEBALL GAME",
+          "visual_context": "Pointer to the person standing in the coach's box.",
+          "semantic_meaning": "team instructor or adviser"
+        },
+        {
+          "source_text": "coach’s box",
+          "number": "31",
+          "section": "BASEBALL GAME",
+          "visual_context": "Pointer to the marked rectangular area beside the baseline.",
+          "semantic_meaning": "designated area for a base coach"
+        },
+        {
+          "source_text": "players’ dugout",
+          "number": "32",
+          "section": "BASEBALL GAME",
+          "visual_context": "Pointer to the covered bench area holding team players.",
+          "semantic_meaning": "sheltered seating area for players"
+        },
+        {
+          "source_text": "players",
+          "number": "33",
+          "section": "BASEBALL GAME",
+          "visual_context": "Pointer to the people seated in the dugout.",
+          "semantic_meaning": "people taking part in the game"
+        },
+        {
+          "source_text": "catcher",
+          "number": "34",
+          "section": "BASEBALL GAME",
+          "visual_context": "Pointer to the crouching, protected player behind home plate.",
+          "semantic_meaning": "player who receives pitches behind the batter"
+        },
+        {
+          "source_text": "backstop net",
+          "number": "35",
+          "section": "BASEBALL GAME",
+          "visual_context": "Pointer to the tall protective net behind home plate.",
+          "semantic_meaning": "net that stops balls behind the catcher"
+        },
+        {
+          "source_text": "umpire",
+          "number": "36",
+          "section": "BASEBALL GAME",
+          "visual_context": "Pointer to the official standing behind the catcher.",
+          "semantic_meaning": "official who enforces game rules"
+        },
+        {
+          "source_text": "batter",
+          "number": "37",
+          "section": "BASEBALL GAME",
+          "visual_context": "Pointer to the player at home plate holding a bat.",
+          "semantic_meaning": "player who hits the ball"
+        },
+        {
+          "source_text": "fourth base / home plate",
+          "number": "38",
+          "section": "BASEBALL GAME",
+          "visual_context": "Pointer to the home-plate area at the bottom of the diamond.",
+          "semantic_meaning": "base a runner reaches to score"
+        },
+        {
+          "source_text": "third base",
+          "number": "39",
+          "section": "BASEBALL GAME",
+          "visual_context": "Pointer to the base on the left side of the diamond from home plate.",
+          "semantic_meaning": "third base reached by a runner"
+        },
+        {
+          "source_text": "pitcher",
+          "number": "40",
+          "section": "BASEBALL GAME",
+          "visual_context": "Pointer to the player on the mound throwing toward home plate.",
+          "semantic_meaning": "player who delivers pitches"
+        },
+        {
+          "source_text": "pitcher’s mound",
+          "number": "41",
+          "section": "BASEBALL GAME",
+          "visual_context": "Pointer to the raised circular area in the center of the infield.",
+          "semantic_meaning": "raised area from which the pitcher throws"
+        },
+        {
+          "source_text": "umpire",
+          "number": "42",
+          "section": "BASEBALL GAME",
+          "visual_context": "Pointer to an official near the infield.",
+          "semantic_meaning": "official who enforces game rules"
+        },
+        {
+          "source_text": "second base",
+          "number": "43",
+          "section": "BASEBALL GAME",
+          "visual_context": "Pointer to the base at the top of the diamond.",
+          "semantic_meaning": "second base reached by a runner"
+        },
+        {
+          "source_text": "infield",
+          "number": "44",
+          "section": "BASEBALL GAME",
+          "visual_context": "Pointer to the dirt and grass area inside the bases.",
+          "semantic_meaning": "area of the field within the base paths"
+        },
+        {
+          "source_text": "outfielders",
+          "number": "45",
+          "section": "BASEBALL GAME",
+          "visual_context": "Pointers to defensive players positioned beyond the infield.",
+          "semantic_meaning": "defensive players in the outfield"
+        },
+        {
+          "source_text": "boundary",
+          "number": "46",
+          "section": "BASEBALL GAME",
+          "visual_context": "Pointer to the edge separating the playing area from the outer field area.",
+          "semantic_meaning": "edge or limit of the field"
+        },
+        {
+          "source_text": "infielder",
+          "number": "47",
+          "section": "BASEBALL GAME",
+          "visual_context": "Pointer to a defensive player positioned in the infield.",
+          "semantic_meaning": "defensive player in the infield"
+        },
+        {
+          "source_text": "baseball field",
+          "number": "48",
+          "section": "BASEBALL GAME",
+          "visual_context": "Label refers to the complete baseball playing field.",
+          "semantic_meaning": "area where baseball is played"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,480 @@
+{
+  "pages": [
+    {
+      "page": 312,
+      "title": "Countries continued",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "Singapore",
+          "number": "1",
+          "section": "151.1 ASIA CONTINUED",
+          "visual_context": "flag of Singapore",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Indonesia",
+          "number": "2",
+          "section": "151.1 ASIA CONTINUED",
+          "visual_context": "flag of Indonesia",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Brunei",
+          "number": "3",
+          "section": "151.1 ASIA CONTINUED",
+          "visual_context": "flag of Brunei",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Philippines",
+          "number": "4",
+          "section": "151.1 ASIA CONTINUED",
+          "visual_context": "flag of the Philippines",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "East Timor",
+          "number": "5",
+          "section": "151.1 ASIA CONTINUED",
+          "visual_context": "flag of East Timor",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Malaysia",
+          "number": "6",
+          "section": "151.1 ASIA CONTINUED",
+          "visual_context": "flag of Malaysia",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "United Arab Emirates",
+          "number": "7",
+          "section": "151.1 ASIA CONTINUED",
+          "visual_context": "flag of the United Arab Emirates",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Oman",
+          "number": "8",
+          "section": "151.1 ASIA CONTINUED",
+          "visual_context": "flag of Oman",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Bahrain",
+          "number": "9",
+          "section": "151.1 ASIA CONTINUED",
+          "visual_context": "flag of Bahrain",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Qatar",
+          "number": "10",
+          "section": "151.1 ASIA CONTINUED",
+          "visual_context": "flag of Qatar",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Kuwait",
+          "number": "11",
+          "section": "151.1 ASIA CONTINUED",
+          "visual_context": "flag of Kuwait",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Iran",
+          "number": "12",
+          "section": "151.1 ASIA CONTINUED",
+          "visual_context": "flag of Iran",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Yemen",
+          "number": "13",
+          "section": "151.1 ASIA CONTINUED",
+          "visual_context": "flag of Yemen",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Saudi Arabia",
+          "number": "14",
+          "section": "151.1 ASIA CONTINUED",
+          "visual_context": "flag of Saudi Arabia",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Uzbekistan",
+          "number": "15",
+          "section": "151.1 ASIA CONTINUED",
+          "visual_context": "flag of Uzbekistan",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Turkmenistan",
+          "number": "16",
+          "section": "151.1 ASIA CONTINUED",
+          "visual_context": "flag of Turkmenistan",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Afghanistan",
+          "number": "17",
+          "section": "151.1 ASIA CONTINUED",
+          "visual_context": "flag of Afghanistan",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Tajikistan",
+          "number": "18",
+          "section": "151.1 ASIA CONTINUED",
+          "visual_context": "flag of Tajikistan",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Kyrgyzstan",
+          "number": "19",
+          "section": "151.1 ASIA CONTINUED",
+          "visual_context": "flag of Kyrgyzstan",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Kazakhstan",
+          "number": "20",
+          "section": "151.1 ASIA CONTINUED",
+          "visual_context": "pointer to the flag of Kazakhstan",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Ireland",
+          "number": "1",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of Ireland",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "United Kingdom",
+          "number": "2",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of the United Kingdom",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Belgium",
+          "number": "9",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of Belgium",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Netherlands",
+          "number": "10",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of the Netherlands",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Portugal",
+          "number": "17",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of Portugal",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Spain",
+          "number": "18",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of Spain",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Luxembourg",
+          "number": "25",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of Luxembourg",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Germany",
+          "number": "26",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of Germany",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Andorra",
+          "number": "33",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of Andorra",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "France",
+          "number": "34",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of France",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Denmark",
+          "number": "41",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of Denmark",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Norway",
+          "number": "42",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of Norway",
+          "semantic_meaning": "country"
+        }
+      ]
+    },
+    {
+      "page": 313,
+      "title": null,
+      "context": "See also: 145 Planet Earth; 146-147 Geography; 148 Maps and directions; 152-153 Nationalities",
+      "entries": [
+        {
+          "source_text": "Sweden",
+          "number": "3",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of Sweden",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Finland",
+          "number": "4",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of Finland",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Estonia",
+          "number": "5",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of Estonia",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Latvia",
+          "number": "6",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of Latvia",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Lithuania",
+          "number": "7",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of Lithuania",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Poland",
+          "number": "8",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of Poland",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Czech Republic",
+          "number": "11",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of the Czech Republic",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Austria",
+          "number": "12",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of Austria",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Liechtenstein",
+          "number": "13",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of Liechtenstein",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Italy",
+          "number": "14",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of Italy",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Monaco",
+          "number": "15",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of Monaco",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "San Marino",
+          "number": "16",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of San Marino",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Malta",
+          "number": "19",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of Malta",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Slovenia",
+          "number": "20",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of Slovenia",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Croatia",
+          "number": "21",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of Croatia",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Hungary",
+          "number": "22",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of Hungary",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Slovakia",
+          "number": "23",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of Slovakia",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Ukraine",
+          "number": "24",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of Ukraine",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Belarus",
+          "number": "27",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of Belarus",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Moldova",
+          "number": "28",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of Moldova",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Romania",
+          "number": "29",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of Romania",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Serbia",
+          "number": "30",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of Serbia",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Bulgaria",
+          "number": "31",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of Bulgaria",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Albania",
+          "number": "32",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of Albania",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Greece",
+          "number": "35",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of Greece",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Iceland",
+          "number": "36",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of Iceland",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Cyprus",
+          "number": "37",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of Cyprus",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Montenegro",
+          "number": "38",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of Montenegro",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Vatican City",
+          "number": "39",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of Vatican City",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Turkey",
+          "number": "40",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of Turkey",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Bosnia and Herzegovina",
+          "number": "43",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of Bosnia and Herzegovina",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "North Macedonia",
+          "number": "44",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of North Macedonia",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Switzerland",
+          "number": "45",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of Switzerland",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Russian Federation",
+          "number": "46",
+          "section": "151.2 EUROPE",
+          "visual_context": "flag of the Russian Federation",
+          "semantic_meaning": "country"
+        }
+      ]
+    }
+  ]
+}

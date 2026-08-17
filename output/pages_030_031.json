@@ -1,0 +1,487 @@
+{
+  "pages": [
+    {
+      "page": 30,
+      "title": "Daily routines",
+      "context": "9.1 MORNING AND AFTERNOON",
+      "entries": [
+        {
+          "source_text": "alarm goes off",
+          "number": "1",
+          "section": "9.1 MORNING AND AFTERNOON",
+          "visual_context": "An alarm clock beside a person in bed.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to wake up",
+          "number": "2",
+          "section": "9.1 MORNING AND AFTERNOON",
+          "visual_context": "A person waking and stretching in bed.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to get up",
+          "number": "3",
+          "section": "9.1 MORNING AND AFTERNOON",
+          "visual_context": "A person sitting up and getting out of bed.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to take (or have) a shower",
+          "number": "4",
+          "section": "9.1 MORNING AND AFTERNOON",
+          "visual_context": "A person standing under a shower.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to take (or have) a bath",
+          "number": "5",
+          "section": "9.1 MORNING AND AFTERNOON",
+          "visual_context": "A person in a bathtub.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to put on makeup",
+          "number": "6",
+          "section": "9.1 MORNING AND AFTERNOON",
+          "visual_context": "A person applying makeup in a mirror.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to shave",
+          "number": "7",
+          "section": "9.1 MORNING AND AFTERNOON",
+          "visual_context": "A person shaving at a sink.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to wash your hair",
+          "number": "8",
+          "section": "9.1 MORNING AND AFTERNOON",
+          "visual_context": "Hair being washed under a shower.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to dry your hair",
+          "number": "9",
+          "section": "9.1 MORNING AND AFTERNOON",
+          "visual_context": "A person drying hair with a hairdryer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to iron a shirt",
+          "number": "10",
+          "section": "9.1 MORNING AND AFTERNOON",
+          "visual_context": "A person ironing a shirt on an ironing board.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to get dressed",
+          "number": "11",
+          "section": "9.1 MORNING AND AFTERNOON",
+          "visual_context": "A seated person putting on clothing.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to brush your teeth",
+          "number": "12",
+          "section": "9.1 MORNING AND AFTERNOON",
+          "visual_context": "A person brushing their teeth.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to wash your face",
+          "number": "13",
+          "section": "9.1 MORNING AND AFTERNOON",
+          "visual_context": "A person washing their face at a sink.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to brush your hair",
+          "number": "14",
+          "section": "9.1 MORNING AND AFTERNOON",
+          "visual_context": "A person brushing their hair.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to make the bed",
+          "number": "15",
+          "section": "9.1 MORNING AND AFTERNOON",
+          "visual_context": "A person making a bed.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to have (or eat) breakfast",
+          "number": "16",
+          "section": "9.1 MORNING AND AFTERNOON",
+          "visual_context": "A person eating breakfast at a table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to pack your lunch",
+          "number": "17",
+          "section": "9.1 MORNING AND AFTERNOON",
+          "visual_context": "A person packing food into a lunch container.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to leave the house",
+          "number": "18",
+          "section": "9.1 MORNING AND AFTERNOON",
+          "visual_context": "A person leaving a house carrying a bag.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to go to work",
+          "number": "19",
+          "section": "9.1 MORNING AND AFTERNOON",
+          "visual_context": "A worker carrying a briefcase.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to go to school",
+          "number": "20",
+          "section": "9.1 MORNING AND AFTERNOON",
+          "visual_context": "Children walking toward a school.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to drive",
+          "number": "21",
+          "section": "9.1 MORNING AND AFTERNOON",
+          "visual_context": "A car in motion.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to catch the bus",
+          "number": "22",
+          "section": "9.1 MORNING AND AFTERNOON",
+          "visual_context": "A person boarding a bus.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to catch the train",
+          "number": "23",
+          "section": "9.1 MORNING AND AFTERNOON",
+          "visual_context": "A person running toward a train.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to read a newspaper",
+          "number": "24",
+          "section": "9.1 MORNING AND AFTERNOON",
+          "visual_context": "A person reading a newspaper.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to arrive",
+          "number": "25",
+          "section": "9.1 MORNING AND AFTERNOON",
+          "visual_context": "Two workers arriving at desks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to arrive early",
+          "number": "26",
+          "section": "9.1 MORNING AND AFTERNOON",
+          "visual_context": "A worker arriving at a desk before the clock time.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to arrive on time",
+          "number": "27",
+          "section": "9.1 MORNING AND AFTERNOON",
+          "visual_context": "Workers arriving at a desk with a clock shown.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to have (or eat) lunch",
+          "number": "28",
+          "section": "9.1 MORNING AND AFTERNOON",
+          "visual_context": "Two people eating lunch at a table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to check your emails",
+          "number": "29",
+          "section": "9.1 MORNING AND AFTERNOON",
+          "visual_context": "A worker at a computer displaying email messages.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to take a break (US)\nto have a break (UK)",
+          "number": "30",
+          "section": "9.1 MORNING AND AFTERNOON",
+          "visual_context": "A worker stretching away from a desk.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to arrive late /\nto be late",
+          "number": "31",
+          "section": "9.1 MORNING AND AFTERNOON",
+          "visual_context": "A late-arriving worker apologizing to another person, with a clock.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "I’m sorry I’m\nlate again.",
+          "number": "32",
+          "section": "9.1 MORNING AND AFTERNOON",
+          "visual_context": "Speech bubble from the late-arriving worker.",
+          "semantic_meaning": "Apology for repeated lateness."
+        }
+      ]
+    },
+    {
+      "page": 31,
+      "title": "Daily routines",
+      "context": "9.2 EVENING; 9.3 OTHER ACTIVITIES",
+      "entries": [
+        {
+          "source_text": "to finish work",
+          "number": "1",
+          "section": "9.2 EVENING",
+          "visual_context": "A person finishing at an office desk.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to leave work",
+          "number": "2",
+          "section": "9.2 EVENING",
+          "visual_context": "A worker leaving a desk carrying a bag.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to work overtime",
+          "number": "3",
+          "section": "9.2 EVENING",
+          "visual_context": "A worker remaining at a desk with a clock.",
+          "semantic_meaning": "Work beyond normal working hours."
+        },
+        {
+          "source_text": "There’s no\nplace like home!",
+          "number": "4",
+          "section": "9.2 EVENING",
+          "visual_context": "Speech bubble pointing to a house and people arriving home.",
+          "semantic_meaning": "Expression of happiness at being home."
+        },
+        {
+          "source_text": "to arrive home",
+          "number": "5",
+          "section": "9.2 EVENING",
+          "visual_context": "Two people standing in front of a house.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to cook dinner",
+          "number": "6",
+          "section": "9.2 EVENING",
+          "visual_context": "A person cooking at a stove.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to have (or\neat) dinner",
+          "number": "7",
+          "section": "9.2 EVENING",
+          "visual_context": "People eating dinner at a table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to clear\nthe table",
+          "number": "8",
+          "section": "9.2 EVENING",
+          "visual_context": "People removing dishes from a dining table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to wash up",
+          "number": "9",
+          "section": "9.2 EVENING",
+          "visual_context": "A person washing dishes at a sink.",
+          "semantic_meaning": "Wash dishes after a meal."
+        },
+        {
+          "source_text": "to listen to\nthe radio",
+          "number": "10",
+          "section": "9.2 EVENING",
+          "visual_context": "A person listening to a radio.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to watch TV",
+          "number": "11",
+          "section": "9.2 EVENING",
+          "visual_context": "People watching television.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to drink tea\nor coffee",
+          "number": "12",
+          "section": "9.2 EVENING",
+          "visual_context": "A person drinking a hot beverage.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to take out the\ntrash (US) / rubbish (UK)",
+          "number": "13",
+          "section": "9.2 EVENING",
+          "visual_context": "A person taking a trash bag to an outdoor bin.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to put the\nchildren to bed",
+          "number": "14",
+          "section": "9.2 EVENING",
+          "visual_context": "An adult putting children into bunk beds.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to go to bed",
+          "number": "15",
+          "section": "9.2 EVENING",
+          "visual_context": "A person lying in bed, with a clock.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to set\nthe alarm",
+          "number": "16",
+          "section": "9.2 EVENING",
+          "visual_context": "A person setting an alarm clock beside a bed.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to go to sleep",
+          "number": "17",
+          "section": "9.2 EVENING",
+          "visual_context": "A sleeping person in bed, with sleeping symbols.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to do\nhomework",
+          "number": "1",
+          "section": "9.3 OTHER ACTIVITIES",
+          "visual_context": "A student working at a desk.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to walk\nthe dog",
+          "number": "2",
+          "section": "9.3 OTHER ACTIVITIES",
+          "visual_context": "A person walking a dog on a leash.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to feed the\ndog / cat",
+          "number": "3",
+          "section": "9.3 OTHER ACTIVITIES",
+          "visual_context": "A person giving food to a pet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to buy\ngroceries",
+          "number": "4",
+          "section": "9.3 OTHER ACTIVITIES",
+          "visual_context": "A shopper buying groceries at a checkout.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to go out\nwith friends",
+          "number": "5",
+          "section": "9.3 OTHER ACTIVITIES",
+          "visual_context": "Two friends walking together with bags.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to go\nto a café",
+          "number": "6",
+          "section": "9.3 OTHER ACTIVITIES",
+          "visual_context": "A person entering a café.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to call a friend /\nto call your family",
+          "number": "7",
+          "section": "9.3 OTHER ACTIVITIES",
+          "visual_context": "Two people talking on telephones.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to mow\nthe lawn",
+          "number": "8",
+          "section": "9.3 OTHER ACTIVITIES",
+          "visual_context": "A person pushing a lawnmower.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to exercise",
+          "number": "9",
+          "section": "9.3 OTHER ACTIVITIES",
+          "visual_context": "Two people exercising or jogging.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to play with\nyour kids",
+          "number": "10",
+          "section": "9.3 OTHER ACTIVITIES",
+          "visual_context": "An adult playing ball with children.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to pay the bills",
+          "number": "11",
+          "section": "9.3 OTHER ACTIVITIES",
+          "visual_context": "A person handling bills at a table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to take a nap",
+          "number": "12",
+          "section": "9.3 OTHER ACTIVITIES",
+          "visual_context": "A person sleeping in a chair.",
+          "semantic_meaning": "Sleep for a short time during the day."
+        },
+        {
+          "source_text": "to clean\nthe car",
+          "number": "13",
+          "section": "9.3 OTHER ACTIVITIES",
+          "visual_context": "A person cleaning a car with a bucket.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to play a\nmusical instrument",
+          "number": "14",
+          "section": "9.3 OTHER ACTIVITIES",
+          "visual_context": "A person playing a guitar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to chat\nwith friends",
+          "number": "15",
+          "section": "9.3 OTHER ACTIVITIES",
+          "visual_context": "A group of friends talking beneath speech bubbles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to chat online",
+          "number": "16",
+          "section": "9.3 OTHER ACTIVITIES",
+          "visual_context": "A person using a computer with a headset.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to water\nthe plants",
+          "number": "17",
+          "section": "9.3 OTHER ACTIVITIES",
+          "visual_context": "A person in a wheelchair watering a plant.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to send a package /\nparcel (UK)",
+          "number": "18",
+          "section": "9.3 OTHER ACTIVITIES",
+          "visual_context": "A person handing a package over a postal counter.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

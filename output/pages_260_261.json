@@ -1,0 +1,459 @@
+{
+  "pages": [
+    {
+      "page": 260,
+      "title": "Other sports",
+      "context": "Sections 125.1 GYMNASTICS and 125.2 OTHER SPORTS.",
+      "entries": [
+        {
+          "source_text": "floor mat",
+          "number": "1",
+          "section": "125.1 GYMNASTICS",
+          "visual_context": "Gymnast standing on a blue floor mat.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hoop",
+          "number": "2",
+          "section": "125.1 GYMNASTICS",
+          "visual_context": "Rhythmic gymnast performing with a hoop.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ribbon",
+          "number": "3",
+          "section": "125.1 GYMNASTICS",
+          "visual_context": "Rhythmic gymnast holding a trailing ribbon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "horizontal bar",
+          "number": "4",
+          "section": "125.1 GYMNASTICS",
+          "visual_context": "Gymnast handstanding on a single horizontal bar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "vault",
+          "number": "5",
+          "section": "125.1 GYMNASTICS",
+          "visual_context": "Gymnast vaulting over a padded vaulting apparatus.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "uneven bars",
+          "number": "6",
+          "section": "125.1 GYMNASTICS",
+          "visual_context": "Gymnast on two bars at different heights.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "beam",
+          "number": "7",
+          "section": "125.1 GYMNASTICS",
+          "visual_context": "Gymnast balancing on a beam.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pommel horse",
+          "number": "8",
+          "section": "125.1 GYMNASTICS",
+          "visual_context": "Gymnast performing on a pommel horse.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rings",
+          "number": "9",
+          "section": "125.1 GYMNASTICS",
+          "visual_context": "Gymnast suspended from gymnastic rings.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "parallel bars",
+          "number": "10",
+          "section": "125.1 GYMNASTICS",
+          "visual_context": "Gymnast on two parallel bars.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "springboard",
+          "number": "11",
+          "section": "125.1 GYMNASTICS",
+          "visual_context": "Pointer to the springboard before the vault runway.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "trampoline",
+          "number": "1",
+          "section": "125.2 OTHER SPORTS",
+          "visual_context": "Child jumping on a trampoline.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "handball",
+          "number": "2",
+          "section": "125.2 OTHER SPORTS",
+          "visual_context": "Players contesting a ball in handball.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "netball",
+          "number": "3",
+          "section": "125.2 OTHER SPORTS",
+          "visual_context": "Players shooting at a netball hoop.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rollerskating",
+          "number": "4",
+          "section": "125.2 OTHER SPORTS",
+          "visual_context": "Person skating on roller skates.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "inline skating",
+          "number": "5",
+          "section": "125.2 OTHER SPORTS",
+          "visual_context": "Person skating on inline skates.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "skateboard",
+          "number": "6",
+          "section": "125.2 OTHER SPORTS",
+          "visual_context": "Pointer to the skateboard beneath a skater.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "kick flip",
+          "number": "7",
+          "section": "125.2 OTHER SPORTS",
+          "visual_context": "Pointer to a skateboarder doing a flip trick.",
+          "semantic_meaning": "A skateboard trick."
+        },
+        {
+          "source_text": "skateboarding",
+          "number": "8",
+          "section": "125.2 OTHER SPORTS",
+          "visual_context": "Skateboarder performing a trick.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "target",
+          "number": "9",
+          "section": "125.2 OTHER SPORTS",
+          "visual_context": "Pointer to the circular shooting target.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "target shooting",
+          "number": "10",
+          "section": "125.2 OTHER SPORTS",
+          "visual_context": "Person aiming a rifle at a target.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "quiver",
+          "number": "11",
+          "section": "125.2 OTHER SPORTS",
+          "visual_context": "Pointer to the container of arrows at the archer's waist.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bow",
+          "number": "12",
+          "section": "125.2 OTHER SPORTS",
+          "visual_context": "Pointer to the archer's curved bow.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "archer",
+          "number": "13",
+          "section": "125.2 OTHER SPORTS",
+          "visual_context": "Pointer to the person using a bow.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "arrow",
+          "number": "14",
+          "section": "125.2 OTHER SPORTS",
+          "visual_context": "Pointer to arrows embedded in the target.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "archery",
+          "number": "15",
+          "section": "125.2 OTHER SPORTS",
+          "visual_context": "Archer aiming at a target.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bowling ball",
+          "number": "16",
+          "section": "125.2 OTHER SPORTS",
+          "visual_context": "Pointer to the red bowling ball on the lane.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bowling pin",
+          "number": "17",
+          "section": "125.2 OTHER SPORTS",
+          "visual_context": "Pointer to the set of pins at the end of the lane.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bowling",
+          "number": "18",
+          "section": "125.2 OTHER SPORTS",
+          "visual_context": "Bowling lane, ball, and pins.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 261,
+      "title": null,
+      "context": "Section 125.3 PARASPORTS, followed by the continuation of 125.2 OTHER SPORTS.",
+      "entries": [
+        {
+          "source_text": "wheelchair basketball",
+          "number": "1",
+          "section": "125.3 PARASPORTS",
+          "visual_context": "Two wheelchair users playing basketball.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "boccia",
+          "number": "2",
+          "section": "125.3 PARASPORTS",
+          "visual_context": "Wheelchair athlete rolling a red ball.",
+          "semantic_meaning": "A precision ball sport."
+        },
+        {
+          "source_text": "quad rugby (US) wheelchair rugby (UK)",
+          "number": "3",
+          "section": "125.3 PARASPORTS",
+          "visual_context": "Two wheelchair players colliding while playing rugby.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "running blades",
+          "number": "4",
+          "section": "125.3 PARASPORTS",
+          "visual_context": "Pointer to the runner's curved prosthetic running blades.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "para athlete",
+          "number": "5",
+          "section": "125.3 PARASPORTS",
+          "visual_context": "Pointer to the athlete running with blades.",
+          "semantic_meaning": "An athlete who competes in parasport."
+        },
+        {
+          "source_text": "athletics",
+          "number": "6",
+          "section": "125.3 PARASPORTS",
+          "visual_context": "Runner with prosthetic blades on a track.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "goalball",
+          "number": "7",
+          "section": "125.3 PARASPORTS",
+          "visual_context": "Blindfolded players with a blue ball in front of a goal.",
+          "semantic_meaning": "A team sport for visually impaired players."
+        },
+        {
+          "source_text": "blindfold",
+          "number": "8",
+          "section": "125.3 PARASPORTS",
+          "visual_context": "Pointer to the eye covering worn by a goalball player.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cue",
+          "number": "19",
+          "section": "125.2 OTHER SPORTS",
+          "visual_context": "Pointer to the long stick on the snooker table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cue ball",
+          "number": "20",
+          "section": "125.2 OTHER SPORTS",
+          "visual_context": "Pointer to the white ball on the snooker table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bridge",
+          "number": "21",
+          "section": "125.2 OTHER SPORTS",
+          "visual_context": "Pointer to the rest supporting a cue on the snooker table.",
+          "semantic_meaning": "A cue rest."
+        },
+        {
+          "source_text": "pocket",
+          "number": "22",
+          "section": "125.2 OTHER SPORTS",
+          "visual_context": "Pointer to a corner pocket of the snooker table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rack",
+          "number": "23",
+          "section": "125.2 OTHER SPORTS",
+          "visual_context": "Pointer to the triangular frame for arranging balls.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "snooker",
+          "number": "24",
+          "section": "125.2 OTHER SPORTS",
+          "visual_context": "Snooker table with coloured balls and a rack.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pool",
+          "number": "25",
+          "section": "125.2 OTHER SPORTS",
+          "visual_context": "Pool table with cue, cue ball, and racked balls.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bungee jumping",
+          "number": "26",
+          "section": "125.2 OTHER SPORTS",
+          "visual_context": "Person jumping from a platform attached to a bungee cord.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "skydiving",
+          "number": "27",
+          "section": "125.2 OTHER SPORTS",
+          "visual_context": "Person falling through the sky.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "canopy",
+          "number": "28",
+          "section": "125.2 OTHER SPORTS",
+          "visual_context": "Pointer to the fabric wing of a hang-glider.",
+          "semantic_meaning": "The fabric surface of a hang-glider."
+        },
+        {
+          "source_text": "suspension line",
+          "number": "29",
+          "section": "125.2 OTHER SPORTS",
+          "visual_context": "Pointer to a line connecting the hang-glider wing to the pilot.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hang-glider",
+          "number": "30",
+          "section": "125.2 OTHER SPORTS",
+          "visual_context": "Pointer to the person suspended beneath the hang-glider.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hang-gliding",
+          "number": "31",
+          "section": "125.2 OTHER SPORTS",
+          "visual_context": "Person flying beneath a hang-glider.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "abseiling",
+          "number": "32",
+          "section": "125.2 OTHER SPORTS",
+          "visual_context": "Climber descending a vertical rock face by rope.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rope",
+          "number": "33",
+          "section": "125.2 OTHER SPORTS",
+          "visual_context": "Pointer to the rope used by a rock climber.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rock climbing",
+          "number": "34",
+          "section": "125.2 OTHER SPORTS",
+          "visual_context": "Climber ascending a rock face.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "glider",
+          "number": "35",
+          "section": "125.2 OTHER SPORTS",
+          "visual_context": "Pointer to the winged glider aircraft.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "paragliding",
+          "number": "36",
+          "section": "125.2 OTHER SPORTS",
+          "visual_context": "Person flying below a paraglider wing.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "parachuting",
+          "number": "37",
+          "section": "125.2 OTHER SPORTS",
+          "visual_context": "Person descending beneath a parachute.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "parachute",
+          "number": "38",
+          "section": "125.2 OTHER SPORTS",
+          "visual_context": "Pointer to the parachute canopy above the person.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Athletics",
+          "number": "116",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Combat sports",
+          "number": "117",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Swimming",
+          "number": "118",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Horse riding",
+          "number": "120",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Winter sports",
+          "number": "122",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "At the gym",
+          "number": "124",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the See also box.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

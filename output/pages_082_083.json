@@ -1,0 +1,431 @@
+{
+  "pages": [
+    {
+      "page": 82,
+      "title": "Home improvements",
+      "context": "35.1 TOOLS AND DIY EQUIPMENT; 35.2 DIY VERBS",
+      "entries": [
+        {
+          "source_text": "jigsaw",
+          "number": "1",
+          "section": "35.1 TOOLS AND DIY EQUIPMENT",
+          "visual_context": "Green handheld jigsaw on the upper work surface.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cordless drill",
+          "number": "2",
+          "section": "35.1 TOOLS AND DIY EQUIPMENT",
+          "visual_context": "Yellow battery-powered drill.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "battery pack",
+          "number": "3",
+          "section": "35.1 TOOLS AND DIY EQUIPMENT",
+          "visual_context": "Removable black battery beside the drill.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wood glue",
+          "number": "4",
+          "section": "35.1 TOOLS AND DIY EQUIPMENT",
+          "visual_context": "Bottle of glue on the shelf.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "level (US) / spirit level (UK)",
+          "number": "5",
+          "section": "35.1 TOOLS AND DIY EQUIPMENT",
+          "visual_context": "Yellow vertical level hanging on the tool rack.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "glue gun",
+          "number": "6",
+          "section": "35.1 TOOLS AND DIY EQUIPMENT",
+          "visual_context": "Blue hot-glue gun on the tool rack.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "electric drill",
+          "number": "7",
+          "section": "35.1 TOOLS AND DIY EQUIPMENT",
+          "visual_context": "Corded drill hanging on the tool rack.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "circular saw",
+          "number": "8",
+          "section": "35.1 TOOLS AND DIY EQUIPMENT",
+          "visual_context": "Circular power saw on the work bench.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tool rack",
+          "number": "9",
+          "section": "35.1 TOOLS AND DIY EQUIPMENT",
+          "visual_context": "Dark perforated board holding tools.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "brace",
+          "number": "10",
+          "section": "35.1 TOOLS AND DIY EQUIPMENT",
+          "visual_context": "Hand-operated brace drill on the tool rack.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sander",
+          "number": "11",
+          "section": "35.1 TOOLS AND DIY EQUIPMENT",
+          "visual_context": "Electric sander with a sanding disc on the work bench.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "work bench",
+          "number": "12",
+          "section": "35.1 TOOLS AND DIY EQUIPMENT",
+          "visual_context": "Large wooden bench supporting the tools.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "G-clamp",
+          "number": "13",
+          "section": "35.1 TOOLS AND DIY EQUIPMENT",
+          "visual_context": "Blue G-shaped clamp fixed to the edge of the bench.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "router",
+          "number": "14",
+          "section": "35.1 TOOLS AND DIY EQUIPMENT",
+          "visual_context": "Green handheld woodworking router on the bench.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "extension cord (US)\nextension lead (UK)",
+          "number": "15",
+          "section": "35.1 TOOLS AND DIY EQUIPMENT",
+          "visual_context": "Power strip and attached electrical cable beneath the bench.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "drill bit",
+          "number": "16",
+          "section": "35.1 TOOLS AND DIY EQUIPMENT",
+          "visual_context": "Twist drill bit shown at upper right.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chuck",
+          "number": "17",
+          "section": "35.1 TOOLS AND DIY EQUIPMENT",
+          "visual_context": "Drill chuck shown at right.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to cut",
+          "number": "1",
+          "section": "35.2 DIY VERBS",
+          "visual_context": "Person cutting material with a powered cutting tool.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to saw",
+          "number": "2",
+          "section": "35.2 DIY VERBS",
+          "visual_context": "Person sawing a board on trestles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to drill",
+          "number": "3",
+          "section": "35.2 DIY VERBS",
+          "visual_context": "Wheelchair user drilling into a vertical surface.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to hammer",
+          "number": "4",
+          "section": "35.2 DIY VERBS",
+          "visual_context": "Person hammering while assembling a frame.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to plane",
+          "number": "5",
+          "section": "35.2 DIY VERBS",
+          "visual_context": "Person smoothing wood with a hand plane.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to turn",
+          "number": "6",
+          "section": "35.2 DIY VERBS",
+          "visual_context": "Person operating a lathe.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to carve",
+          "number": "7",
+          "section": "35.2 DIY VERBS",
+          "visual_context": "Person carving wood with a chisel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to tile",
+          "number": "8",
+          "section": "35.2 DIY VERBS",
+          "visual_context": "Person installing wall tiles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to solder",
+          "number": "9",
+          "section": "35.2 DIY VERBS",
+          "visual_context": "Soldering iron heating solder at a joint.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "solder",
+          "number": "10",
+          "section": "35.2 DIY VERBS",
+          "visual_context": "Solder material at the tip of the soldering iron.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "soldering iron",
+          "number": "11",
+          "section": "35.2 DIY VERBS",
+          "visual_context": "Large corded soldering iron.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 83,
+      "title": "Home improvements",
+      "context": "35.3 MATERIALS; continuation of 35.2 DIY VERBS",
+      "entries": [
+        {
+          "source_text": "wood",
+          "number": "1",
+          "section": "35.3 MATERIALS",
+          "visual_context": "Stacked wooden boards.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hardwood",
+          "number": "2",
+          "section": "35.3 MATERIALS",
+          "visual_context": "Dark wood boards shown with a broadleaf tree.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "softwood",
+          "number": "3",
+          "section": "35.3 MATERIALS",
+          "visual_context": "Light wood boards shown with a conifer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hardboard",
+          "number": "4",
+          "section": "35.3 MATERIALS",
+          "visual_context": "Dark brown sheet board.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "particle board (US)\nchipboard (UK)",
+          "number": "5",
+          "section": "35.3 MATERIALS",
+          "visual_context": "Compressed wood-particle board block.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "plywood",
+          "number": "6",
+          "section": "35.3 MATERIALS",
+          "visual_context": "Layered pale wood sheet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "MDF",
+          "number": "7",
+          "section": "35.3 MATERIALS",
+          "visual_context": "Pale fibreboard block.",
+          "semantic_meaning": "medium-density fibreboard"
+        },
+        {
+          "source_text": "tiles",
+          "number": "8",
+          "section": "35.3 MATERIALS",
+          "visual_context": "Grid of blue square tiles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "concrete",
+          "number": "9",
+          "section": "35.3 MATERIALS",
+          "visual_context": "Concrete building block.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "metal",
+          "number": "10",
+          "section": "35.3 MATERIALS",
+          "visual_context": "Metal I-beam.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wire",
+          "number": "11",
+          "section": "35.3 MATERIALS",
+          "visual_context": "Roll or mesh of wire.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "flagstone",
+          "number": "12",
+          "section": "35.3 MATERIALS",
+          "visual_context": "Flat paving stone slab.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "insulation",
+          "number": "13",
+          "section": "35.3 MATERIALS",
+          "visual_context": "Roll of insulating material.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sand",
+          "number": "14",
+          "section": "35.3 MATERIALS",
+          "visual_context": "Bag and pile of sand.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gravel",
+          "number": "15",
+          "section": "35.3 MATERIALS",
+          "visual_context": "Pile of small grey stones.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bricks",
+          "number": "16",
+          "section": "35.3 MATERIALS",
+          "visual_context": "Loose bricks beside a bricklayer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "I’m building\na new extension.",
+          "number": "17",
+          "section": "35.3 MATERIALS",
+          "visual_context": "Speech bubble from a worker building a brick extension.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "glass",
+          "number": "18",
+          "section": "35.3 MATERIALS",
+          "visual_context": "Glass panes in a window.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mortar",
+          "number": "19",
+          "section": "35.3 MATERIALS",
+          "visual_context": "Material between the courses of a brick wall.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to install (US) /\nfit (UK) a carpet",
+          "number": "12",
+          "section": "35.2 DIY VERBS",
+          "visual_context": "Person fitting a rolled carpet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to unclog (US) /\nunblock (UK) the sink",
+          "number": "13",
+          "section": "35.2 DIY VERBS",
+          "visual_context": "Person using a plunger at a sink.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to rewire\nthe house",
+          "number": "14",
+          "section": "35.2 DIY VERBS",
+          "visual_context": "Person working on electrical wiring.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to lay bricks",
+          "number": "15",
+          "section": "35.2 DIY VERBS",
+          "visual_context": "Worker building a brick wall.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to convert\nthe loft",
+          "number": "16",
+          "section": "35.2 DIY VERBS",
+          "visual_context": "House shown with a converted attic space.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to make\ncurtains",
+          "number": "17",
+          "section": "35.2 DIY VERBS",
+          "visual_context": "Person sewing curtains at a sewing machine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to put up\nshelves",
+          "number": "18",
+          "section": "35.2 DIY VERBS",
+          "visual_context": "Two people raising shelves to install them.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to change a\nlight bulb",
+          "number": "19",
+          "section": "35.2 DIY VERBS",
+          "visual_context": "Person changing a ceiling light bulb.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to unclog (US) /\nunblock (UK) the toilet",
+          "number": "20",
+          "section": "35.2 DIY VERBS",
+          "visual_context": "Person using a plunger on a toilet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to knock\ndown a wall",
+          "number": "21",
+          "section": "35.2 DIY VERBS",
+          "visual_context": "Person demolishing a wall with a tool.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to paint a wall",
+          "number": "22",
+          "section": "35.2 DIY VERBS",
+          "visual_context": "Person painting a wall with a roller.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to fix a fence",
+          "number": "23",
+          "section": "35.2 DIY VERBS",
+          "visual_context": "Person repairing a fence.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

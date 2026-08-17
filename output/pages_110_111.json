@@ -1,0 +1,466 @@
+{
+  "pages": [
+    {
+      "page": 110,
+      "title": "The pharmacy",
+      "context": "49.1 PHARMACY",
+      "entries": [
+        {
+          "source_text": "painkillers",
+          "number": "1",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Boxes of painkiller medicine on the pharmacy shelf.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "medicine",
+          "number": "2",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Small medicine bottles on the shelf.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "antibiotics",
+          "number": "3",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Prescription medicine bottles in the dispensary.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "prescription",
+          "number": "4",
+          "section": "49.1 PHARMACY",
+          "visual_context": "A paper prescription held by the customer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "information chart",
+          "number": "5",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Wall chart behind the counter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "first-aid kit",
+          "number": "6",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Green case with a white cross.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "iron",
+          "number": "7",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Supplement packet on the shelf.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "calcium",
+          "number": "8",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Supplement packet on the shelf.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "magnesium",
+          "number": "9",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Supplement packet on the shelf.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "insulin",
+          "number": "10",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Insulin injection pen on the shelf.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "feminine hygiene",
+          "number": "11",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Boxes of feminine hygiene products.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sedative",
+          "number": "12",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Medicine container on the lower shelf.",
+          "semantic_meaning": "A medicine that calms or induces sleep."
+        },
+        {
+          "source_text": "dispensary",
+          "number": "13",
+          "section": "49.1 PHARMACY",
+          "visual_context": "The pharmacy counter and enclosed area where medicines are supplied.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pharmacist",
+          "number": "14",
+          "section": "49.1 PHARMACY",
+          "visual_context": "The person in a white coat behind the counter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Here’s my prescription for some antibiotics.",
+          "number": "15",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Speech bubble from the customer handing over a prescription.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "multi-vitamins",
+          "number": "16",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Bottles of multivitamin supplements on the shelf.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "vitamins",
+          "number": "17",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Vitamin supplement bottles and cartons on the shelf.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cough medicine",
+          "number": "18",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Bottles of cough medicine on the lower shelf.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "herbal remedies",
+          "number": "19",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Bottles marked with green herb leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "laxative",
+          "number": "20",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Boxes of laxative medicine on the shelf.",
+          "semantic_meaning": "Medicine used to relieve constipation."
+        },
+        {
+          "source_text": "sleeping pills",
+          "number": "21",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Blue boxes with sleeping symbols on the shelf.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "side effects",
+          "number": "22",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Person showing discomfort, surrounded by pills and a syringe.",
+          "semantic_meaning": "Unwanted effects caused by a medicine."
+        },
+        {
+          "source_text": "medication",
+          "number": "23",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Medicine bottle and pills.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "capsules",
+          "number": "24",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Open pill bottle with capsule-shaped pills.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pills / tablets",
+          "number": "25",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Bottle and loose round tablets.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dosage",
+          "number": "26",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Dropper, pills, and a clock.",
+          "semantic_meaning": "The amount and timing of medicine to take."
+        },
+        {
+          "source_text": "anti-inflammatory",
+          "number": "27",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Medicine-related image with a crossed-out inflammation target.",
+          "semantic_meaning": "Reducing inflammation."
+        },
+        {
+          "source_text": "over-the-counter drugs",
+          "number": "28",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Pharmacy counter display.",
+          "semantic_meaning": "Medicines available without a prescription."
+        },
+        {
+          "source_text": "throat lozenge",
+          "number": "29",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Packet of lozenges with a throat profile.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "motion-sickness medication (US) travel-sickness pills (UK)",
+          "number": "30",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Travel-themed medicine bottle, aeroplane, and tablets.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "expiration date (US) expiry date (UK)",
+          "number": "31",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Medicine bottle labelled “10/02/2028”.",
+          "semantic_meaning": "The date after which a medicine should not be used."
+        }
+      ]
+    },
+    {
+      "page": 111,
+      "title": "The pharmacy",
+      "context": "49.1 PHARMACY",
+      "entries": [
+        {
+          "source_text": "sanitary pad (US) / sanitary towel (UK)",
+          "number": "32",
+          "section": "49.1 PHARMACY",
+          "visual_context": "A large menstrual pad.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wings",
+          "number": "33",
+          "section": "49.1 PHARMACY",
+          "visual_context": "The side flaps of the sanitary pad.",
+          "semantic_meaning": "Fold-over flaps that hold a sanitary pad in place."
+        },
+        {
+          "source_text": "tampon",
+          "number": "34",
+          "section": "49.1 PHARMACY",
+          "visual_context": "A tampon with a string.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "panty liner",
+          "number": "35",
+          "section": "49.1 PHARMACY",
+          "visual_context": "A thin small absorbent liner.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "incontinence pads",
+          "number": "36",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Absorbent underwear-style pad.",
+          "semantic_meaning": "Pads for loss of bladder control."
+        },
+        {
+          "source_text": "suppository",
+          "number": "37",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Bullet-shaped suppository.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "deodorant",
+          "number": "38",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Person applying deodorant under an arm.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "skin care",
+          "number": "39",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Hand applying product from a tube.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sunscreen (US) sun cream (UK)",
+          "number": "40",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Tube of sun-protection cream with sun symbols.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sunblock",
+          "number": "41",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Sun-protection tube and sun rays blocked by a screen.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bandage",
+          "number": "42",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Person with a bandage wrapped around an arm.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "adhesive bandage (US) / plaster (UK)",
+          "number": "43",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Two crossed adhesive strips.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dental care",
+          "number": "44",
+          "section": "49.1 PHARMACY",
+          "visual_context": "A tooth icon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nail clippers",
+          "number": "45",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Nail-clipping tool and clipped nails.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wet wipes",
+          "number": "46",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Packet dispensing a wipe.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tissue",
+          "number": "47",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Tissue box with tissues protruding.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "insoles",
+          "number": "48",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Pair of shoe inserts.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "reading glasses",
+          "number": "49",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Person wearing glasses and reading a book.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "insect repellent",
+          "number": "50",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Person spraying away insects.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "contact lens",
+          "number": "51",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Finger placing a lens into an eye.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lens solution",
+          "number": "52",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Bottle dispensing liquid drops.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "syringe",
+          "number": "53",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Medical syringe.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "inhaler",
+          "number": "54",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Inhaler device.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "drops",
+          "number": "55",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Dropper releasing liquid into a dish.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "supplement",
+          "number": "56",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Supplement bottle and tablets.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "soluble",
+          "number": "57",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Tablet dissolving in a glass of water.",
+          "semantic_meaning": "Able to dissolve in liquid."
+        },
+        {
+          "source_text": "ointment",
+          "number": "58",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Tube dispensing a thick topical preparation.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "powder",
+          "number": "59",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Bottle beside a pile of powder.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "spray",
+          "number": "60",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Aerosol can spraying droplets.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gel",
+          "number": "61",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Pump bottle dispensing gel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cream",
+          "number": "62",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Open cosmetic cream jar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "syrup",
+          "number": "63",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Bottle pouring liquid into a measuring spoon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "measuring spoon",
+          "number": "64",
+          "section": "49.1 PHARMACY",
+          "visual_context": "Spoon held beneath liquid medicine being poured from a bottle.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

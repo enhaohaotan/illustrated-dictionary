@@ -1,0 +1,284 @@
+{
+  "pages": [
+    {
+      "page": 358,
+      "title": "Weights and measures",
+      "context": "174.1 WEIGHT; 174.2 DISTANCE , AREA, AND LENGTH",
+      "entries": [
+        {
+          "source_text": "pan",
+          "number": "1",
+          "section": "174.1 WEIGHT",
+          "visual_context": "Pointer to the shallow pan at the top of a large weighing scale.",
+          "semantic_meaning": "weighing-scale tray"
+        },
+        {
+          "source_text": "ounce",
+          "number": "2",
+          "section": "174.1 WEIGHT",
+          "visual_context": "Pointer to the ounce markings on the large scale dial.",
+          "semantic_meaning": "unit of weight"
+        },
+        {
+          "source_text": "pound",
+          "number": "3",
+          "section": "174.1 WEIGHT",
+          "visual_context": "Pointer to the pound markings on the large scale dial.",
+          "semantic_meaning": "unit of weight"
+        },
+        {
+          "source_text": "gram",
+          "number": "4",
+          "section": "174.1 WEIGHT",
+          "visual_context": "Pointer to gram graduations on the large scale dial.",
+          "semantic_meaning": "metric unit of weight"
+        },
+        {
+          "source_text": "kilogram",
+          "number": "5",
+          "section": "174.1 WEIGHT",
+          "visual_context": "Pointer to kilogram markings on the large scale dial.",
+          "semantic_meaning": "metric unit of weight"
+        },
+        {
+          "source_text": "scales",
+          "number": "6",
+          "section": "174.1 WEIGHT",
+          "visual_context": "Label beneath the large dial weighing scale.",
+          "semantic_meaning": "weighing device"
+        },
+        {
+          "source_text": "tonne / ton",
+          "number": "7",
+          "section": "174.1 WEIGHT",
+          "visual_context": "Label beside a rhinoceros standing on a platform scale.",
+          "semantic_meaning": "large unit of weight"
+        },
+        {
+          "source_text": "milligram",
+          "number": "8",
+          "section": "174.1 WEIGHT",
+          "visual_context": "Label beside a small digital precision scale.",
+          "semantic_meaning": "very small metric unit of weight"
+        },
+        {
+          "source_text": "to weigh",
+          "number": "9",
+          "section": "174.1 WEIGHT",
+          "visual_context": "Label beside a person using a small kitchen scale.",
+          "semantic_meaning": "determine an object's weight"
+        },
+        {
+          "source_text": "square mile",
+          "number": "1",
+          "section": "174.2 DISTANCE , AREA, AND LENGTH",
+          "visual_context": "Pointer to the large outlined square representing an area one mile by one mile.",
+          "semantic_meaning": "unit of area"
+        },
+        {
+          "source_text": "square kilometer (US) / kilometre (UK)",
+          "number": "2",
+          "section": "174.2 DISTANCE , AREA, AND LENGTH",
+          "visual_context": "Pointer to a one-kilometre square within the area diagram.",
+          "semantic_meaning": "unit of area"
+        },
+        {
+          "source_text": "kilometer (US) / kilometre (UK)",
+          "number": "3",
+          "section": "174.2 DISTANCE , AREA, AND LENGTH",
+          "visual_context": "Pointer to the one-kilometre length marker below the square diagram.",
+          "semantic_meaning": "unit of distance"
+        },
+        {
+          "source_text": "mile",
+          "number": "4",
+          "section": "174.2 DISTANCE , AREA, AND LENGTH",
+          "visual_context": "Pointer to the one-mile length marker below the square diagram.",
+          "semantic_meaning": "unit of distance"
+        },
+        {
+          "source_text": "hectare",
+          "number": "5",
+          "section": "174.2 DISTANCE , AREA, AND LENGTH",
+          "visual_context": "Label for the green 100-metre-by-100-metre area surrounding the acre.",
+          "semantic_meaning": "unit of area"
+        },
+        {
+          "source_text": "acre",
+          "number": "6",
+          "section": "174.2 DISTANCE , AREA, AND LENGTH",
+          "visual_context": "Label inside the orange rectangular area within the hectare diagram.",
+          "semantic_meaning": "unit of area"
+        },
+        {
+          "source_text": "square meter (US) metre (UK)",
+          "number": "7",
+          "section": "174.2 DISTANCE , AREA, AND LENGTH",
+          "visual_context": "Pointer to the orange one-metre-by-one-metre area in a room plan.",
+          "semantic_meaning": "unit of area"
+        },
+        {
+          "source_text": "square foot",
+          "number": "8",
+          "section": "174.2 DISTANCE , AREA, AND LENGTH",
+          "visual_context": "Pointer to the one-foot-by-one-foot area in the room plan.",
+          "semantic_meaning": "unit of area"
+        }
+      ]
+    },
+    {
+      "page": 359,
+      "title": "Weights and measures",
+      "context": "174.3 LIQUID MEASUREMENTS / VOLUME; continuation of 174.2 DISTANCE , AREA, AND LENGTH",
+      "entries": [
+        {
+          "source_text": "half-liter (US) half-litre (UK)",
+          "number": "1",
+          "section": "174.3 LIQUID MEASUREMENTS / VOLUME",
+          "visual_context": "Pointer to the half-litre line on the small measuring jug.",
+          "semantic_meaning": "liquid quantity"
+        },
+        {
+          "source_text": "liter (US) litre (UK)",
+          "number": "2",
+          "section": "174.3 LIQUID MEASUREMENTS / VOLUME",
+          "visual_context": "Label below the small measuring jug marked 1 LITRE.",
+          "semantic_meaning": "liquid-volume unit"
+        },
+        {
+          "source_text": "liquid measure",
+          "number": "3",
+          "section": "174.3 LIQUID MEASUREMENTS / VOLUME",
+          "visual_context": "Pointer to the graduated markings on the large measuring jug.",
+          "semantic_meaning": "a unit or system for measuring liquid"
+        },
+        {
+          "source_text": "quart (2 pints)",
+          "number": "4",
+          "section": "174.3 LIQUID MEASUREMENTS / VOLUME",
+          "visual_context": "Pointer to the 2-quart line on the large measuring jug.",
+          "semantic_meaning": "liquid-volume unit"
+        },
+        {
+          "source_text": "pint",
+          "number": "5",
+          "section": "174.3 LIQUID MEASUREMENTS / VOLUME",
+          "visual_context": "Pointer to the 1-pint line on the large measuring jug.",
+          "semantic_meaning": "liquid-volume unit"
+        },
+        {
+          "source_text": "fluid ounce",
+          "number": "6",
+          "section": "174.3 LIQUID MEASUREMENTS / VOLUME",
+          "visual_context": "Pointer to the lower graduated marks on the large measuring jug.",
+          "semantic_meaning": "liquid-volume unit"
+        },
+        {
+          "source_text": "measuring cup (US) measuring jug (UK)",
+          "number": "7",
+          "section": "174.3 LIQUID MEASUREMENTS / VOLUME",
+          "visual_context": "Label beneath the large graduated handled container.",
+          "semantic_meaning": "container for measuring liquids"
+        },
+        {
+          "source_text": "milliliter (US) millilitre (UK)",
+          "number": "8",
+          "section": "174.3 LIQUID MEASUREMENTS / VOLUME",
+          "visual_context": "Label beside the magnified graduations on a small measuring jug.",
+          "semantic_meaning": "small liquid-volume unit"
+        },
+        {
+          "source_text": "cubic meter (US) metre (UK)",
+          "number": "9",
+          "section": "174.3 LIQUID MEASUREMENTS / VOLUME",
+          "visual_context": "Label beside a cube with each edge marked 1 m.",
+          "semantic_meaning": "unit of volume"
+        },
+        {
+          "source_text": "volume",
+          "number": "10",
+          "section": "174.3 LIQUID MEASUREMENTS / VOLUME",
+          "visual_context": "Pointer to the one-metre cube.",
+          "semantic_meaning": "amount of space occupied"
+        },
+        {
+          "source_text": "capacity",
+          "number": "11",
+          "section": "174.3 LIQUID MEASUREMENTS / VOLUME",
+          "visual_context": "Pointer to a group of measuring jugs filled to different levels.",
+          "semantic_meaning": "maximum amount a container can hold"
+        },
+        {
+          "source_text": "gallon = 3.8 liters (US) / 4.6 litres (UK)",
+          "number": "12",
+          "section": "174.3 LIQUID MEASUREMENTS / VOLUME",
+          "visual_context": "Label beneath the group of measuring jugs.",
+          "semantic_meaning": "liquid-volume unit"
+        },
+        {
+          "source_text": "inch",
+          "number": "9",
+          "section": "174.2 DISTANCE , AREA, AND LENGTH",
+          "visual_context": "Pointer to inch divisions on the upper edge of the ruler.",
+          "semantic_meaning": "unit of length"
+        },
+        {
+          "source_text": "foot",
+          "number": "10",
+          "section": "174.2 DISTANCE , AREA, AND LENGTH",
+          "visual_context": "Pointer to the 12-inch position on the ruler.",
+          "semantic_meaning": "unit of length"
+        },
+        {
+          "source_text": "1 yard (3 feet)",
+          "number": "11",
+          "section": "174.2 DISTANCE , AREA, AND LENGTH",
+          "visual_context": "Pointer to the full 36-inch length of the ruler.",
+          "semantic_meaning": "unit of length"
+        },
+        {
+          "source_text": "millimeter (US) millimetre (UK)",
+          "number": "12",
+          "section": "174.2 DISTANCE , AREA, AND LENGTH",
+          "visual_context": "Pointer to the fine divisions visible through the magnifying glass.",
+          "semantic_meaning": "small metric unit of length"
+        },
+        {
+          "source_text": "centimeter (US) centimetre (UK)",
+          "number": "13",
+          "section": "174.2 DISTANCE , AREA, AND LENGTH",
+          "visual_context": "Pointer to centimetre divisions visible through the magnifying glass.",
+          "semantic_meaning": "metric unit of length"
+        },
+        {
+          "source_text": "ruler",
+          "number": "14",
+          "section": "174.2 DISTANCE , AREA, AND LENGTH",
+          "visual_context": "Label for the long marked measuring rule.",
+          "semantic_meaning": "straight measuring tool"
+        },
+        {
+          "source_text": "meter (US) metre (UK)",
+          "number": "15",
+          "section": "174.2 DISTANCE , AREA, AND LENGTH",
+          "visual_context": "Pointer to the 100-centimetre end of the ruler.",
+          "semantic_meaning": "metric unit of length"
+        },
+        {
+          "source_text": "to measure",
+          "number": "16",
+          "section": "174.2 DISTANCE , AREA, AND LENGTH",
+          "visual_context": "Label beside a person measuring the height of a bookcase with a tape measure.",
+          "semantic_meaning": "determine size, length, or amount"
+        },
+        {
+          "source_text": "tape measure",
+          "number": "17",
+          "section": "174.2 DISTANCE , AREA, AND LENGTH",
+          "visual_context": "Pointer to the vertical retractable tape held by the person.",
+          "semantic_meaning": "flexible measuring tool"
+        }
+      ]
+    }
+  ]
+}

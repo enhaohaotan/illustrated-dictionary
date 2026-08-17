@@ -1,0 +1,473 @@
+{
+  "pages": [
+    {
+      "page": 176,
+      "title": "Computers and technology",
+      "context": "83.1 GADGETS AND TECHNOLOGY",
+      "entries": [
+        {
+          "source_text": "screen",
+          "number": "1",
+          "section": "83.1 GADGETS AND TECHNOLOGY",
+          "visual_context": "Pointer to the display of a desktop computer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "webcam",
+          "number": "2",
+          "section": "83.1 GADGETS AND TECHNOLOGY",
+          "visual_context": "Pointer to a small camera mounted above the computer screen.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "router",
+          "number": "3",
+          "section": "83.1 GADGETS AND TECHNOLOGY",
+          "visual_context": "Illustration of a wireless router with two antennas.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Wi-Fi",
+          "number": "4",
+          "section": "83.1 GADGETS AND TECHNOLOGY",
+          "visual_context": "Wireless signal icon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "e-reader",
+          "number": "5",
+          "section": "83.1 GADGETS AND TECHNOLOGY",
+          "visual_context": "Illustration of an electronic reading device.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tablet",
+          "number": "6",
+          "section": "83.1 GADGETS AND TECHNOLOGY",
+          "visual_context": "Illustration of a tablet computer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wire",
+          "number": "7",
+          "section": "83.1 GADGETS AND TECHNOLOGY",
+          "visual_context": "Pointer to the wire connecting the computer mouse.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mouse",
+          "number": "8",
+          "section": "83.1 GADGETS AND TECHNOLOGY",
+          "visual_context": "Pointer to the computer mouse on the desk.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "computer desk",
+          "number": "9",
+          "section": "83.1 GADGETS AND TECHNOLOGY",
+          "visual_context": "Pointer to the desk supporting the desktop computer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "keyboard",
+          "number": "10",
+          "section": "83.1 GADGETS AND TECHNOLOGY",
+          "visual_context": "Pointer to the keyboard in front of the computer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mouse pad (US)\nmouse mat (UK)",
+          "number": "11",
+          "section": "83.1 GADGETS AND TECHNOLOGY",
+          "visual_context": "Pointer to the pad underneath the mouse.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "desktop computer",
+          "number": "12",
+          "section": "83.1 GADGETS AND TECHNOLOGY",
+          "visual_context": "Illustration of a monitor, keyboard, mouse, and desk setup.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "laptop",
+          "number": "13",
+          "section": "83.1 GADGETS AND TECHNOLOGY",
+          "visual_context": "Illustration of an open portable computer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "camera",
+          "number": "14",
+          "section": "83.1 GADGETS AND TECHNOLOGY",
+          "visual_context": "Illustration of a digital camera.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "smartwatch",
+          "number": "15",
+          "section": "83.1 GADGETS AND TECHNOLOGY",
+          "visual_context": "Illustration of a watch with a digital display.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "solar charger",
+          "number": "16",
+          "section": "83.1 GADGETS AND TECHNOLOGY",
+          "visual_context": "Pointer to a solar-panel charger.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "smartphone",
+          "number": "17",
+          "section": "83.1 GADGETS AND TECHNOLOGY",
+          "visual_context": "Pointer to a mobile phone being charged.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "home\nbutton",
+          "number": "18",
+          "section": "83.1 GADGETS AND TECHNOLOGY",
+          "visual_context": "Pointer to the button at the bottom of the smartphone.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "charging\ncable",
+          "number": "19",
+          "section": "83.1 GADGETS AND TECHNOLOGY",
+          "visual_context": "Pointer to the cable connected to the smartphone and charger.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "speakers",
+          "number": "20",
+          "section": "83.1 GADGETS AND TECHNOLOGY",
+          "visual_context": "Illustration of two audio speakers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "camcorder",
+          "number": "21",
+          "section": "83.1 GADGETS AND TECHNOLOGY",
+          "visual_context": "Illustration of a handheld video camera.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wireless",
+          "number": "22",
+          "section": "83.1 GADGETS AND TECHNOLOGY",
+          "visual_context": "Mobile phone shown with radiating wireless-signal waves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Bluetooth\nheadset",
+          "number": "23",
+          "section": "83.1 GADGETS AND TECHNOLOGY",
+          "visual_context": "Illustration of a small wireless earpiece.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "battery",
+          "number": "24",
+          "section": "83.1 GADGETS AND TECHNOLOGY",
+          "visual_context": "Illustration of a cylindrical battery.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "USB drive",
+          "number": "25",
+          "section": "83.1 GADGETS AND TECHNOLOGY",
+          "visual_context": "Illustration of a USB flash drive.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "voice recorder",
+          "number": "26",
+          "section": "83.1 GADGETS AND TECHNOLOGY",
+          "visual_context": "Illustration of a handheld recording device.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "password",
+          "number": "27",
+          "section": "83.1 GADGETS AND TECHNOLOGY",
+          "visual_context": "Login screen showing a password field.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "memory card",
+          "number": "28",
+          "section": "83.1 GADGETS AND TECHNOLOGY",
+          "visual_context": "Illustration of a memory card.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hard drive",
+          "number": "29",
+          "section": "83.1 GADGETS AND TECHNOLOGY",
+          "visual_context": "Illustration of an external hard drive with USB cable.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "plug",
+          "number": "30",
+          "section": "83.1 GADGETS AND TECHNOLOGY",
+          "visual_context": "Illustration of an electrical plug.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "power cord (US)\npower lead (UK)",
+          "number": "31",
+          "section": "83.1 GADGETS AND TECHNOLOGY",
+          "visual_context": "Illustration of a coiled electrical cord with plug.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "circuit",
+          "number": "32",
+          "section": "83.1 GADGETS AND TECHNOLOGY",
+          "visual_context": "Electronic circuit-board pattern.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "remote\ncontrol",
+          "number": "33",
+          "section": "83.1 GADGETS AND TECHNOLOGY",
+          "visual_context": "Illustration of a remote-control handset.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "artificial\nintelligence",
+          "number": "34",
+          "section": "83.1 GADGETS AND TECHNOLOGY",
+          "visual_context": "Illustration of a robot.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 177,
+      "title": "Computers and technology",
+      "context": "83.2 ONLINE COMMUNICATION",
+      "entries": [
+        {
+          "source_text": "to turn on",
+          "number": "1",
+          "section": "83.2 ONLINE COMMUNICATION",
+          "visual_context": "Computer monitor icon glowing to indicate power on.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to turn off",
+          "number": "2",
+          "section": "83.2 ONLINE COMMUNICATION",
+          "visual_context": "Dark computer monitor icon indicating power off.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to log in",
+          "number": "3",
+          "section": "83.2 ONLINE COMMUNICATION",
+          "visual_context": "Laptop login screen with an unlocked padlock.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to log out",
+          "number": "4",
+          "section": "83.2 ONLINE COMMUNICATION",
+          "visual_context": "Laptop screen with an exit arrow and padlock.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to download",
+          "number": "5",
+          "section": "83.2 ONLINE COMMUNICATION",
+          "visual_context": "Downward arrow entering a tray.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to upload",
+          "number": "6",
+          "section": "83.2 ONLINE COMMUNICATION",
+          "visual_context": "Upward arrow leaving a tray.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to back up",
+          "number": "7",
+          "section": "83.2 ONLINE COMMUNICATION",
+          "visual_context": "File and upward arrow entering a cloud.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to click",
+          "number": "8",
+          "section": "83.2 ONLINE COMMUNICATION",
+          "visual_context": "Hand pressing a computer mouse.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to plug in",
+          "number": "9",
+          "section": "83.2 ONLINE COMMUNICATION",
+          "visual_context": "Hand inserting a plug into a socket.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to delete",
+          "number": "10",
+          "section": "83.2 ONLINE COMMUNICATION",
+          "visual_context": "Document being dropped into a waste bin.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to print",
+          "number": "11",
+          "section": "83.2 ONLINE COMMUNICATION",
+          "visual_context": "Printer icon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "contact",
+          "number": "12",
+          "section": "83.2 ONLINE COMMUNICATION",
+          "visual_context": "Contact-card icon with a person silhouette.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "email",
+          "number": "13",
+          "section": "83.2 ONLINE COMMUNICATION",
+          "visual_context": "Envelope icon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to reply",
+          "number": "14",
+          "section": "83.2 ONLINE COMMUNICATION",
+          "visual_context": "Single curved left-pointing reply arrow.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to reply to all",
+          "number": "15",
+          "section": "83.2 ONLINE COMMUNICATION",
+          "visual_context": "Double curved left-pointing reply arrows.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to send",
+          "number": "16",
+          "section": "83.2 ONLINE COMMUNICATION",
+          "visual_context": "Paper-airplane icon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to forward",
+          "number": "17",
+          "section": "83.2 ONLINE COMMUNICATION",
+          "visual_context": "Right-pointing arrow icon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "draft",
+          "number": "18",
+          "section": "83.2 ONLINE COMMUNICATION",
+          "visual_context": "Document icon with a pencil.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "inbox",
+          "number": "19",
+          "section": "83.2 ONLINE COMMUNICATION",
+          "visual_context": "Downward arrow entering a mail tray.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "outbox",
+          "number": "20",
+          "section": "83.2 ONLINE COMMUNICATION",
+          "visual_context": "Upward arrow leaving a mail tray.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "subject",
+          "number": "21",
+          "section": "83.2 ONLINE COMMUNICATION",
+          "visual_context": "Email composition window showing From, To, and Subject fields.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "junk mail / spam",
+          "number": "22",
+          "section": "83.2 ONLINE COMMUNICATION",
+          "visual_context": "Envelope with a prohibited-symbol overlay.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "trash",
+          "number": "23",
+          "section": "83.2 ONLINE COMMUNICATION",
+          "visual_context": "Waste-bin icon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "attachment",
+          "number": "24",
+          "section": "83.2 ONLINE COMMUNICATION",
+          "visual_context": "Paperclip icon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chat",
+          "number": "25",
+          "section": "83.2 ONLINE COMMUNICATION",
+          "visual_context": "Several overlapping speech bubbles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "video chat",
+          "number": "26",
+          "section": "83.2 ONLINE COMMUNICATION",
+          "visual_context": "Video screen showing people talking.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "signature",
+          "number": "27",
+          "section": "83.2 ONLINE COMMUNICATION",
+          "visual_context": "Pen icon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hashtag",
+          "number": "28",
+          "section": "83.2 ONLINE COMMUNICATION",
+          "visual_context": "Hash symbol icon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "at sign /\nat symbol",
+          "number": "29",
+          "section": "83.2 ONLINE COMMUNICATION",
+          "visual_context": "@ symbol icon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "You need\nto turn on your\nmicrophone, Liz.",
+          "number": "30",
+          "section": "83.2 ONLINE COMMUNICATION",
+          "visual_context": "Speech bubble in a meeting scene where a woman appears muted on a computer screen.",
+          "semantic_meaning": "Instruction to activate Liz's microphone."
+        },
+        {
+          "source_text": "video\nconference",
+          "number": "31",
+          "section": "83.2 ONLINE COMMUNICATION",
+          "visual_context": "Pointer to the meeting conducted through the monitor video call.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

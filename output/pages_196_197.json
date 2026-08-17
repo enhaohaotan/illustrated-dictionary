@@ -1,0 +1,508 @@
+{
+  "pages": [
+    {
+      "page": 196,
+      "title": "Workplace skills",
+      "context": "93.1 PROFESSIONAL ATTRIBUTES",
+      "entries": [
+        {
+          "source_text": "PROFESSIONAL ATTRIBUTES",
+          "number": "93.1",
+          "section": "Workplace skills",
+          "visual_context": null,
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "organized",
+          "number": "1",
+          "section": "PROFESSIONAL ATTRIBUTES",
+          "visual_context": "Worker holding documents beside a filing cabinet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "patient",
+          "number": "2",
+          "section": "PROFESSIONAL ATTRIBUTES",
+          "visual_context": "Person waiting at a bus stop.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "creative",
+          "number": "3",
+          "section": "PROFESSIONAL ATTRIBUTES",
+          "visual_context": "Artist painting a flower picture.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "honest",
+          "number": "4",
+          "section": "PROFESSIONAL ATTRIBUTES",
+          "visual_context": "Person revealing items hidden behind two panels.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "practical",
+          "number": "5",
+          "section": "PROFESSIONAL ATTRIBUTES",
+          "visual_context": "Person using tools to assemble shelves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "professional",
+          "number": "6",
+          "section": "PROFESSIONAL ATTRIBUTES",
+          "visual_context": "Business meeting around a table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "adaptable",
+          "number": "7",
+          "section": "PROFESSIONAL ATTRIBUTES",
+          "visual_context": "Person sailing a boat through waves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ambitious",
+          "number": "8",
+          "section": "PROFESSIONAL ATTRIBUTES",
+          "visual_context": "Person thinking of an astronaut in space.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "calm",
+          "number": "9",
+          "section": "PROFESSIONAL ATTRIBUTES",
+          "visual_context": "Person gently stroking a lion.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "confident",
+          "number": "10",
+          "section": "PROFESSIONAL ATTRIBUTES",
+          "visual_context": "One person standing prominently before faded figures.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "punctual",
+          "number": "11",
+          "section": "PROFESSIONAL ATTRIBUTES",
+          "visual_context": "Person working at a desk with a clock.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "reliable",
+          "number": "12",
+          "section": "PROFESSIONAL ATTRIBUTES",
+          "visual_context": "Two people, one supporting another.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "customer-\nfocused",
+          "number": "13",
+          "section": "PROFESSIONAL ATTRIBUTES",
+          "visual_context": "Shop assistant helping customers choose clothing.",
+          "semantic_meaning": "focused on customers"
+        },
+        {
+          "source_text": "independent",
+          "number": "14",
+          "section": "PROFESSIONAL ATTRIBUTES",
+          "visual_context": "Person driving a small vehicle alone.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "efficient",
+          "number": "15",
+          "section": "PROFESSIONAL ATTRIBUTES",
+          "visual_context": "Robot quickly performing several tasks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "team player",
+          "number": "16",
+          "section": "PROFESSIONAL ATTRIBUTES",
+          "visual_context": "Large group of people standing together.",
+          "semantic_meaning": "someone who works well with a team"
+        },
+        {
+          "source_text": "responsible",
+          "number": "17",
+          "section": "PROFESSIONAL ATTRIBUTES",
+          "visual_context": "Adult supervising several children.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "innovative",
+          "number": "18",
+          "section": "PROFESSIONAL ATTRIBUTES",
+          "visual_context": "Person with a light bulb above their head.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "motivated",
+          "number": "19",
+          "section": "PROFESSIONAL ATTRIBUTES",
+          "visual_context": "Person energetically polishing or cleaning a framed picture.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "determined",
+          "number": "20",
+          "section": "PROFESSIONAL ATTRIBUTES",
+          "visual_context": "Person climbing a steep cliff.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "energetic",
+          "number": "21",
+          "section": "PROFESSIONAL ATTRIBUTES",
+          "visual_context": "Singer performing energetically at a microphone.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hard-working",
+          "number": "22",
+          "section": "PROFESSIONAL ATTRIBUTES",
+          "visual_context": "Chef working at hot stoves; adjacent speech bubble describes Carlo.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Carlo is the\nhardest-working\nchef I’ve ever met.",
+          "number": "23",
+          "section": "PROFESSIONAL ATTRIBUTES",
+          "visual_context": "Speech bubble pointing to a chef.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "competitive",
+          "number": "24",
+          "section": "PROFESSIONAL ATTRIBUTES",
+          "visual_context": "Two people competing in a tug-of-war.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "assertive",
+          "number": "25",
+          "section": "PROFESSIONAL ATTRIBUTES",
+          "visual_context": "Person speaking forcefully in a meeting.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "imaginative",
+          "number": "26",
+          "section": "PROFESSIONAL ATTRIBUTES",
+          "visual_context": "Person in a wheelchair imagining several ideas in thought bubbles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "curious",
+          "number": "27",
+          "section": "PROFESSIONAL ATTRIBUTES",
+          "visual_context": "Person looking puzzled beside a wrapped gift and question mark.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "original",
+          "number": "28",
+          "section": "PROFESSIONAL ATTRIBUTES",
+          "visual_context": "Person creating a distinctive sculpture.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "accurate",
+          "number": "29",
+          "section": "PROFESSIONAL ATTRIBUTES",
+          "visual_context": "Archer aiming arrows at the centre of a target.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "good listener",
+          "number": "30",
+          "section": "PROFESSIONAL ATTRIBUTES",
+          "visual_context": "Person listening to a wheelchair user at a table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "flexible",
+          "number": "31",
+          "section": "PROFESSIONAL ATTRIBUTES",
+          "visual_context": "Juggler balancing several balls.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 197,
+      "title": "Workplace skills",
+      "context": "93.2 PROFESSIONAL EXPERTISE",
+      "entries": [
+        {
+          "source_text": "See also:",
+          "number": null,
+          "section": "Workplace skills",
+          "visual_context": "Box listing related vocabulary sections.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Personality traits",
+          "number": "10",
+          "section": "See also:",
+          "visual_context": "Related-section reference in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Abilities and actions",
+          "number": "11",
+          "section": "See also:",
+          "visual_context": "Related-section reference in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "At work",
+          "number": "81",
+          "section": "See also:",
+          "visual_context": "Related-section reference in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "In the office",
+          "number": "82",
+          "section": "See also:",
+          "visual_context": "Related-section reference in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "PROFESSIONAL EXPERTISE",
+          "number": "93.2",
+          "section": "Workplace skills",
+          "visual_context": null,
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "organization",
+          "number": "1",
+          "section": "PROFESSIONAL EXPERTISE",
+          "visual_context": "Worker arranging items on shelves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "computer literacy",
+          "number": "2",
+          "section": "PROFESSIONAL EXPERTISE",
+          "visual_context": "People using computers in an office.",
+          "semantic_meaning": "ability to use computers"
+        },
+        {
+          "source_text": "computing",
+          "number": "3",
+          "section": "PROFESSIONAL EXPERTISE",
+          "visual_context": "Computer monitor with windows displayed.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "problem-\nsolving",
+          "number": "4",
+          "section": "PROFESSIONAL EXPERTISE",
+          "visual_context": "Person at a desk with a light bulb overhead.",
+          "semantic_meaning": "finding solutions to problems"
+        },
+        {
+          "source_text": "analytics",
+          "number": "5",
+          "section": "PROFESSIONAL EXPERTISE",
+          "visual_context": "Presenter pointing to pie and bar charts.",
+          "semantic_meaning": "analysis of data"
+        },
+        {
+          "source_text": "decision-\nmaking",
+          "number": "6",
+          "section": "PROFESSIONAL EXPERTISE",
+          "visual_context": "Person choosing between doors A and B.",
+          "semantic_meaning": "choosing between options"
+        },
+        {
+          "source_text": "teamwork",
+          "number": "7",
+          "section": "PROFESSIONAL EXPERTISE",
+          "visual_context": "Two people carrying a large box together.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "being a\nfast learner",
+          "number": "8",
+          "section": "PROFESSIONAL EXPERTISE",
+          "visual_context": "Hourglass beside a brain.",
+          "semantic_meaning": "learning quickly"
+        },
+        {
+          "source_text": "paying\nattention to detail",
+          "number": "9",
+          "section": "PROFESSIONAL EXPERTISE",
+          "visual_context": "Person carefully painting a small bust.",
+          "semantic_meaning": "being careful about small details"
+        },
+        {
+          "source_text": "customer\nservice",
+          "number": "10",
+          "section": "PROFESSIONAL EXPERTISE",
+          "visual_context": "People assisting a customer beside a car.",
+          "semantic_meaning": "help provided to customers"
+        },
+        {
+          "source_text": "leadership",
+          "number": "11",
+          "section": "PROFESSIONAL EXPERTISE",
+          "visual_context": "Central person leading a group.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "research",
+          "number": "12",
+          "section": "PROFESSIONAL EXPERTISE",
+          "visual_context": "Scientist examining an object at a lab table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fluent in\nlanguages",
+          "number": "13",
+          "section": "PROFESSIONAL EXPERTISE",
+          "visual_context": "Person surrounded by speech bubbles.",
+          "semantic_meaning": "able to speak languages smoothly"
+        },
+        {
+          "source_text": "technology\nliterate",
+          "number": "14",
+          "section": "PROFESSIONAL EXPERTISE",
+          "visual_context": "Hand using a computer mouse.",
+          "semantic_meaning": "able to use technology"
+        },
+        {
+          "source_text": "public\nspeaking",
+          "number": "15",
+          "section": "PROFESSIONAL EXPERTISE",
+          "visual_context": "Speaker addressing an audience from a lectern.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "negotiating",
+          "number": "16",
+          "section": "PROFESSIONAL EXPERTISE",
+          "visual_context": "Two businesspeople communicating through linked speech bubbles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "written\ncommunication",
+          "number": "17",
+          "section": "PROFESSIONAL EXPERTISE",
+          "visual_context": "Person writing at a desk.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "initiative",
+          "number": "18",
+          "section": "PROFESSIONAL EXPERTISE",
+          "visual_context": "Light bulb and arrow pointing forward.",
+          "semantic_meaning": "ability to act independently and proactively"
+        },
+        {
+          "source_text": "telephone\nmanner",
+          "number": "19",
+          "section": "PROFESSIONAL EXPERTISE",
+          "visual_context": "Person speaking on a telephone at a desk.",
+          "semantic_meaning": "way of speaking on the telephone"
+        },
+        {
+          "source_text": "working well\nunder pressure",
+          "number": "20",
+          "section": "PROFESSIONAL EXPERTISE",
+          "visual_context": "Worker at a desk amid stacks of papers.",
+          "semantic_meaning": "performing effectively in stressful conditions"
+        },
+        {
+          "source_text": "numeracy",
+          "number": "21",
+          "section": "PROFESSIONAL EXPERTISE",
+          "visual_context": "Mathematical operation symbols.",
+          "semantic_meaning": "ability to work with numbers"
+        },
+        {
+          "source_text": "ability to drive",
+          "number": "22",
+          "section": "PROFESSIONAL EXPERTISE",
+          "visual_context": "Driver in a car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "well-qualified",
+          "number": "23",
+          "section": "PROFESSIONAL EXPERTISE",
+          "visual_context": "Graduate holding a certificate.",
+          "semantic_meaning": "having appropriate qualifications"
+        },
+        {
+          "source_text": "self\nmanagement",
+          "number": "24",
+          "section": "PROFESSIONAL EXPERTISE",
+          "visual_context": "Person carrying a briefcase beside a gear.",
+          "semantic_meaning": "ability to manage oneself"
+        },
+        {
+          "source_text": "service\nfocused",
+          "number": "25",
+          "section": "PROFESSIONAL EXPERTISE",
+          "visual_context": "Server assisting a wheelchair user at a table.",
+          "semantic_meaning": "focused on providing service"
+        },
+        {
+          "source_text": "influencer",
+          "number": "26",
+          "section": "PROFESSIONAL EXPERTISE",
+          "visual_context": "Person speaking from a podium.",
+          "semantic_meaning": "person who affects others' opinions or actions"
+        },
+        {
+          "source_text": "businesslike\nattitude",
+          "number": "27",
+          "section": "PROFESSIONAL EXPERTISE",
+          "visual_context": "Two businesspeople shaking hands.",
+          "semantic_meaning": "professional manner"
+        },
+        {
+          "source_text": "interpersonal\nskills",
+          "number": "28",
+          "section": "PROFESSIONAL EXPERTISE",
+          "visual_context": "Group of people interacting.",
+          "semantic_meaning": "skills for dealing with people"
+        },
+        {
+          "source_text": "project\nmanagement",
+          "number": "29",
+          "section": "PROFESSIONAL EXPERTISE",
+          "visual_context": "People planning around a project table.",
+          "semantic_meaning": "planning and organizing a project"
+        },
+        {
+          "source_text": "administration",
+          "number": "30",
+          "section": "PROFESSIONAL EXPERTISE",
+          "visual_context": "Worker filing documents beside cabinets.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "time management",
+          "number": "31",
+          "section": "PROFESSIONAL EXPERTISE",
+          "visual_context": "Worker holding a report beside a clock; speech bubble comments on lateness.",
+          "semantic_meaning": "organization of time"
+        },
+        {
+          "source_text": "You must improve your\ntime management! This\nreport is late.",
+          "number": "32",
+          "section": "PROFESSIONAL EXPERTISE",
+          "visual_context": "Speech bubble pointing to a worker holding a report near a clock.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

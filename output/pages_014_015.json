@@ -1,0 +1,375 @@
+{
+  "pages": [
+    {
+      "page": 14,
+      "title": "Parts of the body",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "head",
+          "number": "1",
+          "section": "1.1 THE HUMAN BODY",
+          "visual_context": "Pointer to the head of the front-facing body figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shoulder",
+          "number": "2",
+          "section": "1.1 THE HUMAN BODY",
+          "visual_context": "Pointer to the shoulder of the front-facing body figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chest",
+          "number": "3",
+          "section": "1.1 THE HUMAN BODY",
+          "visual_context": "Pointer to the chest of the front-facing body figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "arm",
+          "number": "4",
+          "section": "1.1 THE HUMAN BODY",
+          "visual_context": "Pointer to the upper arm of the front-facing body figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "abdomen",
+          "number": "5",
+          "section": "1.1 THE HUMAN BODY",
+          "visual_context": "Pointer to the abdomen of the front-facing body figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hand",
+          "number": "6",
+          "section": "1.1 THE HUMAN BODY",
+          "visual_context": "Pointer to the hand of the front-facing body figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "thigh",
+          "number": "7",
+          "section": "1.1 THE HUMAN BODY",
+          "visual_context": "Pointer to the upper leg of the front-facing body figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "leg",
+          "number": "8",
+          "section": "1.1 THE HUMAN BODY",
+          "visual_context": "Pointer to the lower leg of the front-facing body figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "foot",
+          "number": "9",
+          "section": "1.1 THE HUMAN BODY",
+          "visual_context": "Pointer to the foot of the front-facing body figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "groin",
+          "number": "10",
+          "section": "1.1 THE HUMAN BODY",
+          "visual_context": "Pointer to the crease between the torso and upper leg of the front-facing body figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "genitals",
+          "number": "11",
+          "section": "1.1 THE HUMAN BODY",
+          "visual_context": "Pointer to the genital area of the front-facing body figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "calf",
+          "number": "12",
+          "section": "1.1 THE HUMAN BODY",
+          "visual_context": "Pointer to the back/lower leg area of the front-facing body figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "heel",
+          "number": "13",
+          "section": "1.1 THE HUMAN BODY",
+          "visual_context": "Pointer to the heel of the front-facing body figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "breast",
+          "number": "14",
+          "section": "1.1 THE HUMAN BODY",
+          "visual_context": "Pointer to a breast on the rear-facing body figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nipple",
+          "number": "15",
+          "section": "1.1 THE HUMAN BODY",
+          "visual_context": "Pointer to a nipple on the rear-facing body figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "neck",
+          "number": "16",
+          "section": "1.1 THE HUMAN BODY",
+          "visual_context": "Pointer to the neck of the rear-facing body figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "armpit",
+          "number": "17",
+          "section": "1.1 THE HUMAN BODY",
+          "visual_context": "Pointer to the underarm of the rear-facing body figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "elbow",
+          "number": "18",
+          "section": "1.1 THE HUMAN BODY",
+          "visual_context": "Pointer to the elbow of the rear-facing body figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "waist",
+          "number": "19",
+          "section": "1.1 THE HUMAN BODY",
+          "visual_context": "Pointer to the waist of the rear-facing body figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "forearm",
+          "number": "20",
+          "section": "1.1 THE HUMAN BODY",
+          "visual_context": "Pointer to the lower arm between elbow and wrist of the rear-facing body figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wrist",
+          "number": "21",
+          "section": "1.1 THE HUMAN BODY",
+          "visual_context": "Pointer to the wrist of the rear-facing body figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hip",
+          "number": "22",
+          "section": "1.1 THE HUMAN BODY",
+          "visual_context": "Pointer to the hip of the rear-facing body figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "navel",
+          "number": "23",
+          "section": "1.1 THE HUMAN BODY",
+          "visual_context": "Pointer to the navel on the front-facing body figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "knee",
+          "number": "24",
+          "section": "1.1 THE HUMAN BODY",
+          "visual_context": "Pointer to the knee of the rear-facing body figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shin",
+          "number": "25",
+          "section": "1.1 THE HUMAN BODY",
+          "visual_context": "Pointer to the front of the lower leg on the rear-facing body figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ankle",
+          "number": "26",
+          "section": "1.1 THE HUMAN BODY",
+          "visual_context": "Pointer to the ankle of the rear-facing body figure.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "title": null,
+      "context": "See also: 02 Hands and feet; 03 Muscles and skeleton; 04 Internal organs; 19 Illness and injury; 20 Visiting the doctor; 22 The dentist and optician.",
+      "entries": [
+        {
+          "source_text": "eyelid",
+          "number": "1",
+          "section": "1.2 FACE",
+          "visual_context": "Pointer to the eyelid on the large face illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hair",
+          "number": "2",
+          "section": "1.2 FACE",
+          "visual_context": "Pointer to the hair on the large face illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "temple",
+          "number": "3",
+          "section": "1.2 FACE",
+          "visual_context": "Pointer to the temple at the side of the large face illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cheek",
+          "number": "4",
+          "section": "1.2 FACE",
+          "visual_context": "Pointer to the cheek on the large face illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lips",
+          "number": "5",
+          "section": "1.2 FACE",
+          "visual_context": "Pointer to the lips on the large face illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "jaw",
+          "number": "6",
+          "section": "1.2 FACE",
+          "visual_context": "Pointer to the jaw on the large face illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "forehead",
+          "number": "7",
+          "section": "1.2 FACE",
+          "visual_context": "Pointer to the forehead on the large face illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "eyebrow",
+          "number": "8",
+          "section": "1.2 FACE",
+          "visual_context": "Pointer to an eyebrow on the large face illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "skin",
+          "number": "9",
+          "section": "1.2 FACE",
+          "visual_context": "Pointer to the facial skin on the large face illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chin",
+          "number": "10",
+          "section": "1.2 FACE",
+          "visual_context": "Pointer to the chin on the large face illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "eye",
+          "number": "11",
+          "section": "1.2 FACE",
+          "visual_context": "Illustration of an eye.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ear",
+          "number": "12",
+          "section": "1.2 FACE",
+          "visual_context": "Illustration of an ear.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nose",
+          "number": "13",
+          "section": "1.2 FACE",
+          "visual_context": "Illustration of a nose.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nostrils",
+          "number": "14",
+          "section": "1.2 FACE",
+          "visual_context": "Illustration of the underside of a nose showing nostrils.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mouth",
+          "number": "15",
+          "section": "1.2 FACE",
+          "visual_context": "Illustration of a mouth.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "teeth",
+          "number": "16",
+          "section": "1.2 FACE",
+          "visual_context": "Illustration of teeth.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tear duct",
+          "number": "1",
+          "section": "1.3 EYES",
+          "visual_context": "Pointer to the inner corner of the enlarged eye illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "eyelashes",
+          "number": "2",
+          "section": "1.3 EYES",
+          "visual_context": "Pointer to the eyelashes of the enlarged eye illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "iris",
+          "number": "3",
+          "section": "1.3 EYES",
+          "visual_context": "Pointer to the colored ring around the pupil in the enlarged eye illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pupil",
+          "number": "4",
+          "section": "1.3 EYES",
+          "visual_context": "Pointer to the dark central part of the enlarged eye illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "blue",
+          "number": "5",
+          "section": "1.3 EYES",
+          "visual_context": "Blue-eye illustration.",
+          "semantic_meaning": "Eye colour."
+        },
+        {
+          "source_text": "brown",
+          "number": "6",
+          "section": "1.3 EYES",
+          "visual_context": "Brown-eye illustration.",
+          "semantic_meaning": "Eye colour."
+        },
+        {
+          "source_text": "green",
+          "number": "7",
+          "section": "1.3 EYES",
+          "visual_context": "Green-eye illustration.",
+          "semantic_meaning": "Eye colour."
+        },
+        {
+          "source_text": "hazel",
+          "number": "8",
+          "section": "1.3 EYES",
+          "visual_context": "Hazel-eye illustration.",
+          "semantic_meaning": "Eye colour."
+        },
+        {
+          "source_text": "gray (US)\ngrey (UK)",
+          "number": "9",
+          "section": "1.3 EYES",
+          "visual_context": "Gray-eye illustration.",
+          "semantic_meaning": "Eye colour; US and UK spellings."
+        }
+      ]
+    }
+  ]
+}

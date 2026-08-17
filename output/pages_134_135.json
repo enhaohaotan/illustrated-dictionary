@@ -1,0 +1,466 @@
+{
+  "pages": [
+    {
+      "page": 134,
+      "title": "Dairy produce",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "hard cheese",
+          "number": "1",
+          "section": "61.1 CHEESE",
+          "visual_context": "A wedge of firm yellow cheese with crumbs on a blue plate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "semi-hard cheese",
+          "number": "2",
+          "section": "61.1 CHEESE",
+          "visual_context": "A yellow wedge of cheese on a blue plate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "semi-soft cheese",
+          "number": "3",
+          "section": "61.1 CHEESE",
+          "visual_context": "A pale rectangular cheese wedge on a blue plate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "soft cheese",
+          "number": "4",
+          "section": "61.1 CHEESE",
+          "visual_context": "A rounded white soft cheese on a blue plate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sheep’s milk cheese",
+          "number": "5",
+          "section": "61.1 CHEESE",
+          "visual_context": "A wedge of cheese with a textured rind on a blue plate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "goat’s cheese",
+          "number": "6",
+          "section": "61.1 CHEESE",
+          "visual_context": "A white cylindrical goat cheese with one cut end on a blue plate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "blue cheese",
+          "number": "7",
+          "section": "61.1 CHEESE",
+          "visual_context": "A wedge of cheese with blue-green mould veins on a blue plate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rind",
+          "number": "8",
+          "section": "61.1 CHEESE",
+          "visual_context": "The outer brown coating of a cheese wedge.",
+          "semantic_meaning": "the outer layer of a cheese"
+        },
+        {
+          "source_text": "grated cheese",
+          "number": "9",
+          "section": "61.1 CHEESE",
+          "visual_context": "A pile of shredded yellow cheese on a plate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fresh cheese",
+          "number": "10",
+          "section": "61.1 CHEESE",
+          "visual_context": "Several white fresh-cheese pieces on a blue plate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cottage cheese",
+          "number": "11",
+          "section": "61.1 CHEESE",
+          "visual_context": "A bowl of lumpy white cottage cheese.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cream cheese",
+          "number": "12",
+          "section": "61.1 CHEESE",
+          "visual_context": "A bowl of white cream cheese with a spreading knife.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "egg white",
+          "number": "1",
+          "section": "61.2 EGGS",
+          "visual_context": "Pointer to the white portion of a cut boiled egg.",
+          "semantic_meaning": "the clear/white part surrounding an egg yolk"
+        },
+        {
+          "source_text": "yolk",
+          "number": "2",
+          "section": "61.2 EGGS",
+          "visual_context": "Pointer to the yellow centre of a cut boiled egg.",
+          "semantic_meaning": "the yellow centre of an egg"
+        },
+        {
+          "source_text": "shell",
+          "number": "3",
+          "section": "61.2 EGGS",
+          "visual_context": "Pointer to the brown outer shell of a boiled egg.",
+          "semantic_meaning": "the hard outer covering of an egg"
+        },
+        {
+          "source_text": "egg cup",
+          "number": "4",
+          "section": "61.2 EGGS",
+          "visual_context": "Pointer to the cup-shaped stand holding the boiled egg.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "boiled egg",
+          "number": "5",
+          "section": "61.2 EGGS",
+          "visual_context": "A boiled egg standing in an egg cup, with its top removed.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fried egg",
+          "number": "6",
+          "section": "61.2 EGGS",
+          "visual_context": "A fried egg on a blue plate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "scrambled eggs",
+          "number": "7",
+          "section": "61.2 EGGS",
+          "visual_context": "A serving of scrambled eggs on a grey plate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "poached egg",
+          "number": "8",
+          "section": "61.2 EGGS",
+          "visual_context": "A poached egg on toast with yolk running out.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "omelet (US)\nomelette (UK)",
+          "number": "9",
+          "section": "61.2 EGGS",
+          "visual_context": "A folded egg omelet with vegetable filling on a purple plate.",
+          "semantic_meaning": "US and UK spellings for a folded cooked egg dish"
+        },
+        {
+          "source_text": "goose egg",
+          "number": "10",
+          "section": "61.2 EGGS",
+          "visual_context": "A large pale egg.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "duck egg",
+          "number": "11",
+          "section": "61.2 EGGS",
+          "visual_context": "A pale blue egg.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chicken egg (US)\nhen’s egg (UK)",
+          "number": "12",
+          "section": "61.2 EGGS",
+          "visual_context": "A brown chicken egg.",
+          "semantic_meaning": "US and UK terms for an egg laid by a chicken"
+        },
+        {
+          "source_text": "quail egg",
+          "number": "13",
+          "section": "61.2 EGGS",
+          "visual_context": "A small speckled egg.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pasteurized",
+          "number": "1",
+          "section": "61.3 MILK",
+          "visual_context": "A milk carton marked with a cow symbol.",
+          "semantic_meaning": "heat-treated to kill harmful bacteria"
+        },
+        {
+          "source_text": "unpasteurized",
+          "number": "2",
+          "section": "61.3 MILK",
+          "visual_context": "A person drinking milk, with a cow and milk container behind.",
+          "semantic_meaning": "not heat-treated to kill harmful bacteria"
+        },
+        {
+          "source_text": "lactose free",
+          "number": "3",
+          "section": "61.3 MILK",
+          "visual_context": "A milk carton bearing a crossed-out lactose-style symbol.",
+          "semantic_meaning": "containing no lactose"
+        },
+        {
+          "source_text": "homogenized",
+          "number": "4",
+          "section": "61.3 MILK",
+          "visual_context": "A milk carton marked with a cow symbol.",
+          "semantic_meaning": "processed so the cream is evenly mixed into the milk"
+        },
+        {
+          "source_text": "fat free",
+          "number": "5",
+          "section": "61.3 MILK",
+          "visual_context": "A milk carton labelled “0%”.",
+          "semantic_meaning": "containing no fat"
+        },
+        {
+          "source_text": "powdered milk",
+          "number": "6",
+          "section": "61.3 MILK",
+          "visual_context": "A glass and a mound of white milk powder on a blue plate.",
+          "semantic_meaning": "milk in dry powder form"
+        }
+      ]
+    },
+    {
+      "page": 135,
+      "title": "Dairy produce",
+      "context": "See also: 29 Cooking; 52 Drinking and eating; 65-66 At the café; 69 At the restaurant; 71 Breakfast.",
+      "entries": [
+        {
+          "source_text": "Cooking",
+          "number": "29",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the see-also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Drinking and eating",
+          "number": "52",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the see-also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "At the café",
+          "number": "65-66",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the see-also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "At the restaurant",
+          "number": "69",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the see-also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Breakfast",
+          "number": "71",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the see-also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "milk carton",
+          "number": "1",
+          "section": "61.4 MILK PRODUCTS",
+          "visual_context": "Pointer to a blue-and-white carton of cow’s milk on the top shelf.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cow’s milk",
+          "number": "2",
+          "section": "61.4 MILK PRODUCTS",
+          "visual_context": "Pointer to the blue milk carton with a cow silhouette.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sheep’s milk",
+          "number": "3",
+          "section": "61.4 MILK PRODUCTS",
+          "visual_context": "Pointer to the green carton with a sheep silhouette.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "whole milk",
+          "number": "4",
+          "section": "61.4 MILK PRODUCTS",
+          "visual_context": "Pointer to a large bottle with a blue cap and blue label.",
+          "semantic_meaning": "milk with its natural fat content"
+        },
+        {
+          "source_text": "skim milk (US)\nskimmed milk (UK)",
+          "number": "5",
+          "section": "61.4 MILK PRODUCTS",
+          "visual_context": "Pointer to a large bottle with a red cap and red label.",
+          "semantic_meaning": "US and UK terms for milk with most fat removed"
+        },
+        {
+          "source_text": "two percent milk (US)\nsemi-skimmed milk (UK)",
+          "number": "6",
+          "section": "61.4 MILK PRODUCTS",
+          "visual_context": "Pointer to a large bottle with a green cap and green label.",
+          "semantic_meaning": "US and UK terms for partly skimmed milk"
+        },
+        {
+          "source_text": "soy milk (US) / soya milk (UK)",
+          "number": "7",
+          "section": "61.4 MILK PRODUCTS",
+          "visual_context": "Pointer to a slender bottle with a yellow cap and soybean illustration.",
+          "semantic_meaning": "US and UK terms for milk-like drink made from soybeans"
+        },
+        {
+          "source_text": "almond milk",
+          "number": "8",
+          "section": "61.4 MILK PRODUCTS",
+          "visual_context": "Pointer to a bottle labelled with an almond illustration.",
+          "semantic_meaning": "milk-like drink made from almonds"
+        },
+        {
+          "source_text": "goat’s milk",
+          "number": "9",
+          "section": "61.4 MILK PRODUCTS",
+          "visual_context": "Pointer to an orange carton with a goat silhouette.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cream",
+          "number": "10",
+          "section": "61.4 MILK PRODUCTS",
+          "visual_context": "Pointer to small yellow-and-white cream cartons on the second shelf.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "light cream (US)\nsingle cream (UK)",
+          "number": "11",
+          "section": "61.4 MILK PRODUCTS",
+          "visual_context": "Pointer to red-marked cream cartons on the second shelf.",
+          "semantic_meaning": "US and UK terms for lower-fat cream"
+        },
+        {
+          "source_text": "heavy cream (US)\ndouble cream (UK)",
+          "number": "12",
+          "section": "61.4 MILK PRODUCTS",
+          "visual_context": "Pointer to blue-marked cream cartons on the second shelf.",
+          "semantic_meaning": "US and UK terms for rich high-fat cream"
+        },
+        {
+          "source_text": "whipped cream",
+          "number": "13",
+          "section": "61.4 MILK PRODUCTS",
+          "visual_context": "Pointer to an orange-lidded container marked with a swirl of cream.",
+          "semantic_meaning": "cream beaten until light and thick"
+        },
+        {
+          "source_text": "frozen yogurt (US) /\nyoghurt (UK)",
+          "number": "14",
+          "section": "61.4 MILK PRODUCTS",
+          "visual_context": "Pointer to small frozen-dessert tubs with swirl icons.",
+          "semantic_meaning": "a frozen dessert made from yogurt"
+        },
+        {
+          "source_text": "ice cream",
+          "number": "15",
+          "section": "61.4 MILK PRODUCTS",
+          "visual_context": "Pointer to an ice-cream container with a cone illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chocolate milkshake",
+          "number": "16",
+          "section": "61.4 MILK PRODUCTS",
+          "visual_context": "Pointer to the brown bottle among the milkshake bottles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "vanilla milkshake",
+          "number": "17",
+          "section": "61.4 MILK PRODUCTS",
+          "visual_context": "Pointer to the pale yellow bottle among the milkshake bottles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "buttermilk",
+          "number": "18",
+          "section": "61.4 MILK PRODUCTS",
+          "visual_context": "Pointer to a yellow carton at the right of the milkshake bottles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "yogurt (US) / yoghurt (UK)",
+          "number": "19",
+          "section": "61.4 MILK PRODUCTS",
+          "visual_context": "Pointer to two large yogurt tubs on the third shelf.",
+          "semantic_meaning": "US and UK spellings for a cultured milk product"
+        },
+        {
+          "source_text": "strawberry milkshake",
+          "number": "20",
+          "section": "61.4 MILK PRODUCTS",
+          "visual_context": "Pointer to the pink bottle among the milkshake bottles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ayran",
+          "number": "21",
+          "section": "61.4 MILK PRODUCTS",
+          "visual_context": "Pointer to a white bottle with a blue jug symbol.",
+          "semantic_meaning": "a yogurt-based drink"
+        },
+        {
+          "source_text": "butter",
+          "number": "22",
+          "section": "61.4 MILK PRODUCTS",
+          "visual_context": "Pointer to wrapped butter blocks on the bottom shelf.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "unsalted",
+          "number": "23",
+          "section": "61.4 MILK PRODUCTS",
+          "visual_context": "Pointer to one variety of wrapped butter block.",
+          "semantic_meaning": "containing no added salt"
+        },
+        {
+          "source_text": "salted",
+          "number": "24",
+          "section": "61.4 MILK PRODUCTS",
+          "visual_context": "Pointer to another variety of wrapped butter block.",
+          "semantic_meaning": "containing added salt"
+        },
+        {
+          "source_text": "ghee",
+          "number": "25",
+          "section": "61.4 MILK PRODUCTS",
+          "visual_context": "Pointer to a tub marked with a cow silhouette.",
+          "semantic_meaning": "clarified butter"
+        },
+        {
+          "source_text": "margarine",
+          "number": "26",
+          "section": "61.4 MILK PRODUCTS",
+          "visual_context": "Pointer to a rectangular yellow-and-white margarine tub.",
+          "semantic_meaning": "a butter substitute made from vegetable oils"
+        },
+        {
+          "source_text": "condensed milk",
+          "number": "27",
+          "section": "61.4 MILK PRODUCTS",
+          "visual_context": "Pointer to red cans on the bottom shelf.",
+          "semantic_meaning": "sweetened milk preserved by removing water"
+        },
+        {
+          "source_text": "kefir",
+          "number": "28",
+          "section": "61.4 MILK PRODUCTS",
+          "visual_context": "Pointer to a tall green-and-white carton at the far right.",
+          "semantic_meaning": "a fermented milk drink"
+        }
+      ]
+    }
+  ]
+}

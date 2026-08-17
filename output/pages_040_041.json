@@ -1,0 +1,382 @@
+{
+  "pages": [
+    {
+      "page": 40,
+      "title": "Clothes continued",
+      "context": "14.1 CASUAL CLOTHES",
+      "entries": [
+        {
+          "source_text": "I prefer this casual outfit to my formal work clothes.",
+          "number": "1",
+          "section": "14.1 CASUAL CLOTHES",
+          "visual_context": "Speech bubble beside the illustrated woman in a sweater and skirt.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "blouse",
+          "number": "2",
+          "section": "14.1 CASUAL CLOTHES",
+          "visual_context": "Pointer to the collared shirt under the woman's sweater.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sweater / jumper (UK)",
+          "number": "3",
+          "section": "14.1 CASUAL CLOTHES",
+          "visual_context": "Pointer to the woman's green upper garment.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "skirt",
+          "number": "4",
+          "section": "14.1 CASUAL CLOTHES",
+          "visual_context": "Pointer to the woman's red polka-dot skirt.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pleat",
+          "number": "5",
+          "section": "14.1 CASUAL CLOTHES",
+          "visual_context": "Pointer to a vertical fold in the skirt.",
+          "semantic_meaning": "a folded section of fabric"
+        },
+        {
+          "source_text": "hem",
+          "number": "6",
+          "section": "14.1 CASUAL CLOTHES",
+          "visual_context": "Pointer to the lower edge of the skirt.",
+          "semantic_meaning": "the finished lower edge of a garment"
+        },
+        {
+          "source_text": "After work, I like to change into jeans and a T-shirt.",
+          "number": "7",
+          "section": "14.1 CASUAL CLOTHES",
+          "visual_context": "Speech bubble beside the illustrated man wearing a striped T-shirt and jeans.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "T-shirt",
+          "number": "8",
+          "section": "14.1 CASUAL CLOTHES",
+          "visual_context": "Pointer to the man's striped shirt.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stripes",
+          "number": "9",
+          "section": "14.1 CASUAL CLOTHES",
+          "visual_context": "Pointer to the horizontal bands on the man's shirt.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "jeans",
+          "number": "10",
+          "section": "14.1 CASUAL CLOTHES",
+          "visual_context": "Pointer to the man's dark blue trousers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sweatshirt",
+          "number": "11",
+          "section": "14.1 CASUAL CLOTHES",
+          "visual_context": "Illustration of an orange long-sleeved sweatshirt.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shorts",
+          "number": "12",
+          "section": "14.1 CASUAL CLOTHES",
+          "visual_context": "Illustration of red shorts.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Bermuda shorts",
+          "number": "13",
+          "section": "14.1 CASUAL CLOTHES",
+          "visual_context": "Illustration of beige knee-length shorts.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cardigan",
+          "number": "14",
+          "section": "14.1 CASUAL CLOTHES",
+          "visual_context": "Illustration of a green buttoned cardigan.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tank top",
+          "number": "15",
+          "section": "14.1 CASUAL CLOTHES",
+          "visual_context": "Illustration of a purple sleeveless top.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dress",
+          "number": "16",
+          "section": "14.1 CASUAL CLOTHES",
+          "visual_context": "Illustration of a red polka-dot dress.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "leggings",
+          "number": "17",
+          "section": "14.1 CASUAL CLOTHES",
+          "visual_context": "Illustration of green close-fitting legwear.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "short-sleeved shirt",
+          "number": "18",
+          "section": "14.1 CASUAL CLOTHES",
+          "visual_context": "Illustration of a blue short-sleeved button-front shirt.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "polo shirt",
+          "number": "19",
+          "section": "14.1 CASUAL CLOTHES",
+          "visual_context": "Illustration of a blue collared polo shirt.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sun hat",
+          "number": "20",
+          "section": "14.1 CASUAL CLOTHES",
+          "visual_context": "Illustration of a wide-brimmed yellow hat.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "V-neck",
+          "number": "21",
+          "section": "14.1 CASUAL CLOTHES",
+          "visual_context": "Illustration of a green shirt with a V-shaped neckline.",
+          "semantic_meaning": "a V-shaped neckline"
+        },
+        {
+          "source_text": "round neck",
+          "number": "22",
+          "section": "14.1 CASUAL CLOTHES",
+          "visual_context": "Illustration of a blue shirt with a circular neckline.",
+          "semantic_meaning": "a circular neckline"
+        }
+      ]
+    },
+    {
+      "page": 41,
+      "title": null,
+      "context": "14.2 NIGHTWEAR; 14.3 UNDERWEAR; 14.4 VERBS FOR CLOTHES",
+      "entries": [
+        {
+          "source_text": "camisole",
+          "number": "1",
+          "section": "14.2 NIGHTWEAR",
+          "visual_context": "Illustration of a pale sleeveless night top.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "slippers",
+          "number": "2",
+          "section": "14.2 NIGHTWEAR",
+          "visual_context": "Illustration of brown indoor slip-on footwear.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "eye mask",
+          "number": "3",
+          "section": "14.2 NIGHTWEAR",
+          "visual_context": "Illustration of a black mask for covering the eyes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pajamas (US) pyjamas (UK)",
+          "number": "4",
+          "section": "14.2 NIGHTWEAR",
+          "visual_context": "Illustration of a striped buttoned sleepwear set.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nightie / nightdress",
+          "number": "5",
+          "section": "14.2 NIGHTWEAR",
+          "visual_context": "Illustration of a short pale patterned nightdress.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bathrobe (US) / dressing gown (UK)",
+          "number": "6",
+          "section": "14.2 NIGHTWEAR",
+          "visual_context": "Illustration of a blue belted robe.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "panties (US) knickers (UK)",
+          "number": "1",
+          "section": "14.3 UNDERWEAR",
+          "visual_context": "Illustration of pale pink women's underwear.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "jockey shorts (US) / pants (UK)",
+          "number": "2",
+          "section": "14.3 UNDERWEAR",
+          "visual_context": "Illustration of blue men's briefs.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "boxer shorts",
+          "number": "3",
+          "section": "14.3 UNDERWEAR",
+          "visual_context": "Illustration of striped loose-fitting underwear shorts.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "socks",
+          "number": "4",
+          "section": "14.3 UNDERWEAR",
+          "visual_context": "Illustration of a pair of socks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bra",
+          "number": "5",
+          "section": "14.3 UNDERWEAR",
+          "visual_context": "Illustration of a grey bra.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "slip dress",
+          "number": "6",
+          "section": "14.3 UNDERWEAR",
+          "visual_context": "Illustration of a blue sleeveless underdress.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "undershirt (US) vest (UK)",
+          "number": "7",
+          "section": "14.3 UNDERWEAR",
+          "visual_context": "Illustration of a white sleeveless undershirt.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pantyhose (US) tights (UK)",
+          "number": "8",
+          "section": "14.3 UNDERWEAR",
+          "visual_context": "Illustration of black full-length legwear.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stockings",
+          "number": "9",
+          "section": "14.3 UNDERWEAR",
+          "visual_context": "Illustration of black thigh-high legwear.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "corset (US) basque (UK)",
+          "number": "10",
+          "section": "14.3 UNDERWEAR",
+          "visual_context": "Illustration of structured black-and-grey lingerie.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "garter",
+          "number": "11",
+          "section": "14.3 UNDERWEAR",
+          "visual_context": "Illustration of a pink decorative garter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "suspenders",
+          "number": "12",
+          "section": "14.3 UNDERWEAR",
+          "visual_context": "Illustration of a suspender belt with straps.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to wear",
+          "number": "1",
+          "section": "14.4 VERBS FOR CLOTHES",
+          "visual_context": "Illustration of a person fastening clothing at the front.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to fit",
+          "number": "2",
+          "section": "14.4 VERBS FOR CLOTHES",
+          "visual_context": "Illustration of a garment being fitted on a person.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to put on",
+          "number": "3",
+          "section": "14.4 VERBS FOR CLOTHES",
+          "visual_context": "Illustration of a man putting on a jacket.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to take off",
+          "number": "4",
+          "section": "14.4 VERBS FOR CLOTHES",
+          "visual_context": "Illustration of a woman removing an upper garment.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to fasten",
+          "number": "5",
+          "section": "14.4 VERBS FOR CLOTHES",
+          "visual_context": "Illustration of hands fastening a shoe.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to unfasten",
+          "number": "6",
+          "section": "14.4 VERBS FOR CLOTHES",
+          "visual_context": "Illustration of a man unfastening his shirt or tie.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to suit (someone)",
+          "number": "7",
+          "section": "14.4 VERBS FOR CLOTHES",
+          "visual_context": "Illustration of people viewing clothing in a mirror.",
+          "semantic_meaning": "to look good on someone"
+        },
+        {
+          "source_text": "to change / to get changed",
+          "number": "8",
+          "section": "14.4 VERBS FOR CLOTHES",
+          "visual_context": "Illustration of a person changing clothes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to hang up",
+          "number": "9",
+          "section": "14.4 VERBS FOR CLOTHES",
+          "visual_context": "Illustration of a person placing clothes on hangers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to fold",
+          "number": "10",
+          "section": "14.4 VERBS FOR CLOTHES",
+          "visual_context": "Illustration of a woman folding clothing.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to turn up",
+          "number": "11",
+          "section": "14.4 VERBS FOR CLOTHES",
+          "visual_context": "Illustration of hands rolling up trouser hems.",
+          "semantic_meaning": "to make a garment shorter by folding its edge upward"
+        },
+        {
+          "source_text": "to try something on",
+          "number": "12",
+          "section": "14.4 VERBS FOR CLOTHES",
+          "visual_context": "Illustration of a woman trying on a dress in front of a mirror.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "pages": [
+    {
+      "page": 26,
+      "title": "Life events",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "neighbor (US) neighbour (UK)",
+          "number": "1",
+          "section": "7.1 RELATIONSHIPS",
+          "visual_context": "A person standing outside a house beside a family in a neighboring home.",
+          "semantic_meaning": "A person who lives near you; US and UK spellings."
+        },
+        {
+          "source_text": "friend",
+          "number": "2",
+          "section": "7.1 RELATIONSHIPS",
+          "visual_context": "Two people sitting at a table and sharing drinks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "acquaintance",
+          "number": "3",
+          "section": "7.1 RELATIONSHIPS",
+          "visual_context": "Three people standing together, with one pair greeting another person.",
+          "semantic_meaning": "A person known casually, but not necessarily a close friend."
+        },
+        {
+          "source_text": "colleague",
+          "number": "4",
+          "section": "7.1 RELATIONSHIPS",
+          "visual_context": "Office workers at a desk, with a clock overhead.",
+          "semantic_meaning": "A person one works with."
+        },
+        {
+          "source_text": "pen pal",
+          "number": "5",
+          "section": "7.1 RELATIONSHIPS",
+          "visual_context": "Two people in different locations exchanging a letter across a world map.",
+          "semantic_meaning": "A person with whom one exchanges letters."
+        },
+        {
+          "source_text": "couple",
+          "number": "6",
+          "section": "7.1 RELATIONSHIPS",
+          "visual_context": "Two people standing with their arms around each other.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "best friend",
+          "number": "7",
+          "section": "7.1 RELATIONSHIPS",
+          "visual_context": "Two close friends standing side by side.",
+          "semantic_meaning": "A very close friend."
+        },
+        {
+          "source_text": "partner",
+          "number": "8",
+          "section": "7.1 RELATIONSHIPS",
+          "visual_context": "Two people holding hands.",
+          "semantic_meaning": "One member of a romantic couple."
+        },
+        {
+          "source_text": "Will you marry me?",
+          "number": "9",
+          "section": "7.1 RELATIONSHIPS",
+          "visual_context": "Speech bubble above a person proposing on one knee with a ring.",
+          "semantic_meaning": "A question used to propose marriage."
+        },
+        {
+          "source_text": "fiancée",
+          "number": "10",
+          "section": "7.1 RELATIONSHIPS",
+          "visual_context": "Pointer to the woman reacting to a marriage proposal.",
+          "semantic_meaning": "A woman who is engaged to be married."
+        },
+        {
+          "source_text": "fiancé",
+          "number": "11",
+          "section": "7.1 RELATIONSHIPS",
+          "visual_context": "Pointer to the man kneeling and offering a ring.",
+          "semantic_meaning": "A man who is engaged to be married."
+        },
+        {
+          "source_text": "engaged couple",
+          "number": "12",
+          "section": "7.1 RELATIONSHIPS",
+          "visual_context": "The proposing couple, with an engagement ring.",
+          "semantic_meaning": "A couple who have agreed to marry."
+        },
+        {
+          "source_text": "bride",
+          "number": "13",
+          "section": "7.1 RELATIONSHIPS",
+          "visual_context": "Pointer to the woman in a wedding dress at the wedding ceremony.",
+          "semantic_meaning": "A woman on her wedding day."
+        },
+        {
+          "source_text": "groom",
+          "number": "14",
+          "section": "7.1 RELATIONSHIPS",
+          "visual_context": "Pointer to the man in a suit at the wedding ceremony.",
+          "semantic_meaning": "A man on his wedding day."
+        },
+        {
+          "source_text": "married couple",
+          "number": "15",
+          "section": "7.1 RELATIONSHIPS",
+          "visual_context": "Bride and groom standing together beneath a wedding canopy.",
+          "semantic_meaning": "A couple who are married."
+        },
+        {
+          "source_text": "to be born",
+          "number": "1",
+          "section": "7.2 LIFE EVENTS",
+          "visual_context": "An adult holding a newborn baby.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "birth certificate",
+          "number": "2",
+          "section": "7.2 LIFE EVENTS",
+          "visual_context": "A certificate document with a baby's footprints.",
+          "semantic_meaning": "An official document recording a birth."
+        },
+        {
+          "source_text": "to go to preschool (US) to go to nursery (UK)",
+          "number": "3",
+          "section": "7.2 LIFE EVENTS",
+          "visual_context": "A small child walking with adults.",
+          "semantic_meaning": "To attend early-childhood school; US and UK terms."
+        },
+        {
+          "source_text": "to start school",
+          "number": "4",
+          "section": "7.2 LIFE EVENTS",
+          "visual_context": "Children walking toward a school building.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to make friends",
+          "number": "5",
+          "section": "7.2 LIFE EVENTS",
+          "visual_context": "Children greeting and standing together.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to win a prize",
+          "number": "6",
+          "section": "7.2 LIFE EVENTS",
+          "visual_context": "A person receiving a trophy or prize from another person.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to graduate",
+          "number": "7",
+          "section": "7.2 LIFE EVENTS",
+          "visual_context": "A graduate wearing a cap and gown and holding a diploma.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to emigrate",
+          "number": "8",
+          "section": "7.2 LIFE EVENTS",
+          "visual_context": "A dotted route from one country silhouette to another, with a person and luggage.",
+          "semantic_meaning": "To leave one's country to live in another."
+        },
+        {
+          "source_text": "to get a job",
+          "number": "9",
+          "section": "7.2 LIFE EVENTS",
+          "visual_context": "Two people shaking hands, one carrying a briefcase.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to fall in love",
+          "number": "10",
+          "section": "7.2 LIFE EVENTS",
+          "visual_context": "A couple embracing with hearts above them.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to get married",
+          "number": "11",
+          "section": "7.2 LIFE EVENTS",
+          "visual_context": "A bride and groom beneath a wedding arch.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 27,
+      "title": "Life events",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "Family",
+          "number": "05",
+          "section": "See also:",
+          "visual_context": "Cross-reference list only; no associated illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Pregnancy and childhood",
+          "number": "08",
+          "section": "See also:",
+          "visual_context": "Cross-reference list only; no associated illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Illness and injury",
+          "number": "19",
+          "section": "See also:",
+          "visual_context": "Cross-reference list only; no associated illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "At school",
+          "number": "73",
+          "section": "See also:",
+          "visual_context": "Cross-reference list only; no associated illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "At college",
+          "number": "80",
+          "section": "See also:",
+          "visual_context": "Cross-reference list only; no associated illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Applying for a job",
+          "number": "92",
+          "section": "See also:",
+          "visual_context": "Cross-reference list only; no associated illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Travel and accommodation",
+          "number": "131",
+          "section": "See also:",
+          "visual_context": "Cross-reference list only; no associated illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "birthday",
+          "number": "1",
+          "section": "7.3 FESTIVALS AND CELEBRATIONS",
+          "visual_context": "A person beside a birthday cake with candles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "present",
+          "number": "2",
+          "section": "7.3 FESTIVALS AND CELEBRATIONS",
+          "visual_context": "One person giving a wrapped gift to another.",
+          "semantic_meaning": "A gift."
+        },
+        {
+          "source_text": "birthday card",
+          "number": "3",
+          "section": "7.3 FESTIVALS AND CELEBRATIONS",
+          "visual_context": "An open greeting card decorated with balloons and a birthday cake.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Christmas",
+          "number": "4",
+          "section": "7.3 FESTIVALS AND CELEBRATIONS",
+          "visual_context": "A person decorating a Christmas tree with presents.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "New Year",
+          "number": "5",
+          "section": "7.3 FESTIVALS AND CELEBRATIONS",
+          "visual_context": "People celebrating with fireworks, balloons, and a clock.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "carnival",
+          "number": "6",
+          "section": "7.3 FESTIVALS AND CELEBRATIONS",
+          "visual_context": "A musical parade with drums and instruments.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Thanksgiving",
+          "number": "7",
+          "section": "7.3 FESTIVALS AND CELEBRATIONS",
+          "visual_context": "People gathered around a table with a large roast meal.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Easter",
+          "number": "8",
+          "section": "7.3 FESTIVALS AND CELEBRATIONS",
+          "visual_context": "A child in a wheelchair holding an egg beside a person with an Easter basket.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Halloween",
+          "number": "9",
+          "section": "7.3 FESTIVALS AND CELEBRATIONS",
+          "visual_context": "A witch with a broom and a jack-o'-lantern.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Kwanzaa",
+          "number": "10",
+          "section": "7.3 FESTIVALS AND CELEBRATIONS",
+          "visual_context": "A candleholder with seven lit candles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Passover",
+          "number": "11",
+          "section": "7.3 FESTIVALS AND CELEBRATIONS",
+          "visual_context": "People seated together at a dinner table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Diwali",
+          "number": "12",
+          "section": "7.3 FESTIVALS AND CELEBRATIONS",
+          "visual_context": "A person holding a lit lamp beneath a firework.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Day of the Dead",
+          "number": "13",
+          "section": "7.3 FESTIVALS AND CELEBRATIONS",
+          "visual_context": "Two costumed skeleton figures, one playing a guitar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Eid al-Fitr",
+          "number": "14",
+          "section": "7.3 FESTIVALS AND CELEBRATIONS",
+          "visual_context": "A mosque skyline with a crescent moon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Holi",
+          "number": "15",
+          "section": "7.3 FESTIVALS AND CELEBRATIONS",
+          "visual_context": "People celebrating amid colored powder and confetti.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Hanukkah",
+          "number": "16",
+          "section": "7.3 FESTIVALS AND CELEBRATIONS",
+          "visual_context": "A Star of David and a menorah.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Baisakhi / Vaishakhi",
+          "number": "17",
+          "section": "7.3 FESTIVALS AND CELEBRATIONS",
+          "visual_context": "A Sikh figure holding a sword, framed by wheat.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wedding",
+          "number": "12",
+          "section": "7.2 LIFE EVENTS",
+          "visual_context": "A bride and groom at a decorated wedding table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "honeymoon",
+          "number": "13",
+          "section": "7.2 LIFE EVENTS",
+          "visual_context": "A couple with luggage walking at a sunny beach.",
+          "semantic_meaning": "A vacation taken by newly married people."
+        },
+        {
+          "source_text": "anniversary",
+          "number": "14",
+          "section": "7.2 LIFE EVENTS",
+          "visual_context": "A couple celebrating with flowers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to have a baby",
+          "number": "15",
+          "section": "7.2 LIFE EVENTS",
+          "visual_context": "An adult holding a baby.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "christening / baptism",
+          "number": "16",
+          "section": "7.2 LIFE EVENTS",
+          "visual_context": "A priest pouring holy water over a baby at a font.",
+          "semantic_meaning": "A Christian ceremony welcoming a child into the church."
+        },
+        {
+          "source_text": "holy water",
+          "number": "17",
+          "section": "7.2 LIFE EVENTS",
+          "visual_context": "Pointer to the water being poured during the christening or baptism.",
+          "semantic_meaning": "Water used in a religious ceremony."
+        },
+        {
+          "source_text": "bar mitzvah / bat mitzvah",
+          "number": "18",
+          "section": "7.2 LIFE EVENTS",
+          "visual_context": "A person reading from a religious scroll.",
+          "semantic_meaning": "Jewish coming-of-age ceremonies for a boy or girl."
+        },
+        {
+          "source_text": "to go on Hajj",
+          "number": "19",
+          "section": "7.2 LIFE EVENTS",
+          "visual_context": "Pilgrims in white robes walking beside the Kaaba.",
+          "semantic_meaning": "To make the Muslim pilgrimage to Mecca."
+        },
+        {
+          "source_text": "to retire",
+          "number": "20",
+          "section": "7.2 LIFE EVENTS",
+          "visual_context": "An older person with a cane beside a younger person.",
+          "semantic_meaning": "To stop working because of age."
+        },
+        {
+          "source_text": "divorce",
+          "number": "21",
+          "section": "7.2 LIFE EVENTS",
+          "visual_context": "Two people separated by a broken heart.",
+          "semantic_meaning": "The legal end of a marriage."
+        },
+        {
+          "source_text": "to write a will (US) to make a will (UK)",
+          "number": "22",
+          "section": "7.2 LIFE EVENTS",
+          "visual_context": "Two people seated at a table with a document.",
+          "semantic_meaning": "To prepare a legal document stating what happens to one's property after death; US and UK terms."
+        },
+        {
+          "source_text": "to die",
+          "number": "23",
+          "section": "7.2 LIFE EVENTS",
+          "visual_context": "People lowering a coffin into the ground.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "funeral",
+          "number": "24",
+          "section": "7.2 LIFE EVENTS",
+          "visual_context": "Two mourners standing beside a coffin.",
+          "semantic_meaning": "A ceremony held after someone dies."
+        }
+      ]
+    }
+  ]
+}

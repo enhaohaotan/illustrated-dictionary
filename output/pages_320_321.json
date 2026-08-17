@@ -1,0 +1,375 @@
+{
+  "pages": [
+    {
+      "page": 320,
+      "title": "Climate and the environment",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "exosphere",
+          "number": "1",
+          "section": "155.1 ATMOSPHERE",
+          "visual_context": "Uppermost layer of the illustrated atmospheric column, above the thermosphere.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "thermosphere",
+          "number": "2",
+          "section": "155.1 ATMOSPHERE",
+          "visual_context": "Layer in the upper illustrated atmospheric column.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ionosphere",
+          "number": "3",
+          "section": "155.1 ATMOSPHERE",
+          "visual_context": "Atmospheric layer shown with burning meteors.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mesosphere",
+          "number": "4",
+          "section": "155.1 ATMOSPHERE",
+          "visual_context": "Layer of the atmospheric column between the ionosphere and stratosphere.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stratosphere",
+          "number": "5",
+          "section": "155.1 ATMOSPHERE",
+          "visual_context": "Atmospheric layer below the mesosphere.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "troposphere",
+          "number": "6",
+          "section": "155.1 ATMOSPHERE",
+          "visual_context": "Lowest illustrated atmospheric layer, above the landscape and clouds.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "aurora",
+          "number": "7",
+          "section": "155.1 ATMOSPHERE",
+          "visual_context": "Green-blue auroral light in the upper atmosphere.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ozone layer",
+          "number": "8",
+          "section": "155.1 ATMOSPHERE",
+          "visual_context": "Blue band in the stratosphere.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ultraviolet rays",
+          "number": "9",
+          "section": "155.1 ATMOSPHERE",
+          "visual_context": "Purple upward arrows passing through the atmospheric column.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "atmosphere",
+          "number": "10",
+          "section": "155.1 ATMOSPHERE",
+          "visual_context": "The complete layered envelope around the Earth in the left diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "warm front",
+          "number": "11",
+          "section": "155.1 ATMOSPHERE",
+          "visual_context": "Red line with semicircles on the weather map.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "isobar",
+          "number": "12",
+          "section": "155.1 ATMOSPHERE",
+          "visual_context": "Curving contour line on the weather map.",
+          "semantic_meaning": "A line joining places of equal atmospheric pressure."
+        },
+        {
+          "source_text": "occluded front",
+          "number": "13",
+          "section": "155.1 ATMOSPHERE",
+          "visual_context": "Purple front line with alternating symbols on the weather map.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cold front",
+          "number": "14",
+          "section": "155.1 ATMOSPHERE",
+          "visual_context": "Blue line with triangles on the weather map.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "high pressure",
+          "number": "15",
+          "section": "155.1 ATMOSPHERE",
+          "visual_context": "Central area enclosed by isobars on the weather map.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "low pressure",
+          "number": "16",
+          "section": "155.1 ATMOSPHERE",
+          "visual_context": "Area enclosed by isobars at the lower right of the weather map.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "weather map",
+          "number": "17",
+          "section": "155.1 ATMOSPHERE",
+          "visual_context": "Map displaying isobars and weather fronts.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "deforestation",
+          "number": "1",
+          "section": "155.2 ENVIRONMENTAL ISSUES",
+          "visual_context": "Excavator clearing a forest of tree stumps.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "habitat loss",
+          "number": "2",
+          "section": "155.2 ENVIRONMENTAL ISSUES",
+          "visual_context": "Animal standing on stripped brown land.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "endangered species",
+          "number": "3",
+          "section": "155.2 ENVIRONMENTAL ISSUES",
+          "visual_context": "Panda and rhinoceros.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "plastic waste",
+          "number": "4",
+          "section": "155.2 ENVIRONMENTAL ISSUES",
+          "visual_context": "Accumulation of plastic bottles and containers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "overfishing",
+          "number": "5",
+          "section": "155.2 ENVIRONMENTAL ISSUES",
+          "visual_context": "Fishing net full of fish.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ozone depletion",
+          "number": "6",
+          "section": "155.2 ENVIRONMENTAL ISSUES",
+          "visual_context": "Sun rays passing through a diminished atmospheric ozone band.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "desertification",
+          "number": "7",
+          "section": "155.2 ENVIRONMENTAL ISSUES",
+          "visual_context": "Dry cracked land spreading into a green landscape.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "oil slick",
+          "number": "8",
+          "section": "155.2 ENVIRONMENTAL ISSUES",
+          "visual_context": "Dark oil floating on water.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "acid rain",
+          "number": "9",
+          "section": "155.2 ENVIRONMENTAL ISSUES",
+          "visual_context": "Industrial smoke leading to rainfall over land and water.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 321,
+      "title": "Climate and the environment",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "greenhouse effect",
+          "number": "1",
+          "section": "155.3 CLIMATE CHANGE",
+          "visual_context": "Earth surrounded by an atmospheric dome with incoming and outgoing radiation arrows.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "industrial emissions",
+          "number": "2",
+          "section": "155.3 CLIMATE CHANGE",
+          "visual_context": "Factory smokestacks emitting dark smoke beside the Earth.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "trapped radiation",
+          "number": "3",
+          "section": "155.3 CLIMATE CHANGE",
+          "visual_context": "Orange radiation arrow retained beneath the atmospheric dome.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "reflected radiation",
+          "number": "4",
+          "section": "155.3 CLIMATE CHANGE",
+          "visual_context": "Orange arrow travelling upward away from Earth.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "solar radiation",
+          "number": "5",
+          "section": "155.3 CLIMATE CHANGE",
+          "visual_context": "Yellow rays from the Sun directed toward Earth.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "atmosphere",
+          "number": "6",
+          "section": "155.3 CLIMATE CHANGE",
+          "visual_context": "Blue dome surrounding Earth in the greenhouse-effect diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "greenhouse gases",
+          "number": "7",
+          "section": "155.3 CLIMATE CHANGE",
+          "visual_context": "Molecular models of carbon dioxide and methane.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "carbon dioxide",
+          "number": "8",
+          "section": "155.3 CLIMATE CHANGE",
+          "visual_context": "Carbon-dioxide molecular model marked CO₂.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "methane",
+          "number": "9",
+          "section": "155.3 CLIMATE CHANGE",
+          "visual_context": "Methane molecular model marked CH₄.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fossil fuels",
+          "number": "10",
+          "section": "155.3 CLIMATE CHANGE",
+          "visual_context": "Coal, oil barrels, and an oil pump.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "emissions",
+          "number": "11",
+          "section": "155.3 CLIMATE CHANGE",
+          "visual_context": "Factory releasing smoke from chimneys.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pollution",
+          "number": "12",
+          "section": "155.3 CLIMATE CHANGE",
+          "visual_context": "Pipe discharging contaminated liquid into water.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ecosystem",
+          "number": "13",
+          "section": "155.3 CLIMATE CHANGE",
+          "visual_context": "Connected coastal, river, forest, and mountain landscape.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "zero carbon",
+          "number": "14",
+          "section": "155.3 CLIMATE CHANGE",
+          "visual_context": "Gauge marked CO₂.",
+          "semantic_meaning": "Producing no net carbon emissions."
+        },
+        {
+          "source_text": "shrinking glaciers",
+          "number": "15",
+          "section": "155.3 CLIMATE CHANGE",
+          "visual_context": "Glacier or ice mass floating in water.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "melting ice caps",
+          "number": "16",
+          "section": "155.3 CLIMATE CHANGE",
+          "visual_context": "Polar bear on a small melting ice floe.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to sort your trash (US)\nto sort your rubbish (UK)",
+          "number": "1",
+          "section": "155.4 WASTE AND RECYCLING",
+          "visual_context": "People placing waste into recycling bins.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "I try to recycle plastic and paper as much as possible.",
+          "number": "2",
+          "section": "155.4 WASTE AND RECYCLING",
+          "visual_context": "Speech bubble spoken by the woman beside recycling bins.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "food waste",
+          "number": "3",
+          "section": "155.4 WASTE AND RECYCLING",
+          "visual_context": "Food scraps, including a fish skeleton and banana peel, beneath a recycling arrow.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "paper",
+          "number": "4",
+          "section": "155.4 WASTE AND RECYCLING",
+          "visual_context": "Paper and cardboard items beneath a recycling arrow.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "plastic",
+          "number": "5",
+          "section": "155.4 WASTE AND RECYCLING",
+          "visual_context": "Plastic bottles and containers beneath a recycling arrow.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "glass",
+          "number": "6",
+          "section": "155.4 WASTE AND RECYCLING",
+          "visual_context": "Glass bottles beneath a recycling arrow.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "metal",
+          "number": "7",
+          "section": "155.4 WASTE AND RECYCLING",
+          "visual_context": "Metal cans and packaging beneath a recycling arrow.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "compostable bags",
+          "number": "8",
+          "section": "155.4 WASTE AND RECYCLING",
+          "visual_context": "Green bag marked with a compostable symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "landfill",
+          "number": "9",
+          "section": "155.4 WASTE AND RECYCLING",
+          "visual_context": "Large pile of rubbish bags at a waste site.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

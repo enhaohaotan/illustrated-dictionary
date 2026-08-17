@@ -1,0 +1,340 @@
+{
+  "pages": [
+    {
+      "page": 38,
+      "title": "Clothes",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "leather",
+          "number": "1",
+          "section": "13.1 DESCRIBING CLOTHES",
+          "visual_context": "Pair of brown leather shoes.",
+          "semantic_meaning": "material"
+        },
+        {
+          "source_text": "cotton",
+          "number": "2",
+          "section": "13.1 DESCRIBING CLOTHES",
+          "visual_context": "Pair of white socks.",
+          "semantic_meaning": "material"
+        },
+        {
+          "source_text": "woolen (US)\nwoollen (UK)",
+          "number": "3",
+          "section": "13.1 DESCRIBING CLOTHES",
+          "visual_context": "Pink knitted sweater on a hanger.",
+          "semantic_meaning": "material"
+        },
+        {
+          "source_text": "silk",
+          "number": "4",
+          "section": "13.1 DESCRIBING CLOTHES",
+          "visual_context": "Green silk scarf.",
+          "semantic_meaning": "material"
+        },
+        {
+          "source_text": "synthetic",
+          "number": "5",
+          "section": "13.1 DESCRIBING CLOTHES",
+          "visual_context": "Green synthetic jacket.",
+          "semantic_meaning": "material"
+        },
+        {
+          "source_text": "denim",
+          "number": "6",
+          "section": "13.1 DESCRIBING CLOTHES",
+          "visual_context": "Blue denim jeans.",
+          "semantic_meaning": "material"
+        },
+        {
+          "source_text": "plain",
+          "number": "7",
+          "section": "13.1 DESCRIBING CLOTHES",
+          "visual_context": "Solid red fabric swatch.",
+          "semantic_meaning": "pattern without decoration"
+        },
+        {
+          "source_text": "striped",
+          "number": "8",
+          "section": "13.1 DESCRIBING CLOTHES",
+          "visual_context": "Fabric swatch with diagonal stripes.",
+          "semantic_meaning": "pattern"
+        },
+        {
+          "source_text": "checkered (US)\nchecked (UK)",
+          "number": "9",
+          "section": "13.1 DESCRIBING CLOTHES",
+          "visual_context": "Red-and-white checked fabric swatch.",
+          "semantic_meaning": "pattern"
+        },
+        {
+          "source_text": "polka dot (US)\nspotted (UK)",
+          "number": "10",
+          "section": "13.1 DESCRIBING CLOTHES",
+          "visual_context": "Red fabric swatch with white dots.",
+          "semantic_meaning": "pattern"
+        },
+        {
+          "source_text": "paisley",
+          "number": "11",
+          "section": "13.1 DESCRIBING CLOTHES",
+          "visual_context": "Green fabric with paisley motifs.",
+          "semantic_meaning": "pattern"
+        },
+        {
+          "source_text": "plaid",
+          "number": "12",
+          "section": "13.1 DESCRIBING CLOTHES",
+          "visual_context": "Red-and-blue tartan-like fabric swatch.",
+          "semantic_meaning": "pattern"
+        },
+        {
+          "source_text": "loose / baggy",
+          "number": "13",
+          "section": "13.1 DESCRIBING CLOTHES",
+          "visual_context": "Person wearing a loose red jacket.",
+          "semantic_meaning": "fit"
+        },
+        {
+          "source_text": "fitted",
+          "number": "14",
+          "section": "13.1 DESCRIBING CLOTHES",
+          "visual_context": "Person wearing a close-fitting beige coat.",
+          "semantic_meaning": "fit"
+        },
+        {
+          "source_text": "tight",
+          "number": "15",
+          "section": "13.1 DESCRIBING CLOTHES",
+          "visual_context": "Person wearing a tight red sleeveless top.",
+          "semantic_meaning": "fit"
+        },
+        {
+          "source_text": "crumpled",
+          "number": "16",
+          "section": "13.1 DESCRIBING CLOTHES",
+          "visual_context": "Person wearing a wrinkled blue shirt.",
+          "semantic_meaning": "wrinkled"
+        },
+        {
+          "source_text": "cropped",
+          "number": "17",
+          "section": "13.1 DESCRIBING CLOTHES",
+          "visual_context": "Person wearing a short purple crop top.",
+          "semantic_meaning": "cut short above the waist"
+        },
+        {
+          "source_text": "vintage",
+          "number": "18",
+          "section": "13.1 DESCRIBING CLOTHES",
+          "visual_context": "Person wearing an old-fashioned orange top and patterned skirt.",
+          "semantic_meaning": "from an earlier style or period"
+        },
+        {
+          "source_text": "chef’s hat",
+          "number": "1",
+          "section": "13.2 WORK CLOTHES AND UNIFORMS",
+          "visual_context": "Pointer to the tall white hat worn by the chef.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chef’s\ncoat",
+          "number": "2",
+          "section": "13.2 WORK CLOTHES AND UNIFORMS",
+          "visual_context": "Pointer to the chef's white coat.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chef’s uniform",
+          "number": "3",
+          "section": "13.2 WORK CLOTHES AND UNIFORMS",
+          "visual_context": "Chef wearing white uniform while cooking.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "apron",
+          "number": "4",
+          "section": "13.2 WORK CLOTHES AND UNIFORMS",
+          "visual_context": "Pointer to the red-and-white striped apron worn by a worker.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lab coat",
+          "number": "5",
+          "section": "13.2 WORK CLOTHES AND UNIFORMS",
+          "visual_context": "White coat worn by a laboratory worker.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "firefighter’s\nuniform",
+          "number": "6",
+          "section": "13.2 WORK CLOTHES AND UNIFORMS",
+          "visual_context": "Firefighter wearing dark protective uniform with yellow reflective bands.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "overalls",
+          "number": "7",
+          "section": "13.2 WORK CLOTHES AND UNIFORMS",
+          "visual_context": "Worker wearing orange one-piece overalls and holding a tool.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 39,
+      "title": null,
+      "context": "13.3 KIDS’ AND BABIES’ CLOTHES; continuation of 13.2 WORK CLOTHES AND UNIFORMS",
+      "entries": [
+        {
+          "source_text": "hood",
+          "number": "1",
+          "section": "13.3 KIDS’ AND BABIES’ CLOTHES",
+          "visual_context": "Pointer to the hood of a blue snowsuit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mittens",
+          "number": "2",
+          "section": "13.3 KIDS’ AND BABIES’ CLOTHES",
+          "visual_context": "Pointer to a blue mitten held by the child.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "snowsuit",
+          "number": "3",
+          "section": "13.3 KIDS’ AND BABIES’ CLOTHES",
+          "visual_context": "Child wearing a blue one-piece snowsuit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bib",
+          "number": "4",
+          "section": "13.3 KIDS’ AND BABIES’ CLOTHES",
+          "visual_context": "Baby wearing a blue bib.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "overalls (US)\ndungarees (UK)",
+          "number": "5",
+          "section": "13.3 KIDS’ AND BABIES’ CLOTHES",
+          "visual_context": "Baby wearing green bib overalls.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bodysuit (US)\nbabygro (UK)",
+          "number": "6",
+          "section": "13.3 KIDS’ AND BABIES’ CLOTHES",
+          "visual_context": "Baby wearing a yellow one-piece bodysuit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "snap (US)\npopper (UK)",
+          "number": "7",
+          "section": "13.3 KIDS’ AND BABIES’ CLOTHES",
+          "visual_context": "Pointer to the fasteners on a pink baby sleepsuit.",
+          "semantic_meaning": "press-stud fastener"
+        },
+        {
+          "source_text": "sleepsuit",
+          "number": "8",
+          "section": "13.3 KIDS’ AND BABIES’ CLOTHES",
+          "visual_context": "Pink one-piece outfit for a sleeping baby.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "play suit",
+          "number": "9",
+          "section": "13.3 KIDS’ AND BABIES’ CLOTHES",
+          "visual_context": "Child wearing a purple one-piece play outfit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "romper suit",
+          "number": "10",
+          "section": "13.3 KIDS’ AND BABIES’ CLOTHES",
+          "visual_context": "Baby wearing a dark blue short-legged romper.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "onesie",
+          "number": "11",
+          "section": "13.3 KIDS’ AND BABIES’ CLOTHES",
+          "visual_context": "Baby wearing an orange hooded one-piece outfit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "costume",
+          "number": "12",
+          "section": "13.3 KIDS’ AND BABIES’ CLOTHES",
+          "visual_context": "Baby dressed in a brown bear costume.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "booties",
+          "number": "13",
+          "section": "13.3 KIDS’ AND BABIES’ CLOTHES",
+          "visual_context": "Pair of small blue baby shoes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "military\nuniform",
+          "number": "8",
+          "section": "13.2 WORK CLOTHES AND UNIFORMS",
+          "visual_context": "Person wearing a white military uniform and peaked cap.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "scrubs",
+          "number": "9",
+          "section": "13.2 WORK CLOTHES AND UNIFORMS",
+          "visual_context": "Medical worker wearing teal scrubs.",
+          "semantic_meaning": "medical work clothing"
+        },
+        {
+          "source_text": "cargo pants (US)\ncargo trousers (UK)",
+          "number": "10",
+          "section": "13.2 WORK CLOTHES AND UNIFORMS",
+          "visual_context": "Worker wearing beige pants with large side pockets.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "high-visibility\njacket",
+          "number": "11",
+          "section": "13.2 WORK CLOTHES AND UNIFORMS",
+          "visual_context": "Pointer to the yellow reflective jacket worn by the worker.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tabard",
+          "number": "12",
+          "section": "13.2 WORK CLOTHES AND UNIFORMS",
+          "visual_context": "Blue sleeveless protective garment.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "school uniform",
+          "number": "13",
+          "section": "13.2 WORK CLOTHES AND UNIFORMS",
+          "visual_context": "Two schoolchildren wearing matching uniform clothing.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "school\nshirt",
+          "number": "14",
+          "section": "13.2 WORK CLOTHES AND UNIFORMS",
+          "visual_context": "Pointer to a schoolchild's light-blue shirt.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "school\ntie",
+          "number": "15",
+          "section": "13.2 WORK CLOTHES AND UNIFORMS",
+          "visual_context": "Pointer to a schoolchild's tie.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

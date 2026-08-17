@@ -1,0 +1,375 @@
+{
+  "pages": [
+    {
+      "page": 216,
+      "title": "Aircraft",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "co-pilot",
+          "number": "1",
+          "section": "PASSENGER AIRPLANE (US) / AEROPLANE (UK)",
+          "visual_context": "Pointer to the person seated in the left side of the cockpit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pilot",
+          "number": "2",
+          "section": "PASSENGER AIRPLANE (US) / AEROPLANE (UK)",
+          "visual_context": "Pointer to the person seated in the right side of the cockpit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "flight attendant",
+          "number": "3",
+          "section": "PASSENGER AIRPLANE (US) / AEROPLANE (UK)",
+          "visual_context": "Pointer to the attendant standing at the aircraft door.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "business class",
+          "number": "4",
+          "section": "PASSENGER AIRPLANE (US) / AEROPLANE (UK)",
+          "visual_context": "Pointer to the forward passenger seating area.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "economy class",
+          "number": "5",
+          "section": "PASSENGER AIRPLANE (US) / AEROPLANE (UK)",
+          "visual_context": "Pointer to the main passenger seating area.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "aileron",
+          "number": "6",
+          "section": "PASSENGER AIRPLANE (US) / AEROPLANE (UK)",
+          "visual_context": "Pointer to the red movable control surface on the tailplane.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "window",
+          "number": "7",
+          "section": "PASSENGER AIRPLANE (US) / AEROPLANE (UK)",
+          "visual_context": "Pointer to a row of passenger windows.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cockpit",
+          "number": "13",
+          "section": "PASSENGER AIRPLANE (US) / AEROPLANE (UK)",
+          "visual_context": "Pointer to the aircraft's front flight deck.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nose",
+          "number": "14",
+          "section": "PASSENGER AIRPLANE (US) / AEROPLANE (UK)",
+          "visual_context": "Pointer to the rounded front of the airplane.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nosewheel",
+          "number": "15",
+          "section": "PASSENGER AIRPLANE (US) / AEROPLANE (UK)",
+          "visual_context": "Pointer to the wheel beneath the nose.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Do you know how long the flight takes?",
+          "number": "16",
+          "section": "PASSENGER AIRPLANE (US) / AEROPLANE (UK)",
+          "visual_context": "Speech bubble beside passengers boarding the airplane.",
+          "semantic_meaning": "Question asking the duration of a flight."
+        },
+        {
+          "source_text": "carry-on (US) | hand luggage (UK)",
+          "number": "17",
+          "section": "PASSENGER AIRPLANE (US) / AEROPLANE (UK)",
+          "visual_context": "Pointer to luggage carried by boarding passengers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "jumbo jet",
+          "number": "18",
+          "section": "PASSENGER AIRPLANE (US) / AEROPLANE (UK)",
+          "visual_context": "Label for the large passenger airplane illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "engine",
+          "number": "19",
+          "section": "PASSENGER AIRPLANE (US) / AEROPLANE (UK)",
+          "visual_context": "Pointer to the red jet engine beneath the wing.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "landing gear",
+          "number": "20",
+          "section": "PASSENGER AIRPLANE (US) / AEROPLANE (UK)",
+          "visual_context": "Pointer to the aircraft wheel assembly.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "private jet",
+          "number": "1",
+          "section": "TYPES OF AIRCRAFT",
+          "visual_context": "Label beneath a small business jet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "jet engine",
+          "number": "2",
+          "section": "TYPES OF AIRCRAFT",
+          "visual_context": "Pointer to the engine on the private jet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "light aircraft",
+          "number": "3",
+          "section": "TYPES OF AIRCRAFT",
+          "visual_context": "Label beside a small propeller aircraft.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "propeller",
+          "number": "4",
+          "section": "TYPES OF AIRCRAFT",
+          "visual_context": "Pointer to the propeller on the light aircraft.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "helicopter",
+          "number": "5",
+          "section": "TYPES OF AIRCRAFT",
+          "visual_context": "Label beneath a red helicopter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rotor blade",
+          "number": "6",
+          "section": "TYPES OF AIRCRAFT",
+          "visual_context": "Pointer to the helicopter's main rotor blade.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cargo plane",
+          "number": "7",
+          "section": "TYPES OF AIRCRAFT",
+          "visual_context": "Label beneath a large aircraft carrying cargo.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "biplane",
+          "number": "8",
+          "section": "TYPES OF AIRCRAFT",
+          "visual_context": "Label beneath a yellow two-winged airplane.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "monoplane",
+          "number": "9",
+          "section": "TYPES OF AIRCRAFT",
+          "visual_context": "Label beneath a red single-winged airplane.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "seaplane",
+          "number": "10",
+          "section": "TYPES OF AIRCRAFT",
+          "visual_context": "Label beneath an airplane with floats.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 217,
+      "title": null,
+      "context": null,
+      "entries": [
+        {
+          "source_text": "fin",
+          "number": "8",
+          "section": "PASSENGER AIRPLANE (US) / AEROPLANE (UK)",
+          "visual_context": "Pointer to the vertical tail fin.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rudder",
+          "number": "9",
+          "section": "PASSENGER AIRPLANE (US) / AEROPLANE (UK)",
+          "visual_context": "Pointer to the movable rear surface of the fin.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tail",
+          "number": "10",
+          "section": "PASSENGER AIRPLANE (US) / AEROPLANE (UK)",
+          "visual_context": "Pointer to the rear end of the airplane.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tailplane",
+          "number": "11",
+          "section": "PASSENGER AIRPLANE (US) / AEROPLANE (UK)",
+          "visual_context": "Pointer to the horizontal rear stabilizer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "emergency exit",
+          "number": "12",
+          "section": "PASSENGER AIRPLANE (US) / AEROPLANE (UK)",
+          "visual_context": "Pointer to an exit door near the rear of the airplane.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wing",
+          "number": "21",
+          "section": "PASSENGER AIRPLANE (US) / AEROPLANE (UK)",
+          "visual_context": "Pointer to the airplane wing.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "reading light",
+          "number": "1",
+          "section": "CABIN",
+          "visual_context": "Pointer to an overhead light above the passenger seats.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "air vent",
+          "number": "2",
+          "section": "CABIN",
+          "visual_context": "Pointer to the overhead ventilation outlet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "overhead locker",
+          "number": "3",
+          "section": "CABIN",
+          "visual_context": "Pointer to the luggage compartment above the seats.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "aisle",
+          "number": "4",
+          "section": "CABIN",
+          "visual_context": "Pointer to the passage between the seat rows.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "seat back",
+          "number": "5",
+          "section": "CABIN",
+          "visual_context": "Pointer to the rear side of a passenger seat.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "seat",
+          "number": "6",
+          "section": "CABIN",
+          "visual_context": "Pointer to a passenger seat.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tray table",
+          "number": "7",
+          "section": "CABIN",
+          "visual_context": "Pointer to the fold-down tray on a seat back.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "seat belt",
+          "number": "8",
+          "section": "CABIN",
+          "visual_context": "Pointer to the belt on a passenger seat.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "armrest",
+          "number": "9",
+          "section": "CABIN",
+          "visual_context": "Pointer to the arm support between seats.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "row",
+          "number": "10",
+          "section": "CABIN",
+          "visual_context": "Pointer to a line of passenger seats.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hot-air balloon",
+          "number": "11",
+          "section": "TYPES OF AIRCRAFT",
+          "visual_context": "Label beneath the illustrated balloon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "basket",
+          "number": "12",
+          "section": "TYPES OF AIRCRAFT",
+          "visual_context": "Pointer to the basket suspended below the hot-air balloon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "envelope",
+          "number": "13",
+          "section": "TYPES OF AIRCRAFT",
+          "visual_context": "Pointer to the fabric balloon portion of the hot-air balloon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "burner",
+          "number": "14",
+          "section": "TYPES OF AIRCRAFT",
+          "visual_context": "Pointer to the burner above the hot-air-balloon basket.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "airship",
+          "number": "15",
+          "section": "TYPES OF AIRCRAFT",
+          "visual_context": "Label beneath a blimp-like airship.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "microlight",
+          "number": "16",
+          "section": "TYPES OF AIRCRAFT",
+          "visual_context": "Label beneath a small powered hang glider.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gyrocopter",
+          "number": "17",
+          "section": "TYPES OF AIRCRAFT",
+          "visual_context": "Label beneath a small rotorcraft.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "glider",
+          "number": "18",
+          "section": "TYPES OF AIRCRAFT",
+          "visual_context": "Label beneath an unpowered sailplane.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "paramotor",
+          "number": "19",
+          "section": "TYPES OF AIRCRAFT",
+          "visual_context": "Label beneath a person flying with a motorized paraglider.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "canopy",
+          "number": "20",
+          "section": "TYPES OF AIRCRAFT",
+          "visual_context": "Pointer to the fabric wing above the paramotor pilot.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

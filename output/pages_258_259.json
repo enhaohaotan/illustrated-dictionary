@@ -1,0 +1,473 @@
+{
+  "pages": [
+    {
+      "page": 258,
+      "title": "At the gym",
+      "context": "124.1 WORKING OUT",
+      "entries": [
+        {
+          "source_text": "At the gym",
+          "number": null,
+          "section": null,
+          "visual_context": "Page title.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "WORKING OUT",
+          "number": "124.1",
+          "section": "At the gym",
+          "visual_context": "Section heading above the gym illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "How often do you work out?",
+          "number": "1",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Speech bubble from a woman using an elliptical machine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "I exercise three times a week.",
+          "number": "2",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Reply speech bubble in the gym scene.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "elliptical (US)\ncross-trainer (UK)",
+          "number": "3",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Pointer to the elliptical exercise machine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "working out",
+          "number": "4",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Pointer to a man exercising on a rowing machine.",
+          "semantic_meaning": "exercising"
+        },
+        {
+          "source_text": "rowing machine",
+          "number": "5",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Pointer to the rowing exercise machine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "exercise\nbike",
+          "number": "6",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Pointer to the stationary exercise bicycle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gym machines",
+          "number": "12",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icons of exercise machines.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "locker room (US)\nchanging room (UK)",
+          "number": "13",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icon of a person at a bank of lockers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lockers",
+          "number": "14",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Pointer to the lockers in the locker-room icon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "exercise class",
+          "number": "15",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icon of people exercising together.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Pilates",
+          "number": "16",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icon of a person doing a Pilates floor exercise.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stretch",
+          "number": "17",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icon of a person stretching.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "circuit training",
+          "number": "18",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icons showing a sequence of exercise stations.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "exercises",
+          "number": "19",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Pointer to the set of exercise activity icons.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "aerobics",
+          "number": "20",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icon of an aerobic exercise movement.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "jumping jacks (US)\nstar jumps (UK)",
+          "number": "21",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icon of a jumping-jack movement.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "arm circles",
+          "number": "22",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icon showing arms rotating in circles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "side shuffles",
+          "number": "23",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icon showing sideways running movement.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "running",
+          "number": "24",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icon of a person running on a treadmill.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lunge",
+          "number": "25",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icon of a person in a lunge position.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bicep curl",
+          "number": "26",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icon of a person lifting a weight with one arm.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "squat",
+          "number": "27",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icon of a person squatting.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sit-up",
+          "number": "28",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icon of a person doing a sit-up.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "boxercise",
+          "number": "29",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icon of a person boxing for exercise.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to skip",
+          "number": "30",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icon of a person skipping with a rope.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to flex",
+          "number": "31",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icon of a person flexing both arms.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to jog in place (US) /\non the spot (UK)",
+          "number": "32",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icon of a person jogging without moving forward.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to train",
+          "number": "33",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icon showing assisted weight training on a bench.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to pull up",
+          "number": "34",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icon of a person doing a pull-up on a bar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to extend",
+          "number": "35",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icon showing an arm extended with a weight.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to warm up",
+          "number": "36",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icon of a preparatory stretching movement.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to cool down",
+          "number": "37",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icon of a person resting/stretching after exercise.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 259,
+      "title": "At the gym",
+      "context": "124.1 WORKING OUT",
+      "entries": [
+        {
+          "source_text": "Athletics",
+          "number": "116",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Combat sports",
+          "number": "117",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Swimming",
+          "number": "118",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Winter sports",
+          "number": "122",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Other sports",
+          "number": "125",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "weight\ntraining",
+          "number": "7",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Pointer to a man lifting a free weight.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "free\nweights",
+          "number": "8",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Pointer to the dumbbells on the weight rack.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "exercise mat",
+          "number": "9",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Pointer to the blue mat beneath the person doing push-ups.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "push ups /\npress ups (UK)",
+          "number": "10",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Pointer to a person doing push-ups on an exercise mat.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "treadmill",
+          "number": "11",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Pointer to the running machine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "membership",
+          "number": "38",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icon of a person at a gym reception desk.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gym equipment",
+          "number": "39",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icons of assorted gym apparatus.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "aerobics step",
+          "number": "40",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icon of a raised exercise step platform.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dumbbell",
+          "number": "41",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icon of a handheld dumbbell.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hand grips",
+          "number": "42",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icon of a hand-grip strength exerciser.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "weight bar",
+          "number": "43",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icon of a barbell.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bar",
+          "number": "44",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icon of a pull-up bar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chest press",
+          "number": "45",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icon of a chest-press weight machine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "jump rope (US)\nskipping rope (UK)",
+          "number": "46",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icon of a jump rope.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "exercise ball",
+          "number": "47",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icon of a person exercising with a large ball.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "twist bar",
+          "number": "48",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icon of a person using a twisting exercise bar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ankle weights /\nwrist weights",
+          "number": "49",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icon showing weights attached at the ankles and wrists.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "leg press",
+          "number": "50",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icon of a leg-press machine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chest\nexpander",
+          "number": "51",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icon of a person pulling a chest-expander device.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ab wheel (US)\nwheel roller (UK)",
+          "number": "52",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icon of a person rolling an abdominal exercise wheel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "running\nmachine",
+          "number": "53",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icon of people using treadmills.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bench",
+          "number": "54",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icon of a weight-training bench.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "heart rate",
+          "number": "55",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icon of a person beside a heart-monitor trace.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sauna",
+          "number": "56",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icon of people sitting in a sauna.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hot tub",
+          "number": "57",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Icon of people sitting in a bubbling hot tub.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "personal trainer",
+          "number": "58",
+          "section": "124.1 WORKING OUT",
+          "visual_context": "Illustration of a trainer speaking with a gym member.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

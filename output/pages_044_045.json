@@ -1,0 +1,438 @@
+{
+  "pages": [
+    {
+      "page": 44,
+      "title": "Accessories",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "gloves",
+          "number": "1",
+          "section": "16.1 FASHION ACCESSORIES",
+          "visual_context": "pair of red gloves",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "handle",
+          "number": "2",
+          "section": "16.1 FASHION ACCESSORIES",
+          "visual_context": "curved handle of the umbrella",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "umbrella",
+          "number": "3",
+          "section": "16.1 FASHION ACCESSORIES",
+          "visual_context": "closed blue umbrella",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "handkerchief",
+          "number": "4",
+          "section": "16.1 FASHION ACCESSORIES",
+          "visual_context": "folded checked cloth",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "buckle",
+          "number": "5",
+          "section": "16.1 FASHION ACCESSORIES",
+          "visual_context": "metal fastener on the belt",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "belt",
+          "number": "6",
+          "section": "16.1 FASHION ACCESSORIES",
+          "visual_context": "brown leather belt",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "scarf",
+          "number": "7",
+          "section": "16.1 FASHION ACCESSORIES",
+          "visual_context": "green fringed scarf",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tie",
+          "number": "8",
+          "section": "16.1 FASHION ACCESSORIES",
+          "visual_context": "purple spotted necktie",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tie bar (US) / tie-pin (UK)",
+          "number": "9",
+          "section": "16.1 FASHION ACCESSORIES",
+          "visual_context": "horizontal bar attached across the tie",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bow tie",
+          "number": "10",
+          "section": "16.1 FASHION ACCESSORIES",
+          "visual_context": "blue bow tie",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pin (US) / badge (UK)",
+          "number": "11",
+          "section": "16.1 FASHION ACCESSORIES",
+          "visual_context": "round red pin marked 18",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hair band / Alice band (UK)",
+          "number": "12",
+          "section": "16.1 FASHION ACCESSORIES",
+          "visual_context": "curved blue and yellow hair band",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chain",
+          "number": "1",
+          "section": "16.2 JEWELRY (US) / JEWELLERY (UK)",
+          "visual_context": "gold chain hanging from the jewelry box",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pendant",
+          "number": "2",
+          "section": "16.2 JEWELRY (US) / JEWELLERY (UK)",
+          "visual_context": "gold pendant on the chain",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hoop earrings",
+          "number": "3",
+          "section": "16.2 JEWELRY (US) / JEWELLERY (UK)",
+          "visual_context": "pair of circular earrings in a drawer",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "anklet",
+          "number": "4",
+          "section": "16.2 JEWELRY (US) / JEWELLERY (UK)",
+          "visual_context": "small chain in the bottom drawer",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "torc",
+          "number": "5",
+          "section": "16.2 JEWELRY (US) / JEWELLERY (UK)",
+          "visual_context": "open-ended gold neck ring in the jewelry box",
+          "semantic_meaning": "a rigid open neck ring"
+        },
+        {
+          "source_text": "tiara",
+          "number": "6",
+          "section": "16.2 JEWELRY (US) / JEWELLERY (UK)",
+          "visual_context": "ornate silver crown in the jewelry box",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "choker",
+          "number": "7",
+          "section": "16.2 JEWELRY (US) / JEWELLERY (UK)",
+          "visual_context": "short dark necklace in the upper drawer",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "string of pearls",
+          "number": "8",
+          "section": "16.2 JEWELRY (US) / JEWELLERY (UK)",
+          "visual_context": "strand of white pearls in a drawer",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "studs",
+          "number": "9",
+          "section": "16.2 JEWELRY (US) / JEWELLERY (UK)",
+          "visual_context": "small stud earrings in a drawer",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bangle",
+          "number": "10",
+          "section": "16.2 JEWELRY (US) / JEWELLERY (UK)",
+          "visual_context": "rigid gold circular bracelet",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "signet ring",
+          "number": "11",
+          "section": "16.2 JEWELRY (US) / JEWELLERY (UK)",
+          "visual_context": "gold ring with a raised face",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "jewelry box (US) / jewellery box (UK)",
+          "number": "12",
+          "section": "16.2 JEWELRY (US) / JEWELLERY (UK)",
+          "visual_context": "open multi-drawer jewelry box",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "watch",
+          "number": "13",
+          "section": "16.2 JEWELRY (US) / JEWELLERY (UK)",
+          "visual_context": "wristwatch",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stone",
+          "number": "14",
+          "section": "16.2 JEWELRY (US) / JEWELLERY (UK)",
+          "visual_context": "blue gemstone set in a ring",
+          "semantic_meaning": "a gemstone in jewelry"
+        },
+        {
+          "source_text": "ring",
+          "number": "15",
+          "section": "16.2 JEWELRY (US) / JEWELLERY (UK)",
+          "visual_context": "silver ring with a blue stone",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "earrings",
+          "number": "16",
+          "section": "16.2 JEWELRY (US) / JEWELLERY (UK)",
+          "visual_context": "pair of dangling blue gemstone earrings",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cufflinks",
+          "number": "17",
+          "section": "16.2 JEWELRY (US) / JEWELLERY (UK)",
+          "visual_context": "pair of linked round cuff fasteners",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "brooch",
+          "number": "18",
+          "section": "16.2 JEWELRY (US) / JEWELLERY (UK)",
+          "visual_context": "ornamental oval pin",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bracelet",
+          "number": "19",
+          "section": "16.2 JEWELRY (US) / JEWELLERY (UK)",
+          "visual_context": "gold linked wrist bracelet",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "necklace",
+          "number": "20",
+          "section": "16.2 JEWELRY (US) / JEWELLERY (UK)",
+          "visual_context": "long chain necklace with pendant",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 45,
+      "title": "Accessories",
+      "context": "See also: 12 Appearance and hair; 13-15 Clothes; 17 Shoes",
+      "entries": [
+        {
+          "source_text": "flat cap",
+          "number": "1",
+          "section": "16.3 HEADWEAR",
+          "visual_context": "brown flat cap",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "baseball cap",
+          "number": "2",
+          "section": "16.3 HEADWEAR",
+          "visual_context": "green peaked baseball cap",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pom pom beanie (US) bobble hat (UK)",
+          "number": "3",
+          "section": "16.3 HEADWEAR",
+          "visual_context": "knitted hat with a pom pom",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hijab",
+          "number": "4",
+          "section": "16.3 HEADWEAR",
+          "visual_context": "red wrapped head covering",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "yarmulke",
+          "number": "5",
+          "section": "16.3 HEADWEAR",
+          "visual_context": "small dark skullcap",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "turban",
+          "number": "6",
+          "section": "16.3 HEADWEAR",
+          "visual_context": "blue wrapped turban",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "beret",
+          "number": "7",
+          "section": "16.3 HEADWEAR",
+          "visual_context": "red beret",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fedora",
+          "number": "8",
+          "section": "16.3 HEADWEAR",
+          "visual_context": "brown brimmed fedora",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "deerstalker",
+          "number": "9",
+          "section": "16.3 HEADWEAR",
+          "visual_context": "checked deerstalker hat with earflaps",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fez",
+          "number": "10",
+          "section": "16.3 HEADWEAR",
+          "visual_context": "red fez with tassel",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cowboy hat",
+          "number": "11",
+          "section": "16.3 HEADWEAR",
+          "visual_context": "brown cowboy hat",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sombrero",
+          "number": "12",
+          "section": "16.3 HEADWEAR",
+          "visual_context": "wide-brimmed decorated sombrero",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sun hat",
+          "number": "13",
+          "section": "16.3 HEADWEAR",
+          "visual_context": "yellow wide-brimmed sun hat",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "newsboy cap",
+          "number": "14",
+          "section": "16.3 HEADWEAR",
+          "visual_context": "gray segmented newsboy cap",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "panama",
+          "number": "15",
+          "section": "16.3 HEADWEAR",
+          "visual_context": "white panama hat with dark band",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "boater",
+          "number": "16",
+          "section": "16.3 HEADWEAR",
+          "visual_context": "straw boater with striped band",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "beanie",
+          "number": "17",
+          "section": "16.3 HEADWEAR",
+          "visual_context": "orange knitted beanie",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cloche",
+          "number": "18",
+          "section": "16.3 HEADWEAR",
+          "visual_context": "purple cloche hat with bow",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "briefcase",
+          "number": "1",
+          "section": "16.4 BAGS",
+          "visual_context": "brown handled briefcase",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "backpack / rucksack (UK)",
+          "number": "2",
+          "section": "16.4 BAGS",
+          "visual_context": "red backpack",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wallet (US) purse (UK)",
+          "number": "3",
+          "section": "16.4 BAGS",
+          "visual_context": "purple wallet",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "duffel bag (US) holdall (UK)",
+          "number": "4",
+          "section": "16.4 BAGS",
+          "visual_context": "large cream and brown duffel bag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "purse (US) handbag (UK)",
+          "number": "5",
+          "section": "16.4 BAGS",
+          "visual_context": "small dark blue handbag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "suitcase",
+          "number": "6",
+          "section": "16.4 BAGS",
+          "visual_context": "blue wheeled suitcase with extended handle",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "handle",
+          "number": "7",
+          "section": "16.4 BAGS",
+          "visual_context": "top handle of the shoulder bag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shoulder strap",
+          "number": "8",
+          "section": "16.4 BAGS",
+          "visual_context": "long strap attached to the shoulder bag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fastening",
+          "number": "9",
+          "section": "16.4 BAGS",
+          "visual_context": "front closure on the shoulder bag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shoulder bag",
+          "number": "10",
+          "section": "16.4 BAGS",
+          "visual_context": "large purple shoulder bag",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

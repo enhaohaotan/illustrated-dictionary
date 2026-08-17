@@ -1,0 +1,396 @@
+{
+  "pages": [
+    {
+      "page": 126,
+      "title": "Fruit",
+      "context": "57.1 CITRUS FRUIT; 57.2 DESCRIBING FRUIT",
+      "entries": [
+        {
+          "source_text": "orange",
+          "number": "1",
+          "section": "57.1 CITRUS FRUIT",
+          "visual_context": "Whole and cut orange.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "blood orange",
+          "number": "2",
+          "section": "57.1 CITRUS FRUIT",
+          "visual_context": "Oranges with dark red flesh.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ugli fruit",
+          "number": "3",
+          "section": "57.1 CITRUS FRUIT",
+          "visual_context": "Green, rough-skinned citrus fruit and a cut half.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pomelo",
+          "number": "4",
+          "section": "57.1 CITRUS FRUIT",
+          "visual_context": "Large green citrus fruit with a cut half.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "grapefruit",
+          "number": "5",
+          "section": "57.1 CITRUS FRUIT",
+          "visual_context": "Large yellow grapefruit, including a cut half with red segments.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "segment",
+          "number": "6",
+          "section": "57.1 CITRUS FRUIT",
+          "visual_context": "Pointer to one red wedge-shaped section inside the cut grapefruit.",
+          "semantic_meaning": "A distinct wedge of citrus flesh."
+        },
+        {
+          "source_text": "clementine",
+          "number": "7",
+          "section": "57.1 CITRUS FRUIT",
+          "visual_context": "Small orange citrus fruits, one peeled.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "satsuma",
+          "number": "8",
+          "section": "57.1 CITRUS FRUIT",
+          "visual_context": "Small orange citrus fruits, with loose peel shown.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "kumquat",
+          "number": "9",
+          "section": "57.1 CITRUS FRUIT",
+          "visual_context": "Small oval orange fruits and a cut fruit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lime",
+          "number": "10",
+          "section": "57.1 CITRUS FRUIT",
+          "visual_context": "Green limes, including a cut wedge.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lemon",
+          "number": "11",
+          "section": "57.1 CITRUS FRUIT",
+          "visual_context": "Yellow lemon and a cut half.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "zest",
+          "number": "12",
+          "section": "57.1 CITRUS FRUIT",
+          "visual_context": "A lemon with a pile of grated yellow peel.",
+          "semantic_meaning": "Grated outer citrus peel."
+        },
+        {
+          "source_text": "coconut\nshell",
+          "number": "1",
+          "section": "57.2 DESCRIBING FRUIT",
+          "visual_context": "Whole coconut, coconut half, and a piece of its outer covering.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hard",
+          "number": "2",
+          "section": "57.2 DESCRIBING FRUIT",
+          "visual_context": "Coconut shown as an example of hard fruit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "soft",
+          "number": "3",
+          "section": "57.2 DESCRIBING FRUIT",
+          "visual_context": "Soft berries and grapes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "seedless",
+          "number": "4",
+          "section": "57.2 DESCRIBING FRUIT",
+          "visual_context": "Cut watermelon slices without visible seeds.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to pick",
+          "number": "6",
+          "section": "57.2 DESCRIBING FRUIT",
+          "visual_context": "Person reaching up to harvest pears from a tree.",
+          "semantic_meaning": "To harvest fruit by taking it from a plant or tree."
+        },
+        {
+          "source_text": "spring",
+          "number": "7",
+          "section": "57.2 DESCRIBING FRUIT",
+          "visual_context": "Cherries on flowering branches.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "summer",
+          "number": "8",
+          "section": "57.2 DESCRIBING FRUIT",
+          "visual_context": "Strawberries, melon, and other summer fruit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fall (US)\nautumn (UK)",
+          "number": "9",
+          "section": "57.2 DESCRIBING FRUIT",
+          "visual_context": "Apple and grapes shown with a pointer.",
+          "semantic_meaning": "US and UK names for the season after summer."
+        },
+        {
+          "source_text": "seasonal fruit",
+          "number": "10",
+          "section": "57.2 DESCRIBING FRUIT",
+          "visual_context": "Apple and grapes representing fruit available in season.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sweet",
+          "number": "11",
+          "section": "57.2 DESCRIBING FRUIT",
+          "visual_context": "Bananas and berries.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sour",
+          "number": "12",
+          "section": "57.2 DESCRIBING FRUIT",
+          "visual_context": "Cut citrus fruits.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ripe",
+          "number": "13",
+          "section": "57.2 DESCRIBING FRUIT",
+          "visual_context": "Two pears, one darker and one lighter.",
+          "semantic_meaning": "Ready to eat or pick."
+        },
+        {
+          "source_text": "rotten",
+          "number": "14",
+          "section": "57.2 DESCRIBING FRUIT",
+          "visual_context": "Decaying fruit with flies around it.",
+          "semantic_meaning": "Spoiled by decay."
+        },
+        {
+          "source_text": "crisp",
+          "number": "15",
+          "section": "57.2 DESCRIBING FRUIT",
+          "visual_context": "Two apples.",
+          "semantic_meaning": "Firm and pleasantly crunchy."
+        },
+        {
+          "source_text": "core",
+          "number": "16",
+          "section": "57.2 DESCRIBING FRUIT",
+          "visual_context": "An eaten apple core.",
+          "semantic_meaning": "The central inedible part of an apple."
+        },
+        {
+          "source_text": "fiber (US)\nfibre (UK)",
+          "number": "17",
+          "section": "57.2 DESCRIBING FRUIT",
+          "visual_context": "Cut orange and strawberry, indicating their dietary content.",
+          "semantic_meaning": "US and UK spellings for dietary roughage."
+        },
+        {
+          "source_text": "pulp",
+          "number": "18",
+          "section": "57.2 DESCRIBING FRUIT",
+          "visual_context": "Cut fruit with soft inner flesh spilling out.",
+          "semantic_meaning": "Soft inner flesh of fruit."
+        }
+      ]
+    },
+    {
+      "page": 127,
+      "title": "Fruit",
+      "context": "57.3 BERRIES AND STONE FRUIT",
+      "entries": [
+        {
+          "source_text": "raspberry",
+          "number": "1",
+          "section": "57.3 BERRIES AND STONE FRUIT",
+          "visual_context": "Red raspberries in the basket.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "black currant (US)\nblackcurrant (UK)",
+          "number": "2",
+          "section": "57.3 BERRIES AND STONE FRUIT",
+          "visual_context": "Dark currants in the basket.",
+          "semantic_meaning": "US and UK forms of the name."
+        },
+        {
+          "source_text": "blackberry",
+          "number": "3",
+          "section": "57.3 BERRIES AND STONE FRUIT",
+          "visual_context": "Dark blackberries in the basket.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "white currant",
+          "number": "4",
+          "section": "57.3 BERRIES AND STONE FRUIT",
+          "visual_context": "Pale white currants in the basket.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "strawberry",
+          "number": "5",
+          "section": "57.3 BERRIES AND STONE FRUIT",
+          "visual_context": "Red strawberries in the basket.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "basket of fruit",
+          "number": "6",
+          "section": "57.3 BERRIES AND STONE FRUIT",
+          "visual_context": "Large woven basket containing assorted berries and fruit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cranberry",
+          "number": "7",
+          "section": "57.3 BERRIES AND STONE FRUIT",
+          "visual_context": "Small cluster of red cranberries with leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "blueberry",
+          "number": "8",
+          "section": "57.3 BERRIES AND STONE FRUIT",
+          "visual_context": "Small cluster of blue berries with leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "loganberry",
+          "number": "9",
+          "section": "57.3 BERRIES AND STONE FRUIT",
+          "visual_context": "Long red aggregate berries.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cape\ngooseberry",
+          "number": "10",
+          "section": "57.3 BERRIES AND STONE FRUIT",
+          "visual_context": "Orange berries enclosed in pale papery husks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "goji berry",
+          "number": "11",
+          "section": "57.3 BERRIES AND STONE FRUIT",
+          "visual_context": "Small elongated red berries hanging from a branch.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gooseberry",
+          "number": "12",
+          "section": "57.3 BERRIES AND STONE FRUIT",
+          "visual_context": "Pale green striped berries on a branch.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "red currant (US)\nredcurrant (UK)",
+          "number": "13",
+          "section": "57.3 BERRIES AND STONE FRUIT",
+          "visual_context": "Cluster of small red currants on a stem.",
+          "semantic_meaning": "US and UK forms of the name."
+        },
+        {
+          "source_text": "bilberry",
+          "number": "14",
+          "section": "57.3 BERRIES AND STONE FRUIT",
+          "visual_context": "Dark blue berries with leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "elderberry",
+          "number": "15",
+          "section": "57.3 BERRIES AND STONE FRUIT",
+          "visual_context": "Clusters of dark elderberries on purple stems.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "grapes",
+          "number": "16",
+          "section": "57.3 BERRIES AND STONE FRUIT",
+          "visual_context": "Bunch of pale green grapes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mulberry",
+          "number": "17",
+          "section": "57.3 BERRIES AND STONE FRUIT",
+          "visual_context": "Elongated dark berries hanging from a branch.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "peach",
+          "number": "18",
+          "section": "57.3 BERRIES AND STONE FRUIT",
+          "visual_context": "Whole peach and a cut half showing its stone.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nectarine",
+          "number": "19",
+          "section": "57.3 BERRIES AND STONE FRUIT",
+          "visual_context": "Red-and-yellow smooth-skinned fruit with a cut section.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "apricot",
+          "number": "20",
+          "section": "57.3 BERRIES AND STONE FRUIT",
+          "visual_context": "Orange apricots, one cut open around its stone.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mango",
+          "number": "21",
+          "section": "57.3 BERRIES AND STONE FRUIT",
+          "visual_context": "Mango and a large cut slice.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "plum",
+          "number": "22",
+          "section": "57.3 BERRIES AND STONE FRUIT",
+          "visual_context": "Purple plum and a cut half.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cherry",
+          "number": "23",
+          "section": "57.3 BERRIES AND STONE FRUIT",
+          "visual_context": "Red cherries on stems.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "date",
+          "number": "24",
+          "section": "57.3 BERRIES AND STONE FRUIT",
+          "visual_context": "Brown dried dates.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lychee",
+          "number": "25",
+          "section": "57.3 BERRIES AND STONE FRUIT",
+          "visual_context": "Red textured lychee fruit with leaves.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

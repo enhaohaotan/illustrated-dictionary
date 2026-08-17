@@ -1,0 +1,298 @@
+{
+  "pages": [
+    {
+      "page": 98,
+      "title": "In town continued",
+      "context": "43.1 BUILDINGS AND OTHER FEATURES",
+      "entries": [
+        {
+          "source_text": "concert hall",
+          "number": "1",
+          "section": "43.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Large domed building with musical notes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "historic quarter",
+          "number": "2",
+          "section": "43.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Cluster of older ornate buildings in the town centre.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "museum",
+          "number": "3",
+          "section": "43.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Classical columned building with a bone emblem.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "art gallery",
+          "number": "4",
+          "section": "43.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Modern angular building displaying abstract art.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bridge",
+          "number": "10",
+          "section": "43.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Arched bridge over greenery.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "avenue",
+          "number": "11",
+          "section": "43.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Tree-lined road.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sidewalk (US)\npavement (UK)",
+          "number": "12",
+          "section": "43.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Paved pedestrian strip beside the road.",
+          "semantic_meaning": "US and UK terms for the pedestrian walkway beside a road."
+        },
+        {
+          "source_text": "town houses",
+          "number": "13",
+          "section": "43.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Row of closely built multistorey homes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "apartment block (US)\nblock of flats (UK)",
+          "number": "14",
+          "section": "43.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Tall multi-storey residential building.",
+          "semantic_meaning": "US and UK terms for a multi-unit residential building."
+        },
+        {
+          "source_text": "sports\ncenter (US)\nsports\ncentre (UK)",
+          "number": "15",
+          "section": "43.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Building with sports-ball symbols above its entrance.",
+          "semantic_meaning": "US and UK spellings for a sports facility."
+        },
+        {
+          "source_text": "village",
+          "number": "19",
+          "section": "43.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Small rural settlement with houses, trees, and sheep.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cycle\nparking",
+          "number": "20",
+          "section": "43.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Bicycle rack with parked bicycles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cycle path",
+          "number": "21",
+          "section": "43.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Path used by a cyclist in the park.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cemetery",
+          "number": "22",
+          "section": "43.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Graveyard with headstones and crosses.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "church",
+          "number": "23",
+          "section": "43.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Purple church building beside the cemetery.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "manhole",
+          "number": "30",
+          "section": "43.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Round covered opening in the street.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gutter",
+          "number": "31",
+          "section": "43.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Channel along the edge of the road.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "curb (US)\nkerb (UK)",
+          "number": "32",
+          "section": "43.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Raised edge between road and sidewalk.",
+          "semantic_meaning": "US and UK spellings for the raised road edge."
+        },
+        {
+          "source_text": "drain / storm drain",
+          "number": "33",
+          "section": "43.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Street drainage grate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "street sign",
+          "number": "34",
+          "section": "43.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Post with directional signs.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bollards",
+          "number": "35",
+          "section": "43.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Short posts at the roadside.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 99,
+      "title": null,
+      "context": "43.1 BUILDINGS AND OTHER FEATURES; 43.2 PLAYGROUND",
+      "entries": [
+        {
+          "source_text": "streetlight",
+          "number": "5",
+          "section": "43.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Lamp post beside the street.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "college (US)\nuniversity (UK)",
+          "number": "6",
+          "section": "43.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Academic building marked with a graduation cap.",
+          "semantic_meaning": "US and UK terms for a higher-education institution."
+        },
+        {
+          "source_text": "library",
+          "number": "7",
+          "section": "43.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Columned building marked with an open-book symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bus",
+          "number": "8",
+          "section": "43.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Red bus on the road.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "school",
+          "number": "9",
+          "section": "43.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "School building with a clock and flag.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stop lights (US) / traffic lights (UK)",
+          "number": "16",
+          "section": "43.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Signal lights at the road intersection.",
+          "semantic_meaning": "US and UK terms for road traffic signals."
+        },
+        {
+          "source_text": "government building",
+          "number": "17",
+          "section": "43.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Large domed civic building with flags.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "courthouse (US)\nlaw court (UK)",
+          "number": "18",
+          "section": "43.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Columned court building with scales symbol.",
+          "semantic_meaning": "US and UK terms for a court building."
+        },
+        {
+          "source_text": "intersection (US)\ncrossroads (UK)",
+          "number": "24",
+          "section": "43.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Place where two roads cross.",
+          "semantic_meaning": "US and UK terms for a road junction."
+        },
+        {
+          "source_text": "traffic jam",
+          "number": "25",
+          "section": "43.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Line of congested cars and vans.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "departure",
+          "number": "26",
+          "section": "43.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Airplane leaving the airport.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "arrival",
+          "number": "27",
+          "section": "43.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Airplane approaching the airport.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "airport",
+          "number": "28",
+          "section": "43.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Airport terminal building.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "air control tower",
+          "number": "29",
+          "section": "43.1 BUILDINGS AND OTHER FEATURES",
+          "visual_context": "Airport control tower.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "swing",
+          "number": "1",
+          "section": "43.2 PLAYGROUND",
+          "visual_context": "Child seated on a swing set.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "seesaw",
+          "number": "2",
+          "section": "43.2 PLAYGROUND",
+          "visual_context": "Children on a balanced playground board.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sandbox (US)\nsandpit (UK)",
+          "number": "3",
+          "section": "43.2 PLAYGROUND",
+          "visual_context": "Child playing in a rectangular sand area.",
+          "semantic_meaning": "US and UK terms for a playground area filled with sand."
+        },
+        {
+          "source_text": "jungle gym (US)\nclimbing frame (UK)",
+          "number": "4",
+          "section": "43.2 PLAYGROUND",
+          "visual_context": "Children climbing a metal playground frame.",
+          "semantic_meaning": "US and UK terms for climbing playground equipment."
+        },
+        {
+          "source_text": "slide",
+          "number": "5",
+          "section": "43.2 PLAYGROUND",
+          "visual_context": "Red playground slide with ladder.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

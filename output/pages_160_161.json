@@ -1,0 +1,396 @@
+{
+  "pages": [
+    {
+      "page": 160,
+      "title": "Physics",
+      "context": "75.1 PHYSICS",
+      "entries": [
+        {
+          "source_text": "electricity",
+          "number": "1",
+          "section": "75.1 PHYSICS",
+          "visual_context": "Lit light bulb connected by a wire to a plug, with a lightning symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "electric field",
+          "number": "2",
+          "section": "75.1 PHYSICS",
+          "visual_context": "Field-line diagram between a positive and a negative charge.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "charge",
+          "number": "3",
+          "section": "75.1 PHYSICS",
+          "visual_context": "Battery-like charge indicator with a lightning symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "volt",
+          "number": "4",
+          "section": "75.1 PHYSICS",
+          "visual_context": "Circular voltmeter marked V and a lightning symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "battery",
+          "number": "5",
+          "section": "75.1 PHYSICS",
+          "visual_context": "Cylindrical battery; the negative and positive labels point to its ends.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "negative",
+          "number": "6",
+          "section": "75.1 PHYSICS",
+          "visual_context": "Pointer to the negative end of the battery.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "positive",
+          "number": "7",
+          "section": "75.1 PHYSICS",
+          "visual_context": "Pointer to the positive end of the battery.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "direct current",
+          "number": "8",
+          "section": "75.1 PHYSICS",
+          "visual_context": "Graph showing a one-direction current waveform.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "alternating current",
+          "number": "9",
+          "section": "75.1 PHYSICS",
+          "visual_context": "Graph showing a current waveform alternating above and below zero.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "semiconductor",
+          "number": "10",
+          "section": "75.1 PHYSICS",
+          "visual_context": "Microchip illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "conductor",
+          "number": "11",
+          "section": "75.1 PHYSICS",
+          "visual_context": "Metal beam and wire shown beneath a lightning symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "alligator clip (US)\ncrocodile clip (UK)",
+          "number": "12",
+          "section": "75.1 PHYSICS",
+          "visual_context": "Red electrical clip.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "circuit board",
+          "number": "13",
+          "section": "75.1 PHYSICS",
+          "visual_context": "Printed circuit board.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "transformer",
+          "number": "14",
+          "section": "75.1 PHYSICS",
+          "visual_context": "Transformer circuit symbol with two coils.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "diode",
+          "number": "15",
+          "section": "75.1 PHYSICS",
+          "visual_context": "Cylindrical electronic diode component.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "positive\nelectrode",
+          "number": "16",
+          "section": "75.1 PHYSICS",
+          "visual_context": "Electrolysis container with the positive terminal and electrode indicated.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "negative\nelectrode",
+          "number": "17",
+          "section": "75.1 PHYSICS",
+          "visual_context": "Electrolysis container with the negative terminal and electrode indicated.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "vacuum",
+          "number": "18",
+          "section": "75.1 PHYSICS",
+          "visual_context": "Vacuum chamber containing an apparatus.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "radio waves",
+          "number": "19",
+          "section": "75.1 PHYSICS",
+          "visual_context": "Radio receiver at the low-frequency end of the electromagnetic-spectrum diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "microwaves",
+          "number": "20",
+          "section": "75.1 PHYSICS",
+          "visual_context": "Microwave oven in the electromagnetic-spectrum diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "infrared",
+          "number": "21",
+          "section": "75.1 PHYSICS",
+          "visual_context": "Remote control in the electromagnetic-spectrum diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "visible light",
+          "number": "22",
+          "section": "75.1 PHYSICS",
+          "visual_context": "Light bulb and visible-color band in the spectrum.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ultraviolet",
+          "number": "23",
+          "section": "75.1 PHYSICS",
+          "visual_context": "Sun in the electromagnetic-spectrum diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "X-rays",
+          "number": "24",
+          "section": "75.1 PHYSICS",
+          "visual_context": "X-ray image of a bone.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gamma\nradiation",
+          "number": "25",
+          "section": "75.1 PHYSICS",
+          "visual_context": "Radiation warning symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "electromagnetic spectrum",
+          "number": "26",
+          "section": "75.1 PHYSICS",
+          "visual_context": "Long frequency-and-wavelength spectrum diagram, with the visible-light band enlarged.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 161,
+      "title": "Physics; Optics",
+      "context": "75.1 PHYSICS; 75.2 OPTICS",
+      "entries": [
+        {
+          "source_text": "north pole",
+          "number": "27",
+          "section": "75.1 PHYSICS",
+          "visual_context": "Pointer to the blue upper end of a bar magnet in a magnetic-field diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "magnetic field",
+          "number": "28",
+          "section": "75.1 PHYSICS",
+          "visual_context": "Pointer to curved field lines around the bar magnet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "south pole",
+          "number": "29",
+          "section": "75.1 PHYSICS",
+          "visual_context": "Pointer to the red lower end of the bar magnet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "magnet",
+          "number": "30",
+          "section": "75.1 PHYSICS",
+          "visual_context": "The blue-and-red bar magnet in the field-line diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "centrifugal force",
+          "number": "31",
+          "section": "75.1 PHYSICS",
+          "visual_context": "Car moving in a circle with an outward-pointing arrow.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "centripetal force",
+          "number": "32",
+          "section": "75.1 PHYSICS",
+          "visual_context": "Car moving in a circle with arrows directed toward the centre.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fission",
+          "number": "33",
+          "section": "75.1 PHYSICS",
+          "visual_context": "Atomic nucleus splitting into smaller particles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fusion",
+          "number": "34",
+          "section": "75.1 PHYSICS",
+          "visual_context": "Small particles moving together into a nucleus.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "radioactivity",
+          "number": "35",
+          "section": "75.1 PHYSICS",
+          "visual_context": "Yellow-and-black radioactive warning symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "particle",
+          "number": "36",
+          "section": "75.1 PHYSICS",
+          "visual_context": "Atom-like diagram with orbiting particles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "particle accelerator",
+          "number": "37",
+          "section": "75.1 PHYSICS",
+          "visual_context": "Diagram of particles passing through accelerator components.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lens",
+          "number": "1",
+          "section": "75.2 OPTICS",
+          "visual_context": "Blue lens receiving light from a sun.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "convex lens",
+          "number": "2",
+          "section": "75.2 OPTICS",
+          "visual_context": "Bulging lens converging parallel rays to a point.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "concave lens",
+          "number": "3",
+          "section": "75.2 OPTICS",
+          "visual_context": "Inward-curved lens spreading parallel rays apart.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "laser",
+          "number": "4",
+          "section": "75.2 OPTICS",
+          "visual_context": "Laser warning sign.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wave",
+          "number": "5",
+          "section": "75.2 OPTICS",
+          "visual_context": "Several colored wavy lines.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wavelength",
+          "number": "6",
+          "section": "75.2 OPTICS",
+          "visual_context": "Pointer to one of the colored wave lines.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "reflection",
+          "number": "7",
+          "section": "75.2 OPTICS",
+          "visual_context": "Light ray reflecting from a flat surface.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "refraction",
+          "number": "8",
+          "section": "75.2 OPTICS",
+          "visual_context": "Straw appearing bent in a glass of water.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "defraction",
+          "number": "9",
+          "section": "75.2 OPTICS",
+          "visual_context": "Waves spreading after passing through a narrow opening.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "prism",
+          "number": "10",
+          "section": "75.2 OPTICS",
+          "visual_context": "Triangular prism splitting light into rainbow colors.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dispersion",
+          "number": "11",
+          "section": "75.2 OPTICS",
+          "visual_context": "Rainbow colors spread by a prism in front of a person.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "I’m studying the\ndispersion of light.",
+          "number": "12",
+          "section": "75.2 OPTICS",
+          "visual_context": "Speech bubble from a person holding a prism that disperses light.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "At school",
+          "number": "73",
+          "section": "See also:",
+          "visual_context": "Cross-reference in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Mathematics",
+          "number": "74",
+          "section": "See also:",
+          "visual_context": "Cross-reference in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Chemistry",
+          "number": "76",
+          "section": "See also:",
+          "visual_context": "Cross-reference in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Biology",
+          "number": "77",
+          "section": "See also:",
+          "visual_context": "Cross-reference in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "The periodic table",
+          "number": "78",
+          "section": "See also:",
+          "visual_context": "Cross-reference in the See also box.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

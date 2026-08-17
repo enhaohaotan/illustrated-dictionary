@@ -1,0 +1,438 @@
+{
+  "pages": [
+    {
+      "page": 362,
+      "title": "Describing things",
+      "context": "176.1 MATERIALS",
+      "entries": [
+        {
+          "source_text": "fiberglass (US)\nfibreglass (UK)",
+          "number": "1",
+          "section": "MATERIALS",
+          "visual_context": "Wall insulation between brickwork.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "brick",
+          "number": "2",
+          "section": "MATERIALS",
+          "visual_context": "Brick wall.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "glass",
+          "number": "3",
+          "section": "MATERIALS",
+          "visual_context": "Drinking glasses.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "silver",
+          "number": "4",
+          "section": "MATERIALS",
+          "visual_context": "Silver plate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wax",
+          "number": "5",
+          "section": "MATERIALS",
+          "visual_context": "Candles in a candlestick.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gold",
+          "number": "6",
+          "section": "MATERIALS",
+          "visual_context": "Gold clock detail.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "leather",
+          "number": "7",
+          "section": "MATERIALS",
+          "visual_context": "Leather jacket.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wool",
+          "number": "8",
+          "section": "MATERIALS",
+          "visual_context": "Wool scarf hanging on a rack.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wood",
+          "number": "9",
+          "section": "MATERIALS",
+          "visual_context": "Wooden fence.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "plastic",
+          "number": "10",
+          "section": "MATERIALS",
+          "visual_context": "Plastic bottle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cotton",
+          "number": "11",
+          "section": "MATERIALS",
+          "visual_context": "Cotton cloth/towel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "metal",
+          "number": "12",
+          "section": "MATERIALS",
+          "visual_context": "Metal kitchen tap.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "marble",
+          "number": "13",
+          "section": "MATERIALS",
+          "visual_context": "Marble countertop.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bronze",
+          "number": "14",
+          "section": "MATERIALS",
+          "visual_context": "Bronze lamp base.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stone",
+          "number": "15",
+          "section": "MATERIALS",
+          "visual_context": "Stones on the ground.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "brass",
+          "number": "16",
+          "section": "MATERIALS",
+          "visual_context": "Brass cabinet knob.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "concrete",
+          "number": "17",
+          "section": "MATERIALS",
+          "visual_context": "Concrete pavement.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ceramic",
+          "number": "18",
+          "section": "MATERIALS",
+          "visual_context": "Ceramic spoon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rubber",
+          "number": "19",
+          "section": "MATERIALS",
+          "visual_context": "Rubber plunger.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "paper",
+          "number": "20",
+          "section": "MATERIALS",
+          "visual_context": "Paper sheets on a table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hard",
+          "number": "21",
+          "section": "MATERIALS",
+          "visual_context": "Hard hat.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "soft",
+          "number": "22",
+          "section": "MATERIALS",
+          "visual_context": "Soft teddy bear.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shiny",
+          "number": "23",
+          "section": "MATERIALS",
+          "visual_context": "Shiny metal cooking pot.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dull",
+          "number": "24",
+          "section": "MATERIALS",
+          "visual_context": "Dull wooden spoon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "flexible",
+          "number": "25",
+          "section": "MATERIALS",
+          "visual_context": "Flexible shower hose.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stiff",
+          "number": "26",
+          "section": "MATERIALS",
+          "visual_context": "Stiff desk lamp arm.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 363,
+      "title": "Describing things",
+      "context": "176.2 ADJECTIVES",
+      "entries": [
+        {
+          "source_text": "big / large",
+          "number": "1",
+          "section": "ADJECTIVES",
+          "visual_context": "Large dog beside a small dog.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "small / little",
+          "number": "2",
+          "section": "ADJECTIVES",
+          "visual_context": "Small dog beside a large dog.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wide",
+          "number": "3",
+          "section": "ADJECTIVES",
+          "visual_context": "Wide road with a car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "narrow",
+          "number": "4",
+          "section": "ADJECTIVES",
+          "visual_context": "Narrow road with a car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "deep",
+          "number": "5",
+          "section": "ADJECTIVES",
+          "visual_context": "Deep water beneath a ship.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shallow",
+          "number": "6",
+          "section": "ADJECTIVES",
+          "visual_context": "Sailboat in shallow water.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "high",
+          "number": "7",
+          "section": "ADJECTIVES",
+          "visual_context": "High table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "low",
+          "number": "8",
+          "section": "ADJECTIVES",
+          "visual_context": "Low table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "heavy",
+          "number": "9",
+          "section": "ADJECTIVES",
+          "visual_context": "Person struggling to carry a suitcase.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "light",
+          "number": "10",
+          "section": "ADJECTIVES",
+          "visual_context": "Feather.",
+          "semantic_meaning": "Not heavy."
+        },
+        {
+          "source_text": "clean",
+          "number": "11",
+          "section": "ADJECTIVES",
+          "visual_context": "Clean dishes and person.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dirty",
+          "number": "12",
+          "section": "ADJECTIVES",
+          "visual_context": "Dirty dishes and person.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hot",
+          "number": "13",
+          "section": "ADJECTIVES",
+          "visual_context": "Steaming cup.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cold",
+          "number": "14",
+          "section": "ADJECTIVES",
+          "visual_context": "Glass with ice cubes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "long",
+          "number": "15",
+          "section": "ADJECTIVES",
+          "visual_context": "Long pencil.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "short",
+          "number": "16",
+          "section": "ADJECTIVES",
+          "visual_context": "Short pencil.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "loose",
+          "number": "17",
+          "section": "ADJECTIVES",
+          "visual_context": "Loose knot in a rope.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tight",
+          "number": "18",
+          "section": "ADJECTIVES",
+          "visual_context": "Tight knot in a rope.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "thin",
+          "number": "19",
+          "section": "ADJECTIVES",
+          "visual_context": "Thin roll.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "thick",
+          "number": "20",
+          "section": "ADJECTIVES",
+          "visual_context": "Thick roll.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "near",
+          "number": "21",
+          "section": "ADJECTIVES",
+          "visual_context": "Person near a tree.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "far",
+          "number": "22",
+          "section": "ADJECTIVES",
+          "visual_context": "Person far from a tree.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "slow",
+          "number": "23",
+          "section": "ADJECTIVES",
+          "visual_context": "Slow-moving turtle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fast",
+          "number": "24",
+          "section": "ADJECTIVES",
+          "visual_context": "Fast-running cheetah.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "new",
+          "number": "25",
+          "section": "ADJECTIVES",
+          "visual_context": "New computer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "old",
+          "number": "26",
+          "section": "ADJECTIVES",
+          "visual_context": "Old computer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "empty",
+          "number": "27",
+          "section": "ADJECTIVES",
+          "visual_context": "Empty jar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "full",
+          "number": "28",
+          "section": "ADJECTIVES",
+          "visual_context": "Jar full of contents.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "noisy",
+          "number": "29",
+          "section": "ADJECTIVES",
+          "visual_context": "Noisy group around a table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "quiet",
+          "number": "30",
+          "section": "ADJECTIVES",
+          "visual_context": "Quiet group seated around a table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "correct",
+          "number": "31",
+          "section": "ADJECTIVES",
+          "visual_context": "Checklist with ticks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "incorrect",
+          "number": "32",
+          "section": "ADJECTIVES",
+          "visual_context": "Checklist with crosses.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "light",
+          "number": "33",
+          "section": "ADJECTIVES",
+          "visual_context": "Person switching on a lamp in a lit room.",
+          "semantic_meaning": "Illuminated; not dark."
+        },
+        {
+          "source_text": "dark",
+          "number": "34",
+          "section": "ADJECTIVES",
+          "visual_context": "Person switching on a lamp in a dark room.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

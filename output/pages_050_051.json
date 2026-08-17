@@ -1,0 +1,459 @@
+{
+  "pages": [
+    {
+      "page": 50,
+      "title": "Illness and injury",
+      "context": "19.1 ILLNESS",
+      "entries": [
+        {
+          "source_text": "flu",
+          "number": "1",
+          "section": "19.1 ILLNESS",
+          "visual_context": "Person in bed holding a thermometer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cold",
+          "number": "2",
+          "section": "19.1 ILLNESS",
+          "visual_context": "Person sneezing into a tissue.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cough",
+          "number": "3",
+          "section": "19.1 ILLNESS",
+          "visual_context": "Person coughing into a hand.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "runny nose",
+          "number": "4",
+          "section": "19.1 ILLNESS",
+          "visual_context": "Person blowing their nose with a tissue.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "virus",
+          "number": "5",
+          "section": "19.1 ILLNESS",
+          "visual_context": "Two people with droplets passing between them.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fever",
+          "number": "6",
+          "section": "19.1 ILLNESS",
+          "visual_context": "Person with a thermometer and sweat drops.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chill",
+          "number": "7",
+          "section": "19.1 ILLNESS",
+          "visual_context": "Shivering person with arms crossed.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sore throat",
+          "number": "8",
+          "section": "19.1 ILLNESS",
+          "visual_context": "Person touching a red, painful throat.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tonsillitis",
+          "number": "9",
+          "section": "19.1 ILLNESS",
+          "visual_context": "Open mouth diagram showing inflamed tonsils.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "headache",
+          "number": "10",
+          "section": "19.1 ILLNESS",
+          "visual_context": "Person holding their head in pain.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "migraine",
+          "number": "11",
+          "section": "19.1 ILLNESS",
+          "visual_context": "Person lying on a sofa with pain flashes at the head.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dizzy",
+          "number": "12",
+          "section": "19.1 ILLNESS",
+          "visual_context": "Person with stars circling their head.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "food poisoning",
+          "number": "13",
+          "section": "19.1 ILLNESS",
+          "visual_context": "Plate with skull and crossbones between fork and spoon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "poisoning",
+          "number": "14",
+          "section": "19.1 ILLNESS",
+          "visual_context": "Person feeling ill beside poisonous mushrooms.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rash",
+          "number": "15",
+          "section": "19.1 ILLNESS",
+          "visual_context": "Person with red spots on the torso.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chickenpox",
+          "number": "16",
+          "section": "19.1 ILLNESS",
+          "visual_context": "Person covered with small pox-like spots.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "measles",
+          "number": "17",
+          "section": "19.1 ILLNESS",
+          "visual_context": "Person covered with prominent red spots.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mumps",
+          "number": "18",
+          "section": "19.1 ILLNESS",
+          "visual_context": "Person holding swollen cheeks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "eczema",
+          "number": "19",
+          "section": "19.1 ILLNESS",
+          "visual_context": "Person scratching an inflamed arm.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "asthma",
+          "number": "20",
+          "section": "19.1 ILLNESS",
+          "visual_context": "Person using an inhaler.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "allergy",
+          "number": "21",
+          "section": "19.1 ILLNESS",
+          "visual_context": "Person sneezing near flowers and airborne particles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hay fever",
+          "number": "22",
+          "section": "19.1 ILLNESS",
+          "visual_context": "Person sneezing near flowers and pollen.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "infection",
+          "number": "23",
+          "section": "19.1 ILLNESS",
+          "visual_context": "Red inflamed spot on a person's arm.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "diabetes",
+          "number": "24",
+          "section": "19.1 ILLNESS",
+          "visual_context": "Person injecting their arm with a syringe.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stress",
+          "number": "25",
+          "section": "19.1 ILLNESS",
+          "visual_context": "Person holding their head beneath lightning bolts.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nosebleed",
+          "number": "26",
+          "section": "19.1 ILLNESS",
+          "visual_context": "Person with blood coming from their nose.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nausea",
+          "number": "27",
+          "section": "19.1 ILLNESS",
+          "visual_context": "Person bending over beside a bucket.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "appendicitis",
+          "number": "28",
+          "section": "19.1 ILLNESS",
+          "visual_context": "Person holding painful lower abdomen.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "high blood pressure",
+          "number": "29",
+          "section": "19.1 ILLNESS",
+          "visual_context": "Blood-pressure cuff and gauge beside a person.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "symptoms",
+          "number": "30",
+          "section": "19.1 ILLNESS",
+          "visual_context": "Person marked at several body locations.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cramp",
+          "number": "31",
+          "section": "19.1 ILLNESS",
+          "visual_context": "Person with pain at the lower leg.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "backache",
+          "number": "32",
+          "section": "19.1 ILLNESS",
+          "visual_context": "Person holding painful back.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pain",
+          "number": "33",
+          "section": "19.1 ILLNESS",
+          "visual_context": "Person clutching a painful arm.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stomachache (US)\nstomach ache (UK)",
+          "number": "34",
+          "section": "19.1 ILLNESS",
+          "visual_context": "Person holding painful stomach.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "insomnia",
+          "number": "35",
+          "section": "19.1 ILLNESS",
+          "visual_context": "Person awake in bed at night.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "diarrhea (US)\ndiarrhoea (UK)",
+          "number": "36",
+          "section": "19.1 ILLNESS",
+          "visual_context": "Person sitting on a toilet.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 51,
+      "title": "Illness and injury",
+      "context": "19.2 INJURY",
+      "entries": [
+        {
+          "source_text": "Your X-ray shows\nthat you have broken\nyour ankle.",
+          "number": "1",
+          "section": "19.2 INJURY",
+          "visual_context": "Speech bubble from a doctor treating a patient with a bandaged ankle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "patient",
+          "number": "2",
+          "section": "19.2 INJURY",
+          "visual_context": "Orange person seated on an examination bed.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "X-ray",
+          "number": "3",
+          "section": "19.2 INJURY",
+          "visual_context": "Pointer to the radiograph image of an ankle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fracture",
+          "number": "4",
+          "section": "19.2 INJURY",
+          "visual_context": "Pointer to the break shown in the ankle X-ray.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "doctor",
+          "number": "5",
+          "section": "19.2 INJURY",
+          "visual_context": "Blue medical worker examining the patient's bandaged foot.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "foot boot",
+          "number": "6",
+          "section": "19.2 INJURY",
+          "visual_context": "Pointer to the protective boot on the patient's foot.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "crutches",
+          "number": "7",
+          "section": "19.2 INJURY",
+          "visual_context": "Pointer to the pair of crutches beside the examination bed.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sprain",
+          "number": "8",
+          "section": "19.2 INJURY",
+          "visual_context": "Person holding a painful ankle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "broken bone",
+          "number": "9",
+          "section": "19.2 INJURY",
+          "visual_context": "Person with a leg in a cast.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sling",
+          "number": "10",
+          "section": "19.2 INJURY",
+          "visual_context": "Person wearing an arm sling.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "whiplash",
+          "number": "11",
+          "section": "19.2 INJURY",
+          "visual_context": "Person holding a painful neck.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "neck brace",
+          "number": "12",
+          "section": "19.2 INJURY",
+          "visual_context": "Person wearing a neck brace.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cut",
+          "number": "13",
+          "section": "19.2 INJURY",
+          "visual_context": "Person cutting a hand with a knife.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "scrape (US)\ngraze (UK)",
+          "number": "14",
+          "section": "19.2 INJURY",
+          "visual_context": "Child with a scraped knee beside a ball.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bruise",
+          "number": "15",
+          "section": "19.2 INJURY",
+          "visual_context": "Purple bruise shown on a person's upper arm.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "splinter",
+          "number": "16",
+          "section": "19.2 INJURY",
+          "visual_context": "Person with a splinter in a finger.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sunburn",
+          "number": "17",
+          "section": "19.2 INJURY",
+          "visual_context": "Person lying in the sun with reddened skin.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "burn",
+          "number": "18",
+          "section": "19.2 INJURY",
+          "visual_context": "Person with a burned hand near a flame.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bite",
+          "number": "19",
+          "section": "19.2 INJURY",
+          "visual_context": "Dog biting a running person's leg.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sting",
+          "number": "20",
+          "section": "19.2 INJURY",
+          "visual_context": "Insect stinging a person's arm.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "accident",
+          "number": "21",
+          "section": "19.2 INJURY",
+          "visual_context": "People near a car at a railway crossing.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wound",
+          "number": "22",
+          "section": "19.2 INJURY",
+          "visual_context": "Person with a bleeding wound.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hemorrhage (US)\nhaemorrhage (UK)",
+          "number": "23",
+          "section": "19.2 INJURY",
+          "visual_context": "Brain diagram showing internal bleeding.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "blister",
+          "number": "24",
+          "section": "19.2 INJURY",
+          "visual_context": "Foot with a blister at the heel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "concussion",
+          "number": "25",
+          "section": "19.2 INJURY",
+          "visual_context": "Person holding an injured head.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "head injury",
+          "number": "26",
+          "section": "19.2 INJURY",
+          "visual_context": "Person with a bandage around the head.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "electric shock",
+          "number": "27",
+          "section": "19.2 INJURY",
+          "visual_context": "Person receiving an electric shock from a power source.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "pages": [
+    {
+      "page": 318,
+      "title": "Weather",
+      "context": "154.1 WEATHER",
+      "entries": [
+        {
+          "source_text": "humidity",
+          "number": "1",
+          "section": "154.1 WEATHER",
+          "visual_context": "Percentage symbol inside a water droplet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "heat wave (US)\nheatwave (UK)",
+          "number": "2",
+          "section": "154.1 WEATHER",
+          "visual_context": "Sun with wavy heat lines.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "drought",
+          "number": "3",
+          "section": "154.1 WEATHER",
+          "visual_context": "Sun over cracked ground and a leafless tree.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dry",
+          "number": "4",
+          "section": "154.1 WEATHER",
+          "visual_context": "Closed umbrella under a sun.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wet",
+          "number": "5",
+          "section": "154.1 WEATHER",
+          "visual_context": "Umbrella being rained on.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "overcast",
+          "number": "6",
+          "section": "154.1 WEATHER",
+          "visual_context": "Multiple overlapping clouds.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "smog",
+          "number": "7",
+          "section": "154.1 WEATHER",
+          "visual_context": "Person wearing a face mask amid clouds of pollution.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "raindrop",
+          "number": "8",
+          "section": "154.1 WEATHER",
+          "visual_context": "Single large water droplet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "light shower",
+          "number": "9",
+          "section": "154.1 WEATHER",
+          "visual_context": "Cloud with a few sparse rain streaks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "drizzle",
+          "number": "10",
+          "section": "154.1 WEATHER",
+          "visual_context": "Cloud with small scattered drops.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "downpour",
+          "number": "11",
+          "section": "154.1 WEATHER",
+          "visual_context": "Cloud with dense heavy rain.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "flood",
+          "number": "12",
+          "section": "154.1 WEATHER",
+          "visual_context": "Houses surrounded by wavy floodwater.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sandstorm",
+          "number": "13",
+          "section": "154.1 WEATHER",
+          "visual_context": "Wind-blown sand over dunes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gale",
+          "number": "14",
+          "section": "154.1 WEATHER",
+          "visual_context": "Person and trees bent by very strong wind.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "storm",
+          "number": "15",
+          "section": "154.1 WEATHER",
+          "visual_context": "Cloud with rain and lightning.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "thunder",
+          "number": "16",
+          "section": "154.1 WEATHER",
+          "visual_context": "Person reacting to a loud cloud burst.",
+          "semantic_meaning": "loud sound during a storm"
+        },
+        {
+          "source_text": "lightning",
+          "number": "17",
+          "section": "154.1 WEATHER",
+          "visual_context": "Large lightning bolt.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rainbow",
+          "number": "18",
+          "section": "154.1 WEATHER",
+          "visual_context": "Arched multiband rainbow.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sleet",
+          "number": "19",
+          "section": "154.1 WEATHER",
+          "visual_context": "Cloud falling mixed raindrops and snowflakes.",
+          "semantic_meaning": "mixture of rain and snow"
+        },
+        {
+          "source_text": "snowflake",
+          "number": "20",
+          "section": "154.1 WEATHER",
+          "visual_context": "Large snowflake symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "snowdrift",
+          "number": "21",
+          "section": "154.1 WEATHER",
+          "visual_context": "Skier standing on a mound of wind-blown snow.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "blizzard",
+          "number": "22",
+          "section": "154.1 WEATHER",
+          "visual_context": "Strong wind with snowflakes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "snowstorm",
+          "number": "23",
+          "section": "154.1 WEATHER",
+          "visual_context": "Wind and snow around a house.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hailstone",
+          "number": "24",
+          "section": "154.1 WEATHER",
+          "visual_context": "Cloud dropping round pellets.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hurricane",
+          "number": "25",
+          "section": "154.1 WEATHER",
+          "visual_context": "Spiralling cyclone symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tornado",
+          "number": "26",
+          "section": "154.1 WEATHER",
+          "visual_context": "Funnel-shaped rotating storm.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "puddle",
+          "number": "27",
+          "section": "154.1 WEATHER",
+          "visual_context": "Person standing in a pool of rainwater.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "It’s raining cats\nand dogs today.",
+          "number": "28",
+          "section": "154.1 WEATHER",
+          "visual_context": "Speech bubble from a person standing in rain and a puddle.",
+          "semantic_meaning": "It is raining very heavily."
+        }
+      ]
+    },
+    {
+      "page": 319,
+      "title": "Temperature; Weather Adjectives",
+      "context": "154.2 TEMPERATURE; 154.3 WEATHER ADJECTIVES",
+      "entries": [
+        {
+          "source_text": "Planet Earth",
+          "number": "145",
+          "section": "See also:",
+          "visual_context": "Cross-reference list.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Geography",
+          "number": "146-147",
+          "section": "See also:",
+          "visual_context": "Cross-reference list.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Climate and the environment",
+          "number": "155",
+          "section": "See also:",
+          "visual_context": "Cross-reference list.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "freezing",
+          "number": "1",
+          "section": "154.2 TEMPERATURE",
+          "visual_context": "Person shivering beside an ice-covered figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cold",
+          "number": "2",
+          "section": "154.2 TEMPERATURE",
+          "visual_context": "Person shivering in warm clothing.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chilly",
+          "number": "3",
+          "section": "154.2 TEMPERATURE",
+          "visual_context": "Person walking with arms crossed for warmth.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "warm",
+          "number": "4",
+          "section": "154.2 TEMPERATURE",
+          "visual_context": "Person enjoying sunshine and flowers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hot",
+          "number": "5",
+          "section": "154.2 TEMPERATURE",
+          "visual_context": "People sweating beneath a sun.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stifling",
+          "number": "6",
+          "section": "154.2 TEMPERATURE",
+          "visual_context": "Person sweating heavily in oppressive heat.",
+          "semantic_meaning": "uncomfortably hot"
+        },
+        {
+          "source_text": "freezing point",
+          "number": "7",
+          "section": "154.2 TEMPERATURE",
+          "visual_context": "Blue thermometer and icy beaker.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "boiling point",
+          "number": "8",
+          "section": "154.2 TEMPERATURE",
+          "visual_context": "Red thermometer and steaming boiling beaker.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "minus 10",
+          "number": "9",
+          "section": "154.2 TEMPERATURE",
+          "visual_context": "Thermometer marked below zero.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "25 degrees",
+          "number": "10",
+          "section": "154.2 TEMPERATURE",
+          "visual_context": "Thermometer marked at a moderate temperature.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Celsius",
+          "number": "11",
+          "section": "154.2 TEMPERATURE",
+          "visual_context": "Large °C symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Fahrenheit",
+          "number": "12",
+          "section": "154.2 TEMPERATURE",
+          "visual_context": "Large °F symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cool",
+          "number": "13",
+          "section": "154.2 TEMPERATURE",
+          "visual_context": "Person walking beneath clouds.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mild",
+          "number": "14",
+          "section": "154.2 TEMPERATURE",
+          "visual_context": "Person outdoors under light sun and clouds.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "boiling",
+          "number": "15",
+          "section": "154.2 TEMPERATURE",
+          "visual_context": "Two people sweating beneath a hot sun.",
+          "semantic_meaning": "extremely hot"
+        },
+        {
+          "source_text": "It’s boiling! I need to\nfind some shade.",
+          "number": "16",
+          "section": "154.2 TEMPERATURE",
+          "visual_context": "Speech bubble pointing to the sweating people.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sun → sunny",
+          "number": "1",
+          "section": "154.3 WEATHER ADJECTIVES",
+          "visual_context": "Sun icon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cloud → cloudy",
+          "number": "2",
+          "section": "154.3 WEATHER ADJECTIVES",
+          "visual_context": "Cloud icon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fog → foggy",
+          "number": "3",
+          "section": "154.3 WEATHER ADJECTIVES",
+          "visual_context": "Cloud above horizontal fog lines.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rain → rainy",
+          "number": "4",
+          "section": "154.3 WEATHER ADJECTIVES",
+          "visual_context": "Cloud with raindrops.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "snow → snowy",
+          "number": "5",
+          "section": "154.3 WEATHER ADJECTIVES",
+          "visual_context": "Cloud with snowflakes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ice → icy",
+          "number": "6",
+          "section": "154.3 WEATHER ADJECTIVES",
+          "visual_context": "Icicles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "frost → frosty",
+          "number": "7",
+          "section": "154.3 WEATHER ADJECTIVES",
+          "visual_context": "Cloud containing a snowflake.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wind → windy",
+          "number": "8",
+          "section": "154.3 WEATHER ADJECTIVES",
+          "visual_context": "Curled wind lines.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "storm → stormy",
+          "number": "9",
+          "section": "154.3 WEATHER ADJECTIVES",
+          "visual_context": "Storm cloud with rain and lightning.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "thunder →\nthundery",
+          "number": "10",
+          "section": "154.3 WEATHER ADJECTIVES",
+          "visual_context": "Cloud with lightning bolts.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mist → misty",
+          "number": "11",
+          "section": "154.3 WEATHER ADJECTIVES",
+          "visual_context": "Cloud over scattered mist marks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "breeze →\nbreezy",
+          "number": "12",
+          "section": "154.3 WEATHER ADJECTIVES",
+          "visual_context": "Horizontal breeze lines.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,473 @@
+{
+  "pages": [
+    {
+      "page": 78,
+      "title": "Electrics and plumbing",
+      "context": "33.1 ELECTRICITY",
+      "entries": [
+        {
+          "source_text": "bayonet fit",
+          "number": "1",
+          "section": "33.1 ELECTRICITY",
+          "visual_context": "Pointer to the cap of a compact fluorescent light bulb.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "CFL (compact fluorescent lamp) bulb",
+          "number": "2",
+          "section": "33.1 ELECTRICITY",
+          "visual_context": "Pointer to the spiral compact fluorescent bulb.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "incandescent bulb",
+          "number": "3",
+          "section": "33.1 ELECTRICITY",
+          "visual_context": "Pointer to the filament inside a conventional light bulb.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "screw fit",
+          "number": "4",
+          "section": "33.1 ELECTRICITY",
+          "visual_context": "Pointer to the threaded cap of an LED bulb.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "LED (light emitting diode) bulb",
+          "number": "5",
+          "section": "33.1 ELECTRICITY",
+          "visual_context": "Pointer to the internal diode assembly in a light bulb.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "light bulbs",
+          "number": "6",
+          "section": "33.1 ELECTRICITY",
+          "visual_context": "Label beneath the illustrated CFL, incandescent, and LED bulbs.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "socket",
+          "number": "7",
+          "section": "33.1 ELECTRICITY",
+          "visual_context": "Icon of a wall electrical outlet and plug.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "light switch",
+          "number": "8",
+          "section": "33.1 ELECTRICITY",
+          "visual_context": "Icon of a wall-mounted switch.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "direct current",
+          "number": "9",
+          "section": "33.1 ELECTRICITY",
+          "visual_context": "Battery icon with the direct-current symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "alternating current",
+          "number": "10",
+          "section": "33.1 ELECTRICITY",
+          "visual_context": "Battery icon with the alternating-current wave symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "generator",
+          "number": "11",
+          "section": "33.1 ELECTRICITY",
+          "visual_context": "Icon of an electricity-generating machine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gas space heater",
+          "number": "12",
+          "section": "33.1 ELECTRICITY",
+          "visual_context": "Icon of a freestanding gas heater.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "oil-filled radiator",
+          "number": "13",
+          "section": "33.1 ELECTRICITY",
+          "visual_context": "Icon of a portable finned radiator heater.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fan space heater",
+          "number": "14",
+          "section": "33.1 ELECTRICITY",
+          "visual_context": "Icon of a small fan heater.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ceiling fan",
+          "number": "15",
+          "section": "33.1 ELECTRICITY",
+          "visual_context": "Icon of a three-bladed ceiling-mounted fan.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "blade",
+          "number": "16",
+          "section": "33.1 ELECTRICITY",
+          "visual_context": "Pointer to one blade of the ceiling fan.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fan",
+          "number": "17",
+          "section": "33.1 ELECTRICITY",
+          "visual_context": "Icon of a pedestal fan.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "air conditioning",
+          "number": "18",
+          "section": "33.1 ELECTRICITY",
+          "visual_context": "Icon of an air-conditioning unit with warm and cool symbols.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "power",
+          "number": "19",
+          "section": "33.1 ELECTRICITY",
+          "visual_context": "Lightning-bolt power symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fuse box",
+          "number": "20",
+          "section": "33.1 ELECTRICITY",
+          "visual_context": "Icon of an electrical fuse box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "breaker (US) trip switch (UK)",
+          "number": "21",
+          "section": "33.1 ELECTRICITY",
+          "visual_context": "Pointer to a switch in the fuse box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "amp",
+          "number": "22",
+          "section": "33.1 ELECTRICITY",
+          "visual_context": "Circular A electrical-current symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "live",
+          "number": "23",
+          "section": "33.1 ELECTRICITY",
+          "visual_context": "Illustration of a live electrical wire.",
+          "semantic_meaning": "electrically energized"
+        },
+        {
+          "source_text": "neutral",
+          "number": "24",
+          "section": "33.1 ELECTRICITY",
+          "visual_context": "Illustration of a neutral electrical wire.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wires",
+          "number": "25",
+          "section": "33.1 ELECTRICITY",
+          "visual_context": "Illustration of a coiled electrical cable with plug.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ground (US) earthing (UK)",
+          "number": "26",
+          "section": "33.1 ELECTRICITY",
+          "visual_context": "Grounding symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "voltage",
+          "number": "27",
+          "section": "33.1 ELECTRICITY",
+          "visual_context": "Electrical hazard triangle with lightning bolt.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "plug",
+          "number": "28",
+          "section": "33.1 ELECTRICITY",
+          "visual_context": "Illustration of a plug inserted into a wall socket.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pin",
+          "number": "29",
+          "section": "33.1 ELECTRICITY",
+          "visual_context": "Illustration of the prongs of a plug.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "electricity meter",
+          "number": "30",
+          "section": "33.1 ELECTRICITY",
+          "visual_context": "Icon of an electricity meter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "transformer",
+          "number": "31",
+          "section": "33.1 ELECTRICITY",
+          "visual_context": "Icon of an electrical transformer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "power outage (US) power cut (UK)",
+          "number": "32",
+          "section": "33.1 ELECTRICITY",
+          "visual_context": "Power pylon and house with crossed-out electricity symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "utility power (US) mains supply (UK)",
+          "number": "33",
+          "section": "33.1 ELECTRICITY",
+          "visual_context": "Power pylon connected to a house socket.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wiring",
+          "number": "34",
+          "section": "33.1 ELECTRICITY",
+          "visual_context": "Electrician handling cable and a wall outlet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Switch off the power before touching a live wire.",
+          "number": "35",
+          "section": "33.1 ELECTRICITY",
+          "visual_context": "Safety speech bubble beside an electrician working with wiring.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 79,
+      "title": "Electrics and plumbing",
+      "context": "33.2 PLUMBING; 33.3 WASTE",
+      "entries": [
+        {
+          "source_text": "temperature display",
+          "number": "1",
+          "section": "33.2 PLUMBING",
+          "visual_context": "Pointer to the digital temperature readout on a central-heating unit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pressure gauge",
+          "number": "2",
+          "section": "33.2 PLUMBING",
+          "visual_context": "Pointer to the dial gauge on a central-heating unit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "central heating furnace (US) / boiler (UK)",
+          "number": "3",
+          "section": "33.2 PLUMBING",
+          "visual_context": "Illustration of the wall-mounted central-heating appliance.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "faucet (US) / tap (UK)",
+          "number": "4",
+          "section": "33.2 PLUMBING",
+          "visual_context": "Pointer to the faucet above the basin.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "drain",
+          "number": "5",
+          "section": "33.2 PLUMBING",
+          "visual_context": "Pointer to the basin drain opening.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shutoff valve",
+          "number": "6",
+          "section": "33.2 PLUMBING",
+          "visual_context": "Pointer to the valve below the basin drain.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pipe",
+          "number": "7",
+          "section": "33.2 PLUMBING",
+          "visual_context": "Pointer to the horizontal plumbing pipe in the wall.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "trap",
+          "number": "8",
+          "section": "33.2 PLUMBING",
+          "visual_context": "Pointer to the plumbing trap below the basin.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "basin / sink (UK)",
+          "number": "9",
+          "section": "33.2 PLUMBING",
+          "visual_context": "Label for the illustrated wash basin.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cistern",
+          "number": "10",
+          "section": "33.2 PLUMBING",
+          "visual_context": "Pointer to the toilet tank.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "toilet float",
+          "number": "11",
+          "section": "33.2 PLUMBING",
+          "visual_context": "Pointer to the float mechanism inside the cistern.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "seat",
+          "number": "12",
+          "section": "33.2 PLUMBING",
+          "visual_context": "Pointer to the toilet seat.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bowl",
+          "number": "13",
+          "section": "33.2 PLUMBING",
+          "visual_context": "Pointer to the toilet bowl.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sewer drain pipe (US) waste pipe (UK)",
+          "number": "14",
+          "section": "33.2 PLUMBING",
+          "visual_context": "Pointer to the toilet's outlet drain pipe.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "toilet",
+          "number": "15",
+          "section": "33.2 PLUMBING",
+          "visual_context": "Label for the complete toilet illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "radiator",
+          "number": "16",
+          "section": "33.2 PLUMBING",
+          "visual_context": "Icon of a heating radiator.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "faucet (US) tap (UK)",
+          "number": "17",
+          "section": "33.2 PLUMBING",
+          "visual_context": "Icon of a dripping faucet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to spring a leak",
+          "number": "18",
+          "section": "33.2 PLUMBING",
+          "visual_context": "Illustration of water leaking from a basin pipe.",
+          "semantic_meaning": "to begin leaking"
+        },
+        {
+          "source_text": "to call a plumber",
+          "number": "19",
+          "section": "33.2 PLUMBING",
+          "visual_context": "Illustration of a plumber arriving at a leaking sink.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to repair",
+          "number": "20",
+          "section": "33.2 PLUMBING",
+          "visual_context": "Illustration of a plumber repairing a sink.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to install",
+          "number": "21",
+          "section": "33.2 PLUMBING",
+          "visual_context": "Illustration of a person installing a toilet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "trash can (US) / rubbish bin (UK)",
+          "number": "1",
+          "section": "33.3 WASTE",
+          "visual_context": "Illustration of a person putting paper into a trash can.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "recycling bin",
+          "number": "2",
+          "section": "33.3 WASTE",
+          "visual_context": "Icon of a bin with a recycling symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sorting unit",
+          "number": "3",
+          "section": "33.3 WASTE",
+          "visual_context": "Icon of recyclable material being sorted into three bins.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "food compost bin",
+          "number": "4",
+          "section": "33.3 WASTE",
+          "visual_context": "Icon of a bin containing food scraps.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "trash bag (US) bin liner (UK)",
+          "number": "5",
+          "section": "33.3 WASTE",
+          "visual_context": "Icon of a tied trash bag.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "biodegradable waste",
+          "number": "6",
+          "section": "33.3 WASTE",
+          "visual_context": "Icon of a bag marked with a leaf recycling symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hazardous waste",
+          "number": "7",
+          "section": "33.3 WASTE",
+          "visual_context": "Icon of a container marked with a hazard symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "electrical waste",
+          "number": "8",
+          "section": "33.3 WASTE",
+          "visual_context": "Icon of a bin containing discarded electrical devices.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "construction waste",
+          "number": "9",
+          "section": "33.3 WASTE",
+          "visual_context": "Icon of a skip filled with building debris.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

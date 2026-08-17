@@ -1,0 +1,396 @@
+{
+  "pages": [
+    {
+      "page": 234,
+      "title": "Basketball and volleyball",
+      "context": "112.1 BASKETBALL",
+      "entries": [
+        {
+          "source_text": "wing",
+          "number": "1",
+          "section": "BASKETBALL",
+          "visual_context": "Pointer to a player positioned at the side of the basketball court.",
+          "semantic_meaning": "side-court playing position"
+        },
+        {
+          "source_text": "midcourt area marker / throw-in line",
+          "number": "2",
+          "section": "BASKETBALL",
+          "visual_context": "Pointer to the marked line at the court edge near the benches.",
+          "semantic_meaning": "line marking the midcourt area for throw-ins"
+        },
+        {
+          "source_text": "game officials",
+          "number": "3",
+          "section": "BASKETBALL",
+          "visual_context": "Pointer to seated officials beside the court.",
+          "semantic_meaning": "people supervising the game"
+        },
+        {
+          "source_text": "coach",
+          "number": "4",
+          "section": "BASKETBALL",
+          "visual_context": "Pointer to the standing coach beside the team bench.",
+          "semantic_meaning": "team trainer or manager"
+        },
+        {
+          "source_text": "team bench",
+          "number": "5",
+          "section": "BASKETBALL",
+          "visual_context": "Pointer to the seated team members' bench.",
+          "semantic_meaning": "seating area for non-playing team members"
+        },
+        {
+          "source_text": "foul / free-throw line",
+          "number": "6",
+          "section": "BASKETBALL",
+          "visual_context": "Pointer to the line across the free-throw area in front of the basket.",
+          "semantic_meaning": "line from which free throws are taken"
+        },
+        {
+          "source_text": "free-throw lane / three-second area",
+          "number": "7",
+          "section": "BASKETBALL",
+          "visual_context": "Pointer to the rectangular painted area beneath the basket.",
+          "semantic_meaning": "restricted lane below the basket"
+        },
+        {
+          "source_text": "lane line",
+          "number": "8",
+          "section": "BASKETBALL",
+          "visual_context": "Pointer to a boundary line of the free-throw lane.",
+          "semantic_meaning": "line outlining the lane"
+        },
+        {
+          "source_text": "restricted area",
+          "number": "9",
+          "section": "BASKETBALL",
+          "visual_context": "Pointer to the semicircular restricted zone beneath the basket.",
+          "semantic_meaning": "area close to the basket"
+        },
+        {
+          "source_text": "short corner",
+          "number": "10",
+          "section": "BASKETBALL",
+          "visual_context": "Pointer to the court area near the baseline and sideline corner.",
+          "semantic_meaning": "corner area near the basket"
+        },
+        {
+          "source_text": "sideline",
+          "number": "11",
+          "section": "BASKETBALL",
+          "visual_context": "Pointer to the long boundary line along the side of the court.",
+          "semantic_meaning": "side boundary of the court"
+        },
+        {
+          "source_text": "court",
+          "number": "12",
+          "section": "BASKETBALL",
+          "visual_context": "Pointer to the basketball playing surface.",
+          "semantic_meaning": "playing area"
+        },
+        {
+          "source_text": "half-court line",
+          "number": "13",
+          "section": "BASKETBALL",
+          "visual_context": "Pointer to the line dividing the court into two halves.",
+          "semantic_meaning": "centre dividing line"
+        },
+        {
+          "source_text": "no-charge semi-circle",
+          "number": "14",
+          "section": "BASKETBALL",
+          "visual_context": "Pointer to the semicircular line below the basket.",
+          "semantic_meaning": "area where charging fouls are not called"
+        },
+        {
+          "source_text": "arc",
+          "number": "15",
+          "section": "BASKETBALL",
+          "visual_context": "Pointer to the curved three-point line around the basket.",
+          "semantic_meaning": "curved court line"
+        },
+        {
+          "source_text": "point guard",
+          "number": "16",
+          "section": "BASKETBALL",
+          "visual_context": "Pointer to a marked player in the five-positions court diagram.",
+          "semantic_meaning": "backcourt playmaking position"
+        },
+        {
+          "source_text": "center (US)\ncentre (UK)",
+          "number": "17",
+          "section": "BASKETBALL",
+          "visual_context": "Pointer to the central marked player in the five-positions court diagram.",
+          "semantic_meaning": "central frontcourt position"
+        },
+        {
+          "source_text": "shooting guard",
+          "number": "18",
+          "section": "BASKETBALL",
+          "visual_context": "Pointer to a marked player in the five-positions court diagram.",
+          "semantic_meaning": "guard position specializing in scoring"
+        },
+        {
+          "source_text": "power forward",
+          "number": "19",
+          "section": "BASKETBALL",
+          "visual_context": "Pointer to a marked player near the basket in the five-positions court diagram.",
+          "semantic_meaning": "frontcourt position"
+        },
+        {
+          "source_text": "small forward",
+          "number": "20",
+          "section": "BASKETBALL",
+          "visual_context": "Pointer to a marked player near the basket in the five-positions court diagram.",
+          "semantic_meaning": "frontcourt position"
+        },
+        {
+          "source_text": "five positions",
+          "number": "21",
+          "section": "BASKETBALL",
+          "visual_context": "Label for the small diagram showing five player positions.",
+          "semantic_meaning": "the five standard basketball playing roles"
+        },
+        {
+          "source_text": "backboard",
+          "number": "22",
+          "section": "BASKETBALL",
+          "visual_context": "Pointer to the board behind the hoop.",
+          "semantic_meaning": "board behind the basket"
+        },
+        {
+          "source_text": "hoop",
+          "number": "23",
+          "section": "BASKETBALL",
+          "visual_context": "Pointer to the orange rim of the basket.",
+          "semantic_meaning": "circular rim"
+        },
+        {
+          "source_text": "net",
+          "number": "24",
+          "section": "BASKETBALL",
+          "visual_context": "Pointer to the mesh hanging from the hoop.",
+          "semantic_meaning": "mesh below the rim"
+        },
+        {
+          "source_text": "ball",
+          "number": "25",
+          "section": "BASKETBALL",
+          "visual_context": "Pointer to the basketball held by the player.",
+          "semantic_meaning": "basketball"
+        },
+        {
+          "source_text": "basket",
+          "number": "26",
+          "section": "BASKETBALL",
+          "visual_context": "Pointer to the hoop-and-net assembly.",
+          "semantic_meaning": "scoring target"
+        },
+        {
+          "source_text": "number",
+          "number": "27",
+          "section": "BASKETBALL",
+          "visual_context": "Pointer to the numeral 7 on the player's shirt.",
+          "semantic_meaning": "player's jersey number"
+        },
+        {
+          "source_text": "basketball\nplayer",
+          "number": "28",
+          "section": "BASKETBALL",
+          "visual_context": "Pointer to the illustrated player shooting a ball.",
+          "semantic_meaning": "person who plays basketball"
+        }
+      ]
+    },
+    {
+      "page": 235,
+      "title": "Basketball and volleyball",
+      "context": "112.2 VOLLEYBALL; basketball continuation",
+      "entries": [
+        {
+          "source_text": "pass",
+          "number": "29",
+          "section": "BASKETBALL",
+          "visual_context": "Illustration of one basketball player passing the ball to another.",
+          "semantic_meaning": "throw the ball to a teammate"
+        },
+        {
+          "source_text": "out of bounds",
+          "number": "30",
+          "section": "BASKETBALL",
+          "visual_context": "Illustration of a ball going beyond the court boundary.",
+          "semantic_meaning": "outside the playing area"
+        },
+        {
+          "source_text": "throw-in",
+          "number": "31",
+          "section": "BASKETBALL",
+          "visual_context": "Illustration of a player throwing the ball in from the sideline.",
+          "semantic_meaning": "putting the ball back into play from outside the court"
+        },
+        {
+          "source_text": "rebound",
+          "number": "32",
+          "section": "BASKETBALL",
+          "visual_context": "Illustration of players reaching for a ball rebounding from the basket.",
+          "semantic_meaning": "gain the ball after a missed shot"
+        },
+        {
+          "source_text": "airball",
+          "number": "33",
+          "section": "BASKETBALL",
+          "visual_context": "Illustration of a shot that misses the basket.",
+          "semantic_meaning": "shot that misses the rim and backboard"
+        },
+        {
+          "source_text": "jump ball",
+          "number": "34",
+          "section": "BASKETBALL",
+          "visual_context": "Illustration of an official tossing the ball between two jumping players.",
+          "semantic_meaning": "ball put into play by a toss between players"
+        },
+        {
+          "source_text": "foul",
+          "number": "35",
+          "section": "BASKETBALL",
+          "visual_context": "Illustration of a player illegally contacting another player.",
+          "semantic_meaning": "rule-breaking physical contact"
+        },
+        {
+          "source_text": "to mark",
+          "number": "36",
+          "section": "BASKETBALL",
+          "visual_context": "Illustration of a player closely guarding an opponent with the ball.",
+          "semantic_meaning": "guard an opposing player"
+        },
+        {
+          "source_text": "to bounce",
+          "number": "37",
+          "section": "BASKETBALL",
+          "visual_context": "Illustration of a player bouncing a basketball.",
+          "semantic_meaning": "make the ball rebound from the floor"
+        },
+        {
+          "source_text": "to dunk",
+          "number": "38",
+          "section": "BASKETBALL",
+          "visual_context": "Illustration of a player forcefully putting the ball through the basket.",
+          "semantic_meaning": "score by putting the ball directly through the hoop"
+        },
+        {
+          "source_text": "to shoot",
+          "number": "39",
+          "section": "BASKETBALL",
+          "visual_context": "Illustration of a player shooting the ball toward the basket.",
+          "semantic_meaning": "attempt to score with a throw"
+        },
+        {
+          "source_text": "to block",
+          "number": "40",
+          "section": "BASKETBALL",
+          "visual_context": "Illustration of a player stopping an opponent's basketball shot.",
+          "semantic_meaning": "prevent a shot from reaching the basket"
+        },
+        {
+          "source_text": "court",
+          "number": "1",
+          "section": "VOLLEYBALL",
+          "visual_context": "Pointer to the volleyball playing surface.",
+          "semantic_meaning": "playing area"
+        },
+        {
+          "source_text": "middle\nblocker / libero",
+          "number": "2",
+          "section": "VOLLEYBALL",
+          "visual_context": "Pointer to players on the left side of the volleyball court.",
+          "semantic_meaning": "volleyball player roles"
+        },
+        {
+          "source_text": "net",
+          "number": "3",
+          "section": "VOLLEYBALL",
+          "visual_context": "Pointer to the net dividing the volleyball court.",
+          "semantic_meaning": "mesh barrier between teams"
+        },
+        {
+          "source_text": "middle blocker",
+          "number": "4",
+          "section": "VOLLEYBALL",
+          "visual_context": "Pointer to the central player near the net.",
+          "semantic_meaning": "player who blocks attacks at the centre of the net"
+        },
+        {
+          "source_text": "referee",
+          "number": "5",
+          "section": "VOLLEYBALL",
+          "visual_context": "Pointer to the official seated on the raised referee stand.",
+          "semantic_meaning": "match official"
+        },
+        {
+          "source_text": "right-side\nhitter",
+          "number": "6",
+          "section": "VOLLEYBALL",
+          "visual_context": "Pointer to the player on the right side near the net.",
+          "semantic_meaning": "right-side attacking player"
+        },
+        {
+          "source_text": "setter",
+          "number": "7",
+          "section": "VOLLEYBALL",
+          "visual_context": "Pointer to a player on the near right of the court.",
+          "semantic_meaning": "player who sets the ball for an attacker"
+        },
+        {
+          "source_text": "outside\nhitter",
+          "number": "8",
+          "section": "VOLLEYBALL",
+          "visual_context": "Pointer to a player on the near side of the court.",
+          "semantic_meaning": "outside attacking player"
+        },
+        {
+          "source_text": "opposite",
+          "number": "9",
+          "section": "VOLLEYBALL",
+          "visual_context": "Pointer to a player on the near left side of the court.",
+          "semantic_meaning": "right-side/opposite attacking position"
+        },
+        {
+          "source_text": "volleyball positions",
+          "number": "10",
+          "section": "VOLLEYBALL",
+          "visual_context": "Label for the court diagram showing player roles.",
+          "semantic_meaning": "standard volleyball player roles"
+        },
+        {
+          "source_text": "to bump",
+          "number": "11",
+          "section": "VOLLEYBALL",
+          "visual_context": "Illustration of a player using forearms to play the volleyball.",
+          "semantic_meaning": "pass the ball with the forearms"
+        },
+        {
+          "source_text": "to dig",
+          "number": "12",
+          "section": "VOLLEYBALL",
+          "visual_context": "Illustration of a player low to the ground receiving the ball.",
+          "semantic_meaning": "defensively receive a hard-driven ball"
+        },
+        {
+          "source_text": "I blocked you!",
+          "number": "13",
+          "section": "VOLLEYBALL",
+          "visual_context": "Speech bubble above a player blocking the ball at the net.",
+          "semantic_meaning": "exclamation after stopping an opponent's attack"
+        },
+        {
+          "source_text": "to block",
+          "number": "14",
+          "section": "VOLLEYBALL",
+          "visual_context": "Illustration of a player jumping at the net to stop the ball.",
+          "semantic_meaning": "stop an opponent's attack at the net"
+        }
+      ]
+    }
+  ]
+}

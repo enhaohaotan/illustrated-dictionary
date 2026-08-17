@@ -1,0 +1,452 @@
+{
+  "pages": [
+    {
+      "page": 70,
+      "title": "Cooking",
+      "context": "29.1 COOKING VERBS",
+      "entries": [
+        {
+          "source_text": "to sprinkle",
+          "number": "1",
+          "section": "29.1 COOKING VERBS",
+          "visual_context": "Chef sprinkling seasoning onto a plated dish.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to bake",
+          "number": "2",
+          "section": "29.1 COOKING VERBS",
+          "visual_context": "Food baking in an oven.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to garnish",
+          "number": "3",
+          "section": "29.1 COOKING VERBS",
+          "visual_context": "Chef adding a finishing garnish to a dish.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to grease",
+          "number": "4",
+          "section": "29.1 COOKING VERBS",
+          "visual_context": "Chef greasing a baking tray.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to roll",
+          "number": "5",
+          "section": "29.1 COOKING VERBS",
+          "visual_context": "Chef rolling dough with a rolling pin.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to taste",
+          "number": "6",
+          "section": "29.1 COOKING VERBS",
+          "visual_context": "Chef tasting food with a spoon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to stir-fry",
+          "number": "12",
+          "section": "29.1 COOKING VERBS",
+          "visual_context": "Chef stir-frying vegetables in a wok over a flame.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "I’ll garnish this with some fresh herbs.",
+          "number": "13",
+          "section": "29.1 COOKING VERBS",
+          "visual_context": "Speech bubble pointing to a chef garnishing a plated dish.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to chop",
+          "number": "14",
+          "section": "29.1 COOKING VERBS",
+          "visual_context": "Chef chopping ingredients on a cutting board.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to broil (US)\nto grill (UK)",
+          "number": "20",
+          "section": "29.1 COOKING VERBS",
+          "visual_context": "Food cooking on a grill.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to roast",
+          "number": "21",
+          "section": "29.1 COOKING VERBS",
+          "visual_context": "A roast cooking in an oven.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to fry",
+          "number": "22",
+          "section": "29.1 COOKING VERBS",
+          "visual_context": "An egg frying in a pan.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to poach",
+          "number": "23",
+          "section": "29.1 COOKING VERBS",
+          "visual_context": "Eggs cooking in liquid in a pan.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to simmer",
+          "number": "24",
+          "section": "29.1 COOKING VERBS",
+          "visual_context": "A pot of liquid gently bubbling.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to boil",
+          "number": "25",
+          "section": "29.1 COOKING VERBS",
+          "visual_context": "A pot of water boiling vigorously.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to freeze",
+          "number": "26",
+          "section": "29.1 COOKING VERBS",
+          "visual_context": "A bag of frozen food.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to add",
+          "number": "27",
+          "section": "29.1 COOKING VERBS",
+          "visual_context": "Ingredients being added to a bowl.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to mix",
+          "number": "28",
+          "section": "29.1 COOKING VERBS",
+          "visual_context": "Ingredients being mixed in a bowl.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to stir",
+          "number": "29",
+          "section": "29.1 COOKING VERBS",
+          "visual_context": "A drink being stirred with a spoon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to whisk",
+          "number": "30",
+          "section": "29.1 COOKING VERBS",
+          "visual_context": "Batter being whisked in a bowl.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to mash",
+          "number": "31",
+          "section": "29.1 COOKING VERBS",
+          "visual_context": "Potatoes being mashed.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to slice",
+          "number": "32",
+          "section": "29.1 COOKING VERBS",
+          "visual_context": "A loaf of bread being sliced.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "a pinch",
+          "number": "33",
+          "section": "29.1 COOKING VERBS",
+          "visual_context": "A small amount of seasoning held between fingers.",
+          "semantic_meaning": "a small amount held between the fingers"
+        },
+        {
+          "source_text": "a dash",
+          "number": "34",
+          "section": "29.1 COOKING VERBS",
+          "visual_context": "Sauce being shaken from a bottle.",
+          "semantic_meaning": "a small amount of liquid or seasoning"
+        },
+        {
+          "source_text": "a handful",
+          "number": "35",
+          "section": "29.1 COOKING VERBS",
+          "visual_context": "A hand holding a quantity of beans.",
+          "semantic_meaning": "an amount that can be held in one hand"
+        },
+        {
+          "source_text": "to mince",
+          "number": "36",
+          "section": "29.1 COOKING VERBS",
+          "visual_context": "Meat being put through a mincer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to peel",
+          "number": "37",
+          "section": "29.1 COOKING VERBS",
+          "visual_context": "A potato being peeled with a peeler.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to cut",
+          "number": "38",
+          "section": "29.1 COOKING VERBS",
+          "visual_context": "A kiwi being cut with a knife.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to grate",
+          "number": "39",
+          "section": "29.1 COOKING VERBS",
+          "visual_context": "Cheese being grated.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to pour",
+          "number": "40",
+          "section": "29.1 COOKING VERBS",
+          "visual_context": "Sauce being poured over waffles.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 71,
+      "title": null,
+      "context": "29.1 COOKING VERBS; 29.2 BAKING",
+      "entries": [
+        {
+          "source_text": "Kitchen and tableware",
+          "number": "27",
+          "section": "See also:",
+          "visual_context": "Cross-reference listing.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Kitchenware",
+          "number": "28",
+          "section": "See also:",
+          "visual_context": "Cross-reference listing.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Herbs and spices",
+          "number": "59",
+          "section": "See also:",
+          "visual_context": "Cross-reference listing.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "In the pantry",
+          "number": "60",
+          "section": "See also:",
+          "visual_context": "Cross-reference listing.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "The bakery",
+          "number": "62-63",
+          "section": "See also:",
+          "visual_context": "Cross-reference listing.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Breakfast",
+          "number": "71",
+          "section": "See also:",
+          "visual_context": "Cross-reference listing.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Lunch and dinner",
+          "number": "72",
+          "section": "See also:",
+          "visual_context": "Cross-reference listing.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to steam",
+          "number": "7",
+          "section": "29.1 COOKING VERBS",
+          "visual_context": "A pot emitting steam.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Can you dice a carrot for me, please?",
+          "number": "8",
+          "section": "29.1 COOKING VERBS",
+          "visual_context": "Speech bubble pointing to a chef dicing carrots.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to beat eggs",
+          "number": "9",
+          "section": "29.1 COOKING VERBS",
+          "visual_context": "Chef beating eggs in a bowl.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "I’ve burned the onions. They are ruined!",
+          "number": "10",
+          "section": "29.1 COOKING VERBS",
+          "visual_context": "Speech bubble pointing to burned onions in a pan.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to microwave",
+          "number": "11",
+          "section": "29.1 COOKING VERBS",
+          "visual_context": "A microwave oven.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to melt butter",
+          "number": "15",
+          "section": "29.1 COOKING VERBS",
+          "visual_context": "Butter melting in a frying pan.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to carve",
+          "number": "16",
+          "section": "29.1 COOKING VERBS",
+          "visual_context": "Chef carving a roast.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to dice",
+          "number": "17",
+          "section": "29.1 COOKING VERBS",
+          "visual_context": "Chef cutting vegetables into small cubes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to burn",
+          "number": "18",
+          "section": "29.1 COOKING VERBS",
+          "visual_context": "Burned food in a pan over flames.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to sauté",
+          "number": "19",
+          "section": "29.1 COOKING VERBS",
+          "visual_context": "Chef cooking food quickly in a frying pan.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "apron",
+          "number": "1",
+          "section": "29.2 BAKING",
+          "visual_context": "Person wearing an apron.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "oven mitt (US)\noven glove (UK)",
+          "number": "2",
+          "section": "29.2 BAKING",
+          "visual_context": "Person using a padded mitt to hold a hot baking dish.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cake pan (US)\ncake tin (UK)",
+          "number": "3",
+          "section": "29.2 BAKING",
+          "visual_context": "Round cake pan.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "flan pan (US)\nflan tin (UK)",
+          "number": "4",
+          "section": "29.2 BAKING",
+          "visual_context": "Shallow fluted baking pan.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pie pan (US)\npie dish (UK)",
+          "number": "5",
+          "section": "29.2 BAKING",
+          "visual_context": "Person holding a pie pan.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pastry brush",
+          "number": "6",
+          "section": "29.2 BAKING",
+          "visual_context": "Brush applying glaze to pastry.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rolling pin",
+          "number": "7",
+          "section": "29.2 BAKING",
+          "visual_context": "Rolling pin.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "baking pan (US)\nbaking tray (UK)",
+          "number": "8",
+          "section": "29.2 BAKING",
+          "visual_context": "Rectangular baking pan or tray.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "muffin tin (US)\nmuffin tray (UK)",
+          "number": "9",
+          "section": "29.2 BAKING",
+          "visual_context": "Tray holding muffins.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cooling rack",
+          "number": "10",
+          "section": "29.2 BAKING",
+          "visual_context": "Rack holding cooling baked goods.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "icing",
+          "number": "11",
+          "section": "29.2 BAKING",
+          "visual_context": "Iced layer cake.",
+          "semantic_meaning": "sweet decorative coating for cakes"
+        },
+        {
+          "source_text": "piping bag",
+          "number": "12",
+          "section": "29.2 BAKING",
+          "visual_context": "Bag used to pipe icing.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "scales",
+          "number": "13",
+          "section": "29.2 BAKING",
+          "visual_context": "Kitchen weighing scales.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "measuring cup (US)\njug (UK)",
+          "number": "14",
+          "section": "29.2 BAKING",
+          "visual_context": "Graduated measuring cup.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to decorate",
+          "number": "15",
+          "section": "29.2 BAKING",
+          "visual_context": "Baker decorating a cake.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

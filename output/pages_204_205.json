@@ -1,0 +1,368 @@
+{
+  "pages": [
+    {
+      "page": 204,
+      "title": "Cars",
+      "context": "97.1 CAR EXTERIOR",
+      "entries": [
+        {
+          "source_text": "hood (US)\nbonnet (UK)",
+          "number": "1",
+          "section": "97.1 CAR EXTERIOR",
+          "visual_context": "Pointer to the front upper body panel of the side-view car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "antenna (US)\naerial (UK)",
+          "number": "2",
+          "section": "97.1 CAR EXTERIOR",
+          "visual_context": "Pointer to the rod projecting from the car roof.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "door handle",
+          "number": "3",
+          "section": "97.1 CAR EXTERIOR",
+          "visual_context": "Pointer to a handle on the side door.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "trunk (US)\nboot (UK)",
+          "number": "4",
+          "section": "97.1 CAR EXTERIOR",
+          "visual_context": "Pointer to the rear storage compartment/open hatch.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "headlight",
+          "number": "5",
+          "section": "97.1 CAR EXTERIOR",
+          "visual_context": "Pointer to the front lamp in the side-view car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wheel",
+          "number": "6",
+          "section": "97.1 CAR EXTERIOR",
+          "visual_context": "Pointer to the front wheel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "front door",
+          "number": "7",
+          "section": "97.1 CAR EXTERIOR",
+          "visual_context": "Pointer to the front side door.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "side view",
+          "number": "8",
+          "section": "97.1 CAR EXTERIOR",
+          "visual_context": "Label for the large side-profile car illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "back door",
+          "number": "9",
+          "section": "97.1 CAR EXTERIOR",
+          "visual_context": "Pointer to the rear side door.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tire (US)\ntyre (UK)",
+          "number": "10",
+          "section": "97.1 CAR EXTERIOR",
+          "visual_context": "Pointer to the rear tire.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "windshield (US)\nwindscreen (UK)",
+          "number": "11",
+          "section": "97.1 CAR EXTERIOR",
+          "visual_context": "Pointer to the front window in the front-view car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wiper",
+          "number": "12",
+          "section": "97.1 CAR EXTERIOR",
+          "visual_context": "Pointer to a windshield wiper.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "side-view mirror (US)\nwing mirror (UK)",
+          "number": "13",
+          "section": "97.1 CAR EXTERIOR",
+          "visual_context": "Pointer to the exterior mirror on the front-view car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "headlight",
+          "number": "14",
+          "section": "97.1 CAR EXTERIOR",
+          "visual_context": "Pointer to a front-view car headlight.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "turn signal (US)\nindicator (UK)",
+          "number": "15",
+          "section": "97.1 CAR EXTERIOR",
+          "visual_context": "Pointer to the flashing front turn lamp.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "license plate (US)\nlicence plate (UK)",
+          "number": "16",
+          "section": "97.1 CAR EXTERIOR",
+          "visual_context": "Pointer to the rectangular plate at the front of the car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "front view",
+          "number": "17",
+          "section": "97.1 CAR EXTERIOR",
+          "visual_context": "Label for the large front-facing car illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bumper",
+          "number": "18",
+          "section": "97.1 CAR EXTERIOR",
+          "visual_context": "Label beneath a small car illustration, indicating its front bumper.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "winter tires (US)\nwinter tyres (UK)",
+          "number": "19",
+          "section": "97.1 CAR EXTERIOR",
+          "visual_context": "Label beside a small car shown with snow and a winter tire.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "roof rack",
+          "number": "20",
+          "section": "97.1 CAR EXTERIOR",
+          "visual_context": "Label beneath a car with rails on its roof.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tailgate",
+          "number": "21",
+          "section": "97.1 CAR EXTERIOR",
+          "visual_context": "Label beneath a pickup truck with its rear gate open.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 205,
+      "title": "Cars",
+      "context": "97.2 TYPES OF CARS; 97.3 GAS STATION (US) / PETROL STATION (UK)",
+      "entries": [
+        {
+          "source_text": "electric car",
+          "number": "1",
+          "section": "97.2 TYPES OF CARS",
+          "visual_context": "Illustration of a car charging at an electrical charging point.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hybrid",
+          "number": "2",
+          "section": "97.2 TYPES OF CARS",
+          "visual_context": "Illustration of a car with fuel-pump and battery symbols.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "plug-in hybrid",
+          "number": "3",
+          "section": "97.2 TYPES OF CARS",
+          "visual_context": "Illustration of a car connected by a charging cable.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hatchback",
+          "number": "4",
+          "section": "97.2 TYPES OF CARS",
+          "visual_context": "Illustration of a compact car with a rear hatch.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sedan (US)\nsaloon (UK)",
+          "number": "5",
+          "section": "97.2 TYPES OF CARS",
+          "visual_context": "Illustration of a four-door sedan-style car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "station wagon\n(US) / estate (UK)",
+          "number": "6",
+          "section": "97.2 TYPES OF CARS",
+          "visual_context": "Illustration of a long-roof passenger car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "four-wheel\ndrive",
+          "number": "7",
+          "section": "97.2 TYPES OF CARS",
+          "visual_context": "Illustration of a boxy four-wheel-drive vehicle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "minivan (US)\npeople carrier (UK)",
+          "number": "8",
+          "section": "97.2 TYPES OF CARS",
+          "visual_context": "Illustration of a passenger minivan.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "limousine",
+          "number": "9",
+          "section": "97.2 TYPES OF CARS",
+          "visual_context": "Illustration of a long limousine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sports car",
+          "number": "10",
+          "section": "97.2 TYPES OF CARS",
+          "visual_context": "Illustration of a low, streamlined sports car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "spoiler",
+          "number": "11",
+          "section": "97.2 TYPES OF CARS",
+          "visual_context": "Pointer to the raised rear aerodynamic wing on the sports car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "convertible",
+          "number": "12",
+          "section": "97.2 TYPES OF CARS",
+          "visual_context": "Illustration of an open-top car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "vintage",
+          "number": "13",
+          "section": "97.2 TYPES OF CARS",
+          "visual_context": "Illustration of an old-fashioned car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dune buggy (US)\nbeach buggy (UK)",
+          "number": "14",
+          "section": "97.2 TYPES OF CARS",
+          "visual_context": "Illustration of a small open off-road buggy.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "roll bar (US)\nroller bar (UK)",
+          "number": "15",
+          "section": "97.2 TYPES OF CARS",
+          "visual_context": "Pointer to the protective bar behind the dune buggy's seats.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "race car (US)\nracing car (UK)",
+          "number": "16",
+          "section": "97.2 TYPES OF CARS",
+          "visual_context": "Illustration of an open-wheel race car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "front wing",
+          "number": "17",
+          "section": "97.2 TYPES OF CARS",
+          "visual_context": "Pointer to the front aerodynamic wing of the race car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rear wing",
+          "number": "18",
+          "section": "97.2 TYPES OF CARS",
+          "visual_context": "Pointer to the raised rear wing of the race car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gas pump (US)\npetrol pump (UK)",
+          "number": "1",
+          "section": "97.3 GAS STATION (US) / PETROL STATION (UK)",
+          "visual_context": "Illustration of a fuel pump beside a vehicle and person.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "canopy (US)\nforecourt (UK)",
+          "number": "2",
+          "section": "97.3 GAS STATION (US) / PETROL STATION (UK)",
+          "visual_context": "Illustration of the roofed fueling area with pumps.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "EV charging station (US)\nelectric charge point (UK)",
+          "number": "3",
+          "section": "97.3 GAS STATION (US) / PETROL STATION (UK)",
+          "visual_context": "Illustration of cars charging at electric charging posts.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "washer fluid (US)\nscreen wash (UK)",
+          "number": "4",
+          "section": "97.3 GAS STATION (US) / PETROL STATION (UK)",
+          "visual_context": "Illustration of a container marked with a windshield-washer symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "antifreeze",
+          "number": "5",
+          "section": "97.3 GAS STATION (US) / PETROL STATION (UK)",
+          "visual_context": "Illustration of a container marked with a snowflake.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gasoline (US)\npetrol (UK)",
+          "number": "6",
+          "section": "97.3 GAS STATION (US) / PETROL STATION (UK)",
+          "visual_context": "Illustration of a fuel dispenser.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "unleaded",
+          "number": "7",
+          "section": "97.3 GAS STATION (US) / PETROL STATION (UK)",
+          "visual_context": "Illustration of a fuel can marked with a leaf.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "leaded",
+          "number": "8",
+          "section": "97.3 GAS STATION (US) / PETROL STATION (UK)",
+          "visual_context": "Illustration of a fuel can marked “Pb”.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "diesel",
+          "number": "9",
+          "section": "97.3 GAS STATION (US) / PETROL STATION (UK)",
+          "visual_context": "Illustration of a fuel can marked “D”.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "oil",
+          "number": "10",
+          "section": "97.3 GAS STATION (US) / PETROL STATION (UK)",
+          "visual_context": "Illustration of an oil can pouring a drop.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "car wash",
+          "number": "11",
+          "section": "97.3 GAS STATION (US) / PETROL STATION (UK)",
+          "visual_context": "Illustration of people washing a car with water.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

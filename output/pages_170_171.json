@@ -1,0 +1,466 @@
+{
+  "pages": [
+    {
+      "page": 170,
+      "title": "At college",
+      "context": "80.1 COLLEGE (US) / UNIVERSITY (UK); 80.2 DEPARTMENTS AND SCHOOLS",
+      "entries": [
+        {
+          "source_text": "campus",
+          "number": "1",
+          "section": "80.1 COLLEGE (US) / UNIVERSITY (UK)",
+          "visual_context": "University buildings and students.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lecture theatre",
+          "number": "2",
+          "section": "80.1 COLLEGE (US) / UNIVERSITY (UK)",
+          "visual_context": "Seated audience facing a speaker at a lectern.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lecturer",
+          "number": "3",
+          "section": "80.1 COLLEGE (US) / UNIVERSITY (UK)",
+          "visual_context": "Pointer identifies the person speaking at the lectern.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sports field",
+          "number": "4",
+          "section": "80.1 COLLEGE (US) / UNIVERSITY (UK)",
+          "visual_context": "Marked playing field.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dining hall (US) refectory (UK)",
+          "number": "5",
+          "section": "80.1 COLLEGE (US) / UNIVERSITY (UK)",
+          "visual_context": "Students seated at long dining tables.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dorms (US) halls of residence (UK)",
+          "number": "6",
+          "section": "80.1 COLLEGE (US) / UNIVERSITY (UK)",
+          "visual_context": "Residential college buildings with a graduation cap.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "scholarship",
+          "number": "7",
+          "section": "80.1 COLLEGE (US) / UNIVERSITY (UK)",
+          "visual_context": "Graduation cap above a dollar sign.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "admissions",
+          "number": "8",
+          "section": "80.1 COLLEGE (US) / UNIVERSITY (UK)",
+          "visual_context": "Classical institutional building.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "undergraduate",
+          "number": "9",
+          "section": "80.1 COLLEGE (US) / UNIVERSITY (UK)",
+          "visual_context": "Student carrying a backpack and books.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "diploma",
+          "number": "10",
+          "section": "80.1 COLLEGE (US) / UNIVERSITY (UK)",
+          "visual_context": "Certificate with a seal.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dissertation",
+          "number": "11",
+          "section": "80.1 COLLEGE (US) / UNIVERSITY (UK)",
+          "visual_context": "Several written pages.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "degree",
+          "number": "12",
+          "section": "80.1 COLLEGE (US) / UNIVERSITY (UK)",
+          "visual_context": "Graduation cap and rolled diploma.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "graduate",
+          "number": "13",
+          "section": "80.1 COLLEGE (US) / UNIVERSITY (UK)",
+          "visual_context": "Pointer identifies the graduating person addressing an audience.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mortarboard",
+          "number": "14",
+          "section": "80.1 COLLEGE (US) / UNIVERSITY (UK)",
+          "visual_context": "Pointer identifies the square academic cap on the graduate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "robe",
+          "number": "15",
+          "section": "80.1 COLLEGE (US) / UNIVERSITY (UK)",
+          "visual_context": "Pointer identifies the graduate's academic gown.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "graduation ceremony",
+          "number": "16",
+          "section": "80.1 COLLEGE (US) / UNIVERSITY (UK)",
+          "visual_context": "Graduate in robe speaking before an audience wearing caps.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "postgraduate",
+          "number": "17",
+          "section": "80.1 COLLEGE (US) / UNIVERSITY (UK)",
+          "visual_context": "Graduate carrying books.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "thesis",
+          "number": "18",
+          "section": "80.1 COLLEGE (US) / UNIVERSITY (UK)",
+          "visual_context": "Stack of written pages.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "master’s degree",
+          "number": "19",
+          "section": "80.1 COLLEGE (US) / UNIVERSITY (UK)",
+          "visual_context": "Graduation cap and rolled diploma.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "doctorate",
+          "number": "20",
+          "section": "80.1 COLLEGE (US) / UNIVERSITY (UK)",
+          "visual_context": "Graduation cap, rolled diploma, and books.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "humanities",
+          "number": "1",
+          "section": "80.2 DEPARTMENTS AND SCHOOLS",
+          "visual_context": "People shown above an open book.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "politics",
+          "number": "2",
+          "section": "80.2 DEPARTMENTS AND SCHOOLS",
+          "visual_context": "Classical government building with a flag.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "literature",
+          "number": "3",
+          "section": "80.2 DEPARTMENTS AND SCHOOLS",
+          "visual_context": "Quill pen and open book.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "languages",
+          "number": "4",
+          "section": "80.2 DEPARTMENTS AND SCHOOLS",
+          "visual_context": "Speech bubbles containing a globe.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "economics",
+          "number": "5",
+          "section": "80.2 DEPARTMENTS AND SCHOOLS",
+          "visual_context": "Businessperson with percentage sign and pie chart.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "philosophy",
+          "number": "6",
+          "section": "80.2 DEPARTMENTS AND SCHOOLS",
+          "visual_context": "Head silhouette with gears.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "history",
+          "number": "7",
+          "section": "80.2 DEPARTMENTS AND SCHOOLS",
+          "visual_context": "Hourglass.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "social sciences",
+          "number": "8",
+          "section": "80.2 DEPARTMENTS AND SCHOOLS",
+          "visual_context": "People, globe, and magnifying glass.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sociology",
+          "number": "9",
+          "section": "80.2 DEPARTMENTS AND SCHOOLS",
+          "visual_context": "Connected group of people.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "law",
+          "number": "10",
+          "section": "80.2 DEPARTMENTS AND SCHOOLS",
+          "visual_context": "Balance scales.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "medicine",
+          "number": "11",
+          "section": "80.2 DEPARTMENTS AND SCHOOLS",
+          "visual_context": "Stethoscope.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nursing",
+          "number": "12",
+          "section": "80.2 DEPARTMENTS AND SCHOOLS",
+          "visual_context": "Nurse attending a patient in a hospital bed.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 171,
+      "title": "Library",
+      "context": "80.3 LIBRARY; continuation of 80.2 DEPARTMENTS AND SCHOOLS",
+      "entries": [
+        {
+          "source_text": "At school",
+          "number": "73",
+          "section": "See also:",
+          "visual_context": "Cross-reference in the boxed See also list.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Mathematics",
+          "number": "74",
+          "section": "See also:",
+          "visual_context": "Cross-reference in the boxed See also list.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Physics",
+          "number": "75",
+          "section": "See also:",
+          "visual_context": "Cross-reference in the boxed See also list.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Chemistry",
+          "number": "76",
+          "section": "See also:",
+          "visual_context": "Cross-reference in the boxed See also list.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Biology",
+          "number": "77",
+          "section": "See also:",
+          "visual_context": "Cross-reference in the boxed See also list.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "History",
+          "number": "79",
+          "section": "See also:",
+          "visual_context": "Cross-reference in the boxed See also list.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Law",
+          "number": "85",
+          "section": "See also:",
+          "visual_context": "Cross-reference in the boxed See also list.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Books and reading",
+          "number": "138",
+          "section": "See also:",
+          "visual_context": "Cross-reference in the boxed See also list.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "reading room",
+          "number": "1",
+          "section": "80.3 LIBRARY",
+          "visual_context": "People reading at tables in front of bookshelves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "reading list",
+          "number": "2",
+          "section": "80.3 LIBRARY",
+          "visual_context": "Person beside a long written list.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to borrow",
+          "number": "3",
+          "section": "80.3 LIBRARY",
+          "visual_context": "Book shown with a downward arrow.",
+          "semantic_meaning": "Take a library book out temporarily."
+        },
+        {
+          "source_text": "to renew",
+          "number": "4",
+          "section": "80.3 LIBRARY",
+          "visual_context": "Book surrounded by circular arrows.",
+          "semantic_meaning": "Extend a library loan."
+        },
+        {
+          "source_text": "to return",
+          "number": "5",
+          "section": "80.3 LIBRARY",
+          "visual_context": "Book shown with an upward arrow.",
+          "semantic_meaning": "Bring a borrowed book back."
+        },
+        {
+          "source_text": "to reserve",
+          "number": "6",
+          "section": "80.3 LIBRARY",
+          "visual_context": "Book inside a green reservation/check symbol.",
+          "semantic_meaning": "Request a book for later use."
+        },
+        {
+          "source_text": "aisle",
+          "number": "7",
+          "section": "80.3 LIBRARY",
+          "visual_context": "Pointer identifies the passage between bookshelves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bookshelf",
+          "number": "8",
+          "section": "80.3 LIBRARY",
+          "visual_context": "Pointer identifies a shelf holding books.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "librarian",
+          "number": "9",
+          "section": "80.3 LIBRARY",
+          "visual_context": "Pointer identifies the woman behind the desk.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "library card",
+          "number": "10",
+          "section": "80.3 LIBRARY",
+          "visual_context": "Pointer identifies the card held by the library user.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "periodical / journal",
+          "number": "11",
+          "section": "80.3 LIBRARY",
+          "visual_context": "Pointer identifies publications in a display rack.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "book",
+          "number": "12",
+          "section": "80.3 LIBRARY",
+          "visual_context": "Pointer identifies a book on the lower shelf.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "library",
+          "number": "13",
+          "section": "80.3 LIBRARY",
+          "visual_context": "Pointer identifies the overall room containing shelves and circulation desk.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "circulation desk (US) / loans desk (UK)",
+          "number": "14",
+          "section": "80.3 LIBRARY",
+          "visual_context": "Pointer identifies the main service counter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "I received a grant to do scientific research.",
+          "number": "14",
+          "section": null,
+          "visual_context": "Speech bubble above a scientist working with laboratory equipment.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chemistry",
+          "number": "15",
+          "section": "80.2 DEPARTMENTS AND SCHOOLS",
+          "visual_context": "Laboratory flask.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "physics",
+          "number": "16",
+          "section": "80.2 DEPARTMENTS AND SCHOOLS",
+          "visual_context": "Atom symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "biology",
+          "number": "17",
+          "section": "80.2 DEPARTMENTS AND SCHOOLS",
+          "visual_context": "DNA double helix.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "engineering",
+          "number": "18",
+          "section": "80.2 DEPARTMENTS AND SCHOOLS",
+          "visual_context": "Gears and a wrench.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sciences",
+          "number": "13",
+          "section": "80.2 DEPARTMENTS AND SCHOOLS",
+          "visual_context": "Laboratory scientist and equipment.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "zoology",
+          "number": "19",
+          "section": "80.2 DEPARTMENTS AND SCHOOLS",
+          "visual_context": "DNA strand and magnified animal paw print.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "music school",
+          "number": "20",
+          "section": "80.2 DEPARTMENTS AND SCHOOLS",
+          "visual_context": "Violinist and pianist.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dance school",
+          "number": "21",
+          "section": "80.2 DEPARTMENTS AND SCHOOLS",
+          "visual_context": "Dancer in front of a classical building.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "art college / school",
+          "number": "22",
+          "section": "80.2 DEPARTMENTS AND SCHOOLS",
+          "visual_context": "Artist's palette and brushes in front of a classical building.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

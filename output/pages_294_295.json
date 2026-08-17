@@ -1,0 +1,501 @@
+{
+  "pages": [
+    {
+      "page": 294,
+      "title": "Arts and crafts continued",
+      "context": "142.1 SEWING",
+      "entries": [
+        {
+          "source_text": "thread guide",
+          "number": "1",
+          "section": "SEWING",
+          "visual_context": "Guide on the top of the sewing machine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "thread reel (US) cotton reel (UK)",
+          "number": "2",
+          "section": "SEWING",
+          "visual_context": "Red spool of thread on the sewing machine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "balance wheel",
+          "number": "3",
+          "section": "SEWING",
+          "visual_context": "Hand wheel at the right side of the sewing machine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tension control",
+          "number": "4",
+          "section": "SEWING",
+          "visual_context": "Tension-control knob on the machine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "presser foot",
+          "number": "5",
+          "section": "SEWING",
+          "visual_context": "Foot holding fabric beneath the needle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stitch selector",
+          "number": "6",
+          "section": "SEWING",
+          "visual_context": "Stitch-pattern dial on the machine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "needle plate",
+          "number": "7",
+          "section": "SEWING",
+          "visual_context": "Metal plate beneath the machine needle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "machine needle",
+          "number": "8",
+          "section": "SEWING",
+          "visual_context": "Needle fitted in the sewing machine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stitch length selector",
+          "number": "9",
+          "section": "SEWING",
+          "visual_context": "Dial for setting stitch length.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sewing machine",
+          "number": "10",
+          "section": "SEWING",
+          "visual_context": "Complete sewing machine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tape measure",
+          "number": "11",
+          "section": "SEWING",
+          "visual_context": "Measuring tape hanging beside a tailor's dummy.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shears (US) scissors (UK)",
+          "number": "12",
+          "section": "SEWING",
+          "visual_context": "Large cutting scissors.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pinking shears (US) pinking scissors (UK)",
+          "number": "13",
+          "section": "SEWING",
+          "visual_context": "Scissors with zigzag cutting blades.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tailor’s dummy",
+          "number": "14",
+          "section": "SEWING",
+          "visual_context": "Dress form being fitted with a garment.",
+          "semantic_meaning": "A dress form used for fitting clothes."
+        },
+        {
+          "source_text": "dress pattern",
+          "number": "15",
+          "section": "SEWING",
+          "visual_context": "Paper pattern pieces and dress design.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bobbin",
+          "number": "16",
+          "section": "SEWING",
+          "visual_context": "Small spool wound with red thread.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "thread",
+          "number": "17",
+          "section": "SEWING",
+          "visual_context": "Loose red thread from the bobbin.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sewing box",
+          "number": "18",
+          "section": "SEWING",
+          "visual_context": "Wooden compartmented sewing box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sewing needle",
+          "number": "19",
+          "section": "SEWING",
+          "visual_context": "Hand needle with thread through it.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "eye",
+          "number": "20",
+          "section": "SEWING",
+          "visual_context": "Hole at the top of a sewing needle.",
+          "semantic_meaning": "The hole in a needle for thread."
+        },
+        {
+          "source_text": "pincushion",
+          "number": "21",
+          "section": "SEWING",
+          "visual_context": "Red cushion holding pins.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pin",
+          "number": "22",
+          "section": "SEWING",
+          "visual_context": "A coloured-headed pin in the pincushion.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "thimble",
+          "number": "23",
+          "section": "SEWING",
+          "visual_context": "Metal finger guard.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to tailor",
+          "number": "24",
+          "section": "SEWING",
+          "visual_context": "Person fitting or altering another person's clothing.",
+          "semantic_meaning": "To make or alter clothes to fit."
+        },
+        {
+          "source_text": "to take in",
+          "number": "25",
+          "section": "SEWING",
+          "visual_context": "Dress shown narrowing inward at the sides.",
+          "semantic_meaning": "To make a garment smaller."
+        },
+        {
+          "source_text": "to let out",
+          "number": "26",
+          "section": "SEWING",
+          "visual_context": "Dress shown widening outward at the sides.",
+          "semantic_meaning": "To make a garment larger."
+        },
+        {
+          "source_text": "to thread",
+          "number": "27",
+          "section": "SEWING",
+          "visual_context": "Hands putting thread through a needle eye.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to sew",
+          "number": "28",
+          "section": "SEWING",
+          "visual_context": "Hands stitching fabric with a needle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to cut",
+          "number": "29",
+          "section": "SEWING",
+          "visual_context": "Scissors cutting cloth.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to darn",
+          "number": "30",
+          "section": "SEWING",
+          "visual_context": "Hands repairing fabric with stitches.",
+          "semantic_meaning": "To repair a hole with stitches."
+        },
+        {
+          "source_text": "to tack",
+          "number": "31",
+          "section": "SEWING",
+          "visual_context": "Temporary stitches holding folded fabric.",
+          "semantic_meaning": "To sew temporary holding stitches."
+        },
+        {
+          "source_text": "stitch",
+          "number": "32",
+          "section": "SEWING",
+          "visual_context": "A row of stitches in fabric.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to unpick",
+          "number": "33",
+          "section": "SEWING",
+          "visual_context": "Seam ripper removing stitches.",
+          "semantic_meaning": "To remove stitches."
+        },
+        {
+          "source_text": "ribbon",
+          "number": "34",
+          "section": "SEWING",
+          "visual_context": "Purple strip of ribbon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tailor’s chalk",
+          "number": "35",
+          "section": "SEWING",
+          "visual_context": "Coloured triangular pieces of marking chalk.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 295,
+      "title": null,
+      "context": "142.1 SEWING (continued)",
+      "entries": [
+        {
+          "source_text": "needlepoint",
+          "number": "36",
+          "section": "SEWING",
+          "visual_context": "Decorative stitched design in an embroidery hoop.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "embroidery",
+          "number": "37",
+          "section": "SEWING",
+          "visual_context": "Embroidered landscape in an embroidery hoop.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "macramé",
+          "number": "38",
+          "section": "SEWING",
+          "visual_context": "Knotted hanging textile decoration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "quilting",
+          "number": "39",
+          "section": "SEWING",
+          "visual_context": "Patchwork quilt panel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "patchwork",
+          "number": "40",
+          "section": "SEWING",
+          "visual_context": "Garment made from differently coloured fabric pieces.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fabric",
+          "number": "41",
+          "section": "SEWING",
+          "visual_context": "Stack of folded cloth.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lace-making",
+          "number": "42",
+          "section": "SEWING",
+          "visual_context": "Lace pattern being made on a lace pillow.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lace bobbin",
+          "number": "43",
+          "section": "SEWING",
+          "visual_context": "Wooden bobbins used for making lace.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "I sell my handicrafts at local craft fairs.",
+          "number": "44",
+          "section": "SEWING",
+          "visual_context": "Speech bubble from the weaver.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "weaver",
+          "number": "45",
+          "section": "SEWING",
+          "visual_context": "Person working at a loom.",
+          "semantic_meaning": "A person who makes cloth by weaving."
+        },
+        {
+          "source_text": "weft thread",
+          "number": "46",
+          "section": "SEWING",
+          "visual_context": "Horizontal threads being passed through the loom.",
+          "semantic_meaning": "Thread woven across the warp."
+        },
+        {
+          "source_text": "loom",
+          "number": "47",
+          "section": "SEWING",
+          "visual_context": "Frame used by the weaver to make cloth.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "warp thread",
+          "number": "48",
+          "section": "SEWING",
+          "visual_context": "Vertical threads on the loom.",
+          "semantic_meaning": "Thread held lengthways on a loom."
+        },
+        {
+          "source_text": "weaving",
+          "number": "49",
+          "section": "SEWING",
+          "visual_context": "Process illustrated by the weaver using the loom.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "collar",
+          "number": "50",
+          "section": "SEWING",
+          "visual_context": "Neckband of the blue dress.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bust dart",
+          "number": "51",
+          "section": "SEWING",
+          "visual_context": "Shaping seam at the chest of the dress.",
+          "semantic_meaning": "A dart that shapes fabric around the bust."
+        },
+        {
+          "source_text": "waistband",
+          "number": "52",
+          "section": "SEWING",
+          "visual_context": "Band around the waist of the dress.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gathers",
+          "number": "53",
+          "section": "SEWING",
+          "visual_context": "Fullness created by gathered fabric below the waistband.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pocket",
+          "number": "54",
+          "section": "SEWING",
+          "visual_context": "Front pocket on the skirt.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gathered skirt",
+          "number": "55",
+          "section": "SEWING",
+          "visual_context": "Full lower skirt of the dress.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hem",
+          "number": "56",
+          "section": "SEWING",
+          "visual_context": "Finished bottom edge of the skirt.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "neckline",
+          "number": "57",
+          "section": "SEWING",
+          "visual_context": "Opening around the neck of the dress.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dart",
+          "number": "58",
+          "section": "SEWING",
+          "visual_context": "Shaping seam on the dress front.",
+          "semantic_meaning": "A folded and sewn tuck that shapes a garment."
+        },
+        {
+          "source_text": "cuff",
+          "number": "59",
+          "section": "SEWING",
+          "visual_context": "Finished band at the sleeve end.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "seam",
+          "number": "60",
+          "section": "SEWING",
+          "visual_context": "Central sewn join running down the dress.",
+          "semantic_meaning": "A line where pieces of fabric are sewn together."
+        },
+        {
+          "source_text": "crochet",
+          "number": "61",
+          "section": "SEWING",
+          "visual_context": "Small crocheted toy.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "crochet hook",
+          "number": "62",
+          "section": "SEWING",
+          "visual_context": "Hooked tool for crochet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "knitting",
+          "number": "63",
+          "section": "SEWING",
+          "visual_context": "Knitted piece held on knitting needles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wool",
+          "number": "64",
+          "section": "SEWING",
+          "visual_context": "Ball of orange wool.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "knitting needle",
+          "number": "65",
+          "section": "SEWING",
+          "visual_context": "Needles passing through the ball of wool.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "skein",
+          "number": "66",
+          "section": "SEWING",
+          "visual_context": "Twisted bundle of purple yarn.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "buttons",
+          "number": "67",
+          "section": "SEWING",
+          "visual_context": "Coloured sewing buttons.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "zipper (US) zip (UK)",
+          "number": "68",
+          "section": "SEWING",
+          "visual_context": "Black zipper.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hook and eye",
+          "number": "69",
+          "section": "SEWING",
+          "visual_context": "Hook-and-loop clothing fastener.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

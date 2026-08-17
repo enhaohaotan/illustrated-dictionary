@@ -1,0 +1,242 @@
+{
+  "pages": [
+    {
+      "page": 194,
+      "title": "Applying for a job",
+      "context": "92.1 JOB APPLICATIONS; 92.2 APPLYING FOR A JOB",
+      "entries": [
+        {
+          "source_text": "job advert",
+          "number": "1",
+          "section": "92.1 JOB APPLICATIONS",
+          "visual_context": "A newspaper job advertisement with listings circled.",
+          "semantic_meaning": "advertisement for an available job"
+        },
+        {
+          "source_text": "application form",
+          "number": "2",
+          "section": "92.1 JOB APPLICATIONS",
+          "visual_context": "A blank form with fields to complete.",
+          "semantic_meaning": "form used to apply for a job"
+        },
+        {
+          "source_text": "cover letter",
+          "number": "3",
+          "section": "92.1 JOB APPLICATIONS",
+          "visual_context": "A letter and résumé in an envelope.",
+          "semantic_meaning": "letter sent with a job application"
+        },
+        {
+          "source_text": "portfolio",
+          "number": "4",
+          "section": "92.1 JOB APPLICATIONS",
+          "visual_context": "A folder containing examples of work.",
+          "semantic_meaning": "collection of work samples"
+        },
+        {
+          "source_text": "résumé (US)\nCV (UK)",
+          "number": "5",
+          "section": "92.1 JOB APPLICATIONS",
+          "visual_context": "Two people reviewing a document with a photograph and employment details.",
+          "semantic_meaning": "document summarizing a person's education and work experience"
+        },
+        {
+          "source_text": "recruiter (US)\nrecruitment agency (UK)",
+          "number": "6",
+          "section": "92.1 JOB APPLICATIONS",
+          "visual_context": "A recruiter sits with a job applicant and completes a form.",
+          "semantic_meaning": "person or organization that finds candidates for jobs"
+        },
+        {
+          "source_text": "to fill out a form",
+          "number": "7",
+          "section": "92.1 JOB APPLICATIONS",
+          "visual_context": "Pointer to the form being completed by the recruiter and applicant.",
+          "semantic_meaning": "to complete a form by writing required information"
+        },
+        {
+          "source_text": "What kind of work are you looking for?",
+          "number": "8",
+          "section": "92.1 JOB APPLICATIONS",
+          "visual_context": "Speech bubble from the recruiter speaking to an applicant.",
+          "semantic_meaning": "question about the type of job wanted"
+        },
+        {
+          "source_text": "to apply for a job",
+          "number": "1",
+          "section": "92.2 APPLYING FOR A JOB",
+          "visual_context": "A person uses a computer to submit an application.",
+          "semantic_meaning": "to formally request a job"
+        },
+        {
+          "source_text": "vacancies",
+          "number": "2",
+          "section": "92.2 APPLYING FOR A JOB",
+          "visual_context": "Pointer to job listings on a computer screen.",
+          "semantic_meaning": "available jobs"
+        },
+        {
+          "source_text": "to have an interview",
+          "number": "3",
+          "section": "92.2 APPLYING FOR A JOB",
+          "visual_context": "A candidate and interviewer sit across a desk.",
+          "semantic_meaning": "to meet an employer to discuss a job application"
+        },
+        {
+          "source_text": "What makes you the perfect candidate for this job?",
+          "number": "4",
+          "section": "92.2 APPLYING FOR A JOB",
+          "visual_context": "Speech bubble from the interviewer during the interview.",
+          "semantic_meaning": "interview question about suitability for a job"
+        },
+        {
+          "source_text": "I’m hardworking and I’m a team player.",
+          "number": "5",
+          "section": "92.2 APPLYING FOR A JOB",
+          "visual_context": "Speech bubble from the job candidate during the interview.",
+          "semantic_meaning": "statement describing positive workplace qualities"
+        }
+      ]
+    },
+    {
+      "page": 195,
+      "title": "TEAMWORK",
+      "context": "92.3 TEAMWORK; continuation of 92.2 APPLYING FOR A JOB",
+      "entries": [
+        {
+          "source_text": "to collaborate",
+          "number": "1",
+          "section": "92.3 TEAMWORK",
+          "visual_context": "Three people working together around a table.",
+          "semantic_meaning": "to work together with others"
+        },
+        {
+          "source_text": "to coordinate",
+          "number": "2",
+          "section": "92.3 TEAMWORK",
+          "visual_context": "Two people organize tasks on a planning board.",
+          "semantic_meaning": "to organize people or activities so they work effectively together"
+        },
+        {
+          "source_text": "to negotiate",
+          "number": "3",
+          "section": "92.3 TEAMWORK",
+          "visual_context": "Two people talk while one holds a pitchfork, with a chicken beside them.",
+          "semantic_meaning": "to discuss in order to reach an agreement"
+        },
+        {
+          "source_text": "to volunteer",
+          "number": "4",
+          "section": "92.3 TEAMWORK",
+          "visual_context": "People raise their hands to offer help.",
+          "semantic_meaning": "to offer to do something willingly"
+        },
+        {
+          "source_text": "to supervise",
+          "number": "5",
+          "section": "92.3 TEAMWORK",
+          "visual_context": "One worker directs and observes two other workers.",
+          "semantic_meaning": "to oversee the work of others"
+        },
+        {
+          "source_text": "to manage",
+          "number": "6",
+          "section": "92.3 TEAMWORK",
+          "visual_context": "A manager directs staff members.",
+          "semantic_meaning": "to be responsible for controlling or organizing work"
+        },
+        {
+          "source_text": "to meet a deadline",
+          "number": "7",
+          "section": "92.3 TEAMWORK",
+          "visual_context": "Two people work at a table beside a clock.",
+          "semantic_meaning": "to complete work by a required time"
+        },
+        {
+          "source_text": "to organize",
+          "number": "8",
+          "section": "92.3 TEAMWORK",
+          "visual_context": "A worker holds a clipboard or document.",
+          "semantic_meaning": "to arrange or plan things systematically"
+        },
+        {
+          "source_text": "supervisor",
+          "number": "9",
+          "section": "92.3 TEAMWORK",
+          "visual_context": "Pointer to the tall green worker overseeing the group.",
+          "semantic_meaning": "person who supervises workers"
+        },
+        {
+          "source_text": "job sheet",
+          "number": "10",
+          "section": "92.3 TEAMWORK",
+          "visual_context": "Pointer to the striped work document held by the supervisor.",
+          "semantic_meaning": "document listing work tasks or instructions"
+        },
+        {
+          "source_text": "apprentice",
+          "number": "11",
+          "section": "92.3 TEAMWORK",
+          "visual_context": "Pointer to the smaller blue worker in the group.",
+          "semantic_meaning": "person learning a skilled job from an experienced worker"
+        },
+        {
+          "source_text": "team leader",
+          "number": "12",
+          "section": "92.3 TEAMWORK",
+          "visual_context": "Pointer to the orange worker leading the group.",
+          "semantic_meaning": "person responsible for leading a team"
+        },
+        {
+          "source_text": "co-worker /\ncolleague",
+          "number": "13",
+          "section": "92.3 TEAMWORK",
+          "visual_context": "Pointer to the blue worker beside the team leader.",
+          "semantic_meaning": "person who works with another person"
+        },
+        {
+          "source_text": "to get the job",
+          "number": "6",
+          "section": "92.2 APPLYING FOR A JOB",
+          "visual_context": "A man and woman shake hands after a successful job application.",
+          "semantic_meaning": "to be offered or obtain the job"
+        },
+        {
+          "source_text": "to shake hands",
+          "number": "7",
+          "section": "92.2 APPLYING FOR A JOB",
+          "visual_context": "Pointer to the hands of two people greeting each other.",
+          "semantic_meaning": "to greet or agree by clasping hands"
+        },
+        {
+          "source_text": "Welcome to the company. We are looking forward to working with you.",
+          "number": "8",
+          "section": "92.2 APPLYING FOR A JOB",
+          "visual_context": "Speech bubble from the man welcoming the new employee.",
+          "semantic_meaning": "welcome given after someone gets a job"
+        },
+        {
+          "source_text": "to sign a contract",
+          "number": "9",
+          "section": "92.2 APPLYING FOR A JOB",
+          "visual_context": "A person signs a document at a desk.",
+          "semantic_meaning": "to write one's signature on a legal agreement"
+        },
+        {
+          "source_text": "contract",
+          "number": "10",
+          "section": "92.2 APPLYING FOR A JOB",
+          "visual_context": "Pointer to the document being signed.",
+          "semantic_meaning": "legal written agreement"
+        },
+        {
+          "source_text": "I can’t wait to get started.",
+          "number": "11",
+          "section": "92.2 APPLYING FOR A JOB",
+          "visual_context": "Speech bubble from the new employee signing the contract.",
+          "semantic_meaning": "expression of eagerness to begin work"
+        }
+      ]
+    }
+  ]
+}

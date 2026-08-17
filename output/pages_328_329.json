@@ -1,0 +1,494 @@
+{
+  "pages": [
+    {
+      "page": 328,
+      "title": "Mammals continued",
+      "context": "159.1 SPECIES OF MAMMALS",
+      "entries": [
+        {
+          "source_text": "reindeer",
+          "number": "1",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Reindeer in the snowy Arctic landscape.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "caribou",
+          "number": "2",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Caribou in the snowy Arctic landscape.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Arctic wolf",
+          "number": "3",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "White wolf standing on an ice-covered rock.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Arctic fox",
+          "number": "4",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Small pale fox in snow.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "musk ox",
+          "number": "5",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Two shaggy musk oxen in the snow.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "polar bear",
+          "number": "6",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Polar bear in the Arctic scene.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Arctic hare",
+          "number": "7",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "White hare beside an icy rock.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "seal",
+          "number": "8",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Seal lying on snow beside water.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Arctic",
+          "number": "9",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "The snowy, icy landscape containing reindeer, wolves, fox, musk ox, bear, hare, and seal.",
+          "semantic_meaning": "Polar region."
+        },
+        {
+          "source_text": "brown bear",
+          "number": "10",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Large brown bear in the forest landscape.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "red fox",
+          "number": "11",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Orange-red fox in the forest landscape.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "broadleaf forest",
+          "number": "15",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Woodland habitat behind the brown bear and red fox.",
+          "semantic_meaning": "Forest dominated by broad-leaved trees."
+        },
+        {
+          "source_text": "Asian elephant",
+          "number": "23",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Elephant illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "trunk",
+          "number": "24",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Pointer to the elephant's long nose.",
+          "semantic_meaning": "Elephant's long flexible nose."
+        },
+        {
+          "source_text": "anteater",
+          "number": "25",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Anteater illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tiger",
+          "number": "26",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Adult tiger with young tigers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cub",
+          "number": "27",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Pointer to a young tiger beside the adult tiger.",
+          "semantic_meaning": "A young animal, especially a young large cat or bear."
+        },
+        {
+          "source_text": "leopard",
+          "number": "28",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Spotted leopard illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wildcat",
+          "number": "29",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Wildcat illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bobcat",
+          "number": "30",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Bobcat illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "snow leopard",
+          "number": "31",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Pale spotted snow leopard illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ring-tailed lemur",
+          "number": "32",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Lemur with a striped ringed tail.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "capuchin monkey",
+          "number": "33",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Capuchin monkey illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "spider monkey",
+          "number": "34",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Spider monkey illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tail",
+          "number": "35",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Pointer to the spider monkey's tail.",
+          "semantic_meaning": "The rear appendage of an animal."
+        },
+        {
+          "source_text": "proboscis monkey",
+          "number": "36",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Large-nosed monkey illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pendulous nose",
+          "number": "37",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Pointer to the proboscis monkey's hanging nose.",
+          "semantic_meaning": "A nose that hangs down."
+        },
+        {
+          "source_text": "macaque",
+          "number": "38",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Macaque illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mandrill",
+          "number": "39",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Mandrill illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "marmoset",
+          "number": "40",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Small marmoset illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "orangutan",
+          "number": "41",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Orange-haired orangutan illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chimpanzee",
+          "number": "42",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Chimpanzee illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gibbon",
+          "number": "43",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Long-armed gibbon illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gorilla",
+          "number": "44",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Gorilla illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "panda",
+          "number": "45",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Giant panda illustration.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 329,
+      "title": null,
+      "context": "SPECIES OF MAMMALS",
+      "entries": [
+        {
+          "source_text": "lynx",
+          "number": "12",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Lynx in the rain forest scene.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "boar",
+          "number": "13",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Boar in the rain forest scene.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wolf",
+          "number": "14",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Wolf in the rain forest scene.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "howler monkey",
+          "number": "16",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Dark monkey on a tree branch.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sloth",
+          "number": "17",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Sloth hanging from a tree branch.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "squirrel monkey",
+          "number": "18",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Small pale monkeys on a tree branch.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tapir",
+          "number": "19",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Tapir in the rain forest scene.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "capybara",
+          "number": "20",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Capybara in the rain forest scene.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "jaguar",
+          "number": "21",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Spotted jaguar in the rain forest scene.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rain forest",
+          "number": "22",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "The dense forest habitat behind the animals and monkeys.",
+          "semantic_meaning": "A forest with heavy rainfall."
+        },
+        {
+          "source_text": "moose",
+          "number": "46",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Large moose illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hoof",
+          "number": "47",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Pointer to the moose's foot.",
+          "semantic_meaning": "Hard foot covering of an ungulate."
+        },
+        {
+          "source_text": "long legs",
+          "number": "48",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Pointer to the moose's legs.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "antler",
+          "number": "49",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Pointer to the moose's branched horn.",
+          "semantic_meaning": "A branched bony structure on a deer's head."
+        },
+        {
+          "source_text": "dewlap",
+          "number": "50",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Pointer to loose skin hanging beneath the moose's neck.",
+          "semantic_meaning": "Loose skin hanging below an animal's neck."
+        },
+        {
+          "source_text": "pangolin",
+          "number": "51",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Scaled pangolin illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "red panda",
+          "number": "52",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Red panda illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "warthog",
+          "number": "53",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Warthog illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "buffalo",
+          "number": "54",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Buffalo illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "yak",
+          "number": "55",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Long-haired yak illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "oryx",
+          "number": "56",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Long-horned oryx illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mountain goat",
+          "number": "57",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Mountain goat illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mole",
+          "number": "58",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Mole emerging from a mound of soil.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chipmunk",
+          "number": "59",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Striped chipmunk illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mongoose",
+          "number": "60",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Mongoose illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "armadillo",
+          "number": "61",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Armadillo illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "meerkat",
+          "number": "62",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Meerkat standing upright.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to hunt",
+          "number": "63",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Predator chasing prey.",
+          "semantic_meaning": "To chase and catch animals."
+        },
+        {
+          "source_text": "to prowl",
+          "number": "64",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Big cat moving stealthily.",
+          "semantic_meaning": "To move about quietly while searching."
+        },
+        {
+          "source_text": "to roar",
+          "number": "65",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Roaring lion with sound lines.",
+          "semantic_meaning": "To make a loud deep animal sound."
+        },
+        {
+          "source_text": "to swing",
+          "number": "66",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Monkey swinging from a branch.",
+          "semantic_meaning": "To move while hanging from something."
+        },
+        {
+          "source_text": "to pounce",
+          "number": "67",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Big cat leaping onto prey.",
+          "semantic_meaning": "To spring suddenly onto prey."
+        },
+        {
+          "source_text": "to burrow",
+          "number": "68",
+          "section": "SPECIES OF MAMMALS",
+          "visual_context": "Animal digging in an underground tunnel.",
+          "semantic_meaning": "To dig or live in a hole or tunnel."
+        }
+      ]
+    }
+  ]
+}

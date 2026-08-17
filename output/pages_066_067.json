@@ -1,0 +1,501 @@
+{
+  "pages": [
+    {
+      "page": 66,
+      "title": "Kitchen and tableware",
+      "context": "27.1 KITCHEN APPLIANCES",
+      "entries": [
+        {
+          "source_text": "mixer",
+          "number": "1",
+          "section": "KITCHEN APPLIANCES",
+          "visual_context": "Green stand mixer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "toaster",
+          "number": "2",
+          "section": "KITCHEN APPLIANCES",
+          "visual_context": "Red toaster.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "blender / food processor (UK)",
+          "number": "3",
+          "section": "KITCHEN APPLIANCES",
+          "visual_context": "Countertop blender.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dishwasher",
+          "number": "4",
+          "section": "KITCHEN APPLIANCES",
+          "visual_context": "Dishwashing machine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "electric kettle",
+          "number": "5",
+          "section": "KITCHEN APPLIANCES",
+          "visual_context": "Electric water kettle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rice cooker",
+          "number": "6",
+          "section": "KITCHEN APPLIANCES",
+          "visual_context": "Lidded electric rice cooker.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "freezer",
+          "number": "7",
+          "section": "KITCHEN APPLIANCES",
+          "visual_context": "Upper frozen-food compartment of refrigerator.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ice maker",
+          "number": "8",
+          "section": "KITCHEN APPLIANCES",
+          "visual_context": "Ice-making unit inside freezer door.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shelf",
+          "number": "9",
+          "section": "KITCHEN APPLIANCES",
+          "visual_context": "Horizontal refrigerator shelf.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "crisper (US) salad drawer (UK)",
+          "number": "10",
+          "section": "KITCHEN APPLIANCES",
+          "visual_context": "Bottom refrigerator drawer holding vegetables.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "refrigerator / fridge (UK)",
+          "number": "11",
+          "section": "KITCHEN APPLIANCES",
+          "visual_context": "Open refrigerator appliance.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pantry",
+          "number": "12",
+          "section": "KITCHEN APPLIANCES",
+          "visual_context": "Tall food-storage cupboard.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ceramic stovetop (US) ceramic hob (UK)",
+          "number": "13",
+          "section": "KITCHEN APPLIANCES",
+          "visual_context": "Flat black electric cooking surface.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "exhaust fan (US) extractor fan (UK)",
+          "number": "14",
+          "section": "KITCHEN APPLIANCES",
+          "visual_context": "Ventilation hood above the stove.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dish rack",
+          "number": "15",
+          "section": "KITCHEN APPLIANCES",
+          "visual_context": "Rack holding upright dishes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shelves",
+          "number": "16",
+          "section": "KITCHEN APPLIANCES",
+          "visual_context": "Wall-mounted shelves with bottles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "microwave oven",
+          "number": "17",
+          "section": "KITCHEN APPLIANCES",
+          "visual_context": "Microwave on the countertop.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "backsplash (US) splashback (UK)",
+          "number": "18",
+          "section": "KITCHEN APPLIANCES",
+          "visual_context": "Wall panel behind the stovetop.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "burner",
+          "number": "19",
+          "section": "KITCHEN APPLIANCES",
+          "visual_context": "Lit gas burner on the stove.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "countertop (US) worktop (UK)",
+          "number": "20",
+          "section": "KITCHEN APPLIANCES",
+          "visual_context": "Horizontal kitchen work surface.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "faucet (US) tap (UK)",
+          "number": "21",
+          "section": "KITCHEN APPLIANCES",
+          "visual_context": "Water fixture above sink.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "drawer",
+          "number": "22",
+          "section": "KITCHEN APPLIANCES",
+          "visual_context": "Lower cabinet drawer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cabinet",
+          "number": "23",
+          "section": "KITCHEN APPLIANCES",
+          "visual_context": "Lower storage cupboard.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "oven",
+          "number": "24",
+          "section": "KITCHEN APPLIANCES",
+          "visual_context": "Built-in oven below stovetop.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stove (US) hob (UK)",
+          "number": "25",
+          "section": "KITCHEN APPLIANCES",
+          "visual_context": "Gas cooking appliance/surface.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "trash can (US) rubbish bin (UK)",
+          "number": "26",
+          "section": "KITCHEN APPLIANCES",
+          "visual_context": "Waste basket on floor.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sink",
+          "number": "27",
+          "section": "KITCHEN APPLIANCES",
+          "visual_context": "Basin beneath faucet.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 67,
+      "title": "TABLEWARE",
+      "context": "27.2 TABLEWARE",
+      "entries": [
+        {
+          "source_text": "Kitchenware",
+          "number": "28",
+          "section": "See also:",
+          "visual_context": "See-also cross-reference.",
+          "semantic_meaning": "Related vocabulary topic."
+        },
+        {
+          "source_text": "Cooking",
+          "number": "29",
+          "section": "See also:",
+          "visual_context": "See-also cross-reference.",
+          "semantic_meaning": "Related vocabulary topic."
+        },
+        {
+          "source_text": "Herbs and spices",
+          "number": "59",
+          "section": "See also:",
+          "visual_context": "See-also cross-reference.",
+          "semantic_meaning": "Related vocabulary topic."
+        },
+        {
+          "source_text": "In the pantry",
+          "number": "60",
+          "section": "See also:",
+          "visual_context": "See-also cross-reference.",
+          "semantic_meaning": "Related vocabulary topic."
+        },
+        {
+          "source_text": "Breakfast",
+          "number": "71",
+          "section": "See also:",
+          "visual_context": "See-also cross-reference.",
+          "semantic_meaning": "Related vocabulary topic."
+        },
+        {
+          "source_text": "Lunch and dinner",
+          "number": "72",
+          "section": "See also:",
+          "visual_context": "See-also cross-reference.",
+          "semantic_meaning": "Related vocabulary topic."
+        },
+        {
+          "source_text": "fork",
+          "number": "1",
+          "section": "TABLEWARE",
+          "visual_context": "Four-tined eating utensil.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "knife",
+          "number": "2",
+          "section": "TABLEWARE",
+          "visual_context": "Table knife.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tablespoon",
+          "number": "3",
+          "section": "TABLEWARE",
+          "visual_context": "Large spoon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "teaspoon",
+          "number": "4",
+          "section": "TABLEWARE",
+          "visual_context": "Small spoon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "soup spoon",
+          "number": "5",
+          "section": "TABLEWARE",
+          "visual_context": "Round-bowled soup spoon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "serving spoon",
+          "number": "6",
+          "section": "TABLEWARE",
+          "visual_context": "Large spoon for serving food.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "silverware (US) cutlery (UK)",
+          "number": "7",
+          "section": "TABLEWARE",
+          "visual_context": "Set of fork, knife, and spoon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "butter knife",
+          "number": "8",
+          "section": "TABLEWARE",
+          "visual_context": "Small blunt knife.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chopsticks",
+          "number": "9",
+          "section": "TABLEWARE",
+          "visual_context": "Pair of wooden eating sticks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ladle",
+          "number": "10",
+          "section": "TABLEWARE",
+          "visual_context": "Long-handled deep serving spoon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dinner plate",
+          "number": "11",
+          "section": "TABLEWARE",
+          "visual_context": "Large plate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "side plate",
+          "number": "12",
+          "section": "TABLEWARE",
+          "visual_context": "Small plate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dinnerware (US) crockery (UK)",
+          "number": "13",
+          "section": "TABLEWARE",
+          "visual_context": "Plates and cups.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "coffee cup",
+          "number": "14",
+          "section": "TABLEWARE",
+          "visual_context": "Cup of coffee on saucer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "teacup",
+          "number": "15",
+          "section": "TABLEWARE",
+          "visual_context": "Tea cup and saucer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mug",
+          "number": "16",
+          "section": "TABLEWARE",
+          "visual_context": "Handled cylindrical cup.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "espresso maker",
+          "number": "17",
+          "section": "TABLEWARE",
+          "visual_context": "Stovetop espresso maker.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "teapot",
+          "number": "18",
+          "section": "TABLEWARE",
+          "visual_context": "Lidded tea pot with handle and spout.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "place setting",
+          "number": "19",
+          "section": "TABLEWARE",
+          "visual_context": "Arranged plate and utensils.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "napkin",
+          "number": "20",
+          "section": "TABLEWARE",
+          "visual_context": "Folded cloth napkin.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "napkin ring",
+          "number": "21",
+          "section": "TABLEWARE",
+          "visual_context": "Ring holding a rolled napkin.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bowl",
+          "number": "22",
+          "section": "TABLEWARE",
+          "visual_context": "General red bowl.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "soup bowl",
+          "number": "23",
+          "section": "TABLEWARE",
+          "visual_context": "Bowl of steaming soup.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rice bowl",
+          "number": "24",
+          "section": "TABLEWARE",
+          "visual_context": "Small bowl filled with rice.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "egg cup",
+          "number": "25",
+          "section": "TABLEWARE",
+          "visual_context": "Cup holding an egg.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sushi set",
+          "number": "26",
+          "section": "TABLEWARE",
+          "visual_context": "Sushi board with chopsticks and dishes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "measuring cup (US) measuring jug (UK)",
+          "number": "27",
+          "section": "TABLEWARE",
+          "visual_context": "Graduated cup containing liquid.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tumbler",
+          "number": "28",
+          "section": "TABLEWARE",
+          "visual_context": "Short straight-sided drinking glass.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wineglass",
+          "number": "29",
+          "section": "TABLEWARE",
+          "visual_context": "Stemmed glass containing red wine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pint glass",
+          "number": "30",
+          "section": "TABLEWARE",
+          "visual_context": "Tall beer-glass-shaped drinking glass.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stemware",
+          "number": "31",
+          "section": "TABLEWARE",
+          "visual_context": "Collection of stemmed glasses.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "glasses / glassware",
+          "number": "32",
+          "section": "TABLEWARE",
+          "visual_context": "Collection of drinking glasses.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "jar",
+          "number": "33",
+          "section": "TABLEWARE",
+          "visual_context": "Glass storage jar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "beaker",
+          "number": "34",
+          "section": "TABLEWARE",
+          "visual_context": "Lidded drinking beaker with straw.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sake cup",
+          "number": "35",
+          "section": "TABLEWARE",
+          "visual_context": "Small cup for sake.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "coaster",
+          "number": "36",
+          "section": "TABLEWARE",
+          "visual_context": "Round mat beneath a glass.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

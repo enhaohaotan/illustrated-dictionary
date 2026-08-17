@@ -1,0 +1,375 @@
+{
+  "pages": [
+    {
+      "page": 252,
+      "title": "Fishing",
+      "context": "Illustrated fishing vocabulary page.",
+      "entries": [
+        {
+          "source_text": "fishing rod",
+          "number": "1",
+          "section": "121.1 ANGLER",
+          "visual_context": "Pointer to the rod held by the angler standing in the water.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "I felt a fish bite. I need to reel it in.",
+          "number": "2",
+          "section": "121.1 ANGLER",
+          "visual_context": "Speech bubble from the standing angler.",
+          "semantic_meaning": "Example sentence about detecting a fish and winding in the line."
+        },
+        {
+          "source_text": "pole",
+          "number": "3",
+          "section": "121.1 ANGLER",
+          "visual_context": "Pointer to the long pole held by the seated fisher.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "line",
+          "number": "4",
+          "section": "121.1 ANGLER",
+          "visual_context": "Pointer to the fishing line in the water.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "float",
+          "number": "5",
+          "section": "121.1 ANGLER",
+          "visual_context": "Pointer to the small bobber floating on the water.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "waterproof fishing gear / waterproofs (UK)",
+          "number": "6",
+          "section": "121.1 ANGLER",
+          "visual_context": "Pointer to the seated fisher's tall waterproof boots/trousers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "angler",
+          "number": "7",
+          "section": "121.1 ANGLER",
+          "visual_context": "Pointer to the seated person fishing.",
+          "semantic_meaning": "A person who fishes with a rod or line."
+        },
+        {
+          "source_text": "fishing license (US) fishing permit (UK)",
+          "number": "8",
+          "section": "121.1 ANGLER",
+          "visual_context": "Pointer to the paper license beside the tackle box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "reel",
+          "number": "9",
+          "section": "121.1 ANGLER",
+          "visual_context": "Pointer to the reel attached to the standing angler's rod.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "waders",
+          "number": "10",
+          "section": "121.1 ANGLER",
+          "visual_context": "Pointer to the standing angler's waterproof chest waders.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fishing vest",
+          "number": "11",
+          "section": "121.1 ANGLER",
+          "visual_context": "Pointer to the seated fisher's pocketed vest.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tackle",
+          "number": "12",
+          "section": "121.1 ANGLER",
+          "visual_context": "Pointer to the assortment of fishing equipment in the open box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tackle box",
+          "number": "1",
+          "section": "121.2 FISHING",
+          "visual_context": "Illustration of an open box containing fishing equipment.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bait",
+          "number": "2",
+          "section": "121.2 FISHING",
+          "visual_context": "Illustration of worms and yellow bait pieces.",
+          "semantic_meaning": "Food or other material used to attract fish."
+        },
+        {
+          "source_text": "float",
+          "number": "3",
+          "section": "121.2 FISHING",
+          "visual_context": "Illustration of a fishing float/bobber.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "harpoon",
+          "number": "4",
+          "section": "121.2 FISHING",
+          "visual_context": "Illustration of a long spear-like fishing implement.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fishhook",
+          "number": "5",
+          "section": "121.2 FISHING",
+          "visual_context": "Large illustration of a single curved hook.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "barb",
+          "number": "6",
+          "section": "121.2 FISHING",
+          "visual_context": "Pointer to the backward-facing pointed projection on the fishhook.",
+          "semantic_meaning": "The pointed projection that prevents a hook from slipping out."
+        },
+        {
+          "source_text": "eye",
+          "number": "7",
+          "section": "121.2 FISHING",
+          "visual_context": "Pointer to the loop at the top of the fishhook.",
+          "semantic_meaning": "The loop through which fishing line is attached."
+        },
+        {
+          "source_text": "treble fishhook",
+          "number": "8",
+          "section": "121.2 FISHING",
+          "visual_context": "Illustration of a three-pronged hook.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "weight",
+          "number": "9",
+          "section": "121.2 FISHING",
+          "visual_context": "Illustration of a hanging sinker.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lure",
+          "number": "10",
+          "section": "121.2 FISHING",
+          "visual_context": "Illustration of a colorful artificial fish-shaped lure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fly",
+          "number": "11",
+          "section": "121.2 FISHING",
+          "visual_context": "Illustration of a feathered artificial fly lure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "reel",
+          "number": "12",
+          "section": "121.2 FISHING",
+          "visual_context": "Illustration of a fishing reel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "landing net",
+          "number": "13",
+          "section": "121.2 FISHING",
+          "visual_context": "Illustration of a handled mesh net.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "keep net",
+          "number": "14",
+          "section": "121.2 FISHING",
+          "visual_context": "Illustration of a long cylindrical mesh net for retaining fish.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 253,
+      "title": null,
+      "context": "Illustrated fishing types, fishing verbs, and knots vocabulary page.",
+      "entries": [
+        {
+          "source_text": "Fish and seafood",
+          "number": "54",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the upper-right box.",
+          "semantic_meaning": "Related vocabulary section."
+        },
+        {
+          "source_text": "Sailing and watersports",
+          "number": "119",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the upper-right box.",
+          "semantic_meaning": "Related vocabulary section."
+        },
+        {
+          "source_text": "Ocean life",
+          "number": "166",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the upper-right box.",
+          "semantic_meaning": "Related vocabulary section."
+        },
+        {
+          "source_text": "fly fishing",
+          "number": "1",
+          "section": "121.3 TYPES OF FISHING",
+          "visual_context": "Illustration of a person casting a fly line over a river.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "freshwater fishing",
+          "number": "2",
+          "section": "121.3 TYPES OF FISHING",
+          "visual_context": "Illustration of a person fishing beside inland water.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "marine fishing",
+          "number": "3",
+          "section": "121.3 TYPES OF FISHING",
+          "visual_context": "Illustration of a fishing boat using a net at sea.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "deep sea fishing",
+          "number": "4",
+          "section": "121.3 TYPES OF FISHING",
+          "visual_context": "Illustration of a boat fishing over fish below the sea surface.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sport fishing",
+          "number": "5",
+          "section": "121.3 TYPES OF FISHING",
+          "visual_context": "Illustration of a large fish leaping while a person fishes from a boat.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "spearfishing",
+          "number": "6",
+          "section": "121.3 TYPES OF FISHING",
+          "visual_context": "Illustration of a diver using a spear underwater.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ice fishing",
+          "number": "7",
+          "section": "121.3 TYPES OF FISHING",
+          "visual_context": "Illustration of a seated person fishing through a hole in ice.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stand",
+          "number": "8",
+          "section": "121.3 TYPES OF FISHING",
+          "visual_context": "Pointer to the rod support on the beach.",
+          "semantic_meaning": "A support for holding a fishing rod."
+        },
+        {
+          "source_text": "surfcasting",
+          "number": "9",
+          "section": "121.3 TYPES OF FISHING",
+          "visual_context": "Illustration of a person casting from the shore into surf.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to bait",
+          "number": "1",
+          "section": "121.4 FISHING VERBS",
+          "visual_context": "Illustration of a person putting bait on a hook.",
+          "semantic_meaning": "To put bait on a hook."
+        },
+        {
+          "source_text": "to cast",
+          "number": "2",
+          "section": "121.4 FISHING VERBS",
+          "visual_context": "Illustration showing a person throwing a line out from a rod.",
+          "semantic_meaning": "To throw a fishing line out."
+        },
+        {
+          "source_text": "to bite",
+          "number": "3",
+          "section": "121.4 FISHING VERBS",
+          "visual_context": "Illustration of a fish taking the bait, alerting the fisher.",
+          "semantic_meaning": "For a fish to take or nibble bait."
+        },
+        {
+          "source_text": "to catch",
+          "number": "4",
+          "section": "121.4 FISHING VERBS",
+          "visual_context": "Illustration of people on a boat holding up a caught fish.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to reel in",
+          "number": "5",
+          "section": "121.4 FISHING VERBS",
+          "visual_context": "Illustration showing a line being wound back toward the fisher.",
+          "semantic_meaning": "To wind line back onto a reel."
+        },
+        {
+          "source_text": "to net",
+          "number": "6",
+          "section": "121.4 FISHING VERBS",
+          "visual_context": "Illustration of a fisher scooping a fish with a net.",
+          "semantic_meaning": "To catch or lift a fish with a net."
+        },
+        {
+          "source_text": "to release",
+          "number": "7",
+          "section": "121.4 FISHING VERBS",
+          "visual_context": "Illustration of a person returning a fish to the water.",
+          "semantic_meaning": "To let a caught fish go free."
+        },
+        {
+          "source_text": "clinch knot",
+          "number": "1",
+          "section": "121.5 KNOTS",
+          "visual_context": "Diagram of a clinch knot tied to a hook.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "blood knot",
+          "number": "2",
+          "section": "121.5 KNOTS",
+          "visual_context": "Diagram of two lines joined by a blood knot.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "arbor knot",
+          "number": "3",
+          "section": "121.5 KNOTS",
+          "visual_context": "Diagram of an arbor knot tied around a reel spool.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "snell knot",
+          "number": "4",
+          "section": "121.5 KNOTS",
+          "visual_context": "Diagram of a snell knot tied to a hook shank.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "turle knot",
+          "number": "5",
+          "section": "121.5 KNOTS",
+          "visual_context": "Diagram of a turle knot attached to a fly.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "palomar knot",
+          "number": "6",
+          "section": "121.5 KNOTS",
+          "visual_context": "Diagram of a palomar knot tied to a hook.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

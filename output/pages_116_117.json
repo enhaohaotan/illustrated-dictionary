@@ -1,0 +1,431 @@
+{
+  "pages": [
+    {
+      "page": 116,
+      "title": "Drinking and eating",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "coffee",
+          "number": "1",
+          "section": "52.1 DRINKS",
+          "visual_context": "A cup of black coffee on a saucer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tea",
+          "number": "2",
+          "section": "52.1 DRINKS",
+          "visual_context": "A cup of tea on a saucer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hot chocolate",
+          "number": "3",
+          "section": "52.1 DRINKS",
+          "visual_context": "A tall handled glass of hot chocolate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "herbal tea",
+          "number": "4",
+          "section": "52.1 DRINKS",
+          "visual_context": "A teacup containing pale tea and green herbs.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "iced tea",
+          "number": "5",
+          "section": "52.1 DRINKS",
+          "visual_context": "A tall iced drink with a straw and lemon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lemonade",
+          "number": "6",
+          "section": "52.1 DRINKS",
+          "visual_context": "A pitcher and glass of lemon drink with lemon slices.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "juice",
+          "number": "7",
+          "section": "52.1 DRINKS",
+          "visual_context": "A glass of orange juice.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mineral water",
+          "number": "8",
+          "section": "52.1 DRINKS",
+          "visual_context": "A bottled and a glass of water.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tap water",
+          "number": "9",
+          "section": "52.1 DRINKS",
+          "visual_context": "A glass of water.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "smoothie",
+          "number": "10",
+          "section": "52.1 DRINKS",
+          "visual_context": "A tall green blended drink.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "orangeade",
+          "number": "11",
+          "section": "52.1 DRINKS",
+          "visual_context": "A glass of orange soft drink.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cola",
+          "number": "12",
+          "section": "52.1 DRINKS",
+          "visual_context": "A glass of dark fizzy cola.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "milkshake",
+          "number": "13",
+          "section": "52.1 DRINKS",
+          "visual_context": "A tall pink milkshake with a straw.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sports drink / energy drink",
+          "number": "14",
+          "section": "52.1 DRINKS",
+          "visual_context": "A drink glass beside an energy-drink can.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "red wine",
+          "number": "15",
+          "section": "52.1 DRINKS",
+          "visual_context": "A wine glass containing red wine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "white wine",
+          "number": "16",
+          "section": "52.1 DRINKS",
+          "visual_context": "A wine glass containing white wine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rosé wine",
+          "number": "17",
+          "section": "52.1 DRINKS",
+          "visual_context": "A wine glass containing pink rosé wine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "beer",
+          "number": "18",
+          "section": "52.1 DRINKS",
+          "visual_context": "A foaming beer mug.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bottle",
+          "number": "1",
+          "section": "52.2 CONTAINERS",
+          "visual_context": "A water bottle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "glass",
+          "number": "2",
+          "section": "52.2 CONTAINERS",
+          "visual_context": "An empty drinking glass.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "carton",
+          "number": "3",
+          "section": "52.2 CONTAINERS",
+          "visual_context": "A milk carton.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "jar",
+          "number": "4",
+          "section": "52.2 CONTAINERS",
+          "visual_context": "An open glass jar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bag",
+          "number": "5",
+          "section": "52.2 CONTAINERS",
+          "visual_context": "A paper grocery bag.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "packet",
+          "number": "6",
+          "section": "52.2 CONTAINERS",
+          "visual_context": "A small food packet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "box",
+          "number": "7",
+          "section": "52.2 CONTAINERS",
+          "visual_context": "An open cardboard box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "can (US) tin (UK)",
+          "number": "8",
+          "section": "52.2 CONTAINERS",
+          "visual_context": "A metal can.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hot drink container (US) flask (UK)",
+          "number": "9",
+          "section": "52.2 CONTAINERS",
+          "visual_context": "An insulated hot-drink container with its cup lid.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bowl",
+          "number": "10",
+          "section": "52.2 CONTAINERS",
+          "visual_context": "A red bowl.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "airtight container",
+          "number": "11",
+          "section": "52.2 CONTAINERS",
+          "visual_context": "A lidded plastic food-storage container.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Mason jar",
+          "number": "12",
+          "section": "52.2 CONTAINERS",
+          "visual_context": "A large lidded preserving jar.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 117,
+      "title": "Drinking and eating",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "sweet",
+          "number": "1",
+          "section": "52.3 ADJECTIVES",
+          "visual_context": "A decorated layer cake.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "savory (US) savoury (UK)",
+          "number": "2",
+          "section": "52.3 ADJECTIVES",
+          "visual_context": "A wedge of cheese.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sour",
+          "number": "3",
+          "section": "52.3 ADJECTIVES",
+          "visual_context": "Whole and sliced lemons.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "salty",
+          "number": "4",
+          "section": "52.3 ADJECTIVES",
+          "visual_context": "Salted pretzels.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bitter",
+          "number": "5",
+          "section": "52.3 ADJECTIVES",
+          "visual_context": "Green olives.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "spicy / hot",
+          "number": "6",
+          "section": "52.3 ADJECTIVES",
+          "visual_context": "Several chili peppers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fresh",
+          "number": "7",
+          "section": "52.3 ADJECTIVES",
+          "visual_context": "Fresh food in open containers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bad (US) off (UK)",
+          "number": "8",
+          "section": "52.3 ADJECTIVES",
+          "visual_context": "A smelly fish with flies around it.",
+          "semantic_meaning": "Spoiled; no longer fresh."
+        },
+        {
+          "source_text": "strong",
+          "number": "9",
+          "section": "52.3 ADJECTIVES",
+          "visual_context": "A cup of dark coffee.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "iced / chilled",
+          "number": "10",
+          "section": "52.3 ADJECTIVES",
+          "visual_context": "A cold glass of water with ice.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "carbonated / sparkling",
+          "number": "11",
+          "section": "52.3 ADJECTIVES",
+          "visual_context": "A glass of water with bubbles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "non-carbonated / still",
+          "number": "12",
+          "section": "52.3 ADJECTIVES",
+          "visual_context": "A plain glass of water.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rich",
+          "number": "13",
+          "section": "52.3 ADJECTIVES",
+          "visual_context": "A rich chocolate cake slice.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "juicy",
+          "number": "14",
+          "section": "52.3 ADJECTIVES",
+          "visual_context": "A cut orange dripping juice.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "crunchy",
+          "number": "15",
+          "section": "52.3 ADJECTIVES",
+          "visual_context": "Carrots.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "delicious",
+          "number": "16",
+          "section": "52.3 ADJECTIVES",
+          "visual_context": "A person enjoying a spoonful of food.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "disgusting",
+          "number": "17",
+          "section": "52.3 ADJECTIVES",
+          "visual_context": "A person rejecting food on a fork.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tasty",
+          "number": "18",
+          "section": "52.3 ADJECTIVES",
+          "visual_context": "A person eating a slice of melon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to eat",
+          "number": "1",
+          "section": "52.4 DRINKING AND EATING VERBS",
+          "visual_context": "A person eating food from a plate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to chew",
+          "number": "2",
+          "section": "52.4 DRINKING AND EATING VERBS",
+          "visual_context": "A person chewing food.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to taste",
+          "number": "3",
+          "section": "52.4 DRINKING AND EATING VERBS",
+          "visual_context": "A chef tasting food with a spoon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Cheers!",
+          "number": "4",
+          "section": "52.4 DRINKING AND EATING VERBS",
+          "visual_context": "A speech bubble above diners raising wine glasses.",
+          "semantic_meaning": "A toast said when drinking together."
+        },
+        {
+          "source_text": "to dine",
+          "number": "5",
+          "section": "52.4 DRINKING AND EATING VERBS",
+          "visual_context": "Two people eating at a dining table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to nibble",
+          "number": "6",
+          "section": "52.4 DRINKING AND EATING VERBS",
+          "visual_context": "A person taking small bites of a cookie.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to bite",
+          "number": "7",
+          "section": "52.4 DRINKING AND EATING VERBS",
+          "visual_context": "A person biting into a sandwich.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to swallow",
+          "number": "8",
+          "section": "52.4 DRINKING AND EATING VERBS",
+          "visual_context": "A person swallowing a spoonful of food.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to sip",
+          "number": "9",
+          "section": "52.4 DRINKING AND EATING VERBS",
+          "visual_context": "A person taking a small drink from a cup.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to drink",
+          "number": "10",
+          "section": "52.4 DRINKING AND EATING VERBS",
+          "visual_context": "A person drinking from a bottle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to gulp",
+          "number": "11",
+          "section": "52.4 DRINKING AND EATING VERBS",
+          "visual_context": "A person drinking quickly from a bottle.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

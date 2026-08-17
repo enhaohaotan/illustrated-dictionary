@@ -1,0 +1,410 @@
+{
+  "pages": [
+    {
+      "page": 142,
+      "title": "At the café",
+      "context": "65.1 CAFÉ; 65.2 JUICES AND MILKSHAKES",
+      "entries": [
+        {
+          "source_text": "awning",
+          "number": "1",
+          "section": "CAFÉ",
+          "visual_context": "Striped canopy above the café window.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Could I have extra ice, please?",
+          "number": "2",
+          "section": "CAFÉ",
+          "visual_context": "Customer's speech bubble.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to serve",
+          "number": "3",
+          "section": "CAFÉ",
+          "visual_context": "Waitress carrying a drink on a tray.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "server (US) waitress (UK)",
+          "number": "4",
+          "section": "CAFÉ",
+          "visual_context": "Café worker serving the customer.",
+          "semantic_meaning": "A person who serves customers in a café."
+        },
+        {
+          "source_text": "double espresso",
+          "number": "5",
+          "section": "CAFÉ",
+          "visual_context": "Small coffee glass shown in the drink display.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "espresso",
+          "number": "6",
+          "section": "CAFÉ",
+          "visual_context": "Small dark coffee in the drink display.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cortado",
+          "number": "7",
+          "section": "CAFÉ",
+          "visual_context": "Short coffee drink in the display.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "iced coffee",
+          "number": "8",
+          "section": "CAFÉ",
+          "visual_context": "Tall coffee drink with ice cubes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "white coffee",
+          "number": "9",
+          "section": "CAFÉ",
+          "visual_context": "Light-colored coffee drink in the display.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "flat white",
+          "number": "10",
+          "section": "CAFÉ",
+          "visual_context": "Cup of light coffee in the display.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "table",
+          "number": "17",
+          "section": "CAFÉ",
+          "visual_context": "Round table outside the café.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stool",
+          "number": "18",
+          "section": "CAFÉ",
+          "visual_context": "Tall stool beside the table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sidewalk (US) pavement (UK)",
+          "number": "19",
+          "section": "CAFÉ",
+          "visual_context": "Ground surface outside the café.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "filter coffee",
+          "number": "20",
+          "section": "CAFÉ",
+          "visual_context": "Coffee maker with a filter pot on the counter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "milk",
+          "number": "21",
+          "section": "CAFÉ",
+          "visual_context": "Milk jug on the counter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cappuccino",
+          "number": "22",
+          "section": "CAFÉ",
+          "visual_context": "Small cup topped with foam on the counter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "froth",
+          "number": "23",
+          "section": "CAFÉ",
+          "visual_context": "Foamy top of the coffee cup.",
+          "semantic_meaning": "Foam on top of a coffee drink."
+        },
+        {
+          "source_text": "coffee",
+          "number": "24",
+          "section": "CAFÉ",
+          "visual_context": "Coffee cup on the service counter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "blender",
+          "number": "1",
+          "section": "JUICES AND MILKSHAKES",
+          "visual_context": "Electric blender.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "coconut water",
+          "number": "2",
+          "section": "JUICES AND MILKSHAKES",
+          "visual_context": "Glass beside a coconut.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "orange juice with pulp",
+          "number": "3",
+          "section": "JUICES AND MILKSHAKES",
+          "visual_context": "Orange juice with orange slices and visible pulp.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "smooth orange juice",
+          "number": "4",
+          "section": "JUICES AND MILKSHAKES",
+          "visual_context": "Glass of orange juice without visible pulp.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "apple juice",
+          "number": "5",
+          "section": "JUICES AND MILKSHAKES",
+          "visual_context": "Glass of juice beside an apple.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pineapple juice",
+          "number": "6",
+          "section": "JUICES AND MILKSHAKES",
+          "visual_context": "Glass of juice beside a pineapple.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tomato juice",
+          "number": "7",
+          "section": "JUICES AND MILKSHAKES",
+          "visual_context": "Red juice beside tomatoes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mango juice",
+          "number": "8",
+          "section": "JUICES AND MILKSHAKES",
+          "visual_context": "Orange juice beside a mango.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cranberry juice",
+          "number": "9",
+          "section": "JUICES AND MILKSHAKES",
+          "visual_context": "Red juice beside cranberries.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "strawberry smoothie",
+          "number": "10",
+          "section": "JUICES AND MILKSHAKES",
+          "visual_context": "Red blended drink beside strawberries.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chocolate milkshake",
+          "number": "11",
+          "section": "JUICES AND MILKSHAKES",
+          "visual_context": "Chocolate-colored milkshake with a straw and chocolate pieces.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "strawberry milkshake",
+          "number": "12",
+          "section": "JUICES AND MILKSHAKES",
+          "visual_context": "Pink milkshake with a straw and strawberries.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 143,
+      "title": "At the café",
+      "context": "CAFÉ (continued); 65.3 FOOD AND SNACKS",
+      "entries": [
+        {
+          "source_text": "Kitchen and tableware",
+          "number": "27",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the upper-page box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Drinking and eating",
+          "number": "52",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the upper-page box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "At the café (continued)",
+          "number": "66",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the upper-page box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Fast food",
+          "number": "70",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the upper-page box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Lunch and dinner",
+          "number": "72",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the upper-page box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "menu",
+          "number": "11",
+          "section": "CAFÉ",
+          "visual_context": "Chalkboard menu behind the barista.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "barista",
+          "number": "12",
+          "section": "CAFÉ",
+          "visual_context": "Worker behind the café counter.",
+          "semantic_meaning": "A person who prepares and serves coffee."
+        },
+        {
+          "source_text": "Hi. An espresso to go, please.",
+          "number": "13",
+          "section": "CAFÉ",
+          "visual_context": "Customer's speech bubble.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cocoa powder",
+          "number": "14",
+          "section": "CAFÉ",
+          "visual_context": "Packets on the shelf behind the counter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Irish coffee",
+          "number": "15",
+          "section": "CAFÉ",
+          "visual_context": "Coffee drink held by the seated customer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "parasol",
+          "number": "16",
+          "section": "CAFÉ",
+          "visual_context": "Large outdoor café umbrella.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "coffee machine",
+          "number": "25",
+          "section": "CAFÉ",
+          "visual_context": "Espresso machine behind the counter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "customer",
+          "number": "26",
+          "section": "CAFÉ",
+          "visual_context": "Person ordering at the counter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "black coffee",
+          "number": "27",
+          "section": "CAFÉ",
+          "visual_context": "Dark coffee cup on the table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "terrace",
+          "number": "28",
+          "section": "CAFÉ",
+          "visual_context": "Outdoor café seating area.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "railing",
+          "number": "29",
+          "section": "CAFÉ",
+          "visual_context": "Barrier around the outdoor terrace.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sandwich",
+          "number": "1",
+          "section": "FOOD AND SNACKS",
+          "visual_context": "Filled sandwich illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pancake",
+          "number": "2",
+          "section": "FOOD AND SNACKS",
+          "visual_context": "Stack of pancakes with red topping.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "waffle",
+          "number": "3",
+          "section": "FOOD AND SNACKS",
+          "visual_context": "Stack of waffles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "salad",
+          "number": "4",
+          "section": "FOOD AND SNACKS",
+          "visual_context": "Bowl of salad.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ice cream cone",
+          "number": "5",
+          "section": "FOOD AND SNACKS",
+          "visual_context": "Ice cream in a cone.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ice cream scoop",
+          "number": "6",
+          "section": "FOOD AND SNACKS",
+          "visual_context": "Scoops of ice cream in a bowl.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "snack bar",
+          "number": "7",
+          "section": "FOOD AND SNACKS",
+          "visual_context": "Counter selling snacks and drinks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "snacks",
+          "number": "8",
+          "section": "FOOD AND SNACKS",
+          "visual_context": "Food items in the lower display of the snack bar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "beverages",
+          "number": "9",
+          "section": "FOOD AND SNACKS",
+          "visual_context": "Bottled and packaged drinks in the upper display of the snack bar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Sorry, we’ve run out of sandwiches.",
+          "number": "10",
+          "section": "FOOD AND SNACKS",
+          "visual_context": "Speech bubble above the snack bar.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

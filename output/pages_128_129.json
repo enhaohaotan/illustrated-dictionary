@@ -1,0 +1,382 @@
+{
+  "pages": [
+    {
+      "page": 128,
+      "title": "Fruit and nuts",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "watermelon",
+          "number": "1",
+          "section": "58.1 MELONS",
+          "visual_context": "Slices of red-fleshed watermelon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cantaloupe",
+          "number": "2",
+          "section": "58.1 MELONS",
+          "visual_context": "A netted melon and cut section with orange flesh.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "honeydew\nmelon",
+          "number": "3",
+          "section": "58.1 MELONS",
+          "visual_context": "Yellow and green honeydew melons, including a cut section.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Canary melon",
+          "number": "4",
+          "section": "58.1 MELONS",
+          "visual_context": "Bright yellow melon with a pale cut half.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "charentais",
+          "number": "5",
+          "section": "58.1 MELONS",
+          "visual_context": "Green-striped melon and orange-fleshed cut section.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "galia",
+          "number": "6",
+          "section": "58.1 MELONS",
+          "visual_context": "Netted yellow-green melon with a pale cut section.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "papaya",
+          "number": "1",
+          "section": "58.2 OTHER FRUIT",
+          "visual_context": "Large cut papaya illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "seeds",
+          "number": "2",
+          "section": "58.2 OTHER FRUIT",
+          "visual_context": "Pointer to the dark seeds inside the cut papaya.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "skin",
+          "number": "3",
+          "section": "58.2 OTHER FRUIT",
+          "visual_context": "Pointer to the green outer skin of the papaya.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "flesh",
+          "number": "4",
+          "section": "58.2 OTHER FRUIT",
+          "visual_context": "Pointer to the orange edible interior of the papaya.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "quince",
+          "number": "5",
+          "section": "58.2 OTHER FRUIT",
+          "visual_context": "Yellow quince with a leaf.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "passion fruit",
+          "number": "6",
+          "section": "58.2 OTHER FRUIT",
+          "visual_context": "Purple passion fruit, one cut open showing seeds.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "guava",
+          "number": "7",
+          "section": "58.2 OTHER FRUIT",
+          "visual_context": "Green guava with a cut wedge.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "starfruit",
+          "number": "8",
+          "section": "58.2 OTHER FRUIT",
+          "visual_context": "Yellow starfruit with a star-shaped slice.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "persimmon",
+          "number": "9",
+          "section": "58.2 OTHER FRUIT",
+          "visual_context": "Orange persimmon, including a cut half.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "feijoa",
+          "number": "10",
+          "section": "58.2 OTHER FRUIT",
+          "visual_context": "Green feijoa with a cut half.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pineapple",
+          "number": "11",
+          "section": "58.2 OTHER FRUIT",
+          "visual_context": "Whole pineapple.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "prickly pear",
+          "number": "12",
+          "section": "58.2 OTHER FRUIT",
+          "visual_context": "Prickly pear fruit, one cut open.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tamarillo",
+          "number": "13",
+          "section": "58.2 OTHER FRUIT",
+          "visual_context": "Red tamarillos, one cut open.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "jackfruit",
+          "number": "14",
+          "section": "58.2 OTHER FRUIT",
+          "visual_context": "Large green jackfruit with a cut half.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mangosteen",
+          "number": "15",
+          "section": "58.2 OTHER FRUIT",
+          "visual_context": "Dark purple mangosteen with a cut half showing white segments.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pomegranate",
+          "number": "16",
+          "section": "58.2 OTHER FRUIT",
+          "visual_context": "Red pomegranate, one cut open showing arils.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "banana",
+          "number": "17",
+          "section": "58.2 OTHER FRUIT",
+          "visual_context": "Yellow banana.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "kiwi\nkiwi fruit (UK)",
+          "number": "18",
+          "section": "58.2 OTHER FRUIT",
+          "visual_context": "Kiwi fruit, including a cut half.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "apple",
+          "number": "19",
+          "section": "58.2 OTHER FRUIT",
+          "visual_context": "Red apple with leaf.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "crab apples",
+          "number": "20",
+          "section": "58.2 OTHER FRUIT",
+          "visual_context": "Cluster of small red crab apples.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pear",
+          "number": "21",
+          "section": "58.2 OTHER FRUIT",
+          "visual_context": "Green pear and cut half.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rhubarb",
+          "number": "22",
+          "section": "58.2 OTHER FRUIT",
+          "visual_context": "Rhubarb leaf and pink stalks.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 129,
+      "title": null,
+      "context": "See also: 29 Cooking; 52 Drinking and eating; 55-56 Vegetables; 57 Fruit; 65-66 At the café; 69 At the restaurant; 71 Breakfast; 72 Lunch and dinner.",
+      "entries": [
+        {
+          "source_text": "peanut",
+          "number": "1",
+          "section": "58.3 NUTS AND DRIED FRUIT",
+          "visual_context": "Pointer to pale shelled peanuts in the bowl.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "raisin",
+          "number": "2",
+          "section": "58.3 NUTS AND DRIED FRUIT",
+          "visual_context": "Pointer to dark raisins in the bowl.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pistachio",
+          "number": "3",
+          "section": "58.3 NUTS AND DRIED FRUIT",
+          "visual_context": "Pointer to split pistachios in the bowl.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "walnut",
+          "number": "4",
+          "section": "58.3 NUTS AND DRIED FRUIT",
+          "visual_context": "Pointer to walnuts in the bowl.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hazelnut",
+          "number": "5",
+          "section": "58.3 NUTS AND DRIED FRUIT",
+          "visual_context": "Pointer to hazelnuts in the bowl.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cashew (US)\ncashew nut (UK)",
+          "number": "6",
+          "section": "58.3 NUTS AND DRIED FRUIT",
+          "visual_context": "Pointer to curved cashews in the bowl.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "golden raisin (US)\nsultana (UK)",
+          "number": "7",
+          "section": "58.3 NUTS AND DRIED FRUIT",
+          "visual_context": "Pointer to golden raisins in the bowl.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "currant",
+          "number": "8",
+          "section": "58.3 NUTS AND DRIED FRUIT",
+          "visual_context": "Pointer to small dark red dried currants in the bowl.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dried fig",
+          "number": "9",
+          "section": "58.3 NUTS AND DRIED FRUIT",
+          "visual_context": "Pointer to dried figs, including a cut fig.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "date",
+          "number": "10",
+          "section": "58.3 NUTS AND DRIED FRUIT",
+          "visual_context": "Pointer to dark brown dates in the bowl.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pine nuts",
+          "number": "11",
+          "section": "58.3 NUTS AND DRIED FRUIT",
+          "visual_context": "Pile of small pale pine nuts.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "brazil nuts",
+          "number": "12",
+          "section": "58.3 NUTS AND DRIED FRUIT",
+          "visual_context": "Brazil nuts, including cut pieces.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pecans",
+          "number": "13",
+          "section": "58.3 NUTS AND DRIED FRUIT",
+          "visual_context": "Pile of pecans.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "almonds",
+          "number": "14",
+          "section": "58.3 NUTS AND DRIED FRUIT",
+          "visual_context": "Pile of almonds.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ginkgo nuts",
+          "number": "15",
+          "section": "58.3 NUTS AND DRIED FRUIT",
+          "visual_context": "Ginkgo nuts with pale kernels and brown shells.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "kola nuts",
+          "number": "16",
+          "section": "58.3 NUTS AND DRIED FRUIT",
+          "visual_context": "Red and pale kola nuts.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chestnuts",
+          "number": "17",
+          "section": "58.3 NUTS AND DRIED FRUIT",
+          "visual_context": "Pile of chestnuts.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "macadamias",
+          "number": "18",
+          "section": "58.3 NUTS AND DRIED FRUIT",
+          "visual_context": "Macadamia nuts, including pale kernels.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dried apricots",
+          "number": "19",
+          "section": "58.3 NUTS AND DRIED FRUIT",
+          "visual_context": "Pile of orange dried apricots.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "prunes",
+          "number": "20",
+          "section": "58.3 NUTS AND DRIED FRUIT",
+          "visual_context": "Pile of dark dried prunes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "coconut",
+          "number": "21",
+          "section": "58.3 NUTS AND DRIED FRUIT",
+          "visual_context": "Whole coconut and a cut-open half.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "milk",
+          "number": "22",
+          "section": "58.3 NUTS AND DRIED FRUIT",
+          "visual_context": "Pointer to the liquid inside the cut-open coconut.",
+          "semantic_meaning": "liquid inside a coconut"
+        },
+        {
+          "source_text": "flesh",
+          "number": "23",
+          "section": "58.3 NUTS AND DRIED FRUIT",
+          "visual_context": "Pointer to the white edible inner layer of the cut-open coconut.",
+          "semantic_meaning": "edible white interior of a coconut"
+        },
+        {
+          "source_text": "shell",
+          "number": "24",
+          "section": "58.3 NUTS AND DRIED FRUIT",
+          "visual_context": "Pointer to the brown outer shell of the coconut.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

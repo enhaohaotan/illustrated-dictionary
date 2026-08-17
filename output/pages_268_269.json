@@ -1,0 +1,529 @@
+{
+  "pages": [
+    {
+      "page": 268,
+      "title": "Music continued",
+      "context": "129.1 POPULAR MUSIC",
+      "entries": [
+        {
+          "source_text": "rig",
+          "number": "1",
+          "section": "129.1 POPULAR MUSIC",
+          "visual_context": "Overhead truss supporting the concert lighting.",
+          "semantic_meaning": "stage lighting support structure"
+        },
+        {
+          "source_text": "drummer",
+          "number": "2",
+          "section": "129.1 POPULAR MUSIC",
+          "visual_context": "Musician seated behind a drum kit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "acoustic guitarist",
+          "number": "3",
+          "section": "129.1 POPULAR MUSIC",
+          "visual_context": "Musician playing an acoustic guitar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lead singer",
+          "number": "4",
+          "section": "129.1 POPULAR MUSIC",
+          "visual_context": "Central singer holding a microphone.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "electric guitarist",
+          "number": "5",
+          "section": "129.1 POPULAR MUSIC",
+          "visual_context": "Musician playing a red electric guitar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stage lights",
+          "number": "6",
+          "section": "129.1 POPULAR MUSIC",
+          "visual_context": "Spotlights hanging from the overhead rig.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bass guitarist",
+          "number": "7",
+          "section": "129.1 POPULAR MUSIC",
+          "visual_context": "Musician playing a blue bass guitar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "speaker",
+          "number": "8",
+          "section": "129.1 POPULAR MUSIC",
+          "visual_context": "Large speaker cabinet beside the stage.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fans",
+          "number": "9",
+          "section": "129.1 POPULAR MUSIC",
+          "visual_context": "Crowd with raised hands in front of the stage.",
+          "semantic_meaning": "audience enthusiasts"
+        },
+        {
+          "source_text": "pop concert",
+          "number": "10",
+          "section": "129.1 POPULAR MUSIC",
+          "visual_context": "The complete live band performance and audience scene.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "amplifier",
+          "number": "11",
+          "section": "129.1 POPULAR MUSIC",
+          "visual_context": "Small audio amplifier on the stage floor.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "turntable",
+          "number": "12",
+          "section": "129.1 POPULAR MUSIC",
+          "visual_context": "Blue record-player illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "DJ console",
+          "number": "13",
+          "section": "129.1 POPULAR MUSIC",
+          "visual_context": "Blue DJ mixing deck with twin platters and controls.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "vinyl records",
+          "number": "14",
+          "section": "129.1 POPULAR MUSIC",
+          "visual_context": "Two blue disc records.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "backing singers",
+          "number": "15",
+          "section": "129.1 POPULAR MUSIC",
+          "visual_context": "Illustration of singers behind a lead performer.",
+          "semantic_meaning": "supporting vocalists"
+        },
+        {
+          "source_text": "song",
+          "number": "16",
+          "section": "129.1 POPULAR MUSIC",
+          "visual_context": "Singer with musical notes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "melody",
+          "number": "17",
+          "section": "129.1 POPULAR MUSIC",
+          "visual_context": "Person holding a musical staff and notes.",
+          "semantic_meaning": "main musical tune"
+        },
+        {
+          "source_text": "beat",
+          "number": "18",
+          "section": "129.1 POPULAR MUSIC",
+          "visual_context": "Dancing figure surrounded by musical notes.",
+          "semantic_meaning": "regular rhythmic pulse"
+        },
+        {
+          "source_text": "band",
+          "number": "19",
+          "section": "129.1 POPULAR MUSIC",
+          "visual_context": "Group of performers singing and playing instruments.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "album",
+          "number": "20",
+          "section": "129.1 POPULAR MUSIC",
+          "visual_context": "Album cover and disc.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "jazz",
+          "number": "21",
+          "section": "129.1 POPULAR MUSIC",
+          "visual_context": "Jazz musicians with trumpet, drums, and piano.",
+          "semantic_meaning": "music genre"
+        },
+        {
+          "source_text": "the blues",
+          "number": "22",
+          "section": "129.1 POPULAR MUSIC",
+          "visual_context": "Blues musician with guitar and double bass player.",
+          "semantic_meaning": "music genre"
+        },
+        {
+          "source_text": "punk",
+          "number": "23",
+          "section": "129.1 POPULAR MUSIC",
+          "visual_context": "Spiky-haired electric guitarist.",
+          "semantic_meaning": "music genre"
+        },
+        {
+          "source_text": "folk",
+          "number": "24",
+          "section": "129.1 POPULAR MUSIC",
+          "visual_context": "Two musicians playing acoustic string instruments.",
+          "semantic_meaning": "music genre"
+        },
+        {
+          "source_text": "pop",
+          "number": "25",
+          "section": "129.1 POPULAR MUSIC",
+          "visual_context": "Dancing pop performers.",
+          "semantic_meaning": "music genre"
+        },
+        {
+          "source_text": "K-pop",
+          "number": "26",
+          "section": "129.1 POPULAR MUSIC",
+          "visual_context": "Hand making a finger-heart gesture.",
+          "semantic_meaning": "Korean pop music"
+        },
+        {
+          "source_text": "heavy metal",
+          "number": "27",
+          "section": "129.1 POPULAR MUSIC",
+          "visual_context": "Energetic electric-guitar performers.",
+          "semantic_meaning": "music genre"
+        },
+        {
+          "source_text": "hip-hop",
+          "number": "28",
+          "section": "129.1 POPULAR MUSIC",
+          "visual_context": "Breakdancer and rapper/dancer.",
+          "semantic_meaning": "music genre"
+        },
+        {
+          "source_text": "country",
+          "number": "29",
+          "section": "129.1 POPULAR MUSIC",
+          "visual_context": "Cowboy-hatted guitarist.",
+          "semantic_meaning": "music genre"
+        },
+        {
+          "source_text": "rock",
+          "number": "30",
+          "section": "129.1 POPULAR MUSIC",
+          "visual_context": "Rock band with drums, electric guitar, and speaker.",
+          "semantic_meaning": "music genre"
+        },
+        {
+          "source_text": "soul",
+          "number": "31",
+          "section": "129.1 POPULAR MUSIC",
+          "visual_context": "Singer with a microphone and musical notes.",
+          "semantic_meaning": "music genre"
+        },
+        {
+          "source_text": "Latin",
+          "number": "32",
+          "section": "129.1 POPULAR MUSIC",
+          "visual_context": "Latin-style band with percussion and guitar.",
+          "semantic_meaning": "music genre"
+        }
+      ]
+    },
+    {
+      "page": 269,
+      "title": "MORE INSTRUMENTS",
+      "context": "129.2 MORE INSTRUMENTS",
+      "entries": [
+        {
+          "source_text": "dance",
+          "number": "33",
+          "section": "129.1 POPULAR MUSIC",
+          "visual_context": "Two dancers under a disco ball.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bhangra",
+          "number": "34",
+          "section": "129.1 POPULAR MUSIC",
+          "visual_context": "Traditional dancers with raised arms and musical notes.",
+          "semantic_meaning": "Punjabi music and dance genre"
+        },
+        {
+          "source_text": "reggae",
+          "number": "35",
+          "section": "129.1 POPULAR MUSIC",
+          "visual_context": "Guitarist wearing a knitted cap.",
+          "semantic_meaning": "music genre"
+        },
+        {
+          "source_text": "opera",
+          "number": "36",
+          "section": "129.1 POPULAR MUSIC",
+          "visual_context": "Female opera singer in a long dress.",
+          "semantic_meaning": "music genre"
+        },
+        {
+          "source_text": "classical music",
+          "number": "37",
+          "section": "129.1 POPULAR MUSIC",
+          "visual_context": "Orchestral instruments and sheet music.",
+          "semantic_meaning": "music genre"
+        },
+        {
+          "source_text": "gospel",
+          "number": "38",
+          "section": "129.1 POPULAR MUSIC",
+          "visual_context": "Choir of singers.",
+          "semantic_meaning": "religious music genre"
+        },
+        {
+          "source_text": "harmonica",
+          "number": "1",
+          "section": "129.2 MORE INSTRUMENTS",
+          "visual_context": "Small rectangular mouth instrument.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "panpipe",
+          "number": "2",
+          "section": "129.2 MORE INSTRUMENTS",
+          "visual_context": "Graduated row of vertical pipes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "recorder",
+          "number": "3",
+          "section": "129.2 MORE INSTRUMENTS",
+          "visual_context": "Straight wind instrument with finger holes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "flute",
+          "number": "4",
+          "section": "129.2 MORE INSTRUMENTS",
+          "visual_context": "Long transverse wind instrument.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "didgeridoo",
+          "number": "5",
+          "section": "129.2 MORE INSTRUMENTS",
+          "visual_context": "Long Australian wind instrument.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bagpipes",
+          "number": "6",
+          "section": "129.2 MORE INSTRUMENTS",
+          "visual_context": "Bagpipes with inflated bag and pipes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "trumpet",
+          "number": "7",
+          "section": "129.2 MORE INSTRUMENTS",
+          "visual_context": "Brass instrument with valves and bell.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "saxophone",
+          "number": "8",
+          "section": "129.2 MORE INSTRUMENTS",
+          "visual_context": "Curved brass wind instrument.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "accordion",
+          "number": "9",
+          "section": "129.2 MORE INSTRUMENTS",
+          "visual_context": "Bellows instrument with keyboard and buttons.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "keyboard",
+          "number": "10",
+          "section": "129.2 MORE INSTRUMENTS",
+          "visual_context": "Keys on the accordion.",
+          "semantic_meaning": "set of piano-style keys"
+        },
+        {
+          "source_text": "piano",
+          "number": "11",
+          "section": "129.2 MORE INSTRUMENTS",
+          "visual_context": "Grand piano and stool.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "violin",
+          "number": "12",
+          "section": "129.2 MORE INSTRUMENTS",
+          "visual_context": "Bowed string instrument and bow.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "oud",
+          "number": "13",
+          "section": "129.2 MORE INSTRUMENTS",
+          "visual_context": "Pear-shaped, short-necked string instrument.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sitar",
+          "number": "14",
+          "section": "129.2 MORE INSTRUMENTS",
+          "visual_context": "Long-necked Indian string instrument.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "banjo",
+          "number": "15",
+          "section": "129.2 MORE INSTRUMENTS",
+          "visual_context": "Round-bodied string instrument.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mandolin",
+          "number": "16",
+          "section": "129.2 MORE INSTRUMENTS",
+          "visual_context": "Small pear-shaped string instrument.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ukulele",
+          "number": "17",
+          "section": "129.2 MORE INSTRUMENTS",
+          "visual_context": "Small four-string guitar-like instrument.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "reverb",
+          "number": "18",
+          "section": "129.2 MORE INSTRUMENTS",
+          "visual_context": "Control on the electric guitar body.",
+          "semantic_meaning": "reverberation effect"
+        },
+        {
+          "source_text": "pick-up",
+          "number": "19",
+          "section": "129.2 MORE INSTRUMENTS",
+          "visual_context": "Magnetic component beneath the electric guitar strings.",
+          "semantic_meaning": "electric-guitar string vibration sensor"
+        },
+        {
+          "source_text": "body",
+          "number": "20",
+          "section": "129.2 MORE INSTRUMENTS",
+          "visual_context": "Main purple body of the electric guitar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "neck",
+          "number": "21",
+          "section": "129.2 MORE INSTRUMENTS",
+          "visual_context": "Long fretted part of the electric guitar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tuning peg",
+          "number": "22",
+          "section": "129.2 MORE INSTRUMENTS",
+          "visual_context": "Peg on the electric guitar headstock.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "headstock",
+          "number": "23",
+          "section": "129.2 MORE INSTRUMENTS",
+          "visual_context": "End section of the electric guitar neck holding the tuning pegs.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "jack connector",
+          "number": "24",
+          "section": "129.2 MORE INSTRUMENTS",
+          "visual_context": "Socket on the electric guitar body for a cable.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "electric guitar",
+          "number": "25",
+          "section": "129.2 MORE INSTRUMENTS",
+          "visual_context": "Large purple solid-body guitar diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tuner",
+          "number": "26",
+          "section": "129.2 MORE INSTRUMENTS",
+          "visual_context": "Control knob on the electric guitar body.",
+          "semantic_meaning": "tuning control"
+        },
+        {
+          "source_text": "waist",
+          "number": "27",
+          "section": "129.2 MORE INSTRUMENTS",
+          "visual_context": "Narrow inward curve of the electric guitar body.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fret",
+          "number": "28",
+          "section": "129.2 MORE INSTRUMENTS",
+          "visual_context": "Metal bar across the electric guitar fingerboard.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nut",
+          "number": "29",
+          "section": "129.2 MORE INSTRUMENTS",
+          "visual_context": "Small strip between the acoustic guitar headstock and fingerboard.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "position markers",
+          "number": "30",
+          "section": "129.2 MORE INSTRUMENTS",
+          "visual_context": "Dot markers on the acoustic guitar fingerboard.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "neck",
+          "number": "31",
+          "section": "129.2 MORE INSTRUMENTS",
+          "visual_context": "Long neck of the acoustic guitar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "string",
+          "number": "32",
+          "section": "129.2 MORE INSTRUMENTS",
+          "visual_context": "One of the acoustic guitar strings.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sound hole",
+          "number": "33",
+          "section": "129.2 MORE INSTRUMENTS",
+          "visual_context": "Round opening in the acoustic guitar body.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bridge",
+          "number": "34",
+          "section": "129.2 MORE INSTRUMENTS",
+          "visual_context": "String anchoring piece on the acoustic guitar body.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "acoustic guitar",
+          "number": "35",
+          "section": "129.2 MORE INSTRUMENTS",
+          "visual_context": "Purple hollow-body guitar diagram.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,417 @@
+{
+  "pages": [
+    {
+      "page": 52,
+      "title": "Visiting the doctor",
+      "context": "20.1 TREATMENT",
+      "entries": [
+        {
+          "source_text": "I’m not feeling well.",
+          "number": "1",
+          "section": "20.1 TREATMENT",
+          "visual_context": "Speech bubble from the seated patient.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "I’m going to take your blood pressure.",
+          "number": "2",
+          "section": "20.1 TREATMENT",
+          "visual_context": "Speech bubble from the nurse using a blood-pressure cuff.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "patient",
+          "number": "3",
+          "section": "20.1 TREATMENT",
+          "visual_context": "Pointer to the seated person receiving care.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nurse",
+          "number": "4",
+          "section": "20.1 TREATMENT",
+          "visual_context": "Pointer to the healthcare worker taking the patient's blood pressure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "blood pressure",
+          "number": "5",
+          "section": "20.1 TREATMENT",
+          "visual_context": "Blood-pressure cuff and gauge being used on the patient's arm.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "doctor",
+          "number": "6",
+          "section": "20.1 TREATMENT",
+          "visual_context": "Icon of a doctor beside a patient.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "clinic (US) doctor’s surgery (UK)",
+          "number": "7",
+          "section": "20.1 TREATMENT",
+          "visual_context": "Icon of a patient consulting a doctor in an examination room.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "waiting room",
+          "number": "8",
+          "section": "20.1 TREATMENT",
+          "visual_context": "Icon of people seated and waiting outside a room.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "appointment",
+          "number": "9",
+          "section": "20.1 TREATMENT",
+          "visual_context": "Calendar icon marked 17 JUL.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "medical examination",
+          "number": "10",
+          "section": "20.1 TREATMENT",
+          "visual_context": "Icon of a clinician examining a seated patient.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "inoculation / vaccination",
+          "number": "11",
+          "section": "20.1 TREATMENT",
+          "visual_context": "Icon of a medical worker administering an injection.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "syringe",
+          "number": "12",
+          "section": "20.1 TREATMENT",
+          "visual_context": "Large syringe illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "needle",
+          "number": "13",
+          "section": "20.1 TREATMENT",
+          "visual_context": "Pointer to the needle tip of the syringe.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "blood test",
+          "number": "14",
+          "section": "20.1 TREATMENT",
+          "visual_context": "Test tube and blood-drop icon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "test results",
+          "number": "15",
+          "section": "20.1 TREATMENT",
+          "visual_context": "Document icon showing a graph and tick.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "prescription",
+          "number": "16",
+          "section": "20.1 TREATMENT",
+          "visual_context": "Prescription document with medicine container icon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "medicine / medication",
+          "number": "17",
+          "section": "20.1 TREATMENT",
+          "visual_context": "Medicine bottle icon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pills / tablets",
+          "number": "18",
+          "section": "20.1 TREATMENT",
+          "visual_context": "Pill bottle and capsules icon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "scales",
+          "number": "19",
+          "section": "20.1 TREATMENT",
+          "visual_context": "Weighing-scale icon with footprints.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stethoscope",
+          "number": "20",
+          "section": "20.1 TREATMENT",
+          "visual_context": "Stethoscope icon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "inhaler",
+          "number": "21",
+          "section": "20.1 TREATMENT",
+          "visual_context": "Inhaler device icon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nasal spray",
+          "number": "22",
+          "section": "20.1 TREATMENT",
+          "visual_context": "Spray bottle directed toward a nose.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "face mask",
+          "number": "23",
+          "section": "20.1 TREATMENT",
+          "visual_context": "Person wearing a face mask.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sling",
+          "number": "24",
+          "section": "20.1 TREATMENT",
+          "visual_context": "Person with an arm supported in a sling.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dressing",
+          "number": "25",
+          "section": "20.1 TREATMENT",
+          "visual_context": "Healthcare worker applying a dressing to another person's arm.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gauze",
+          "number": "26",
+          "section": "20.1 TREATMENT",
+          "visual_context": "Roll of gauze.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tape",
+          "number": "27",
+          "section": "20.1 TREATMENT",
+          "visual_context": "Roll of medical tape with a loose strip.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "thermometer",
+          "number": "28",
+          "section": "20.1 TREATMENT",
+          "visual_context": "Glass thermometer icon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ear thermometer",
+          "number": "29",
+          "section": "20.1 TREATMENT",
+          "visual_context": "Electronic thermometer being used in an ear.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 53,
+      "title": "Visiting the doctor",
+      "context": "20.2 FIRST-AID KIT; 20.3 VERBS TO DESCRIBE ILLNESS",
+      "entries": [
+        {
+          "source_text": "tweezers",
+          "number": "1",
+          "section": "20.2 FIRST-AID KIT",
+          "visual_context": "Pointer to the metal tweezers in the first-aid kit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "painkillers",
+          "number": "2",
+          "section": "20.2 FIRST-AID KIT",
+          "visual_context": "Pointer to the blister pack of tablets.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "antiseptic",
+          "number": "3",
+          "section": "20.2 FIRST-AID KIT",
+          "visual_context": "Pointer to the antiseptic spray bottle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "antiseptic wipes",
+          "number": "4",
+          "section": "20.2 FIRST-AID KIT",
+          "visual_context": "Pointer to the packet of wipes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "adhesive bandage (US) plaster (UK)",
+          "number": "5",
+          "section": "20.2 FIRST-AID KIT",
+          "visual_context": "Pointer to the small adhesive bandage.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bandage",
+          "number": "6",
+          "section": "20.2 FIRST-AID KIT",
+          "visual_context": "Pointer to the roll of bandage.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "scissors",
+          "number": "7",
+          "section": "20.2 FIRST-AID KIT",
+          "visual_context": "Pointer to the scissors.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ointment",
+          "number": "8",
+          "section": "20.2 FIRST-AID KIT",
+          "visual_context": "Pointer to the blue tube of ointment.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "adhesive tape",
+          "number": "9",
+          "section": "20.2 FIRST-AID KIT",
+          "visual_context": "Pointer to the orange roll of tape.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cotton pads (US) cotton wool (UK)",
+          "number": "10",
+          "section": "20.2 FIRST-AID KIT",
+          "visual_context": "Pointer to the stack of round cotton pads.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "safety pin",
+          "number": "11",
+          "section": "20.2 FIRST-AID KIT",
+          "visual_context": "Pointer to the safety pins in the kit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to vomit",
+          "number": "1",
+          "section": "20.3 VERBS TO DESCRIBE ILLNESS",
+          "visual_context": "Person bending over a bucket.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to sneeze",
+          "number": "2",
+          "section": "20.3 VERBS TO DESCRIBE ILLNESS",
+          "visual_context": "Person sneezing into a tissue.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to cough",
+          "number": "3",
+          "section": "20.3 VERBS TO DESCRIBE ILLNESS",
+          "visual_context": "Person coughing into a hand.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to hurt / to ache",
+          "number": "4",
+          "section": "20.3 VERBS TO DESCRIBE ILLNESS",
+          "visual_context": "Person holding their painful head and side.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to bleed",
+          "number": "5",
+          "section": "20.3 VERBS TO DESCRIBE ILLNESS",
+          "visual_context": "Person with drops of blood from an injured leg.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to faint",
+          "number": "6",
+          "section": "20.3 VERBS TO DESCRIBE ILLNESS",
+          "visual_context": "Person collapsing backward.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to lie down",
+          "number": "7",
+          "section": "20.3 VERBS TO DESCRIBE ILLNESS",
+          "visual_context": "Person lying on a sofa.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to rest",
+          "number": "8",
+          "section": "20.3 VERBS TO DESCRIBE ILLNESS",
+          "visual_context": "Person resting in an armchair with feet up.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to lose weight",
+          "number": "9",
+          "section": "20.3 VERBS TO DESCRIBE ILLNESS",
+          "visual_context": "Before-and-after figures showing a thinner person.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to gain weight",
+          "number": "10",
+          "section": "20.3 VERBS TO DESCRIBE ILLNESS",
+          "visual_context": "Before-and-after figures showing a heavier person.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to drink water",
+          "number": "11",
+          "section": "20.3 VERBS TO DESCRIBE ILLNESS",
+          "visual_context": "Person drinking from a bottle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to exercise",
+          "number": "12",
+          "section": "20.3 VERBS TO DESCRIBE ILLNESS",
+          "visual_context": "Person exercising.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to heal",
+          "number": "13",
+          "section": "20.3 VERBS TO DESCRIBE ILLNESS",
+          "visual_context": "Person cleaning or treating an injury on an arm.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to recover",
+          "number": "14",
+          "section": "20.3 VERBS TO DESCRIBE ILLNESS",
+          "visual_context": "Person on crutches beside a healthcare worker.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to feel better",
+          "number": "15",
+          "section": "20.3 VERBS TO DESCRIBE ILLNESS",
+          "visual_context": "Person jumping happily with radiating lines.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to resuscitate",
+          "number": "16",
+          "section": "20.3 VERBS TO DESCRIBE ILLNESS",
+          "visual_context": "Person performing CPR on someone lying down.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chest compressions",
+          "number": "17",
+          "section": "20.3 VERBS TO DESCRIBE ILLNESS",
+          "visual_context": "Pointer to the chest-compression action in the CPR illustration.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

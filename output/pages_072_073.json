@@ -1,0 +1,354 @@
+{
+  "pages": [
+    {
+      "page": 72,
+      "title": "Bedroom",
+      "context": "30.1 BEDROOM",
+      "entries": [
+        {
+          "source_text": "coat hanger",
+          "number": "1",
+          "section": "30.1 BEDROOM",
+          "visual_context": "Pointer to hangers holding clothes inside the wardrobe.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bed linen",
+          "number": "2",
+          "section": "30.1 BEDROOM",
+          "visual_context": "Pointer to stacks of folded bedding in the wardrobe shelves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "alarm clock",
+          "number": "3",
+          "section": "30.1 BEDROOM",
+          "visual_context": "Pointer to the red analog alarm clock on the nightstand.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "headboard",
+          "number": "4",
+          "section": "30.1 BEDROOM",
+          "visual_context": "Pointer to the upright wooden board at the head of the bed.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pillowcase",
+          "number": "5",
+          "section": "30.1 BEDROOM",
+          "visual_context": "Pointer to the white covering on a pillow.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wardrobe",
+          "number": "14",
+          "section": "30.1 BEDROOM",
+          "visual_context": "Pointer to the large freestanding clothes cupboard.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "carpeting (US) carpet (UK)",
+          "number": "15",
+          "section": "30.1 BEDROOM",
+          "visual_context": "Pointer to the floor covering beneath the furniture.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "drawer",
+          "number": "16",
+          "section": "30.1 BEDROOM",
+          "visual_context": "Pointer to a pull-out drawer in the wardrobe.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "clock radio",
+          "number": "17",
+          "section": "30.1 BEDROOM",
+          "visual_context": "Pointer to the digital radio clock on the nightstand.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nightstand (US) bedside table (UK)",
+          "number": "18",
+          "section": "30.1 BEDROOM",
+          "visual_context": "Pointer to the small table beside the bed.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "duvet",
+          "number": "19",
+          "section": "30.1 BEDROOM",
+          "visual_context": "Pointer to the turquoise bed covering.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "foot board",
+          "number": "20",
+          "section": "30.1 BEDROOM",
+          "visual_context": "Pointer to the wooden board at the foot of the bed.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pillow",
+          "number": "21",
+          "section": "30.1 BEDROOM",
+          "visual_context": "Pointer to a white pillow on the bed.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bed",
+          "number": "22",
+          "section": "30.1 BEDROOM",
+          "visual_context": "Pointer to the bed frame.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "twin bed (US) single bed (UK)",
+          "number": "27",
+          "section": "30.1 BEDROOM",
+          "visual_context": "Illustration of a narrow single-person bed.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "double bed",
+          "number": "28",
+          "section": "30.1 BEDROOM",
+          "visual_context": "Illustration of a double bed.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "box spring (US) bedspring (UK)",
+          "number": "29",
+          "section": "30.1 BEDROOM",
+          "visual_context": "Illustration of a spring mattress base.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Ottoman",
+          "number": "30",
+          "section": "30.1 BEDROOM",
+          "visual_context": "Illustration of a padded storage ottoman.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "linen chest",
+          "number": "31",
+          "section": "30.1 BEDROOM",
+          "visual_context": "Illustration of a chest for storing linens.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "throw",
+          "number": "32",
+          "section": "30.1 BEDROOM",
+          "visual_context": "Illustration of a decorative blanket draped over a bed.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "quilt",
+          "number": "33",
+          "section": "30.1 BEDROOM",
+          "visual_context": "Illustration of a patterned quilt.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "blanket",
+          "number": "34",
+          "section": "30.1 BEDROOM",
+          "visual_context": "Illustration of a folded purple blanket.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "electric blanket",
+          "number": "35",
+          "section": "30.1 BEDROOM",
+          "visual_context": "Illustration of a blanket with an electric control cord.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "closet (US) / built-in wardrobe (UK)",
+          "number": "36",
+          "section": "30.1 BEDROOM",
+          "visual_context": "Illustration of a built-in wall wardrobe.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hot-water bottle",
+          "number": "37",
+          "section": "30.1 BEDROOM",
+          "visual_context": "Illustration of a rubber hot-water bottle.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 73,
+      "title": "Bedroom; Nursery",
+      "context": "30.1 BEDROOM; 30.2 NURSERY",
+      "entries": [
+        {
+          "source_text": "mattress",
+          "number": "6",
+          "section": "30.1 BEDROOM",
+          "visual_context": "Pointer to the mattress on the bed, continuing from the facing page.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "valance",
+          "number": "7",
+          "section": "30.1 BEDROOM",
+          "visual_context": "Pointer to the hanging upper portion of the window curtain.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tissue box",
+          "number": "8",
+          "section": "30.1 BEDROOM",
+          "visual_context": "Pointer to the tissue box on the bedside table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mirror",
+          "number": "9",
+          "section": "30.1 BEDROOM",
+          "visual_context": "Pointer to the oval mirror above the vanity.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dream",
+          "number": "10",
+          "section": "30.1 BEDROOM",
+          "visual_context": "Illustration of a sleeping child dreaming of a rocket.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nightmare",
+          "number": "11",
+          "section": "30.1 BEDROOM",
+          "visual_context": "Illustration of a sleeping child having a frightening dream.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "insomnia",
+          "number": "12",
+          "section": "30.1 BEDROOM",
+          "visual_context": "Illustration of a person awake in bed at night.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to snore",
+          "number": "13",
+          "section": "30.1 BEDROOM",
+          "visual_context": "Illustration of a sleeping person making snoring sounds.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bedside lamp",
+          "number": "23",
+          "section": "30.1 BEDROOM",
+          "visual_context": "Pointer to the lamp on the bedside table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "vanity (US) dressing table (UK)",
+          "number": "24",
+          "section": "30.1 BEDROOM",
+          "visual_context": "Pointer to the dressing table with mirror and drawers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "baseboard (US) skirting board (UK)",
+          "number": "25",
+          "section": "30.1 BEDROOM",
+          "visual_context": "Pointer to the trim board along the bottom of the wall.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dresser (US) chest of drawers (UK)",
+          "number": "26",
+          "section": "30.1 BEDROOM",
+          "visual_context": "Pointer to the tall chest of drawers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "baby monitor",
+          "number": "1",
+          "section": "30.2 NURSERY",
+          "visual_context": "Pointer to the electronic baby monitor on the wall shelf.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "crib (US) / cot (UK)",
+          "number": "2",
+          "section": "30.2 NURSERY",
+          "visual_context": "Pointer to the baby's barred bed.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bars",
+          "number": "3",
+          "section": "30.2 NURSERY",
+          "visual_context": "Pointer to the vertical rails of the crib.",
+          "semantic_meaning": "Vertical rails of a crib."
+        },
+        {
+          "source_text": "sheet",
+          "number": "4",
+          "section": "30.2 NURSERY",
+          "visual_context": "Pointer to the white sheet inside the Moses basket.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Moses basket",
+          "number": "5",
+          "section": "30.2 NURSERY",
+          "visual_context": "Pointer to the portable basket bed for a baby.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "night-light (US) night light (UK)",
+          "number": "6",
+          "section": "30.2 NURSERY",
+          "visual_context": "Pointer to the small glowing light on the wall shelf.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mobile",
+          "number": "7",
+          "section": "30.2 NURSERY",
+          "visual_context": "Pointer to the hanging object above the crib.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "changing mat",
+          "number": "8",
+          "section": "30.2 NURSERY",
+          "visual_context": "Pointer to the padded mat on top of the changing table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "changing table",
+          "number": "9",
+          "section": "30.2 NURSERY",
+          "visual_context": "Pointer to the table used for changing a baby.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "teddy bear",
+          "number": "10",
+          "section": "30.2 NURSERY",
+          "visual_context": "Pointer to the teddy bear on the floor.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "floor",
+          "number": "11",
+          "section": "30.2 NURSERY",
+          "visual_context": "Pointer to the nursery floor.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

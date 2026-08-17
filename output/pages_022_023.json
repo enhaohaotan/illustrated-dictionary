@@ -1,0 +1,424 @@
+{
+  "pages": [
+    {
+      "page": 22,
+      "title": "Family",
+      "context": "5.1 CARLO’S FAMILY",
+      "entries": [
+        {
+          "source_text": "grandfather",
+          "number": "1",
+          "section": "5.1 CARLO’S FAMILY",
+          "visual_context": "Purple elderly male figure in the family tree.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "grandmother",
+          "number": "2",
+          "section": "5.1 CARLO’S FAMILY",
+          "visual_context": "Purple elderly female figure in the family tree.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "grandparents",
+          "number": "3",
+          "section": "5.1 CARLO’S FAMILY",
+          "visual_context": "Paired elderly male and female figures.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "father-in-law",
+          "number": "4",
+          "section": "5.1 CARLO’S FAMILY",
+          "visual_context": "Light-purple male figure, married to the mother-in-law figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mother-in-law",
+          "number": "5",
+          "section": "5.1 CARLO’S FAMILY",
+          "visual_context": "Light-purple female figure, married to the father-in-law figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "uncle",
+          "number": "6",
+          "section": "5.1 CARLO’S FAMILY",
+          "visual_context": "Purple male figure on Carlo's maternal side.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mother- mom (US) / mum (UK)",
+          "number": "7",
+          "section": "5.1 CARLO’S FAMILY",
+          "visual_context": "Purple female parent figure connected to father/dad and Carlo.",
+          "semantic_meaning": "Female parent; US alternatives are mom and mum is UK usage."
+        },
+        {
+          "source_text": "father / dad",
+          "number": "8",
+          "section": "5.1 CARLO’S FAMILY",
+          "visual_context": "Purple male parent figure connected to mother and Carlo.",
+          "semantic_meaning": "Male parent."
+        },
+        {
+          "source_text": "aunt",
+          "number": "9",
+          "section": "5.1 CARLO’S FAMILY",
+          "visual_context": "Purple female figure married to an uncle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "uncle",
+          "number": "10",
+          "section": "5.1 CARLO’S FAMILY",
+          "visual_context": "Light-purple male figure married to an aunt.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sister-in-law",
+          "number": "11",
+          "section": "5.1 CARLO’S FAMILY",
+          "visual_context": "Light-purple female figure married to Carlo's brother.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wife",
+          "number": "12",
+          "section": "5.1 CARLO’S FAMILY",
+          "visual_context": "Purple female figure married to Carlo.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "brother",
+          "number": "13",
+          "section": "5.1 CARLO’S FAMILY",
+          "visual_context": "Purple male sibling figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sister",
+          "number": "14",
+          "section": "5.1 CARLO’S FAMILY",
+          "visual_context": "Purple female sibling figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "brother-in-law",
+          "number": "15",
+          "section": "5.1 CARLO’S FAMILY",
+          "visual_context": "Light-purple male figure married to Carlo's sister.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cousin",
+          "number": "16",
+          "section": "5.1 CARLO’S FAMILY",
+          "visual_context": "Purple male cousin figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "daughter-in-law",
+          "number": "17",
+          "section": "5.1 CARLO’S FAMILY",
+          "visual_context": "Light-purple female figure married to a son.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "son",
+          "number": "18",
+          "section": "5.1 CARLO’S FAMILY",
+          "visual_context": "Purple male child figure married to a daughter-in-law.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "daughter",
+          "number": "19",
+          "section": "5.1 CARLO’S FAMILY",
+          "visual_context": "Purple female child figure married to a son-in-law.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "son-in-law",
+          "number": "20",
+          "section": "5.1 CARLO’S FAMILY",
+          "visual_context": "Light-purple male figure married to a daughter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nephew",
+          "number": "21",
+          "section": "5.1 CARLO’S FAMILY",
+          "visual_context": "Purple male child of Carlo's sibling.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "niece",
+          "number": "22",
+          "section": "5.1 CARLO’S FAMILY",
+          "visual_context": "Purple female child of Carlo's sibling.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "grandson",
+          "number": "23",
+          "section": "5.1 CARLO’S FAMILY",
+          "visual_context": "Purple male grandchild figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "granddaughter",
+          "number": "24",
+          "section": "5.1 CARLO’S FAMILY",
+          "visual_context": "Purple female grandchild figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "grandchildren",
+          "number": "25",
+          "section": "5.1 CARLO’S FAMILY",
+          "visual_context": "Paired male and female grandchild figures.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "married",
+          "number": "26",
+          "section": "5.1 CARLO’S FAMILY",
+          "visual_context": "Key symbol showing a red heart between two linked people.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "divorced",
+          "number": "27",
+          "section": "5.1 CARLO’S FAMILY",
+          "visual_context": "Key symbol showing a broken red heart.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "children",
+          "number": "28",
+          "section": "5.1 CARLO’S FAMILY",
+          "visual_context": "Key symbol showing a connecting family-tree line.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "non-blood relative",
+          "number": "29",
+          "section": "5.1 CARLO’S FAMILY",
+          "visual_context": "Key icon of a light-purple person.",
+          "semantic_meaning": "A relative by marriage rather than biological descent."
+        }
+      ]
+    },
+    {
+      "page": 23,
+      "title": null,
+      "context": "5.2 SARAH’S FAMILY; 5.3 RELATIONSHIPS; 5.4 GROWING UP",
+      "entries": [
+        {
+          "source_text": "grandparents",
+          "number": "1",
+          "section": "5.2 SARAH’S FAMILY",
+          "visual_context": "Orange elderly male and female figures at the top of Sarah's family tree.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stepmother / stepmom (US) stepmum (UK)",
+          "number": "2",
+          "section": "5.2 SARAH’S FAMILY",
+          "visual_context": "Light-orange female parent connected by marriage and divorce symbols.",
+          "semantic_meaning": "A father's or mother's wife who is not one's biological mother."
+        },
+        {
+          "source_text": "parents",
+          "number": "3",
+          "section": "5.2 SARAH’S FAMILY",
+          "visual_context": "Orange male and female parent figures joined by a broken-heart symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stepsister",
+          "number": "4",
+          "section": "5.2 SARAH’S FAMILY",
+          "visual_context": "Light-orange female child figure in the blended family tree.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stepbrother",
+          "number": "5",
+          "section": "5.2 SARAH’S FAMILY",
+          "visual_context": "Light-orange male child figure in the blended family tree.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "boyfriend and girlfriend",
+          "number": "1",
+          "section": "5.3 RELATIONSHIPS",
+          "visual_context": "Young male and female figures standing together.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "partner",
+          "number": "2",
+          "section": "5.3 RELATIONSHIPS",
+          "visual_context": "Two adult male figures holding hands.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "single parent",
+          "number": "3",
+          "section": "5.3 RELATIONSHIPS",
+          "visual_context": "One adult holding hands with two children.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "widow",
+          "number": "4",
+          "section": "5.3 RELATIONSHIPS",
+          "visual_context": "Female parent with children and a faded male figure.",
+          "semantic_meaning": "A woman whose spouse has died."
+        },
+        {
+          "source_text": "married",
+          "number": "5",
+          "section": "5.3 RELATIONSHIPS",
+          "visual_context": "Bride and groom figures; arrows identify husband and wife.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "husband",
+          "number": "6",
+          "section": "5.3 RELATIONSHIPS",
+          "visual_context": "Arrow points to the groom in the married couple.",
+          "semantic_meaning": "A married man."
+        },
+        {
+          "source_text": "wife",
+          "number": "7",
+          "section": "5.3 RELATIONSHIPS",
+          "visual_context": "Arrow points to the bride in the married couple.",
+          "semantic_meaning": "A married woman."
+        },
+        {
+          "source_text": "divorced",
+          "number": "8",
+          "section": "5.3 RELATIONSHIPS",
+          "visual_context": "Former couple separated by a broken-heart symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ex-wife",
+          "number": "9",
+          "section": "5.3 RELATIONSHIPS",
+          "visual_context": "Arrow points to the female member of a divorced couple.",
+          "semantic_meaning": "A former wife."
+        },
+        {
+          "source_text": "ex-husband",
+          "number": "10",
+          "section": "5.3 RELATIONSHIPS",
+          "visual_context": "Arrow points to the male member of a divorced couple.",
+          "semantic_meaning": "A former husband."
+        },
+        {
+          "source_text": "siblings",
+          "number": "11",
+          "section": "5.3 RELATIONSHIPS",
+          "visual_context": "Group of brothers and sisters standing together.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "twins",
+          "number": "12",
+          "section": "5.3 RELATIONSHIPS",
+          "visual_context": "Two matching child figures holding hands.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "triplets",
+          "number": "13",
+          "section": "5.3 RELATIONSHIPS",
+          "visual_context": "Three matching child figures holding hands.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "only child",
+          "number": "14",
+          "section": "5.3 RELATIONSHIPS",
+          "visual_context": "One child standing between two adults.",
+          "semantic_meaning": "A person with no siblings."
+        },
+        {
+          "source_text": "baby",
+          "number": "1",
+          "section": "5.4 GROWING UP",
+          "visual_context": "Blue crawling infant figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "toddler",
+          "number": "2",
+          "section": "5.4 GROWING UP",
+          "visual_context": "Blue small child walking or crouching.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "child",
+          "number": "3",
+          "section": "5.4 GROWING UP",
+          "visual_context": "Blue young girl and boy figures.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "girl",
+          "number": "4",
+          "section": "5.4 GROWING UP",
+          "visual_context": "Pointer identifies the young female child figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "boy",
+          "number": "5",
+          "section": "5.4 GROWING UP",
+          "visual_context": "Pointer identifies the young male child figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "teenagers",
+          "number": "6",
+          "section": "5.4 GROWING UP",
+          "visual_context": "Blue adolescent female and male figures.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "adults",
+          "number": "7",
+          "section": "5.4 GROWING UP",
+          "visual_context": "Blue adult female and male figures.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "woman",
+          "number": "8",
+          "section": "5.4 GROWING UP",
+          "visual_context": "Pointer identifies the adult female figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "man",
+          "number": "9",
+          "section": "5.4 GROWING UP",
+          "visual_context": "Pointer identifies the adult male figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "elderly",
+          "number": "10",
+          "section": "5.4 GROWING UP",
+          "visual_context": "Blue elderly male and female figures with walking canes.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,403 @@
+{
+  "pages": [
+    {
+      "page": 104,
+      "title": "Shopping",
+      "context": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK)",
+      "entries": [
+        {
+          "source_text": "We bought these in the sales.",
+          "number": "1",
+          "section": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK)",
+          "visual_context": "Speech bubble pointing to two shoppers carrying bags.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "second-hand store (US) second-hand shop (UK)",
+          "number": "2",
+          "section": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK)",
+          "visual_context": "Pointer to an orange shop with a circular-arrow shirt symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "record store (US) record shop (UK)",
+          "number": "3",
+          "section": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK)",
+          "visual_context": "Pointer to a shop window showing a record and musical note.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "health food store (US) health food shop (UK)",
+          "number": "4",
+          "section": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK)",
+          "visual_context": "Pointer to a shop window with leaf and fork symbols.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gift shop",
+          "number": "5",
+          "section": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK)",
+          "visual_context": "Shop icon with a wrapped present.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "boutique",
+          "number": "6",
+          "section": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK)",
+          "visual_context": "Shop icon displaying dresses.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "jeweler (US) jeweller’s (UK)",
+          "number": "7",
+          "section": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK)",
+          "visual_context": "Jewelry display with two people examining a gem.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "art store (US) art shop (UK)",
+          "number": "8",
+          "section": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK)",
+          "visual_context": "Shop icon with crossed paintbrushes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "antiques store (US) antiques shop (UK)",
+          "number": "9",
+          "section": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK)",
+          "visual_context": "Shop icon showing antique furniture and a lamp.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "toy store (US) toy shop (UK)",
+          "number": "10",
+          "section": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK)",
+          "visual_context": "Shop icon with a teddy bear.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "optician",
+          "number": "11",
+          "section": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK)",
+          "visual_context": "Shop icon with eyeglasses sign.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hardware store",
+          "number": "12",
+          "section": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK)",
+          "visual_context": "Shop icon showing tools.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "key cutting shop",
+          "number": "13",
+          "section": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK)",
+          "visual_context": "Shop icon with a large key.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "electronics store",
+          "number": "14",
+          "section": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK)",
+          "visual_context": "Shop icon showing an electronic device.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pet store (US) pet shop (UK)",
+          "number": "15",
+          "section": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK)",
+          "visual_context": "Shop icon displaying cats.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "travel agent",
+          "number": "16",
+          "section": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK)",
+          "visual_context": "Travel-agent desk icon with airplane symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "street market",
+          "number": "17",
+          "section": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK)",
+          "visual_context": "Market stall with produce and a customer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fishmonger",
+          "number": "18",
+          "section": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK)",
+          "visual_context": "Shop icon displaying fish.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "butcher",
+          "number": "19",
+          "section": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK)",
+          "visual_context": "Shop icon displaying cuts of meat.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bakery",
+          "number": "20",
+          "section": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK)",
+          "visual_context": "Shop icon with bread and pretzel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "grocery store (US) greengrocer (UK)",
+          "number": "21",
+          "section": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK)",
+          "visual_context": "Shop icon with fruit and vegetables.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "delicatessen",
+          "number": "22",
+          "section": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK)",
+          "visual_context": "Shop icon displaying sliced meat and cheese.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cake store (US) cake shop (UK)",
+          "number": "23",
+          "section": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK)",
+          "visual_context": "Shop icon with a cake.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "café / coffee shop",
+          "number": "24",
+          "section": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK)",
+          "visual_context": "Shop icon with a steaming cup.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "liquor store (US) off licence (UK)",
+          "number": "25",
+          "section": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK)",
+          "visual_context": "Shop icon displaying bottles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "newsstand / kiosk",
+          "number": "26",
+          "section": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK)",
+          "visual_context": "Newsstand counter with newspapers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bookstore (US) bookshop (UK)",
+          "number": "27",
+          "section": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK)",
+          "visual_context": "Small book shop icon with books.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shoe store (US) shoe shop (UK)",
+          "number": "28",
+          "section": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK)",
+          "visual_context": "Shop icon displaying a shoe.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 105,
+      "title": "Shopping",
+      "context": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK); 46.2 SHOPPING VERBS; 46.3 ORDERING ONLINE",
+      "entries": [
+        {
+          "source_text": "garden center (US) garden centre (UK)",
+          "number": "29",
+          "section": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK)",
+          "visual_context": "Garden-shop icon with plants.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "florist",
+          "number": "30",
+          "section": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK)",
+          "visual_context": "Person arranging flowers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tailor",
+          "number": "31",
+          "section": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK)",
+          "visual_context": "Person sewing at a machine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "photo booth",
+          "number": "32",
+          "section": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK)",
+          "visual_context": "Photo-booth machine icon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Laundromat (US) launderette (UK)",
+          "number": "33",
+          "section": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK)",
+          "visual_context": "Shop icon with washing machines.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dry cleaner’s",
+          "number": "34",
+          "section": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK)",
+          "visual_context": "Shop icon with a clothes hanger.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shopping spree",
+          "number": "35",
+          "section": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK)",
+          "visual_context": "Two shoppers carrying multiple bags.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "window shopping",
+          "number": "36",
+          "section": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK)",
+          "visual_context": "People looking at items in a shop window.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "I forgot to put milk on my shopping list.",
+          "number": "37",
+          "section": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK)",
+          "visual_context": "Speech bubble above a shopper holding a list beside a cart.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shopping list",
+          "number": "38",
+          "section": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK)",
+          "visual_context": "Shopper holding a written list beside a cart.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to choose",
+          "number": "1",
+          "section": "46.2 SHOPPING VERBS",
+          "visual_context": "Shopper selecting an item from shelves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to sell",
+          "number": "2",
+          "section": "46.2 SHOPPING VERBS",
+          "visual_context": "Store worker handing an item across a counter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to buy",
+          "number": "3",
+          "section": "46.2 SHOPPING VERBS",
+          "visual_context": "Customer paying a cashier at a counter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to want",
+          "number": "4",
+          "section": "46.2 SHOPPING VERBS",
+          "visual_context": "Child pointing to a toy on a high shelf.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to fit",
+          "number": "5",
+          "section": "46.2 SHOPPING VERBS",
+          "visual_context": "Tailor measuring a customer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to pay",
+          "number": "6",
+          "section": "46.2 SHOPPING VERBS",
+          "visual_context": "Customer giving cash to a cashier.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to try on",
+          "number": "7",
+          "section": "46.2 SHOPPING VERBS",
+          "visual_context": "Person trying on a shoe while seated.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to haggle",
+          "number": "8",
+          "section": "46.2 SHOPPING VERBS",
+          "visual_context": "Customer and seller negotiating by a price display.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to complain",
+          "number": "9",
+          "section": "46.2 SHOPPING VERBS",
+          "visual_context": "Customer complaining to another person beside a defective television.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to exchange",
+          "number": "10",
+          "section": "46.2 SHOPPING VERBS",
+          "visual_context": "Customer and cashier exchanging an item at a counter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to refund",
+          "number": "11",
+          "section": "46.2 SHOPPING VERBS",
+          "visual_context": "Customer returning money or a receipt to a seller across a counter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to return",
+          "number": "12",
+          "section": "46.2 SHOPPING VERBS",
+          "visual_context": "Customer returning a shirt to a store and receiving money back.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to add to the cart",
+          "number": "1",
+          "section": "46.3 ORDERING ONLINE",
+          "visual_context": "Computer screen showing a shirt being added to an online shopping cart.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to add to wishlist",
+          "number": "2",
+          "section": "46.3 ORDERING ONLINE",
+          "visual_context": "Computer screen with a cart and heart icon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to proceed to checkout",
+          "number": "3",
+          "section": "46.3 ORDERING ONLINE",
+          "visual_context": "Computer screen with a cart and cursor.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to order",
+          "number": "4",
+          "section": "46.3 ORDERING ONLINE",
+          "visual_context": "Computer screen showing a cart and click symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to track your order",
+          "number": "5",
+          "section": "46.3 ORDERING ONLINE",
+          "visual_context": "Laptop screen showing a route and location pin.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

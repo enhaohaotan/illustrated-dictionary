@@ -1,0 +1,375 @@
+{
+  "pages": [
+    {
+      "page": 336,
+      "title": "Amphibians and reptiles",
+      "context": "163.1 AMPHIBIANS; 163.2 REPTILES",
+      "entries": [
+        {
+          "source_text": "European common frog",
+          "number": "1",
+          "section": "163.1 AMPHIBIANS",
+          "visual_context": "Pointer to the brown frog on a rock beside water.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "frog spawn",
+          "number": "2",
+          "section": "163.1 AMPHIBIANS",
+          "visual_context": "Pointer to a cluster of eggs in the water.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tadpole",
+          "number": "3",
+          "section": "163.1 AMPHIBIANS",
+          "visual_context": "Pointer to a swimming tadpole in the water.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Wallace’s flying frog",
+          "number": "4",
+          "section": "163.1 AMPHIBIANS",
+          "visual_context": "Illustration of a green frog with large webbed feet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "poison dart frog",
+          "number": "5",
+          "section": "163.1 AMPHIBIANS",
+          "visual_context": "Illustration of a small brightly colored frog.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Darwin’s frog",
+          "number": "6",
+          "section": "163.1 AMPHIBIANS",
+          "visual_context": "Illustration of a green-and-brown frog.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "red-eyed tree frog",
+          "number": "7",
+          "section": "163.1 AMPHIBIANS",
+          "visual_context": "Illustration of a green tree frog with red eyes and orange feet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "common toad",
+          "number": "8",
+          "section": "163.1 AMPHIBIANS",
+          "visual_context": "Illustration of a brown warty toad.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "African bullfrog",
+          "number": "9",
+          "section": "163.1 AMPHIBIANS",
+          "visual_context": "Illustration of a large green frog.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Oriental fire-bellied toad",
+          "number": "10",
+          "section": "163.1 AMPHIBIANS",
+          "visual_context": "Illustration of a green-and-orange toad.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Great Plains toad",
+          "number": "11",
+          "section": "163.1 AMPHIBIANS",
+          "visual_context": "Illustration of a pale patterned toad.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fire salamander",
+          "number": "12",
+          "section": "163.1 AMPHIBIANS",
+          "visual_context": "Illustration of a black salamander with yellow spots.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "olm",
+          "number": "13",
+          "section": "163.1 AMPHIBIANS",
+          "visual_context": "Illustration of a pale, elongated aquatic salamander.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Mexican axolotl",
+          "number": "14",
+          "section": "163.1 AMPHIBIANS",
+          "visual_context": "Illustration of a pale axolotl with external pink gills.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "great crested newt",
+          "number": "15",
+          "section": "163.1 AMPHIBIANS",
+          "visual_context": "Illustration of a dark crested newt.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "red salamander",
+          "number": "16",
+          "section": "163.1 AMPHIBIANS",
+          "visual_context": "Pointer to a red salamander with dark spots.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Galápagos turtle",
+          "number": "1",
+          "section": "163.2 REPTILES",
+          "visual_context": "Illustration of a large tortoise.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shell",
+          "number": "2",
+          "section": "163.2 REPTILES",
+          "visual_context": "Pointer to the tortoise's hard upper covering.",
+          "semantic_meaning": "hard protective outer covering of a turtle or tortoise"
+        },
+        {
+          "source_text": "radiated tortoise",
+          "number": "3",
+          "section": "163.2 REPTILES",
+          "visual_context": "Illustration of a tortoise with radiating yellow shell markings.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "matamata",
+          "number": "4",
+          "section": "163.2 REPTILES",
+          "visual_context": "Illustration of a rough-shelled turtle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "diamond back terrapin",
+          "number": "5",
+          "section": "163.2 REPTILES",
+          "visual_context": "Illustration of a patterned turtle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "common snake-necked turtle",
+          "number": "6",
+          "section": "163.2 REPTILES",
+          "visual_context": "Illustration of a turtle with an exceptionally long neck.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "green sea turtle",
+          "number": "7",
+          "section": "163.2 REPTILES",
+          "visual_context": "Illustration of a sea turtle with flippers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "leatherback sea turtle",
+          "number": "8",
+          "section": "163.2 REPTILES",
+          "visual_context": "Illustration of a dark sea turtle with long front flippers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "parson’s chameleon",
+          "number": "9",
+          "section": "163.2 REPTILES",
+          "visual_context": "Illustration of a green chameleon on a branch.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "panther chameleon",
+          "number": "10",
+          "section": "163.2 REPTILES",
+          "visual_context": "Illustration of a multicolored chameleon on a branch.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Jackson’s chameleon",
+          "number": "11",
+          "section": "163.2 REPTILES",
+          "visual_context": "Illustration of a green horned chameleon on a branch.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Komodo dragon",
+          "number": "12",
+          "section": "163.2 REPTILES",
+          "visual_context": "Illustration of a large gray monitor lizard with its tongue out.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 337,
+      "title": null,
+      "context": "163.2 REPTILES",
+      "entries": [
+        {
+          "source_text": "Indian cobra",
+          "number": "13",
+          "section": "163.2 REPTILES",
+          "visual_context": "Pointer to a hooded cobra.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rattlesnake",
+          "number": "14",
+          "section": "163.2 REPTILES",
+          "visual_context": "Illustration of a pale snake with a rattle at its tail.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "reticulated python",
+          "number": "15",
+          "section": "163.2 REPTILES",
+          "visual_context": "Illustration of a long patterned python.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "scales",
+          "number": "16",
+          "section": "163.2 REPTILES",
+          "visual_context": "Pointer to the outer surface of the eastern coral snake.",
+          "semantic_meaning": "small overlapping plates covering reptile skin"
+        },
+        {
+          "source_text": "eastern coral snake",
+          "number": "17",
+          "section": "163.2 REPTILES",
+          "visual_context": "Illustration of a red, black, and pale-banded snake.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "emerald tree boa",
+          "number": "18",
+          "section": "163.2 REPTILES",
+          "visual_context": "Illustration of a green boa.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Bombay earth snake",
+          "number": "19",
+          "section": "163.2 REPTILES",
+          "visual_context": "Illustration of a dark snake with yellow markings.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sidewinder",
+          "number": "20",
+          "section": "163.2 REPTILES",
+          "visual_context": "Illustration of a tan patterned snake.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Asian vine snake",
+          "number": "21",
+          "section": "163.2 REPTILES",
+          "visual_context": "Illustration of a thin green snake.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sea krait",
+          "number": "22",
+          "section": "163.2 REPTILES",
+          "visual_context": "Illustration of a black-and-white banded snake.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "common egg-eater",
+          "number": "23",
+          "section": "163.2 REPTILES",
+          "visual_context": "Illustration of a pale snake with brown markings.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "marine iguana",
+          "number": "24",
+          "section": "163.2 REPTILES",
+          "visual_context": "Illustration of a dark iguana.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "common green iguana",
+          "number": "25",
+          "section": "163.2 REPTILES",
+          "visual_context": "Illustration of a green iguana.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "thorny devil",
+          "number": "26",
+          "section": "163.2 REPTILES",
+          "visual_context": "Illustration of a spiny brown-and-white lizard.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "green basilisk",
+          "number": "27",
+          "section": "163.2 REPTILES",
+          "visual_context": "Illustration of a green crested lizard.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "blue-tongued skink",
+          "number": "28",
+          "section": "163.2 REPTILES",
+          "visual_context": "Illustration of a spotted lizard with a blue tongue.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gila monster",
+          "number": "29",
+          "section": "163.2 REPTILES",
+          "visual_context": "Illustration of a pink-and-black patterned lizard.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "frill-necked lizard",
+          "number": "30",
+          "section": "163.2 REPTILES",
+          "visual_context": "Illustration of a lizard displaying its neck frill.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gharial",
+          "number": "31",
+          "section": "163.2 REPTILES",
+          "visual_context": "Illustration of a crocodilian with a very long narrow snout.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "spectacled cayman",
+          "number": "32",
+          "section": "163.2 REPTILES",
+          "visual_context": "Illustration of a broad-snouted crocodilian.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "saltwater crocodile",
+          "number": "33",
+          "section": "163.2 REPTILES",
+          "visual_context": "Illustration of a pale spotted crocodile.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Nile crocodile",
+          "number": "34",
+          "section": "163.2 REPTILES",
+          "visual_context": "Illustration of a green crocodile.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "American alligator",
+          "number": "35",
+          "section": "163.2 REPTILES",
+          "visual_context": "Illustration of a dark alligator.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

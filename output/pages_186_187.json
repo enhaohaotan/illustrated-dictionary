@@ -1,0 +1,382 @@
+{
+  "pages": [
+    {
+      "page": 186,
+      "title": "Military",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "army",
+          "number": "1",
+          "section": "88.1 ARMED FORCES",
+          "visual_context": "Group of uniformed soldiers holding rifles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "marine",
+          "number": "2",
+          "section": "88.1 ARMED FORCES",
+          "visual_context": "Naval officer in a white peaked cap.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "navy",
+          "number": "3",
+          "section": "88.1 ARMED FORCES",
+          "visual_context": "Anchor and naval uniform.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "soldier",
+          "number": "4",
+          "section": "88.1 ARMED FORCES",
+          "visual_context": "Camouflaged armed soldier with body armour and radio.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "radio",
+          "number": "5",
+          "section": "88.1 ARMED FORCES",
+          "visual_context": "Handheld radio with antenna carried by the soldier.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ear phone",
+          "number": "6",
+          "section": "88.1 ARMED FORCES",
+          "visual_context": "Earpiece on the soldier's helmet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "camouflage",
+          "number": "7",
+          "section": "88.1 ARMED FORCES",
+          "visual_context": "Patterned combat clothing on the soldier.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sailors",
+          "number": "8",
+          "section": "88.1 ARMED FORCES",
+          "visual_context": "Three sailors in white-and-blue uniforms.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "general",
+          "number": "9",
+          "section": "88.1 ARMED FORCES",
+          "visual_context": "Army general in green dress uniform.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "admiral",
+          "number": "10",
+          "section": "88.1 ARMED FORCES",
+          "visual_context": "Naval admiral in blue dress uniform.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "airforce",
+          "number": "11",
+          "section": "88.1 ARMED FORCES",
+          "visual_context": "Air-force officer beside a fighter aircraft.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "airman",
+          "number": "12",
+          "section": "88.1 ARMED FORCES",
+          "visual_context": "Air-force officer in green uniform.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "uniform",
+          "number": "13",
+          "section": "88.1 ARMED FORCES",
+          "visual_context": "Military clothing worn by the airman.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "veteran",
+          "number": "14",
+          "section": "88.1 ARMED FORCES",
+          "visual_context": "Older saluting serviceman.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "medal",
+          "number": "15",
+          "section": "88.1 ARMED FORCES",
+          "visual_context": "Medal pinned to the veteran's uniform.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gun",
+          "number": "1",
+          "section": "88.2 MILITARY VEHICLES",
+          "visual_context": "Main gun barrel on an armoured vehicle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "armored vehicle (US)\narmoured vehicle (UK)",
+          "number": "2",
+          "section": "88.2 MILITARY VEHICLES",
+          "visual_context": "Wheeled armoured military vehicle.",
+          "semantic_meaning": "US and UK spellings for an armoured vehicle."
+        },
+        {
+          "source_text": "tank",
+          "number": "3",
+          "section": "88.2 MILITARY VEHICLES",
+          "visual_context": "Tracked tank with turret and gun.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "military truck",
+          "number": "4",
+          "section": "88.2 MILITARY VEHICLES",
+          "visual_context": "Green cargo truck.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "amphibious vehicle",
+          "number": "5",
+          "section": "88.2 MILITARY VEHICLES",
+          "visual_context": "Tracked vehicle capable of travel on land and water.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "military ambulance",
+          "number": "6",
+          "section": "88.2 MILITARY VEHICLES",
+          "visual_context": "Military ambulance marked with a red cross.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "reconnaissance vehicle",
+          "number": "7",
+          "section": "88.2 MILITARY VEHICLES",
+          "visual_context": "Light military vehicle with mounted equipment.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "aircraft carrier",
+          "number": "1",
+          "section": "88.3 NAVY VESSELS",
+          "visual_context": "Large flat-deck naval ship carrying aircraft.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "island",
+          "number": "2",
+          "section": "88.3 NAVY VESSELS",
+          "visual_context": "Raised control superstructure on the aircraft carrier.",
+          "semantic_meaning": "Control superstructure of an aircraft carrier."
+        },
+        {
+          "source_text": "destroyer",
+          "number": "3",
+          "section": "88.3 NAVY VESSELS",
+          "visual_context": "Grey warship.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cruiser",
+          "number": "4",
+          "section": "88.3 NAVY VESSELS",
+          "visual_context": "Large grey warship.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "frigate",
+          "number": "5",
+          "section": "88.3 NAVY VESSELS",
+          "visual_context": "Grey naval escort warship.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "submarine",
+          "number": "6",
+          "section": "88.3 NAVY VESSELS",
+          "visual_context": "Dark blue underwater vessel.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 187,
+      "title": "Military",
+      "context": "See also: 79 History; 148 Maps and directions; 149-151 Countries",
+      "entries": [
+        {
+          "source_text": "military transport aircraft",
+          "number": "1",
+          "section": "88.4 COMBAT AIRCRAFT",
+          "visual_context": "Large military cargo aircraft.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bomber",
+          "number": "2",
+          "section": "88.4 COMBAT AIRCRAFT",
+          "visual_context": "Military jet aircraft designed to carry bombs.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "attack helicopter",
+          "number": "3",
+          "section": "88.4 COMBAT AIRCRAFT",
+          "visual_context": "Armed helicopter with rotor and weapon mounts.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fighter",
+          "number": "4",
+          "section": "88.4 COMBAT AIRCRAFT",
+          "visual_context": "Fast military jet aircraft.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "reconnaissance aircraft",
+          "number": "5",
+          "section": "88.4 COMBAT AIRCRAFT",
+          "visual_context": "Military jet used for reconnaissance.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "transport helicopter",
+          "number": "6",
+          "section": "88.4 COMBAT AIRCRAFT",
+          "visual_context": "Large green transport helicopter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "battle",
+          "number": "1",
+          "section": "88.5 WAR AND WEAPONS",
+          "visual_context": "Soldiers fighting across a battlefield.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "front",
+          "number": "2",
+          "section": "88.5 WAR AND WEAPONS",
+          "visual_context": "Soldiers positioned behind defensive walls at the battle line.",
+          "semantic_meaning": "Main line of fighting."
+        },
+        {
+          "source_text": "gunfire",
+          "number": "3",
+          "section": "88.5 WAR AND WEAPONS",
+          "visual_context": "Soldier firing a gun, with shots shown.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "casualty",
+          "number": "4",
+          "section": "88.5 WAR AND WEAPONS",
+          "visual_context": "Wounded person carried on a stretcher.",
+          "semantic_meaning": "Person injured or killed in conflict."
+        },
+        {
+          "source_text": "field hospital",
+          "number": "5",
+          "section": "88.5 WAR AND WEAPONS",
+          "visual_context": "Temporary medical tent marked with a cross.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mess",
+          "number": "6",
+          "section": "88.5 WAR AND WEAPONS",
+          "visual_context": "Military personnel eating together.",
+          "semantic_meaning": "Military dining area."
+        },
+        {
+          "source_text": "guns",
+          "number": "7",
+          "section": "88.5 WAR AND WEAPONS",
+          "visual_context": "Collection of mounted and handheld guns.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "machine gun",
+          "number": "8",
+          "section": "88.5 WAR AND WEAPONS",
+          "visual_context": "Automatic gun mounted on a tripod.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pistol",
+          "number": "9",
+          "section": "88.5 WAR AND WEAPONS",
+          "visual_context": "Handgun.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shotgun",
+          "number": "10",
+          "section": "88.5 WAR AND WEAPONS",
+          "visual_context": "Long gun with a broad barrel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rifle",
+          "number": "11",
+          "section": "88.5 WAR AND WEAPONS",
+          "visual_context": "Long firearm with a shoulder stock and sight.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "grenade launcher",
+          "number": "12",
+          "section": "88.5 WAR AND WEAPONS",
+          "visual_context": "Shoulder-fired launcher firing a grenade.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "grenade",
+          "number": "13",
+          "section": "88.5 WAR AND WEAPONS",
+          "visual_context": "Projectile shown leaving the grenade launcher.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "surface-to-air missile",
+          "number": "14",
+          "section": "88.5 WAR AND WEAPONS",
+          "visual_context": "Missile launched from a ground platform.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ballistic missile",
+          "number": "15",
+          "section": "88.5 WAR AND WEAPONS",
+          "visual_context": "Missile rising steeply from a launcher.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shoulder-launched missile",
+          "number": "16",
+          "section": "88.5 WAR AND WEAPONS",
+          "visual_context": "Soldier firing a missile launcher from the shoulder.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cruise missile",
+          "number": "17",
+          "section": "88.5 WAR AND WEAPONS",
+          "visual_context": "Low-flying guided missile.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "armed drone",
+          "number": "18",
+          "section": "88.5 WAR AND WEAPONS",
+          "visual_context": "Unmanned aircraft carrying a missile.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

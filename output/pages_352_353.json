@@ -1,0 +1,354 @@
+{
+  "pages": [
+    {
+      "page": 352,
+      "title": "Time",
+      "context": "171.1 TELLING THE TIME; 171.2 PARTS OF THE DAY",
+      "entries": [
+        {
+          "source_text": "What time is it?",
+          "number": "1",
+          "section": "171.1 TELLING THE TIME",
+          "visual_context": "Speech bubble from a man beside a clock showing three o’clock.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "It’s three o’clock.",
+          "number": "2",
+          "section": "171.1 TELLING THE TIME",
+          "visual_context": "Speech bubble from a woman pointing toward the three-o’clock clock.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "one o’clock",
+          "number": "3",
+          "section": "171.1 TELLING THE TIME",
+          "visual_context": "Clock with the minute hand at 12 and hour hand at 1.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "five past one",
+          "number": "4",
+          "section": "171.1 TELLING THE TIME",
+          "visual_context": "Clock showing 1:05.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ten past one",
+          "number": "5",
+          "section": "171.1 TELLING THE TIME",
+          "visual_context": "Clock showing 1:10.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "quarter past one",
+          "number": "6",
+          "section": "171.1 TELLING THE TIME",
+          "visual_context": "Clock showing 1:15.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "twenty past one",
+          "number": "7",
+          "section": "171.1 TELLING THE TIME",
+          "visual_context": "Clock showing 1:20.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "twenty-five past one",
+          "number": "8",
+          "section": "171.1 TELLING THE TIME",
+          "visual_context": "Clock showing 1:25.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "one thirty / half past one",
+          "number": "9",
+          "section": "171.1 TELLING THE TIME",
+          "visual_context": "Clock showing 1:30.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "twenty-five to two",
+          "number": "10",
+          "section": "171.1 TELLING THE TIME",
+          "visual_context": "Clock showing 1:35.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "twenty to two",
+          "number": "11",
+          "section": "171.1 TELLING THE TIME",
+          "visual_context": "Clock showing 1:40.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "quarter to two",
+          "number": "12",
+          "section": "171.1 TELLING THE TIME",
+          "visual_context": "Clock showing 1:45.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ten to two",
+          "number": "13",
+          "section": "171.1 TELLING THE TIME",
+          "visual_context": "Clock showing 1:50.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "five to two",
+          "number": "14",
+          "section": "171.1 TELLING THE TIME",
+          "visual_context": "Clock showing 1:55.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "two o’clock",
+          "number": "15",
+          "section": "171.1 TELLING THE TIME",
+          "visual_context": "Clock with the minute hand at 12 and hour hand at 2.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "second",
+          "number": "16",
+          "section": "171.1 TELLING THE TIME",
+          "visual_context": "Clock with an arrow indicating the second hand moving one second.",
+          "semantic_meaning": "A unit of time."
+        },
+        {
+          "source_text": "minute",
+          "number": "17",
+          "section": "171.1 TELLING THE TIME",
+          "visual_context": "Clock with a circular arrow indicating one minute of movement.",
+          "semantic_meaning": "A unit of time equal to 60 seconds."
+        },
+        {
+          "source_text": "quarter of an hour",
+          "number": "18",
+          "section": "171.1 TELLING THE TIME",
+          "visual_context": "Clock with an arrow showing a quarter-turn from 12 to 3.",
+          "semantic_meaning": "Fifteen minutes."
+        },
+        {
+          "source_text": "dawn",
+          "number": "1",
+          "section": "171.2 PARTS OF THE DAY",
+          "visual_context": "Early light over hills before sunrise.",
+          "semantic_meaning": "The first light of day."
+        },
+        {
+          "source_text": "sunrise",
+          "number": "2",
+          "section": "171.2 PARTS OF THE DAY",
+          "visual_context": "Sun rising over hills.",
+          "semantic_meaning": "The time when the sun first appears."
+        },
+        {
+          "source_text": "morning",
+          "number": "3",
+          "section": "171.2 PARTS OF THE DAY",
+          "visual_context": "Daytime sky with a sun and clock.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "midday",
+          "number": "4",
+          "section": "171.2 PARTS OF THE DAY",
+          "visual_context": "Sun high in the sky above a clock at 12.",
+          "semantic_meaning": "Twelve o’clock in the middle of the day."
+        },
+        {
+          "source_text": "afternoon",
+          "number": "5",
+          "section": "171.2 PARTS OF THE DAY",
+          "visual_context": "Later daytime scene with the sun toward the right.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 353,
+      "title": "Time",
+      "context": "171.1 TELLING THE TIME; 171.2 PARTS OF THE DAY",
+      "entries": [
+        {
+          "source_text": "twenty minutes",
+          "number": "19",
+          "section": "171.1 TELLING THE TIME",
+          "visual_context": "Clock with a curved arrow showing twenty minutes passing.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "half an hour",
+          "number": "20",
+          "section": "171.1 TELLING THE TIME",
+          "visual_context": "Clock with an arrow showing a half-hour movement.",
+          "semantic_meaning": "Thirty minutes."
+        },
+        {
+          "source_text": "forty minutes",
+          "number": "21",
+          "section": "171.1 TELLING THE TIME",
+          "visual_context": "Clock with a curved arrow showing forty minutes passing.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "an hour",
+          "number": "22",
+          "section": "171.1 TELLING THE TIME",
+          "visual_context": "Clock with an arrow making one full revolution.",
+          "semantic_meaning": "Sixty minutes."
+        },
+        {
+          "source_text": "now",
+          "number": "23",
+          "section": "171.1 TELLING THE TIME",
+          "visual_context": "Clock marked by a red arrow at its current hand position.",
+          "semantic_meaning": "At the present time."
+        },
+        {
+          "source_text": "early",
+          "number": "24",
+          "section": "171.1 TELLING THE TIME",
+          "visual_context": "Clock with a green arrow ending before the marked target time.",
+          "semantic_meaning": "Before the expected or scheduled time."
+        },
+        {
+          "source_text": "on time",
+          "number": "25",
+          "section": "171.1 TELLING THE TIME",
+          "visual_context": "Clock with green arrows arriving exactly at the marked time.",
+          "semantic_meaning": "At the expected or scheduled time."
+        },
+        {
+          "source_text": "late",
+          "number": "26",
+          "section": "171.1 TELLING THE TIME",
+          "visual_context": "Clock with a red arrow passing the marked target time.",
+          "semantic_meaning": "After the expected or scheduled time."
+        },
+        {
+          "source_text": "later",
+          "number": "27",
+          "section": "171.1 TELLING THE TIME",
+          "visual_context": "Clock with a grey arrow moving forward to a later time.",
+          "semantic_meaning": "At a time after now or after a stated time."
+        },
+        {
+          "source_text": "hourly",
+          "number": "28",
+          "section": "171.1 TELLING THE TIME",
+          "visual_context": "Clock surrounded by repeated red arrows for each hour.",
+          "semantic_meaning": "Every hour."
+        },
+        {
+          "source_text": "always",
+          "number": "29",
+          "section": "171.1 TELLING THE TIME",
+          "visual_context": "Clock with an arrow continuously circling it.",
+          "semantic_meaning": "At all times."
+        },
+        {
+          "source_text": "never",
+          "number": "30",
+          "section": "171.1 TELLING THE TIME",
+          "visual_context": "Clock and calendar crossed out with a red prohibition sign.",
+          "semantic_meaning": "At no time."
+        },
+        {
+          "source_text": "second hand",
+          "number": "31",
+          "section": "171.1 TELLING THE TIME",
+          "visual_context": "Pointer from the label to the thin black hand on the large clock.",
+          "semantic_meaning": "The hand that counts seconds."
+        },
+        {
+          "source_text": "minute hand",
+          "number": "32",
+          "section": "171.1 TELLING THE TIME",
+          "visual_context": "Pointer from the label to the long hand on the large clock.",
+          "semantic_meaning": "The hand that counts minutes."
+        },
+        {
+          "source_text": "clock",
+          "number": "33",
+          "section": "171.1 TELLING THE TIME",
+          "visual_context": "Pointer to the large wall clock.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hour hand",
+          "number": "34",
+          "section": "171.1 TELLING THE TIME",
+          "visual_context": "Pointer from the label to the short hand on the large clock.",
+          "semantic_meaning": "The hand that counts hours."
+        },
+        {
+          "source_text": "What time does it start?",
+          "number": "35",
+          "section": "171.1 TELLING THE TIME",
+          "visual_context": "Speech bubble from a person holding a paper, asking another person.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "At 6pm. We’re going to be late!",
+          "number": "36",
+          "section": "171.1 TELLING THE TIME",
+          "visual_context": "Speech bubble from a person holding a paper while speaking to the other person.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to be late",
+          "number": "37",
+          "section": "171.1 TELLING THE TIME",
+          "visual_context": "Label beneath the conversation about being late.",
+          "semantic_meaning": "To arrive or happen after the expected time."
+        },
+        {
+          "source_text": "evening",
+          "number": "6",
+          "section": "171.2 PARTS OF THE DAY",
+          "visual_context": "Sky darkening while the sun is low over hills.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sunset",
+          "number": "7",
+          "section": "171.2 PARTS OF THE DAY",
+          "visual_context": "Sun setting below the hills.",
+          "semantic_meaning": "The time when the sun disappears below the horizon."
+        },
+        {
+          "source_text": "dusk",
+          "number": "8",
+          "section": "171.2 PARTS OF THE DAY",
+          "visual_context": "Dim twilight landscape between sunset and night.",
+          "semantic_meaning": "The darker stage of twilight after sunset."
+        },
+        {
+          "source_text": "midnight",
+          "number": "9",
+          "section": "171.2 PARTS OF THE DAY",
+          "visual_context": "Night sky with moon, stars, and a clock at 12.",
+          "semantic_meaning": "Twelve o’clock at night."
+        },
+        {
+          "source_text": "night",
+          "number": "10",
+          "section": "171.2 PARTS OF THE DAY",
+          "visual_context": "Dark scene with moon and stars.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "day",
+          "number": "11",
+          "section": "171.2 PARTS OF THE DAY",
+          "visual_context": "Light blue daytime scene with a sun.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

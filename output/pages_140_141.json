@@ -1,0 +1,445 @@
+{
+  "pages": [
+    {
+      "page": 140,
+      "title": "The delicatessen",
+      "context": "64.1 DELICATESSEN",
+      "entries": [
+        {
+          "source_text": "salami",
+          "number": "1",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Pointer to hanging cured sausages in the deli display.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "prosciutto",
+          "number": "2",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Pointer to a hanging ham and sliced ham on a platter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pepperoni",
+          "number": "3",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Pointer to hanging pepperoni sausages and sliced pepperoni.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dry-cured meat",
+          "number": "4",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Pointer to a hanging cured ham.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "vinegar",
+          "number": "5",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Pointer to bottles in the display.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "oil",
+          "number": "6",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Pointer to oil bottles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "feta",
+          "number": "7",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Pointer to cubes of white cheese beneath cheese wheels.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "spicy sausage",
+          "number": "15",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Pointer to hanging red sausages.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cooked meat",
+          "number": "16",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Pointer to sliced cooked meat on a platter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pâté",
+          "number": "17",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Pointer to small pâté portions on a plate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "corned beef (US) / salt beef (UK)",
+          "number": "18",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Pointer to a sliced cured beef joint on a platter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "flan",
+          "number": "19",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Pointer to a round savory flan on a platter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pastrami",
+          "number": "20",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Pointer to sliced pastrami on a platter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pies",
+          "number": "21",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Pointer to several small pies.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Edam",
+          "number": "22",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Pointer to a red-rinded Edam cheese.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Parmesan",
+          "number": "23",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Pointer to a large Parmesan cheese wheel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cheddar",
+          "number": "24",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Pointer to yellow cheddar wedges and slices.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Brie",
+          "number": "25",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Pointer to a cut white-rinded Brie cheese.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chiles (US) chillis (UK)",
+          "number": "27",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Illustration of green chiles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stuffed vine leaves",
+          "number": "28",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Illustration of rolled stuffed vine leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "green olives",
+          "number": "29",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Illustration of green olives.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "black olives",
+          "number": "30",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Illustration of black olives.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stuffed olives",
+          "number": "31",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Illustration of green olives stuffed with red filling.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "capers",
+          "number": "32",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Illustration of capers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "in oil",
+          "number": "33",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Illustration of a jar of vegetables preserved in oil.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sauces",
+          "number": "34",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Illustration of several tubs or jars of sauce.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "marinated",
+          "number": "35",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Illustration of a tub of marinated food.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "salted",
+          "number": "36",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Illustration of a tray of salted food.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Iberian ham",
+          "number": "37",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Pointer to thin slices of ham.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cured meat",
+          "number": "38",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Pointer to pale slices of cured meat.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chorizo",
+          "number": "39",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Pointer to red-orange chorizo slices.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 141,
+      "title": null,
+      "context": "64.1 DELICATESSEN; 64.2 PASTA AND NOODLES",
+      "entries": [
+        {
+          "source_text": "rind",
+          "number": "8",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Pointer to the outer surface of a large cheese.",
+          "semantic_meaning": "outer skin of a cheese"
+        },
+        {
+          "source_text": "Try these different types of cheese!",
+          "number": "9",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Speech bubble from the deli worker beside the cheese display.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "paneer",
+          "number": "10",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Pointer to a cheese held by the deli worker.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "halloumi",
+          "number": "11",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Pointer to a block of cheese held by the deli worker.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mozzarella",
+          "number": "12",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Pointer to white mozzarella cheeses held by the deli worker.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "manchego",
+          "number": "13",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Pointer to a wedge of Manchego held by the deli worker.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cheeses",
+          "number": "14",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Bracket grouping paneer, halloumi, mozzarella, and manchego.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Camembert",
+          "number": "26",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Pointer to a round Camembert cheese in the display.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "smoked salmon",
+          "number": "40",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Pointer to brown smoked salmon fillets.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "smoked mackerel",
+          "number": "41",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Pointer to smoked mackerel pieces.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "smoked haddock",
+          "number": "42",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Pointer to a yellow smoked haddock fillet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "smoked fish",
+          "number": "43",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Label grouping the smoked salmon, mackerel, and haddock illustrations.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "in brine",
+          "number": "44",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Label for a jar containing preserved fish.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "anchovies",
+          "number": "45",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Pointer to anchovies in a jar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sardines",
+          "number": "46",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Pointer to a tin of sardines.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "marinated fish",
+          "number": "47",
+          "section": "64.1 DELICATESSEN",
+          "visual_context": "Label for the fish-preserve illustrations.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lasagne",
+          "number": "1",
+          "section": "64.2 PASTA AND NOODLES",
+          "visual_context": "Illustration of flat pasta sheets.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "conchiglie / shells",
+          "number": "2",
+          "section": "64.2 PASTA AND NOODLES",
+          "visual_context": "Illustration of shell-shaped pasta.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fusilli",
+          "number": "3",
+          "section": "64.2 PASTA AND NOODLES",
+          "visual_context": "Illustration of spiral pasta.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "macaroni",
+          "number": "4",
+          "section": "64.2 PASTA AND NOODLES",
+          "visual_context": "Illustration of short curved macaroni.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gnocchi",
+          "number": "5",
+          "section": "64.2 PASTA AND NOODLES",
+          "visual_context": "Illustration of ridged gnocchi pieces.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "penne",
+          "number": "6",
+          "section": "64.2 PASTA AND NOODLES",
+          "visual_context": "Illustration of short tube-shaped penne.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cannelloni",
+          "number": "7",
+          "section": "64.2 PASTA AND NOODLES",
+          "visual_context": "Illustration of large pasta tubes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tortellini",
+          "number": "8",
+          "section": "64.2 PASTA AND NOODLES",
+          "visual_context": "Illustration of filled ring-shaped pasta.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "noodles",
+          "number": "9",
+          "section": "64.2 PASTA AND NOODLES",
+          "visual_context": "Illustration of noodles in a bowl with chopsticks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rice noodles",
+          "number": "10",
+          "section": "64.2 PASTA AND NOODLES",
+          "visual_context": "Illustration of thin white rice noodles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ramen",
+          "number": "11",
+          "section": "64.2 PASTA AND NOODLES",
+          "visual_context": "Illustration of a block of ramen noodles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "udon",
+          "number": "12",
+          "section": "64.2 PASTA AND NOODLES",
+          "visual_context": "Illustration of thick white udon noodles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "spaghetti",
+          "number": "13",
+          "section": "64.2 PASTA AND NOODLES",
+          "visual_context": "Pointer to spaghetti on the plated dish.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Bolognese sauce",
+          "number": "14",
+          "section": "64.2 PASTA AND NOODLES",
+          "visual_context": "Pointer to red meat sauce on the spaghetti.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

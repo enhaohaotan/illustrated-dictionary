@@ -1,0 +1,354 @@
+{
+  "pages": [
+    {
+      "page": 20,
+      "title": "Internal organs",
+      "context": "Sections 4.1 INTERNAL ORGANS and 4.2 BODY SYSTEMS",
+      "entries": [
+        {
+          "source_text": "trachea",
+          "number": "1",
+          "section": "4.1 INTERNAL ORGANS",
+          "visual_context": "Pointer to the windpipe in the chest.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lung",
+          "number": "2",
+          "section": "4.1 INTERNAL ORGANS",
+          "visual_context": "Pointer to a lung.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "liver",
+          "number": "3",
+          "section": "4.1 INTERNAL ORGANS",
+          "visual_context": "Pointer to the large organ below the lungs.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gall bladder",
+          "number": "4",
+          "section": "4.1 INTERNAL ORGANS",
+          "visual_context": "Pointer to the small green sac beneath the liver.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "adrenal gland",
+          "number": "5",
+          "section": "4.1 INTERNAL ORGANS",
+          "visual_context": "Pointer to the gland above a kidney.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "kidney",
+          "number": "6",
+          "section": "4.1 INTERNAL ORGANS",
+          "visual_context": "Pointer to a kidney.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "appendix",
+          "number": "7",
+          "section": "4.1 INTERNAL ORGANS",
+          "visual_context": "Pointer to the appendix at the lower large intestine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "thyroid gland",
+          "number": "8",
+          "section": "4.1 INTERNAL ORGANS",
+          "visual_context": "Pointer to the gland at the front of the neck.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "heart",
+          "number": "9",
+          "section": "4.1 INTERNAL ORGANS",
+          "visual_context": "Pointer to the heart between the lungs.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stomach",
+          "number": "10",
+          "section": "4.1 INTERNAL ORGANS",
+          "visual_context": "Pointer to the stomach below the heart.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "spleen",
+          "number": "11",
+          "section": "4.1 INTERNAL ORGANS",
+          "visual_context": "Pointer to the spleen beside the stomach.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pancreas",
+          "number": "12",
+          "section": "4.1 INTERNAL ORGANS",
+          "visual_context": "Pointer to the yellow pancreas below the stomach.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "small intestine",
+          "number": "13",
+          "section": "4.1 INTERNAL ORGANS",
+          "visual_context": "Pointer to the coiled inner intestine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "large intestine",
+          "number": "14",
+          "section": "4.1 INTERNAL ORGANS",
+          "visual_context": "Pointer to the thicker outer intestine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "respiratory",
+          "number": "1",
+          "section": "4.2 BODY SYSTEMS",
+          "visual_context": "Icon showing lungs and airways.",
+          "semantic_meaning": "Body system for breathing."
+        },
+        {
+          "source_text": "digestive",
+          "number": "2",
+          "section": "4.2 BODY SYSTEMS",
+          "visual_context": "Icon showing the digestive tract.",
+          "semantic_meaning": "Body system that processes food."
+        },
+        {
+          "source_text": "nervous",
+          "number": "3",
+          "section": "4.2 BODY SYSTEMS",
+          "visual_context": "Icon showing the brain, spinal cord, and nerves.",
+          "semantic_meaning": "Body system for nerve signalling."
+        },
+        {
+          "source_text": "urinary",
+          "number": "4",
+          "section": "4.2 BODY SYSTEMS",
+          "visual_context": "Icon showing kidneys and bladder.",
+          "semantic_meaning": "Body system that produces and removes urine."
+        },
+        {
+          "source_text": "endocrine",
+          "number": "5",
+          "section": "4.2 BODY SYSTEMS",
+          "visual_context": "Icon showing hormone-producing glands.",
+          "semantic_meaning": "Body system of hormone-producing glands."
+        },
+        {
+          "source_text": "lymphatic",
+          "number": "6",
+          "section": "4.2 BODY SYSTEMS",
+          "visual_context": "Icon showing lymph vessels and nodes.",
+          "semantic_meaning": "Body system associated with lymph and immune defence."
+        },
+        {
+          "source_text": "reproductive",
+          "number": "7",
+          "section": "4.2 BODY SYSTEMS",
+          "visual_context": "Icon showing reproductive organs.",
+          "semantic_meaning": "Body system for reproduction."
+        },
+        {
+          "source_text": "cardiovascular",
+          "number": "8",
+          "section": "4.2 BODY SYSTEMS",
+          "visual_context": "Figure showing the heart and blood-vessel network.",
+          "semantic_meaning": "Body system that circulates blood."
+        },
+        {
+          "source_text": "vein",
+          "number": "9",
+          "section": "4.2 BODY SYSTEMS",
+          "visual_context": "Pointer to a blue blood vessel in the cardiovascular figure.",
+          "semantic_meaning": "Blood vessel that carries blood toward the heart."
+        },
+        {
+          "source_text": "artery",
+          "number": "10",
+          "section": "4.2 BODY SYSTEMS",
+          "visual_context": "Pointer to a red blood vessel in the cardiovascular figure.",
+          "semantic_meaning": "Blood vessel that carries blood away from the heart."
+        }
+      ]
+    },
+    {
+      "page": 21,
+      "title": "HEAD",
+      "context": "Sections 4.3 HEAD and 4.4 REPRODUCTIVE ORGANS",
+      "entries": [
+        {
+          "source_text": "brain",
+          "number": "1",
+          "section": "4.3 HEAD",
+          "visual_context": "Pointer to the brain in the head cross-section.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "palate",
+          "number": "2",
+          "section": "4.3 HEAD",
+          "visual_context": "Pointer to the roof of the mouth.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pharynx",
+          "number": "3",
+          "section": "4.3 HEAD",
+          "visual_context": "Pointer to the throat passage behind the mouth and nose.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "epiglottis",
+          "number": "4",
+          "section": "4.3 HEAD",
+          "visual_context": "Pointer to the flap above the larynx.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "throat",
+          "number": "5",
+          "section": "4.3 HEAD",
+          "visual_context": "Pointer to the neck/throat region.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "spinal cord",
+          "number": "6",
+          "section": "4.3 HEAD",
+          "visual_context": "Pointer to the cord descending through the neck.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sinus",
+          "number": "7",
+          "section": "4.3 HEAD",
+          "visual_context": "Pointer to an air cavity behind the nose.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tongue",
+          "number": "8",
+          "section": "4.3 HEAD",
+          "visual_context": "Pointer to the tongue in the mouth.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "larynx",
+          "number": "9",
+          "section": "4.3 HEAD",
+          "visual_context": "Pointer to the voice-box area in the throat.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Adam’s apple",
+          "number": "10",
+          "section": "4.3 HEAD",
+          "visual_context": "Pointer to the front prominence of the larynx.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "esophagus (US) / oesophagus (UK)",
+          "number": "11",
+          "section": "4.3 HEAD",
+          "visual_context": "Pointer to the food pipe behind the airway.",
+          "semantic_meaning": "US and UK spellings for the food pipe."
+        },
+        {
+          "source_text": "vocal cords",
+          "number": "12",
+          "section": "4.3 HEAD",
+          "visual_context": "Pointers to the paired structures inside the larynx.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "prostate gland",
+          "number": "1",
+          "section": "4.4 REPRODUCTIVE ORGANS",
+          "visual_context": "Pointer to the prostate gland in the male reproductive-organ diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "seminal gland",
+          "number": "2",
+          "section": "4.4 REPRODUCTIVE ORGANS",
+          "visual_context": "Pointer to a seminal gland in the male diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "testicle",
+          "number": "3",
+          "section": "4.4 REPRODUCTIVE ORGANS",
+          "visual_context": "Pointer to a testicle in the male diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "penis",
+          "number": "4",
+          "section": "4.4 REPRODUCTIVE ORGANS",
+          "visual_context": "Pointer to the penis in the male diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "scrotum",
+          "number": "5",
+          "section": "4.4 REPRODUCTIVE ORGANS",
+          "visual_context": "Pointer to the scrotum in the male diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "male",
+          "number": "6",
+          "section": "4.4 REPRODUCTIVE ORGANS",
+          "visual_context": "Label beneath the male reproductive-organ diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fallopian tube",
+          "number": "7",
+          "section": "4.4 REPRODUCTIVE ORGANS",
+          "visual_context": "Pointer to a tube beside the uterus in the female diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "uterus / womb",
+          "number": "8",
+          "section": "4.4 REPRODUCTIVE ORGANS",
+          "visual_context": "Pointer to the central reproductive organ in the female diagram.",
+          "semantic_meaning": "Alternative terms for the organ where a fetus develops."
+        },
+        {
+          "source_text": "vagina",
+          "number": "9",
+          "section": "4.4 REPRODUCTIVE ORGANS",
+          "visual_context": "Pointer to the vaginal passage in the female diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ovary",
+          "number": "10",
+          "section": "4.4 REPRODUCTIVE ORGANS",
+          "visual_context": "Pointer to an ovary in the female diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cervix",
+          "number": "11",
+          "section": "4.4 REPRODUCTIVE ORGANS",
+          "visual_context": "Pointer to the lower opening of the uterus.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "female",
+          "number": "12",
+          "section": "4.4 REPRODUCTIVE ORGANS",
+          "visual_context": "Label beneath the female reproductive-organ diagram.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,410 @@
+{
+  "pages": [
+    {
+      "page": 58,
+      "title": "Diet and nutrition",
+      "context": "23.1 HEALTHY LIVING",
+      "entries": [
+        {
+          "source_text": "protein",
+          "number": "1",
+          "section": "23.1 HEALTHY LIVING",
+          "visual_context": "Meat, fish, eggs, mushrooms, and leafy vegetables.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "carbohydrates",
+          "number": "2",
+          "section": "23.1 HEALTHY LIVING",
+          "visual_context": "Bread, potatoes, fries, and grains.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fiber (US) fibre (UK)",
+          "number": "3",
+          "section": "23.1 HEALTHY LIVING",
+          "visual_context": "A salad bowl with leafy vegetables and tomatoes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dairy",
+          "number": "4",
+          "section": "23.1 HEALTHY LIVING",
+          "visual_context": "A carton of milk.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "legumes (US) pulses (UK)",
+          "number": "5",
+          "section": "23.1 HEALTHY LIVING",
+          "visual_context": "Assorted beans and peas.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sugar",
+          "number": "6",
+          "section": "23.1 HEALTHY LIVING",
+          "visual_context": "Sugar cubes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "salt",
+          "number": "7",
+          "section": "23.1 HEALTHY LIVING",
+          "visual_context": "Salt shaker and a pile of salt.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "saturated fat",
+          "number": "8",
+          "section": "23.1 HEALTHY LIVING",
+          "visual_context": "Milk, ham, sausages, meat, cheese, and bacon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "unsaturated fat",
+          "number": "9",
+          "section": "23.1 HEALTHY LIVING",
+          "visual_context": "Olive oil, avocado, and nuts.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "calories / energy",
+          "number": "10",
+          "section": "23.1 HEALTHY LIVING",
+          "visual_context": "Pizza and a nutrition-style red energy bar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "vitamins",
+          "number": "11",
+          "section": "23.1 HEALTHY LIVING",
+          "visual_context": "A vitamin bottle marked with letters A, C, D, and E.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "minerals",
+          "number": "12",
+          "section": "23.1 HEALTHY LIVING",
+          "visual_context": "Fruit, vegetables, meat, and mineral symbols such as Ca, Fe, Co, Mn, Zn, and P.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "calcium",
+          "number": "13",
+          "section": "23.1 HEALTHY LIVING",
+          "visual_context": "Milk, cheese, yogurt, leafy vegetables, and almonds.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "iron",
+          "number": "14",
+          "section": "23.1 HEALTHY LIVING",
+          "visual_context": "Leafy vegetables, legumes, meat, and nuts.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cholesterol",
+          "number": "15",
+          "section": "23.1 HEALTHY LIVING",
+          "visual_context": "A cheeseburger.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "detox",
+          "number": "16",
+          "section": "23.1 HEALTHY LIVING",
+          "visual_context": "Green leaves beside a glass of green drink.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "balanced diet",
+          "number": "17",
+          "section": "23.1 HEALTHY LIVING",
+          "visual_context": "A plate containing vegetables, meat, grains, and greens.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "calorie-controlled diet",
+          "number": "18",
+          "section": "23.1 HEALTHY LIVING",
+          "visual_context": "A vegetable salad topped with avocado slices.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "health food store (US) health food shop (UK)",
+          "number": "19",
+          "section": "23.1 HEALTHY LIVING",
+          "visual_context": "A small storefront labelled HEALTH FOOD.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "organic food section",
+          "number": "20",
+          "section": "23.1 HEALTHY LIVING",
+          "visual_context": "Pointer to the produce display at a farmers’ market stall.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "local produce",
+          "number": "21",
+          "section": "23.1 HEALTHY LIVING",
+          "visual_context": "Pointer to produce at the right-hand farmers’ market stall.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "I like to buy organic fruit and vegetables.",
+          "number": "22",
+          "section": "23.1 HEALTHY LIVING",
+          "visual_context": "Speech bubble from a shopper carrying bags at the market.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "farmers’ market",
+          "number": "23",
+          "section": "23.1 HEALTHY LIVING",
+          "visual_context": "Outdoor market stalls selling fruit, vegetables, cheese, and other food.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 59,
+      "title": null,
+      "context": "Continuation of 23.1 HEALTHY LIVING at left; 23.2 FOOD ALLERGIES at right.",
+      "entries": [
+        {
+          "source_text": "processed food",
+          "number": "24",
+          "section": "23.1 HEALTHY LIVING",
+          "visual_context": "Packaged snack foods, fries, hamburger, chocolate bar, and cookie.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "superfoods",
+          "number": "25",
+          "section": "23.1 HEALTHY LIVING",
+          "visual_context": "Avocado, leafy vegetables, cauliflower, tomato, honey, and other foods.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "organic",
+          "number": "26",
+          "section": "23.1 HEALTHY LIVING",
+          "visual_context": "Green leaves in a circular organic symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "supplement",
+          "number": "27",
+          "section": "23.1 HEALTHY LIVING",
+          "visual_context": "A bottle with capsules beside it.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "additives",
+          "number": "28",
+          "section": "23.1 HEALTHY LIVING",
+          "visual_context": "An orange container marked with a white plus sign.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dairy-free",
+          "number": "29",
+          "section": "23.1 HEALTHY LIVING",
+          "visual_context": "Milk, cheese, and yogurt crossed out.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "vegetarian",
+          "number": "30",
+          "section": "23.1 HEALTHY LIVING",
+          "visual_context": "Chicken crossed out.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "vegan",
+          "number": "31",
+          "section": "23.1 HEALTHY LIVING",
+          "visual_context": "Milk and chicken crossed out.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pescatarian",
+          "number": "32",
+          "section": "23.1 HEALTHY LIVING",
+          "visual_context": "Chicken crossed out and fish marked as permitted.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gluten-free",
+          "number": "33",
+          "section": "23.1 HEALTHY LIVING",
+          "visual_context": "A wheat stalk crossed out.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to lose weight",
+          "number": "34",
+          "section": "23.1 HEALTHY LIVING",
+          "visual_context": "Person standing on weighing scales.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "convenience food",
+          "number": "35",
+          "section": "23.1 HEALTHY LIVING",
+          "visual_context": "Person using a microwave oven.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "high-calorie",
+          "number": "36",
+          "section": "23.1 HEALTHY LIVING",
+          "visual_context": "Chocolate bar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "low-calorie",
+          "number": "37",
+          "section": "23.1 HEALTHY LIVING",
+          "visual_context": "Celery stalks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to cut down on",
+          "number": "38",
+          "section": "23.1 HEALTHY LIVING",
+          "visual_context": "Two people exchanging or reducing something in their hands.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to give up",
+          "number": "39",
+          "section": "23.1 HEALTHY LIVING",
+          "visual_context": "Person refusing a cupcake.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to go on a diet",
+          "number": "40",
+          "section": "23.1 HEALTHY LIVING",
+          "visual_context": "Person eating a small meal and giving a thumbs-up.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to overeat",
+          "number": "41",
+          "section": "23.1 HEALTHY LIVING",
+          "visual_context": "Person holding their stomach after eating several dishes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nut allergy",
+          "number": "1",
+          "section": "23.2 FOOD ALLERGIES",
+          "visual_context": "Assorted nuts crossed out.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "peanut allergy",
+          "number": "2",
+          "section": "23.2 FOOD ALLERGIES",
+          "visual_context": "Peanuts crossed out.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "seafood allergy",
+          "number": "3",
+          "section": "23.2 FOOD ALLERGIES",
+          "visual_context": "Fish and shellfish crossed out.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lactose intolerant",
+          "number": "4",
+          "section": "23.2 FOOD ALLERGIES",
+          "visual_context": "Milk bottle and glass crossed out.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gluten intolerant",
+          "number": "5",
+          "section": "23.2 FOOD ALLERGIES",
+          "visual_context": "A wheat stalk crossed out.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dairy allergy",
+          "number": "6",
+          "section": "23.2 FOOD ALLERGIES",
+          "visual_context": "Milk and dairy product packaging crossed out.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wheat allergy",
+          "number": "7",
+          "section": "23.2 FOOD ALLERGIES",
+          "visual_context": "Wheat stalk crossed out.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "egg allergy",
+          "number": "8",
+          "section": "23.2 FOOD ALLERGIES",
+          "visual_context": "Egg crossed out.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sesame allergy",
+          "number": "9",
+          "section": "23.2 FOOD ALLERGIES",
+          "visual_context": "Sesame seeds crossed out.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "soy allergy (US) soya allergy (UK)",
+          "number": "10",
+          "section": "23.2 FOOD ALLERGIES",
+          "visual_context": "Soybean pod crossed out.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "celery allergy",
+          "number": "11",
+          "section": "23.2 FOOD ALLERGIES",
+          "visual_context": "Celery stalks crossed out.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sulfite allergy (US) sulphite allergy (UK)",
+          "number": "12",
+          "section": "23.2 FOOD ALLERGIES",
+          "visual_context": "Sulfite chemical symbol crossed out.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "allergic",
+          "number": "13",
+          "section": "23.2 FOOD ALLERGIES",
+          "visual_context": "Person reacting with warning symbols for several foods overhead.",
+          "semantic_meaning": "Having an allergy."
+        },
+        {
+          "source_text": "mustard allergy",
+          "number": "14",
+          "section": "23.2 FOOD ALLERGIES",
+          "visual_context": "Mustard bottle crossed out.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "intolerant",
+          "number": "15",
+          "section": "23.2 FOOD ALLERGIES",
+          "visual_context": "Person experiencing discomfort with crossed-out food symbols overhead.",
+          "semantic_meaning": "Unable to tolerate a food."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,438 @@
+{
+  "pages": [
+    {
+      "page": 218,
+      "title": "At the airport",
+      "context": "104.1 AT THE TERMINAL",
+      "entries": [
+        {
+          "source_text": "airport",
+          "number": "1",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Airport terminal building.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "control tower",
+          "number": "2",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Control tower above the terminal.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "departures",
+          "number": "3",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Departures display board.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "departure lounge",
+          "number": "4",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Passenger seating area before departure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "scale",
+          "number": "10",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Luggage weighing scale.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "suitcase",
+          "number": "11",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Yellow suitcase at the check-in area.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "check-in desk",
+          "number": "12",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Counter where passengers check in.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "X-ray machine",
+          "number": "13",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Security X-ray baggage-screening machine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to wait in line (US) to queue (UK)",
+          "number": "17",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Passengers standing behind queue barriers.",
+          "semantic_meaning": "US and UK alternatives for waiting in a line."
+        },
+        {
+          "source_text": "terminal",
+          "number": "18",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Airport terminal building/interior.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cart (US) trolley (UK)",
+          "number": "19",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Wheeled baggage cart.",
+          "semantic_meaning": "US and UK alternatives."
+        },
+        {
+          "source_text": "security",
+          "number": "20",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Airport security checkpoint.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "scanner",
+          "number": "21",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Walk-through security scanner.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "passport",
+          "number": "28",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Passport booklet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "biometric passport",
+          "number": "29",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Passport with biometric-chip symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "visa",
+          "number": "30",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Visa document/stamp.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ticket",
+          "number": "31",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Travel ticket.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "boarding pass",
+          "number": "32",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Boarding pass document.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "online check-in",
+          "number": "33",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Phone showing a check-in confirmation.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "vacation (US) holiday (UK)",
+          "number": "40",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Traveller with luggage and leisure scene.",
+          "semantic_meaning": "US and UK alternatives."
+        },
+        {
+          "source_text": "domestic flight",
+          "number": "41",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Flight shown travelling within one country.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "international flight",
+          "number": "42",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Plane and globe with locations in different countries.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to go abroad",
+          "number": "43",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Plane travelling from one country to another.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "direct flight",
+          "number": "44",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Plane travelling directly between two locations.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "connection",
+          "number": "45",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Route requiring a change between two flight legs.",
+          "semantic_meaning": "A change from one flight to another."
+        },
+        {
+          "source_text": "excess baggage",
+          "number": "51",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Several suitcases with red plus signs.",
+          "semantic_meaning": "Baggage exceeding an allowance."
+        },
+        {
+          "source_text": "passport control",
+          "number": "52",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Traveller at passport-control counter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "currency exchange",
+          "number": "53",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Currency-exchange counter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "duty-free shop",
+          "number": "54",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Airport duty-free retail shop.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lost and found",
+          "number": "55",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Counter for lost property.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to be delayed",
+          "number": "56",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Flight information board and waiting traveller.",
+          "semantic_meaning": "To be later than scheduled."
+        }
+      ]
+    },
+    {
+      "page": 219,
+      "title": "At the airport",
+      "context": "104.1 AT THE TERMINAL",
+      "entries": [
+        {
+          "source_text": "boarding gate",
+          "number": "5",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Gate marked 01 where passengers board.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "carry-on (US) hand luggage (UK)",
+          "number": "6",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Small bag carried by a passenger.",
+          "semantic_meaning": "US and UK alternatives for luggage taken into the cabin."
+        },
+        {
+          "source_text": "sign",
+          "number": "7",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Directional airport sign.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "escalator",
+          "number": "8",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Moving staircase between levels.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "footbridge",
+          "number": "9",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Elevated pedestrian bridge.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "time",
+          "number": "14",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Time column on the flight information screen.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "flight number",
+          "number": "15",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Flight-number column on the information screen.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "airline",
+          "number": "16",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Airline column on the information screen.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "luggage",
+          "number": "22",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Bags on a baggage cart.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "flight attendants",
+          "number": "23",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Uniformed airline staff walking with luggage.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "destination",
+          "number": "24",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Destination column on the information screen.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "status",
+          "number": "25",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Status column on the information screen.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gate number",
+          "number": "26",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Gate-number column on the information screen.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "information screen",
+          "number": "27",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Large departures information board.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bus transfer",
+          "number": "34",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Airport bus for transferring passengers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "jet bridge (US) jetway (UK)",
+          "number": "35",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Enclosed bridge connecting terminal and aircraft.",
+          "semantic_meaning": "US and UK alternatives."
+        },
+        {
+          "source_text": "to board a plane",
+          "number": "36",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Passenger entering an aircraft.",
+          "semantic_meaning": "To get onto an aircraft."
+        },
+        {
+          "source_text": "to take off",
+          "number": "37",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Aircraft rising from the runway.",
+          "semantic_meaning": "To leave the ground in an aircraft."
+        },
+        {
+          "source_text": "to land",
+          "number": "38",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Aircraft descending onto the runway.",
+          "semantic_meaning": "To arrive on the ground in an aircraft."
+        },
+        {
+          "source_text": "immigration",
+          "number": "39",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Immigration-control booth.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "baggage trailer",
+          "number": "46",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Trailer carrying suitcases.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "baggage claim",
+          "number": "47",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Baggage-collection conveyor belt.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "customs",
+          "number": "48",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Customs inspection area.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "car rental (US) car hire (UK)",
+          "number": "49",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Rental car beneath a car sign.",
+          "semantic_meaning": "US and UK alternatives."
+        },
+        {
+          "source_text": "taxi stand (US) taxi rank (UK)",
+          "number": "50",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Taxi beneath a taxi sign.",
+          "semantic_meaning": "US and UK alternatives."
+        },
+        {
+          "source_text": "service vehicle",
+          "number": "57",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Airport ground-service vehicle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "air cargo",
+          "number": "58",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Freight pallets loaded for an aircraft.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hangar",
+          "number": "59",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Large aircraft storage building.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "runway",
+          "number": "60",
+          "section": "104.1 AT THE TERMINAL",
+          "visual_context": "Marked strip where aircraft take off and land.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

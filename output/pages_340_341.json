@@ -1,0 +1,333 @@
+{
+  "pages": [
+    {
+      "page": 340,
+      "title": "Farm animals",
+      "context": "165.1 ON THE FARM",
+      "entries": [
+        {
+          "source_text": "chicken",
+          "number": "1",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Pointer to chickens being fed beside a farmer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "I feed the chickens twice a day.",
+          "number": "2",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Speech bubble from the farmer feeding chickens.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sheep",
+          "number": "3",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Pointer to adult sheep in the foreground.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chick",
+          "number": "4",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Pointer to a small yellow baby chicken.",
+          "semantic_meaning": "young chicken"
+        },
+        {
+          "source_text": "cow",
+          "number": "5",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Pointer to black-and-white cows behind the fence.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lamb",
+          "number": "6",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Pointer to a young sheep beside an adult sheep.",
+          "semantic_meaning": "young sheep"
+        },
+        {
+          "source_text": "rooster / cockerel (UK)",
+          "number": "14",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Illustration of a male chicken.",
+          "semantic_meaning": "male chicken; cockerel is the UK term"
+        },
+        {
+          "source_text": "hen",
+          "number": "15",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Illustration of an adult female chicken.",
+          "semantic_meaning": "female chicken"
+        },
+        {
+          "source_text": "turkey",
+          "number": "16",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Illustration of a turkey.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "poultry",
+          "number": "17",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Group illustration of domestic birds including turkeys, ducks, geese, and chickens.",
+          "semantic_meaning": "domestic fowl kept for eggs or meat"
+        },
+        {
+          "source_text": "ram",
+          "number": "18",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Illustration of a horned male sheep.",
+          "semantic_meaning": "adult male sheep"
+        },
+        {
+          "source_text": "ewe",
+          "number": "19",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Illustration of an adult female sheep.",
+          "semantic_meaning": "adult female sheep"
+        },
+        {
+          "source_text": "hive",
+          "number": "20",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Illustration of a wooden beehive.",
+          "semantic_meaning": "bee colony's structure"
+        },
+        {
+          "source_text": "bee",
+          "number": "21",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Pointer to a bee flying above the hive.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "flock of sheep",
+          "number": "22",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Several sheep gathered on a green field.",
+          "semantic_meaning": "group of sheep"
+        },
+        {
+          "source_text": "herd of cows",
+          "number": "23",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Several cows gathered on a green field.",
+          "semantic_meaning": "group of cows"
+        },
+        {
+          "source_text": "bull",
+          "number": "24",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Illustration of a horned black bovine.",
+          "semantic_meaning": "adult male cow"
+        },
+        {
+          "source_text": "calf",
+          "number": "25",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Illustration of a young cow.",
+          "semantic_meaning": "young cow"
+        },
+        {
+          "source_text": "cattle",
+          "number": "26",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Illustration of several cows.",
+          "semantic_meaning": "cows and related bovine animals collectively"
+        },
+        {
+          "source_text": "donkey",
+          "number": "27",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Illustration of a donkey.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 341,
+      "title": "Farm animals",
+      "context": "165.1 ON THE FARM",
+      "entries": [
+        {
+          "source_text": "horse",
+          "number": "7",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Pointer to a large horse in the farm scene.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "goose",
+          "number": "8",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Pointer to a white goose flying above the farm.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gosling",
+          "number": "9",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Pointer to small yellow young geese.",
+          "semantic_meaning": "young goose"
+        },
+        {
+          "source_text": "pig",
+          "number": "10",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Pointer to an adult pig in the pen.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "piglet",
+          "number": "11",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Pointer to a small young pig in the pen.",
+          "semantic_meaning": "young pig"
+        },
+        {
+          "source_text": "duck",
+          "number": "12",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Pointer to adult ducks in the foreground.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "duckling",
+          "number": "13",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Pointer to a small young duck.",
+          "semantic_meaning": "young duck"
+        },
+        {
+          "source_text": "stallion",
+          "number": "28",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Illustration of a male horse.",
+          "semantic_meaning": "adult male horse"
+        },
+        {
+          "source_text": "mare",
+          "number": "29",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Illustration of an adult female horse.",
+          "semantic_meaning": "adult female horse"
+        },
+        {
+          "source_text": "foal",
+          "number": "30",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Illustration of a young horse.",
+          "semantic_meaning": "young horse"
+        },
+        {
+          "source_text": "goat",
+          "number": "31",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Illustration of a goat.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "kid",
+          "number": "32",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Illustration of a young goat.",
+          "semantic_meaning": "young goat"
+        },
+        {
+          "source_text": "ostrich",
+          "number": "33",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Illustration of an ostrich.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "llama",
+          "number": "34",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Illustration of a llama.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "alpaca",
+          "number": "35",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Illustration of an alpaca.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to shear",
+          "number": "36",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Person clipping wool from a sheep.",
+          "semantic_meaning": "to cut a sheep's wool"
+        },
+        {
+          "source_text": "to trot",
+          "number": "37",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Horse moving at a trot.",
+          "semantic_meaning": "to move with a two-beat horse gait"
+        },
+        {
+          "source_text": "to gallop",
+          "number": "38",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Horse running fast.",
+          "semantic_meaning": "to run at a horse's fastest gait"
+        },
+        {
+          "source_text": "to charge",
+          "number": "39",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Bull rushing forward, shown with motion lines.",
+          "semantic_meaning": "to rush forward aggressively"
+        },
+        {
+          "source_text": "to crow",
+          "number": "40",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Rooster making a call, shown with sound lines.",
+          "semantic_meaning": "to make a rooster's call"
+        },
+        {
+          "source_text": "to bleat",
+          "number": "41",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Sheep making a call, shown with sound lines.",
+          "semantic_meaning": "to make a sheep or goat's cry"
+        },
+        {
+          "source_text": "to snort",
+          "number": "42",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Cow emitting air from its nose.",
+          "semantic_meaning": "to force air noisily through the nose"
+        },
+        {
+          "source_text": "to grunt",
+          "number": "43",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Pig making a sound, shown with sound lines.",
+          "semantic_meaning": "to make a low pig-like sound"
+        },
+        {
+          "source_text": "to bray",
+          "number": "44",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Donkey making a call, shown with sound lines.",
+          "semantic_meaning": "to make a donkey's cry"
+        },
+        {
+          "source_text": "to quack",
+          "number": "45",
+          "section": "165.1 ON THE FARM",
+          "visual_context": "Duck making a call, shown with sound lines.",
+          "semantic_meaning": "to make a duck's call"
+        }
+      ]
+    }
+  ]
+}

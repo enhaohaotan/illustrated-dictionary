@@ -1,0 +1,438 @@
+{
+  "pages": [
+    {
+      "page": 212,
+      "title": "Cycling",
+      "context": "101.1 BICYCLE",
+      "entries": [
+        {
+          "source_text": "seat post",
+          "number": "1",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Pointer to the tube beneath the saddle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "saddle",
+          "number": "2",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Pointer to the bicycle seat.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cable",
+          "number": "3",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Pointer to the black control cable along the frame.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "crossbar",
+          "number": "4",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Pointer to the horizontal top tube of the frame.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "frame",
+          "number": "5",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Pointer to the red bicycle frame.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "brake",
+          "number": "10",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Pointer to the brake mechanism at the rear wheel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hub",
+          "number": "11",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Pointer to the center of the rear wheel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gears",
+          "number": "12",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Pointer to the rear gear assembly.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rim",
+          "number": "13",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Pointer to the metal outer ring of the rear wheel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tire (US)\ntyre (UK)",
+          "number": "14",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Pointer to the outer rubber of the rear wheel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chain",
+          "number": "15",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Pointer to the linked chain around the gears.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pedal",
+          "number": "16",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Pointer to the foot pedal and crank.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "road bike",
+          "number": "17",
+          "section": "101.1 BICYCLE",
+          "visual_context": "The large red bicycle shown across the spread.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "racing bike",
+          "number": "24",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Icon of a cyclist riding quickly in a racing posture.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "touring bike",
+          "number": "25",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Icon of a bicycle fitted with pannier bags.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mountain bike",
+          "number": "26",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Icon of a cyclist on a rugged bicycle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "electric bike",
+          "number": "27",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Icon of a cyclist with a lightning-bolt symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tandem",
+          "number": "28",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Icon of a bicycle with two sets of seats and pedals.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "basket",
+          "number": "29",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Icon of a bicycle with a front basket.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "child seat",
+          "number": "30",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Icon of a rear-mounted child seat carrying a child.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "kickstand",
+          "number": "31",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Icon of a bicycle supported by a deployed stand.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "brake pad",
+          "number": "32",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Diagram of a brake pad pressing against a wheel rim.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stabilizers",
+          "number": "33",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Icon of a child’s bicycle with small training wheels.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "unicycle",
+          "number": "34",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Icon of a single wheel with a seat and pedals.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "toe clip",
+          "number": "35",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Icon of a shoe held by a pedal toe cage.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "toe strap",
+          "number": "36",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Icon of a shoe secured to a pedal by a strap.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lamp",
+          "number": "37",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Icon of a front bicycle lamp emitting rays.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rear light",
+          "number": "38",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Icon of a rear-facing bicycle light.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "inner tube",
+          "number": "39",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Icon of a removable inflatable tube from inside a tire.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 213,
+      "title": "Cycling",
+      "context": "101.1 BICYCLE",
+      "entries": [
+        {
+          "source_text": "gear lever",
+          "number": "6",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Pointer to the gear-shifting control on the handlebar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "brake lever",
+          "number": "7",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Pointer to the curved hand brake lever.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "handlebar",
+          "number": "8",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Pointer to the bicycle’s steering bar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "light",
+          "number": "9",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Pointer to the illuminated front lamp.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dynamo",
+          "number": "18",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Pointer to the small generator against the front wheel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fork",
+          "number": "19",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Pointer to the front fork supporting the wheel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wheel",
+          "number": "20",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Pointer to the complete front wheel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "spoke",
+          "number": "21",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Pointer to a thin rod between the hub and rim.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "valve",
+          "number": "22",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Pointer to the tire inflation valve.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tread",
+          "number": "23",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Pointer to the patterned outer surface of the tire.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to get on a bike",
+          "number": "40",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Icon of a rider mounting a bicycle, with a downward arrow.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to get off a bike",
+          "number": "41",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Icon of a rider dismounting, with an upward arrow.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to pedal",
+          "number": "42",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Icon emphasizing a rider’s foot pedaling.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to cycle",
+          "number": "43",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Icon of a rider cycling with motion lines.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to change gear",
+          "number": "44",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Icon of a cyclist changing gears at the handlebar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to brake",
+          "number": "45",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Icon of a cyclist braking abruptly, with a cat nearby.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to fix a\npuncture",
+          "number": "46",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Icon of a person repairing a bicycle wheel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bike lane (US)\ncycle lane (UK)",
+          "number": "47",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Diagram of a marked roadway lane with a bicycle symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bike rack",
+          "number": "48",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Icon of several bicycles parked in a rack.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pothole",
+          "number": "49",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Icon of a cyclist falling after hitting a hole in the road.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "puncture",
+          "number": "50",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Icon of a damaged bicycle tire.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "patch",
+          "number": "51",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Pointer to adhesive repair patches in a repair kit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tire lever (US)\ntyre lever (UK)",
+          "number": "52",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Pointer to a curved tool used to remove a tire.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "glue",
+          "number": "53",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Pointer to a tube of repair adhesive.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "puncture repair kit",
+          "number": "54",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Illustration containing patches, glue, and a tire lever.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sprocket",
+          "number": "55",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Icon of a toothed gear wheel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "water bottle",
+          "number": "56",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Icon of a bicycle water bottle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bike helmet",
+          "number": "57",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Icon of a protective cycling helmet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "reflector",
+          "number": "58",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Icon of a dotted reflective panel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pump",
+          "number": "59",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Icon of a standing bicycle pump.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lock",
+          "number": "60",
+          "section": "101.1 BICYCLE",
+          "visual_context": "Icon of a U-shaped bicycle lock with keys.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "pages": [
+    {
+      "page": 302,
+      "title": "Geography",
+      "context": "146.1 GEOGRAPHICAL FEATURES AND LANDSCAPE",
+      "entries": [
+        {
+          "source_text": "woods (US)\nwood (UK)",
+          "number": "1",
+          "section": "146.1 GEOGRAPHICAL FEATURES AND LANDSCAPE",
+          "visual_context": "Illustration of a small wooded area with trees.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rain forest",
+          "number": "2",
+          "section": "146.1 GEOGRAPHICAL FEATURES AND LANDSCAPE",
+          "visual_context": "Illustration of dense tropical forest vegetation.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "coniferous\nforest",
+          "number": "3",
+          "section": "146.1 GEOGRAPHICAL FEATURES AND LANDSCAPE",
+          "visual_context": "Illustration of a forest of evergreen conifer trees.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "deciduous\nforest",
+          "number": "4",
+          "section": "146.1 GEOGRAPHICAL FEATURES AND LANDSCAPE",
+          "visual_context": "Illustration of trees with autumn-colored leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rapids",
+          "number": "5",
+          "section": "146.1 GEOGRAPHICAL FEATURES AND LANDSCAPE",
+          "visual_context": "Illustration of fast-flowing, foaming water among rocks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "countryside",
+          "number": "6",
+          "section": "146.1 GEOGRAPHICAL FEATURES AND LANDSCAPE",
+          "visual_context": "Illustration of open rolling rural land.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lake",
+          "number": "7",
+          "section": "146.1 GEOGRAPHICAL FEATURES AND LANDSCAPE",
+          "visual_context": "Illustration of a still inland body of water.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "swamp",
+          "number": "8",
+          "section": "146.1 GEOGRAPHICAL FEATURES AND LANDSCAPE",
+          "visual_context": "Illustration of marshy water with reeds, lily pads, and dead trees.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "waterfall",
+          "number": "9",
+          "section": "146.1 GEOGRAPHICAL FEATURES AND LANDSCAPE",
+          "visual_context": "Large illustration of water falling over a cliff.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "field",
+          "number": "10",
+          "section": "146.1 GEOGRAPHICAL FEATURES AND LANDSCAPE",
+          "visual_context": "Illustration of a cultivated field of crops.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hedge",
+          "number": "11",
+          "section": "146.1 GEOGRAPHICAL FEATURES AND LANDSCAPE",
+          "visual_context": "Illustration of a trimmed green hedge.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "valley",
+          "number": "12",
+          "section": "146.1 GEOGRAPHICAL FEATURES AND LANDSCAPE",
+          "visual_context": "Illustration of low land between green hills.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "farmland",
+          "number": "13",
+          "section": "146.1 GEOGRAPHICAL FEATURES AND LANDSCAPE",
+          "visual_context": "Illustration of cultivated fields, a tractor, and grazing cattle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wetlands",
+          "number": "14",
+          "section": "146.1 GEOGRAPHICAL FEATURES AND LANDSCAPE",
+          "visual_context": "Illustration of watery land among hills.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "grassland",
+          "number": "15",
+          "section": "146.1 GEOGRAPHICAL FEATURES AND LANDSCAPE",
+          "visual_context": "Illustration of tall dry grass.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "prairie",
+          "number": "16",
+          "section": "146.1 GEOGRAPHICAL FEATURES AND LANDSCAPE",
+          "visual_context": "Illustration of open grassland with grazing bison.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "steppe",
+          "number": "17",
+          "section": "146.1 GEOGRAPHICAL FEATURES AND LANDSCAPE",
+          "visual_context": "Illustration of a broad grassy plain with distant mountains.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mesa",
+          "number": "18",
+          "section": "146.1 GEOGRAPHICAL FEATURES AND LANDSCAPE",
+          "visual_context": "Illustration of a flat-topped rocky hill in a dry landscape.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "highland",
+          "number": "19",
+          "section": "146.1 GEOGRAPHICAL FEATURES AND LANDSCAPE",
+          "visual_context": "Illustration of elevated forested mountains.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ridge",
+          "number": "20",
+          "section": "146.1 GEOGRAPHICAL FEATURES AND LANDSCAPE",
+          "visual_context": "Illustration of a sharp mountain crest.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mountain range",
+          "number": "21",
+          "section": "146.1 GEOGRAPHICAL FEATURES AND LANDSCAPE",
+          "visual_context": "Illustration of a connected series of mountains.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "savannah",
+          "number": "22",
+          "section": "146.1 GEOGRAPHICAL FEATURES AND LANDSCAPE",
+          "visual_context": "Large illustration of dry grassland with scattered flat-topped trees.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chain",
+          "number": "23",
+          "section": "146.1 GEOGRAPHICAL FEATURES AND LANDSCAPE",
+          "visual_context": "Long illustration of a chain of rugged mountains.",
+          "semantic_meaning": "A connected series of mountains."
+        },
+        {
+          "source_text": "geyser",
+          "number": "24",
+          "section": "146.1 GEOGRAPHICAL FEATURES AND LANDSCAPE",
+          "visual_context": "Illustration of water and steam erupting from the ground.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "plain",
+          "number": "25",
+          "section": "146.1 GEOGRAPHICAL FEATURES AND LANDSCAPE",
+          "visual_context": "Illustration of flat grassy land.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "oasis",
+          "number": "26",
+          "section": "146.1 GEOGRAPHICAL FEATURES AND LANDSCAPE",
+          "visual_context": "Illustration of water and palm trees in a desert.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "desert",
+          "number": "27",
+          "section": "146.1 GEOGRAPHICAL FEATURES AND LANDSCAPE",
+          "visual_context": "Illustration of a barren sandy landscape.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sand dune",
+          "number": "28",
+          "section": "146.1 GEOGRAPHICAL FEATURES AND LANDSCAPE",
+          "visual_context": "Illustration of large wind-shaped sand hills.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 303,
+      "title": null,
+      "context": "146.1 GEOGRAPHICAL FEATURES AND LANDSCAPE; 146.2 CAVES AND CAVING",
+      "entries": [
+        {
+          "source_text": "canyon",
+          "number": "29",
+          "section": "146.1 GEOGRAPHICAL FEATURES AND LANDSCAPE",
+          "visual_context": "Large illustration of a deep, steep-sided rocky gorge.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "iceberg",
+          "number": "30",
+          "section": "146.1 GEOGRAPHICAL FEATURES AND LANDSCAPE",
+          "visual_context": "Illustration of a large mass of ice floating in the sea.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mudslide",
+          "number": "31",
+          "section": "146.1 GEOGRAPHICAL FEATURES AND LANDSCAPE",
+          "visual_context": "Illustration of muddy earth sliding down a hillside.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "landslide",
+          "number": "32",
+          "section": "146.1 GEOGRAPHICAL FEATURES AND LANDSCAPE",
+          "visual_context": "Illustration of rocks and earth falling down a slope.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "plateau",
+          "number": "33",
+          "section": "146.1 GEOGRAPHICAL FEATURES AND LANDSCAPE",
+          "visual_context": "Illustration of a broad, flat-topped elevated landform.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "polar region",
+          "number": "34",
+          "section": "146.1 GEOGRAPHICAL FEATURES AND LANDSCAPE",
+          "visual_context": "Illustration of icy sea and snow-covered mountains.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tundra",
+          "number": "35",
+          "section": "146.1 GEOGRAPHICAL FEATURES AND LANDSCAPE",
+          "visual_context": "Illustration of a cold, treeless rocky landscape with sparse vegetation.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "glacier",
+          "number": "36",
+          "section": "146.1 GEOGRAPHICAL FEATURES AND LANDSCAPE",
+          "visual_context": "Large illustration of a river of ice between mountains flowing into water.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "icicle",
+          "number": "1",
+          "section": "146.2 CAVES AND CAVING",
+          "visual_context": "Pointer indicates hanging ice formations from the cave ceiling.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "headlamp",
+          "number": "2",
+          "section": "146.2 CAVES AND CAVING",
+          "visual_context": "Pointer indicates the light mounted on the caver's helmet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "column",
+          "number": "3",
+          "section": "146.2 CAVES AND CAVING",
+          "visual_context": "Pointer indicates a cave formation joining floor and ceiling.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "subterranean\nstream",
+          "number": "4",
+          "section": "146.2 CAVES AND CAVING",
+          "visual_context": "Pointer indicates the stream running through the cave.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stalactite",
+          "number": "6",
+          "section": "146.2 CAVES AND CAVING",
+          "visual_context": "Pointer indicates a pointed mineral formation hanging from the cave ceiling.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "helmet",
+          "number": "7",
+          "section": "146.2 CAVES AND CAVING",
+          "visual_context": "Pointer indicates the orange protective helmet worn by a caver.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "caver",
+          "number": "8",
+          "section": "146.2 CAVES AND CAVING",
+          "visual_context": "Pointer indicates the person exploring the cave.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stalagmite",
+          "number": "9",
+          "section": "146.2 CAVES AND CAVING",
+          "visual_context": "Pointer indicates a pointed mineral formation rising from the cave floor.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

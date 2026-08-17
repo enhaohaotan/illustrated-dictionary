@@ -1,0 +1,480 @@
+{
+  "pages": [
+    {
+      "page": 18,
+      "title": "Muscles and skeleton",
+      "context": "03",
+      "entries": [
+        {
+          "source_text": "frontal",
+          "number": "1",
+          "section": "3.1 MUSCLES",
+          "visual_context": "Pointer to the muscle on the forehead.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pectoral",
+          "number": "2",
+          "section": "3.1 MUSCLES",
+          "visual_context": "Pointer to the chest muscle on the front-view figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "intercostal",
+          "number": "3",
+          "section": "3.1 MUSCLES",
+          "visual_context": "Pointer to muscle between the ribs on the front-view figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "biceps",
+          "number": "4",
+          "section": "3.1 MUSCLES",
+          "visual_context": "Pointer to the front upper-arm muscle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "obliques",
+          "number": "5",
+          "section": "3.1 MUSCLES",
+          "visual_context": "Pointer to the side abdominal muscles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "abdominals",
+          "number": "6",
+          "section": "3.1 MUSCLES",
+          "visual_context": "Pointer to the central abdominal muscles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "quadriceps",
+          "number": "7",
+          "section": "3.1 MUSCLES",
+          "visual_context": "Pointer to the front thigh muscles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "front",
+          "number": "8",
+          "section": "3.1 MUSCLES",
+          "visual_context": "Label beneath the front-view muscular figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "deltoid",
+          "number": "9",
+          "section": "3.1 MUSCLES",
+          "visual_context": "Pointer to the shoulder muscle on the back-view figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "trapezius",
+          "number": "10",
+          "section": "3.1 MUSCLES",
+          "visual_context": "Pointer to the upper back and neck muscle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "triceps",
+          "number": "11",
+          "section": "3.1 MUSCLES",
+          "visual_context": "Pointer to the back upper-arm muscle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "latissimus dorsi",
+          "number": "12",
+          "section": "3.1 MUSCLES",
+          "visual_context": "Pointer to the broad side-back muscle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "buttock / gluteus maximus",
+          "number": "13",
+          "section": "3.1 MUSCLES",
+          "visual_context": "Pointer to the buttock muscle.",
+          "semantic_meaning": "buttock and anatomical name for its main muscle"
+        },
+        {
+          "source_text": "hamstring",
+          "number": "14",
+          "section": "3.1 MUSCLES",
+          "visual_context": "Pointer to the back thigh muscle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "calf",
+          "number": "15",
+          "section": "3.1 MUSCLES",
+          "visual_context": "Pointer to the back lower-leg muscle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Achilles tendon",
+          "number": "16",
+          "section": "3.1 MUSCLES",
+          "visual_context": "Pointer to the tendon above the heel on the back-view figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "back",
+          "number": "17",
+          "section": "3.1 MUSCLES",
+          "visual_context": "Label beneath the back-view muscular figure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "incisors",
+          "number": "1",
+          "section": "3.2 TEETH",
+          "visual_context": "Pointer to the front teeth in the dental arch.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "canines",
+          "number": "2",
+          "section": "3.2 TEETH",
+          "visual_context": "Pointer to the pointed teeth beside the incisors.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "molars",
+          "number": "3",
+          "section": "3.2 TEETH",
+          "visual_context": "Pointer to the large rear teeth in the dental arch.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bicuspids (US) premolars (UK)",
+          "number": "4",
+          "section": "3.2 TEETH",
+          "visual_context": "Pointer to the teeth between canines and molars.",
+          "semantic_meaning": "US and UK terms for the same teeth"
+        },
+        {
+          "source_text": "gum",
+          "number": "5",
+          "section": "3.2 TEETH",
+          "visual_context": "Pointer to the tissue surrounding the tooth.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pulp",
+          "number": "6",
+          "section": "3.2 TEETH",
+          "visual_context": "Pointer to the inner soft part of the tooth cross-section.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nerve",
+          "number": "7",
+          "section": "3.2 TEETH",
+          "visual_context": "Pointer to the nerve at the base of the tooth root.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "enamel",
+          "number": "8",
+          "section": "3.2 TEETH",
+          "visual_context": "Pointer to the hard outer layer of the tooth crown.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bone",
+          "number": "9",
+          "section": "3.2 TEETH",
+          "visual_context": "Pointer to the jawbone surrounding the tooth.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "root",
+          "number": "10",
+          "section": "3.2 TEETH",
+          "visual_context": "Pointer to the part of the tooth below the gum.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tooth",
+          "number": "11",
+          "section": "3.2 TEETH",
+          "visual_context": "Label for the complete tooth cross-section.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "title": "Muscles and skeleton",
+      "context": "03",
+      "entries": [
+        {
+          "source_text": "Parts of the body",
+          "number": "01",
+          "section": "See also:",
+          "visual_context": "Cross-reference list entry.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Hands and feet",
+          "number": "02",
+          "section": "See also:",
+          "visual_context": "Cross-reference list entry.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Internal organs",
+          "number": "04",
+          "section": "See also:",
+          "visual_context": "Cross-reference list entry.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Illness and injury",
+          "number": "19",
+          "section": "See also:",
+          "visual_context": "Cross-reference list entry.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Visiting the doctor",
+          "number": "20",
+          "section": "See also:",
+          "visual_context": "Cross-reference list entry.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "The hospital",
+          "number": "21",
+          "section": "See also:",
+          "visual_context": "Cross-reference list entry.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "skull",
+          "number": "1",
+          "section": "3.3 SKELETON",
+          "visual_context": "Pointer to the head bone on the full skeleton.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "jaw",
+          "number": "2",
+          "section": "3.3 SKELETON",
+          "visual_context": "Pointer to the lower jaw on the skull.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shoulder blade / scapula",
+          "number": "3",
+          "section": "3.3 SKELETON",
+          "visual_context": "Pointer to the shoulder blade area.",
+          "semantic_meaning": "common and anatomical names"
+        },
+        {
+          "source_text": "humerus",
+          "number": "4",
+          "section": "3.3 SKELETON",
+          "visual_context": "Pointer to the upper-arm bone.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rib cage",
+          "number": "5",
+          "section": "3.3 SKELETON",
+          "visual_context": "Pointer to the group of ribs around the chest.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pelvis",
+          "number": "6",
+          "section": "3.3 SKELETON",
+          "visual_context": "Pointer to the hip bones.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "kneecap / patella",
+          "number": "7",
+          "section": "3.3 SKELETON",
+          "visual_context": "Pointer to the bone at the front of the knee.",
+          "semantic_meaning": "common and anatomical names"
+        },
+        {
+          "source_text": "fibula",
+          "number": "8",
+          "section": "3.3 SKELETON",
+          "visual_context": "Pointer to the outer lower-leg bone.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tarsals",
+          "number": "9",
+          "section": "3.3 SKELETON",
+          "visual_context": "Pointer to the ankle and rear-foot bones.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "metatarsals",
+          "number": "10",
+          "section": "3.3 SKELETON",
+          "visual_context": "Pointer to the long bones of the foot.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "collarbone / clavicle",
+          "number": "11",
+          "section": "3.3 SKELETON",
+          "visual_context": "Pointer to the horizontal bone across the upper chest.",
+          "semantic_meaning": "common and anatomical names"
+        },
+        {
+          "source_text": "breastbone / sternum",
+          "number": "12",
+          "section": "3.3 SKELETON",
+          "visual_context": "Pointer to the central chest bone.",
+          "semantic_meaning": "common and anatomical names"
+        },
+        {
+          "source_text": "rib",
+          "number": "13",
+          "section": "3.3 SKELETON",
+          "visual_context": "Pointer to an individual chest rib.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ulna",
+          "number": "14",
+          "section": "3.3 SKELETON",
+          "visual_context": "Pointer to one forearm bone.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "radius",
+          "number": "15",
+          "section": "3.3 SKELETON",
+          "visual_context": "Pointer to the other forearm bone.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "carpals",
+          "number": "16",
+          "section": "3.3 SKELETON",
+          "visual_context": "Pointer to the wrist bones.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "metacarpals",
+          "number": "17",
+          "section": "3.3 SKELETON",
+          "visual_context": "Pointer to the bones in the hand.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "phalanges",
+          "number": "18",
+          "section": "3.3 SKELETON",
+          "visual_context": "Pointer to the finger bones.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "femur",
+          "number": "19",
+          "section": "3.3 SKELETON",
+          "visual_context": "Pointer to the thigh bone.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tibia",
+          "number": "20",
+          "section": "3.3 SKELETON",
+          "visual_context": "Pointer to the main lower-leg bone.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "phalanges",
+          "number": "21",
+          "section": "3.3 SKELETON",
+          "visual_context": "Pointer to the toe bones.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cervical vertebrae",
+          "number": "22",
+          "section": "3.3 SKELETON",
+          "visual_context": "Pointer to the upper neck section of the colored spine diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "thoracic vertebrae",
+          "number": "23",
+          "section": "3.3 SKELETON",
+          "visual_context": "Pointer to the chest-level section of the colored spine diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lumbar vertebrae",
+          "number": "24",
+          "section": "3.3 SKELETON",
+          "visual_context": "Pointer to the lower-back section of the colored spine diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tailbone / sacrum",
+          "number": "25",
+          "section": "3.3 SKELETON",
+          "visual_context": "Pointer to the green lower section of the spine diagram.",
+          "semantic_meaning": "common and anatomical names"
+        },
+        {
+          "source_text": "coccyx",
+          "number": "26",
+          "section": "3.3 SKELETON",
+          "visual_context": "Pointer to the small tip below the sacrum.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "spine",
+          "number": "27",
+          "section": "3.3 SKELETON",
+          "visual_context": "Label for the complete vertebral column diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cartilage",
+          "number": "28",
+          "section": "3.3 SKELETON",
+          "visual_context": "Pointer to green cushioning tissue in the knee-joint diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ligament",
+          "number": "29",
+          "section": "3.3 SKELETON",
+          "visual_context": "Pointer to a green connecting band in the knee-joint diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bone",
+          "number": "30",
+          "section": "3.3 SKELETON",
+          "visual_context": "Pointer to a bone in the knee-joint diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tendon",
+          "number": "31",
+          "section": "3.3 SKELETON",
+          "visual_context": "Pointer to the cord-like tissue at the knee joint.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "joint",
+          "number": "32",
+          "section": "3.3 SKELETON",
+          "visual_context": "Label for the knee connection diagram.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

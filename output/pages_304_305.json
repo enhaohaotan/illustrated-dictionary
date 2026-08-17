@@ -1,0 +1,298 @@
+{
+  "pages": [
+    {
+      "page": 304,
+      "title": "Geography continued",
+      "context": "147.1 COASTAL FEATURES",
+      "entries": [
+        {
+          "source_text": "ocean",
+          "number": "1",
+          "section": "147.1 COASTAL FEATURES",
+          "visual_context": "Illustration of open sea water.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wave",
+          "number": "2",
+          "section": "147.1 COASTAL FEATURES",
+          "visual_context": "Illustration of a breaking wave.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dune",
+          "number": "3",
+          "section": "147.1 COASTAL FEATURES",
+          "visual_context": "Illustration of a sandy coastal dune.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "island",
+          "number": "4",
+          "section": "147.1 COASTAL FEATURES",
+          "visual_context": "Illustration of a small palm-covered landmass surrounded by water.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "strait",
+          "number": "5",
+          "section": "147.1 COASTAL FEATURES",
+          "visual_context": "Map-style illustration with an arrow pointing to a narrow waterway between land.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "channel",
+          "number": "6",
+          "section": "147.1 COASTAL FEATURES",
+          "visual_context": "Map-style illustration of a broad navigable waterway between land areas.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "high tide",
+          "number": "7",
+          "section": "147.1 COASTAL FEATURES",
+          "visual_context": "Beach illustration showing water reaching high up the shore.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "low tide",
+          "number": "8",
+          "section": "147.1 COASTAL FEATURES",
+          "visual_context": "Beach illustration showing a wide exposed sandy shore.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "reef",
+          "number": "9",
+          "section": "147.1 COASTAL FEATURES",
+          "visual_context": "Illustration of shallow rocky reef formations in the sea.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tombolo",
+          "number": "10",
+          "section": "147.1 COASTAL FEATURES",
+          "visual_context": "Pointer to a narrow sand bar connecting an offshore landform to the coast.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "peninsula",
+          "number": "11",
+          "section": "147.1 COASTAL FEATURES",
+          "visual_context": "Pointer to land projecting into the sea.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "estuary",
+          "number": "12",
+          "section": "147.1 COASTAL FEATURES",
+          "visual_context": "Pointer to the widening river outlet where it meets the sea.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "spit",
+          "number": "13",
+          "section": "147.1 COASTAL FEATURES",
+          "visual_context": "Pointer to a narrow sandy projection extending into water.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bay",
+          "number": "14",
+          "section": "147.1 COASTAL FEATURES",
+          "visual_context": "Pointer to a sheltered curved inlet of water.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rocks",
+          "number": "15",
+          "section": "147.1 COASTAL FEATURES",
+          "visual_context": "Pointer to small rocks offshore.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cape",
+          "number": "16",
+          "section": "147.1 COASTAL FEATURES",
+          "visual_context": "Pointer to a prominent rocky headland projecting into the sea.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sea stack",
+          "number": "17",
+          "section": "147.1 COASTAL FEATURES",
+          "visual_context": "Pointer to an isolated pillar of rock in the sea.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "natural arch",
+          "number": "18",
+          "section": "147.1 COASTAL FEATURES",
+          "visual_context": "Pointer to a naturally formed opening through a coastal rock formation.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sea cave",
+          "number": "19",
+          "section": "147.1 COASTAL FEATURES",
+          "visual_context": "Pointer to a cave opening in the coastal cliff.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cliff",
+          "number": "20",
+          "section": "147.1 COASTAL FEATURES",
+          "visual_context": "Pointer to the steep coastal rock face.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 305,
+      "title": null,
+      "context": "147.1 COASTAL FEATURES; 147.2 RIVER FEATURES",
+      "entries": [
+        {
+          "source_text": "marsh",
+          "number": "21",
+          "section": "147.1 COASTAL FEATURES",
+          "visual_context": "Illustration of wetland with reeds and shallow water.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "delta",
+          "number": "22",
+          "section": "147.1 COASTAL FEATURES",
+          "visual_context": "Illustration of branching river channels spreading into a body of water.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gulf",
+          "number": "23",
+          "section": "147.1 COASTAL FEATURES",
+          "visual_context": "Map-style illustration of a large inlet of water enclosed by land.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fjord",
+          "number": "24",
+          "section": "147.1 COASTAL FEATURES",
+          "visual_context": "Illustration of a long narrow inlet between steep mountains.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "archipelago",
+          "number": "25",
+          "section": "147.1 COASTAL FEATURES",
+          "visual_context": "Illustration of a group of islands.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "isthmus",
+          "number": "26",
+          "section": "147.1 COASTAL FEATURES",
+          "visual_context": "Map-style illustration of a narrow strip of land connecting larger land areas.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "atoll",
+          "number": "27",
+          "section": "147.1 COASTAL FEATURES",
+          "visual_context": "Illustration of a ring-shaped coral island surrounding a lagoon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lagoon",
+          "number": "28",
+          "section": "147.1 COASTAL FEATURES",
+          "visual_context": "Illustration of shallow water separated from the sea by sand or land.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "beach",
+          "number": "1",
+          "section": "147.2 RIVER FEATURES",
+          "visual_context": "Pointer to the sandy shore beside the sea at the river's end.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "flood plain",
+          "number": "2",
+          "section": "147.2 RIVER FEATURES",
+          "visual_context": "Pointer to flat low-lying land beside the river.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "forest",
+          "number": "3",
+          "section": "147.2 RIVER FEATURES",
+          "visual_context": "Pointer to a cluster of trees.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "foothill",
+          "number": "4",
+          "section": "147.2 RIVER FEATURES",
+          "visual_context": "Pointer to low hills at the base of mountains.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stream",
+          "number": "5",
+          "section": "147.2 RIVER FEATURES",
+          "visual_context": "Pointer to a small flowing watercourse joining the river.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "source",
+          "number": "6",
+          "section": "147.2 RIVER FEATURES",
+          "visual_context": "Pointer to where the river begins in the hills.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "peak",
+          "number": "7",
+          "section": "147.2 RIVER FEATURES",
+          "visual_context": "Pointer to the top of a mountain.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mountain",
+          "number": "8",
+          "section": "147.2 RIVER FEATURES",
+          "visual_context": "Pointer to the large rocky mountain.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tributary",
+          "number": "9",
+          "section": "147.2 RIVER FEATURES",
+          "visual_context": "Pointer to a smaller stream flowing into the main river.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "river",
+          "number": "10",
+          "section": "147.2 RIVER FEATURES",
+          "visual_context": "Pointer to the main winding watercourse.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mouth",
+          "number": "11",
+          "section": "147.2 RIVER FEATURES",
+          "visual_context": "Pointer to where the river enters the sea.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "seashore",
+          "number": "12",
+          "section": "147.2 RIVER FEATURES",
+          "visual_context": "Pointer to the coast at the edge of the sea.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

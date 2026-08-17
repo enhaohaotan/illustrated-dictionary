@@ -1,0 +1,403 @@
+{
+  "pages": [
+    {
+      "page": 86,
+      "title": "Decorating",
+      "context": "37.1 HOUSEHOLD RENOVATION",
+      "entries": [
+        {
+          "source_text": "roller",
+          "number": "1",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Pointer to the paint roller used on the wall.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "It’s easier to paint large surfaces with a roller.",
+          "number": "2",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Speech bubble beside the person painting a wall with a roller.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "paintbrush",
+          "number": "3",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Illustration of a paintbrush.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "roller extension pole",
+          "number": "4",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Pointer to the long extension pole for a roller.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "overalls",
+          "number": "5",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Pointer to the painter's blue work overalls.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "paint",
+          "number": "6",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Pointer to an open can of red paint.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sponge",
+          "number": "7",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Illustration of a yellow sponge.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "paint tray",
+          "number": "8",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Pointer to a tray containing paint.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dustsheet",
+          "number": "9",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Pointer to the protective sheet spread on the floor.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to paint",
+          "number": "10",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Pointer to the action of applying paint to the wall.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stepladder",
+          "number": "11",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Pointer to the folding ladder the painter is standing on.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "paint pail (US) paint kettle (UK)",
+          "number": "12",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Pointer to a white paint container.",
+          "semantic_meaning": "US and UK terms for a paint container."
+        },
+        {
+          "source_text": "masking tape",
+          "number": "13",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Illustration of a roll of tape.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "craft knife",
+          "number": "14",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Illustration of a utility-style craft knife.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "plumb line",
+          "number": "15",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Illustration of a weighted line used for checking vertical alignment.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sandpaper",
+          "number": "16",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Illustration of sheets of abrasive paper.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "filler",
+          "number": "17",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Illustration of filler being applied to a crack in a wall.",
+          "semantic_meaning": "Material used to fill holes or cracks."
+        },
+        {
+          "source_text": "mineral spirits (US) white spirit (UK)",
+          "number": "18",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Illustration of a bottle of solvent.",
+          "semantic_meaning": "US and UK names for a paint-thinning solvent."
+        },
+        {
+          "source_text": "paint stripper",
+          "number": "19",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Illustration of product and a tool used to remove paint.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "plaster",
+          "number": "20",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Illustration of plaster being applied to a wall.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "primer",
+          "number": "21",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Illustration of a coating being applied to bare wood.",
+          "semantic_meaning": "Preparatory coat applied before painting."
+        },
+        {
+          "source_text": "undercoat",
+          "number": "22",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Illustration of a paint can and a wall receiving a preparatory coat.",
+          "semantic_meaning": "Paint layer applied before the final coat."
+        },
+        {
+          "source_text": "emulsion",
+          "number": "23",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Illustration of a paint can and a painted interior wall.",
+          "semantic_meaning": "Water-based interior wall paint."
+        },
+        {
+          "source_text": "matte",
+          "number": "24",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Illustration of a paint can and a non-shiny blue door.",
+          "semantic_meaning": "A non-shiny paint finish."
+        },
+        {
+          "source_text": "gloss",
+          "number": "25",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Illustration of a paint can and a shiny green door.",
+          "semantic_meaning": "A shiny paint finish."
+        },
+        {
+          "source_text": "stencil",
+          "number": "26",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Illustration of a person painting a repeated pattern through a stencil.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "solvent",
+          "number": "27",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Illustration of a bottle of liquid.",
+          "semantic_meaning": "Liquid used to dissolve or thin substances such as paint."
+        },
+        {
+          "source_text": "bathroom sealant",
+          "number": "28",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Illustration of sealant being applied around a bathroom sink.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "grout",
+          "number": "29",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Illustration of material being spread between wall tiles.",
+          "semantic_meaning": "Material used to fill gaps between tiles."
+        },
+        {
+          "source_text": "wood preserver",
+          "number": "30",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Illustration of a product for treating a wooden fence.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "varnish",
+          "number": "31",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Illustration of varnish being brushed onto wood.",
+          "semantic_meaning": "Protective transparent or coloured coating for wood."
+        }
+      ]
+    },
+    {
+      "page": 87,
+      "title": null,
+      "context": "37.1 HOUSEHOLD RENOVATION; 37.2 VERBS FOR DECORATING",
+      "entries": [
+        {
+          "source_text": "House and home",
+          "number": "32",
+          "section": "See also:",
+          "visual_context": "Cross-reference list; no illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Electrics and plumbing",
+          "number": "33",
+          "section": "See also:",
+          "visual_context": "Cross-reference list; no illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Household chores",
+          "number": "34",
+          "section": "See also:",
+          "visual_context": "Cross-reference list; no illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Home improvements",
+          "number": "35",
+          "section": "See also:",
+          "visual_context": "Cross-reference list; no illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "scissors",
+          "number": "32",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Illustration of scissors.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lining paper",
+          "number": "33",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Illustration of a roll and sheet of lining paper.",
+          "semantic_meaning": "Plain paper put on a wall before wallpaper."
+        },
+        {
+          "source_text": "wallpaper stripper",
+          "number": "34",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Illustration of an electric wallpaper-stripping device.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "scraper",
+          "number": "35",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Illustration of a hand scraper.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wallpaper roll",
+          "number": "36",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Illustration of a rolled sheet of wallpaper.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wallpaper border",
+          "number": "37",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Illustration of a decorative border strip at the top of wallpaper.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "This wallpaper will brighten up the living room.",
+          "number": "38",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Speech bubble beside a decorator hanging striped wallpaper.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wallpaper paste",
+          "number": "39",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Pointer to paste on the reverse side of the wallpaper.",
+          "semantic_meaning": "Adhesive for attaching wallpaper."
+        },
+        {
+          "source_text": "wallpaper",
+          "number": "40",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Pointer to the striped wallpaper on the wall.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wallpaper brush",
+          "number": "41",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Pointer to the brush on the pasting table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "decorator",
+          "number": "42",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Pointer to the person hanging wallpaper.",
+          "semantic_meaning": "Person who paints or wallpapers rooms."
+        },
+        {
+          "source_text": "bucket",
+          "number": "43",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Pointer to a bucket on the pasting table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pasting table",
+          "number": "44",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Pointer to the table used for preparing wallpaper.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to wallpaper",
+          "number": "45",
+          "section": "37.1 HOUSEHOLD RENOVATION",
+          "visual_context": "Illustration of the action of hanging wallpaper on a wall.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to strip",
+          "number": "1",
+          "section": "37.2 VERBS FOR DECORATING",
+          "visual_context": "Illustration of a person removing a wall covering.",
+          "semantic_meaning": "To remove a covering, especially wallpaper or paint."
+        },
+        {
+          "source_text": "to spackle (US) / to fill",
+          "number": "2",
+          "section": "37.2 VERBS FOR DECORATING",
+          "visual_context": "Illustration of a person filling cracks while holding filler.",
+          "semantic_meaning": "US and general terms for filling cracks or holes."
+        },
+        {
+          "source_text": "to sand",
+          "number": "3",
+          "section": "37.2 VERBS FOR DECORATING",
+          "visual_context": "Illustration of a person sanding a surface at a workbench.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to plaster",
+          "number": "4",
+          "section": "37.2 VERBS FOR DECORATING",
+          "visual_context": "Illustration of a person applying plaster to a brick wall.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to hang",
+          "number": "5",
+          "section": "37.2 VERBS FOR DECORATING",
+          "visual_context": "Illustration of a person hanging a framed picture.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to tile",
+          "number": "6",
+          "section": "37.2 VERBS FOR DECORATING",
+          "visual_context": "Illustration of a person fixing tiles to a wall.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

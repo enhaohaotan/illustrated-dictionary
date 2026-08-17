@@ -1,0 +1,2307 @@
+{
+  "pages": [
+    {
+      "page": 316,
+      "title": "Nationalities continued",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "Oceania",
+          "number": "1",
+          "section": "153.1 OCEANIA",
+          "visual_context": null,
+          "semantic_meaning": "region/country label"
+        },
+        {
+          "source_text": "Oceanian",
+          "number": null,
+          "section": "153.1 OCEANIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Oceanians",
+          "number": null,
+          "section": "153.1 OCEANIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Papua New Guinea",
+          "number": "2",
+          "section": "153.1 OCEANIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Papua New Guinean",
+          "number": null,
+          "section": "153.1 OCEANIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Papua New Guineans",
+          "number": null,
+          "section": "153.1 OCEANIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Australia",
+          "number": "3",
+          "section": "153.1 OCEANIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Australian",
+          "number": null,
+          "section": "153.1 OCEANIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Australians",
+          "number": null,
+          "section": "153.1 OCEANIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "New Zealand",
+          "number": "4",
+          "section": "153.1 OCEANIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "New Zealand",
+          "number": null,
+          "section": "153.1 OCEANIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "New Zealanders",
+          "number": null,
+          "section": "153.1 OCEANIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Marshall Islands",
+          "number": "5",
+          "section": "153.1 OCEANIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Marshallese",
+          "number": null,
+          "section": "153.1 OCEANIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Marshallese people",
+          "number": null,
+          "section": "153.1 OCEANIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Palau",
+          "number": "6",
+          "section": "153.1 OCEANIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Palauan",
+          "number": null,
+          "section": "153.1 OCEANIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Palauans",
+          "number": null,
+          "section": "153.1 OCEANIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Micronesia",
+          "number": "7",
+          "section": "153.1 OCEANIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Micronesian",
+          "number": null,
+          "section": "153.1 OCEANIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Micronesians",
+          "number": null,
+          "section": "153.1 OCEANIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Nauru",
+          "number": "8",
+          "section": "153.1 OCEANIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Nauruan",
+          "number": null,
+          "section": "153.1 OCEANIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Nauruans",
+          "number": null,
+          "section": "153.1 OCEANIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Kiribati",
+          "number": "9",
+          "section": "153.1 OCEANIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Kiribati",
+          "number": null,
+          "section": "153.1 OCEANIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Kiribati people",
+          "number": null,
+          "section": "153.1 OCEANIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Tuvalu",
+          "number": "10",
+          "section": "153.1 OCEANIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Tuvaluan",
+          "number": null,
+          "section": "153.1 OCEANIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Tuvaluans",
+          "number": null,
+          "section": "153.1 OCEANIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Samoa",
+          "number": "11",
+          "section": "153.1 OCEANIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Samoan",
+          "number": null,
+          "section": "153.1 OCEANIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Samoans",
+          "number": null,
+          "section": "153.1 OCEANIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Tonga",
+          "number": "12",
+          "section": "153.1 OCEANIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Tongan",
+          "number": null,
+          "section": "153.1 OCEANIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Tongans",
+          "number": null,
+          "section": "153.1 OCEANIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Vanuatu",
+          "number": "13",
+          "section": "153.1 OCEANIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Vanuatuan",
+          "number": null,
+          "section": "153.1 OCEANIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Vanuatuans",
+          "number": null,
+          "section": "153.1 OCEANIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Solomon Islands",
+          "number": "14",
+          "section": "153.1 OCEANIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Solomon Island",
+          "number": null,
+          "section": "153.1 OCEANIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Solomon Islanders",
+          "number": null,
+          "section": "153.1 OCEANIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Fiji",
+          "number": "15",
+          "section": "153.1 OCEANIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Fijian",
+          "number": null,
+          "section": "153.1 OCEANIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Fijians",
+          "number": null,
+          "section": "153.1 OCEANIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Asia",
+          "number": "1",
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "region/country label"
+        },
+        {
+          "source_text": "Asian",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Asians",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Turkey",
+          "number": "2",
+          "section": "153.2 ASIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Turkish",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Turks",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Russian Federation",
+          "number": "3",
+          "section": "153.2 ASIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Russian",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Russians",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Georgia",
+          "number": "4",
+          "section": "153.2 ASIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Georgian",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Georgians",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Armenia",
+          "number": "5",
+          "section": "153.2 ASIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Armenian",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Armenians",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Azerbaijan",
+          "number": "6",
+          "section": "153.2 ASIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Azerbaijani",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Azerbaijanis",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Iran",
+          "number": "7",
+          "section": "153.2 ASIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Iranian",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Iranians",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Iraq",
+          "number": "8",
+          "section": "153.2 ASIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Iraqi",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Iraqis",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Syria",
+          "number": "9",
+          "section": "153.2 ASIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Syrian",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Syrians",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Lebanon",
+          "number": "10",
+          "section": "153.2 ASIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Lebanese",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Lebanese people",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Israel",
+          "number": "11",
+          "section": "153.2 ASIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Israeli",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Israelis",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Jordan",
+          "number": "12",
+          "section": "153.2 ASIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Jordanian",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Jordanians",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Saudi Arabia",
+          "number": "13",
+          "section": "153.2 ASIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Saudi",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Saudis",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Kuwait",
+          "number": "14",
+          "section": "153.2 ASIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Kuwaiti",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Kuwaitis",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Bahrain",
+          "number": "15",
+          "section": "153.2 ASIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Bahraini",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Bahrainis",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Qatar",
+          "number": "16",
+          "section": "153.2 ASIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Qatari",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Qataris",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "United Arab Emirates",
+          "number": "17",
+          "section": "153.2 ASIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Emirati",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Emiratis",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Oman",
+          "number": "18",
+          "section": "153.2 ASIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Omani",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Omanis",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Yemen",
+          "number": "19",
+          "section": "153.2 ASIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Yemeni",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Yemenis",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Kazakhstan",
+          "number": "20",
+          "section": "153.2 ASIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Kazakh",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Kazakhs",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Uzbekistan",
+          "number": "21",
+          "section": "153.2 ASIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Uzbek",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Uzbeks",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Turkmenistan",
+          "number": "22",
+          "section": "153.2 ASIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Turkmen",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Turkmens",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Afghanistan",
+          "number": "23",
+          "section": "153.2 ASIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Afghan",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Afghans",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Tajikistan",
+          "number": "24",
+          "section": "153.2 ASIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Tajikistani",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Tajiks",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Kyrgyzstan",
+          "number": "25",
+          "section": "153.2 ASIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Kyrgyz",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Kyrgyz people",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Pakistan",
+          "number": "26",
+          "section": "153.2 ASIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Pakistani",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Pakistanis",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "India",
+          "number": "27",
+          "section": "153.2 ASIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Indian",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Indians",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Maldives",
+          "number": "28",
+          "section": "153.2 ASIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Maldivian",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Maldivians",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Sri Lanka",
+          "number": "29",
+          "section": "153.2 ASIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Sri Lankan",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Sri Lankans",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "China",
+          "number": "30",
+          "section": "153.2 ASIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Chinese",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Chinese people",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Mongolia",
+          "number": "31",
+          "section": "153.2 ASIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Mongolian",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Mongolians",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "North Korea",
+          "number": "32",
+          "section": "153.2 ASIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "North Korean",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "North Koreans",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "South Korea",
+          "number": "33",
+          "section": "153.2 ASIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "South Korean",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "South Koreans",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Japan",
+          "number": "34",
+          "section": "153.2 ASIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Japanese",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Japanese people",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Nepal",
+          "number": "35",
+          "section": "153.2 ASIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Nepalese",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Nepalese people",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Bhutan",
+          "number": "36",
+          "section": "153.2 ASIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Bhutanese",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Bhutanese people",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Bangladesh",
+          "number": "37",
+          "section": "153.2 ASIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Bangladeshi",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Bangladeshis",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Myanmar (Burma)",
+          "number": "38",
+          "section": "153.2 ASIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Burmese",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Burmese people",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Thailand",
+          "number": "39",
+          "section": "153.2 ASIA",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Thai",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Thais",
+          "number": null,
+          "section": "153.2 ASIA",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        }
+      ]
+    },
+    {
+      "page": 317,
+      "title": "Nationalities continued",
+      "context": "See also: 145 Planet Earth; 146-147 Geography; 148 Maps and directions; 149-151 Countries.",
+      "entries": [
+        {
+          "source_text": "Laos",
+          "number": "40",
+          "section": "153.2 ASIA CONTINUED",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Laotian",
+          "number": null,
+          "section": "153.2 ASIA CONTINUED",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Laotians",
+          "number": null,
+          "section": "153.2 ASIA CONTINUED",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Vietnam",
+          "number": "41",
+          "section": "153.2 ASIA CONTINUED",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Vietnamese",
+          "number": null,
+          "section": "153.2 ASIA CONTINUED",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Vietnamese people",
+          "number": null,
+          "section": "153.2 ASIA CONTINUED",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Cambodia",
+          "number": "42",
+          "section": "153.2 ASIA CONTINUED",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Cambodian",
+          "number": null,
+          "section": "153.2 ASIA CONTINUED",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Cambodians",
+          "number": null,
+          "section": "153.2 ASIA CONTINUED",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Malaysia",
+          "number": "43",
+          "section": "153.2 ASIA CONTINUED",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Malaysian",
+          "number": null,
+          "section": "153.2 ASIA CONTINUED",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Malaysians",
+          "number": null,
+          "section": "153.2 ASIA CONTINUED",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Singapore",
+          "number": "44",
+          "section": "153.2 ASIA CONTINUED",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Singaporean",
+          "number": null,
+          "section": "153.2 ASIA CONTINUED",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Singaporeans",
+          "number": null,
+          "section": "153.2 ASIA CONTINUED",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Indonesia",
+          "number": "45",
+          "section": "153.2 ASIA CONTINUED",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Indonesian",
+          "number": null,
+          "section": "153.2 ASIA CONTINUED",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Indonesians",
+          "number": null,
+          "section": "153.2 ASIA CONTINUED",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Brunei",
+          "number": "46",
+          "section": "153.2 ASIA CONTINUED",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Bruneian",
+          "number": null,
+          "section": "153.2 ASIA CONTINUED",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Bruneians",
+          "number": null,
+          "section": "153.2 ASIA CONTINUED",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Philippines",
+          "number": "47",
+          "section": "153.2 ASIA CONTINUED",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Filipino",
+          "number": null,
+          "section": "153.2 ASIA CONTINUED",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Filipinos",
+          "number": null,
+          "section": "153.2 ASIA CONTINUED",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "East Timor",
+          "number": "48",
+          "section": "153.2 ASIA CONTINUED",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Timorese",
+          "number": null,
+          "section": "153.2 ASIA CONTINUED",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Timorese people",
+          "number": null,
+          "section": "153.2 ASIA CONTINUED",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Europe",
+          "number": "1",
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "region/country label"
+        },
+        {
+          "source_text": "European",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Europeans",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Ireland",
+          "number": "2",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Irish",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Irish people",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "United Kingdom",
+          "number": "3",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "British",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "British",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Portugal",
+          "number": "4",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Portuguese",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Portuguese people",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Spain",
+          "number": "5",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Spanish",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Spaniards",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Andorra",
+          "number": "6",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Andorran",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Andorrans",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "France",
+          "number": "7",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "French",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "French people",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Belgium",
+          "number": "8",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Belgian",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Belgians",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Netherlands",
+          "number": "9",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Dutch",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Dutch people",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Luxembourg",
+          "number": "10",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Luxembourg",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Luxembourgers",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Germany",
+          "number": "11",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "German",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Germans",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Denmark",
+          "number": "12",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Danish",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Danes",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Norway",
+          "number": "13",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Norwegian",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Norwegians",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Sweden",
+          "number": "14",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Swedish",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Swedes",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Finland",
+          "number": "15",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Finnish",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Finns",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Estonia",
+          "number": "16",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Estonian",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Estonians",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Latvia",
+          "number": "17",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Latvian",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Latvians",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Lithuania",
+          "number": "18",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Lithuanian",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Lithuanians",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Poland",
+          "number": "19",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Polish",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Poles",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Czech Republic",
+          "number": "20",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Czech",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Czechs",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Austria",
+          "number": "21",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Austrian",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Austrians",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Liechtenstein",
+          "number": "22",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Liechtensteiner",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Liechtensteiners",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Switzerland",
+          "number": "23",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Swiss",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Swiss people",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Italy",
+          "number": "24",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Italian",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Italians",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Monaco",
+          "number": "25",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Monacan",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Monégasques",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "San Marino",
+          "number": "26",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Sammarinese",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Sammarinese people",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Malta",
+          "number": "27",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Maltese",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Maltese people",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Slovenia",
+          "number": "28",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Slovenian",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Slovenians",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Croatia",
+          "number": "29",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Croatian",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Croats",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Hungary",
+          "number": "30",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Hungarian",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Hungarians",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Slovakia",
+          "number": "31",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Slovakian",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Slovaks",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Ukraine",
+          "number": "32",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Ukrainian",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Ukrainians",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Belarus",
+          "number": "33",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Belarusian",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Belarusians",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Moldova",
+          "number": "34",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Moldovan",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Moldovans",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Romania",
+          "number": "35",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Romanian",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Romanians",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Serbia",
+          "number": "36",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Serbian",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Serbs",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Bosnia and Herzegovina",
+          "number": "37",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Bosnian or Herzegovinian",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Bosnians or Herzegovinians",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Albania",
+          "number": "38",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Albanian",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Albanians",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "North Macedonia",
+          "number": "39",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "North Macedonian",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "North Macedonians",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Bulgaria",
+          "number": "40",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Bulgarian",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Bulgarians",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Greece",
+          "number": "41",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Greek",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Greeks",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Montenegro",
+          "number": "42",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Montenegrin",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Montenegrins",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Iceland",
+          "number": "43",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Icelandic",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Icelanders",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Cyprus",
+          "number": "44",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Cypriot",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Cypriots",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Turkey",
+          "number": "45",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Turkish",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Turkish people",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        },
+        {
+          "source_text": "Russian Federation",
+          "number": "46",
+          "section": "153.3 EUROPE",
+          "visual_context": "Flag shown beside country.",
+          "semantic_meaning": "country"
+        },
+        {
+          "source_text": "Russian",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "adjective"
+        },
+        {
+          "source_text": "Russians",
+          "number": null,
+          "section": "153.3 EUROPE",
+          "visual_context": null,
+          "semantic_meaning": "demonym"
+        }
+      ]
+    }
+  ]
+}

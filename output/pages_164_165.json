@@ -1,0 +1,424 @@
+{
+  "pages": [
+    {
+      "page": 164,
+      "title": "Biology",
+      "context": "77.1 BIOLOGY",
+      "entries": [
+        {
+          "source_text": "biologist",
+          "number": "1",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Scientist holding a specimen in a laboratory.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "microbiology",
+          "number": "2",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Magnified microorganisms.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "microbiologist",
+          "number": "3",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Scientist using a microscope.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nucleus",
+          "number": "4",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Arrow to the central structure in an animal cell.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mitochondria",
+          "number": "5",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Arrow to bean-shaped organelles in an animal cell.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cell membrane",
+          "number": "6",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Arrow to the outer boundary of an animal cell.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cytoplasm",
+          "number": "7",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Arrow to the material inside an animal cell.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "animal cell",
+          "number": "8",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Diagram of a round animal cell.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cell wall",
+          "number": "9",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Arrow to the thick outer layer of a plant cell.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "vacuole",
+          "number": "10",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Arrow to the large pale compartment in a plant cell.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chloroplast",
+          "number": "11",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Arrow to a green organelle in a plant cell.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "plant cell",
+          "number": "12",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Diagram of a plant cell.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "eyepiece",
+          "number": "13",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Arrow to the top viewing lens of a microscope.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "focusing knob",
+          "number": "14",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Arrow to the adjustment wheel on a microscope.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "objective lens",
+          "number": "15",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Arrow to a lens beneath the microscope stage.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "slide",
+          "number": "16",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Arrow to the glass slide on the microscope stage.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mirror",
+          "number": "17",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Arrow to the reflector below the microscope stage.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "microscope",
+          "number": "18",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Complete red microscope.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "red blood cell",
+          "number": "19",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Red disc-shaped blood cells.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "white blood cell",
+          "number": "20",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "White blood cells shown on a blue background.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chromosome",
+          "number": "21",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Purple X-shaped chromosome.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gene",
+          "number": "22",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Arrow to the banded portion of a chromosome.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "DNA",
+          "number": "23",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Double-helix molecule.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "virus",
+          "number": "24",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Round spiky virus particle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bacteria",
+          "number": "25",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Single bacterium with flagellum.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "petri dish",
+          "number": "26",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Dish of culture spots being handled with a tool.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tweezers",
+          "number": "27",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Arrow to forceps/tweezers over the petri dish.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "scalpel",
+          "number": "28",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Small surgical cutting tool.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "syringe",
+          "number": "29",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Yellow-filled syringe.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "zoology",
+          "number": "30",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Magnifying glass showing a panda.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "zoologist",
+          "number": "31",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Scientist examining a rabbit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "plankton",
+          "number": "32",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Tiny aquatic organisms in water.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "invertebrate",
+          "number": "33",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Butterfly, worm, and snail.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "vertebrate",
+          "number": "34",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Parrot, dog, and dolphin.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "species",
+          "number": "35",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Birds connected around a central circle.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 165,
+      "title": "Metamorphosis",
+      "context": "77.1 BIOLOGY; 77.2 METAMORPHOSIS",
+      "entries": [
+        {
+          "source_text": "ecosystem",
+          "number": "36",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Landscape showing mountains, forest, river, and sea.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "exoskeleton",
+          "number": "37",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Snail illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "endoskeleton",
+          "number": "38",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Fish with its internal skeleton shown.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "reproduction",
+          "number": "39",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Adult mouse with young.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hibernation",
+          "number": "40",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Dormant animal in a burrow.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "botany",
+          "number": "41",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Magnifying glass showing a sprouting plant.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "botanist",
+          "number": "42",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Person studying flowering plants.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "plant",
+          "number": "43",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Young plant growing in soil.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fungi",
+          "number": "44",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Several mushrooms.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "photosynthesis",
+          "number": "45",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Plant receiving sunlight, with roots in soil.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "paleontologist",
+          "number": "46",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Person excavating fossils.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fossil",
+          "number": "47",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Arrow to a spiral ammonite fossil.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "evolution",
+          "number": "48",
+          "section": "77.1 BIOLOGY",
+          "visual_context": "Sequence from ape-like ancestor to human.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "butterfly",
+          "number": "1",
+          "section": "77.2 METAMORPHOSIS",
+          "visual_context": "Adult butterfly in a circular life-cycle diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "egg",
+          "number": "2",
+          "section": "77.2 METAMORPHOSIS",
+          "visual_context": "Egg in the butterfly life-cycle diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "caterpillar",
+          "number": "3",
+          "section": "77.2 METAMORPHOSIS",
+          "visual_context": "Larval caterpillar in the butterfly life-cycle diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chrysalis",
+          "number": "4",
+          "section": "77.2 METAMORPHOSIS",
+          "visual_context": "Green chrysalis in the butterfly life-cycle diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "life cycle of a butterfly",
+          "number": "5",
+          "section": "77.2 METAMORPHOSIS",
+          "visual_context": "Circular diagram connecting egg, caterpillar, chrysalis, and butterfly.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "adult frog",
+          "number": "6",
+          "section": "77.2 METAMORPHOSIS",
+          "visual_context": "Adult green frog in a circular life-cycle diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "frog spawn",
+          "number": "7",
+          "section": "77.2 METAMORPHOSIS",
+          "visual_context": "Cluster of frog eggs in the frog life-cycle diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tadpole",
+          "number": "8",
+          "section": "77.2 METAMORPHOSIS",
+          "visual_context": "Tadpoles in the frog life-cycle diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "young frog",
+          "number": "9",
+          "section": "77.2 METAMORPHOSIS",
+          "visual_context": "Small frog in the frog life-cycle diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "life cycle of a frog",
+          "number": "10",
+          "section": "77.2 METAMORPHOSIS",
+          "visual_context": "Circular diagram connecting frog spawn, tadpoles, young frog, and adult frog.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

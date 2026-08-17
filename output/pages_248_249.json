@@ -1,0 +1,466 @@
+{
+  "pages": [
+    {
+      "page": 248,
+      "title": "Sailing and watersports",
+      "context": "119.1 SAILING",
+      "entries": [
+        {
+          "source_text": "crew",
+          "number": "1",
+          "section": "119.1 SAILING",
+          "visual_context": "Icon of three people aboard a boat.",
+          "semantic_meaning": "people working on a boat"
+        },
+        {
+          "source_text": "compass",
+          "number": "2",
+          "section": "119.1 SAILING",
+          "visual_context": "Compass rose icon.",
+          "semantic_meaning": "navigation instrument showing direction"
+        },
+        {
+          "source_text": "burgee",
+          "number": "3",
+          "section": "119.1 SAILING",
+          "visual_context": "Small flag flying at the top of the yacht mast.",
+          "semantic_meaning": "small identifying or signalling flag"
+        },
+        {
+          "source_text": "mast",
+          "number": "4",
+          "section": "119.1 SAILING",
+          "visual_context": "Tall upright spar supporting the sails.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "backstay",
+          "number": "5",
+          "section": "119.1 SAILING",
+          "visual_context": "Rear supporting cable running from mast toward the stern.",
+          "semantic_meaning": "rear mast-supporting cable"
+        },
+        {
+          "source_text": "rigging",
+          "number": "6",
+          "section": "119.1 SAILING",
+          "visual_context": "Cables and lines supporting the mast and sails.",
+          "semantic_meaning": "system of ropes and wires on a sailing boat"
+        },
+        {
+          "source_text": "mainsail",
+          "number": "7",
+          "section": "119.1 SAILING",
+          "visual_context": "Large red-and-yellow sail behind the mast.",
+          "semantic_meaning": "main sail of the yacht"
+        },
+        {
+          "source_text": "jib / genoa",
+          "number": "8",
+          "section": "119.1 SAILING",
+          "visual_context": "Yellow forward sail in front of the mast.",
+          "semantic_meaning": "a forward headsail"
+        },
+        {
+          "source_text": "forestay",
+          "number": "9",
+          "section": "119.1 SAILING",
+          "visual_context": "Forward supporting cable running from mast toward the bow.",
+          "semantic_meaning": "forward mast-supporting cable"
+        },
+        {
+          "source_text": "The wind is really picking up!",
+          "number": "10",
+          "section": "119.1 SAILING",
+          "visual_context": "Speech bubble beside the sailing yacht.",
+          "semantic_meaning": "the wind is becoming stronger"
+        },
+        {
+          "source_text": "boom",
+          "number": "11",
+          "section": "119.1 SAILING",
+          "visual_context": "Horizontal spar along the bottom of the mainsail.",
+          "semantic_meaning": "horizontal spar attached to a mast"
+        },
+        {
+          "source_text": "tiller",
+          "number": "12",
+          "section": "119.1 SAILING",
+          "visual_context": "Steering handle at the rear of the yacht.",
+          "semantic_meaning": "lever used to steer a boat"
+        },
+        {
+          "source_text": "stern",
+          "number": "13",
+          "section": "119.1 SAILING",
+          "visual_context": "Rear end of the yacht.",
+          "semantic_meaning": "back of a boat"
+        },
+        {
+          "source_text": "bow",
+          "number": "14",
+          "section": "119.1 SAILING",
+          "visual_context": "Front end of the yacht.",
+          "semantic_meaning": "front of a boat"
+        },
+        {
+          "source_text": "buoy",
+          "number": "15",
+          "section": "119.1 SAILING",
+          "visual_context": "Red floating marker in the water.",
+          "semantic_meaning": "floating navigation marker"
+        },
+        {
+          "source_text": "rope",
+          "number": "16",
+          "section": "119.1 SAILING",
+          "visual_context": "Line held by the sailor on the yacht.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "yacht",
+          "number": "17",
+          "section": "119.1 SAILING",
+          "visual_context": "The illustrated sailing boat.",
+          "semantic_meaning": "a recreational sailing boat"
+        },
+        {
+          "source_text": "hull",
+          "number": "18",
+          "section": "119.1 SAILING",
+          "visual_context": "Main body of the yacht in the water.",
+          "semantic_meaning": "main body of a boat"
+        },
+        {
+          "source_text": "anchor",
+          "number": "19",
+          "section": "119.1 SAILING",
+          "visual_context": "Anchor icon.",
+          "semantic_meaning": "heavy device that holds a boat in place"
+        },
+        {
+          "source_text": "sheet",
+          "number": "20",
+          "section": "119.1 SAILING",
+          "visual_context": "Icon of a sailboat with a controlling line.",
+          "semantic_meaning": "rope used to control a sail"
+        },
+        {
+          "source_text": "cleat",
+          "number": "21",
+          "section": "119.1 SAILING",
+          "visual_context": "Icon of a rope fastened around a deck fitting.",
+          "semantic_meaning": "fitting for securing a rope"
+        },
+        {
+          "source_text": "sidedeck",
+          "number": "22",
+          "section": "119.1 SAILING",
+          "visual_context": "Top-view diagram of the narrow deck along a boat's side.",
+          "semantic_meaning": "deck area along the side of a boat"
+        },
+        {
+          "source_text": "boat’s wheel",
+          "number": "23",
+          "section": "119.1 SAILING",
+          "visual_context": "Ship's steering-wheel icon.",
+          "semantic_meaning": "wheel used to steer a boat"
+        },
+        {
+          "source_text": "helm",
+          "number": "24",
+          "section": "119.1 SAILING",
+          "visual_context": "Ship's steering-wheel icon.",
+          "semantic_meaning": "steering equipment of a boat"
+        },
+        {
+          "source_text": "centerboard (US)\ncentreboard (UK)",
+          "number": "25",
+          "section": "119.1 SAILING",
+          "visual_context": "Icon of a boat with a retractable vertical blade below its hull.",
+          "semantic_meaning": "retractable fin below a small sailing boat"
+        },
+        {
+          "source_text": "rudder",
+          "number": "26",
+          "section": "119.1 SAILING",
+          "visual_context": "Side-view boat icon showing the blade at the stern.",
+          "semantic_meaning": "underwater blade used for steering"
+        },
+        {
+          "source_text": "keel",
+          "number": "27",
+          "section": "119.1 SAILING",
+          "visual_context": "Sailboat icon showing the fixed fin beneath the hull.",
+          "semantic_meaning": "fixed fin along the bottom of a boat"
+        },
+        {
+          "source_text": "flare",
+          "number": "28",
+          "section": "119.1 SAILING",
+          "visual_context": "Handheld emergency flare emitting smoke.",
+          "semantic_meaning": "emergency distress signal"
+        },
+        {
+          "source_text": "life preserver (US)\nlife ring (UK)",
+          "number": "29",
+          "section": "119.1 SAILING",
+          "visual_context": "Lifebuoy ring icon.",
+          "semantic_meaning": "floating ring for rescuing someone in water"
+        },
+        {
+          "source_text": "life jacket",
+          "number": "30",
+          "section": "119.1 SAILING",
+          "visual_context": "Personal flotation vest icon.",
+          "semantic_meaning": "wearable flotation device"
+        },
+        {
+          "source_text": "life raft",
+          "number": "31",
+          "section": "119.1 SAILING",
+          "visual_context": "Inflatable raft with paddles icon.",
+          "semantic_meaning": "emergency inflatable boat"
+        }
+      ]
+    },
+    {
+      "page": 249,
+      "title": "Sailing and watersports",
+      "context": "119.2 WATERSPORTS",
+      "entries": [
+        {
+          "source_text": "rower",
+          "number": "1",
+          "section": "119.2 WATERSPORTS",
+          "visual_context": "Person sitting in a rowing boat.",
+          "semantic_meaning": "person who rows"
+        },
+        {
+          "source_text": "rowing",
+          "number": "2",
+          "section": "119.2 WATERSPORTS",
+          "visual_context": "Person propelling a boat with oars.",
+          "semantic_meaning": "sport of moving a boat with oars"
+        },
+        {
+          "source_text": "oar",
+          "number": "3",
+          "section": "119.2 WATERSPORTS",
+          "visual_context": "Long-bladed implement held by the rower.",
+          "semantic_meaning": "implement used to row a boat"
+        },
+        {
+          "source_text": "kayak",
+          "number": "4",
+          "section": "119.2 WATERSPORTS",
+          "visual_context": "Long narrow boat with a seated paddler.",
+          "semantic_meaning": "small narrow paddle-powered boat"
+        },
+        {
+          "source_text": "kayaking",
+          "number": "5",
+          "section": "119.2 WATERSPORTS",
+          "visual_context": "Person paddling a kayak.",
+          "semantic_meaning": "sport of using a kayak"
+        },
+        {
+          "source_text": "paddle",
+          "number": "6",
+          "section": "119.2 WATERSPORTS",
+          "visual_context": "Double-ended paddle held by the kayaker.",
+          "semantic_meaning": "implement used to propel a kayak"
+        },
+        {
+          "source_text": "surfer",
+          "number": "7",
+          "section": "119.2 WATERSPORTS",
+          "visual_context": "Person riding a wave on a surfboard.",
+          "semantic_meaning": "person who surfs"
+        },
+        {
+          "source_text": "surfing",
+          "number": "8",
+          "section": "119.2 WATERSPORTS",
+          "visual_context": "Person riding a yellow board on a wave.",
+          "semantic_meaning": "sport of riding waves on a board"
+        },
+        {
+          "source_text": "surfboard",
+          "number": "9",
+          "section": "119.2 WATERSPORTS",
+          "visual_context": "Yellow board beneath the surfer.",
+          "semantic_meaning": "board used for surfing"
+        },
+        {
+          "source_text": "boogie\nboard",
+          "number": "10",
+          "section": "119.2 WATERSPORTS",
+          "visual_context": "Person lying on a short board in a wave.",
+          "semantic_meaning": "short board ridden lying down"
+        },
+        {
+          "source_text": "bodyboarding",
+          "number": "11",
+          "section": "119.2 WATERSPORTS",
+          "visual_context": "Person riding a wave while lying on a boogie board.",
+          "semantic_meaning": "sport of riding waves on a bodyboard"
+        },
+        {
+          "source_text": "paddleboarding",
+          "number": "12",
+          "section": "119.2 WATERSPORTS",
+          "visual_context": "Standing person using a paddle on a board.",
+          "semantic_meaning": "sport of standing on and paddling a board"
+        },
+        {
+          "source_text": "parasailing",
+          "number": "13",
+          "section": "119.2 WATERSPORTS",
+          "visual_context": "Person being towed beneath a parachute.",
+          "semantic_meaning": "being towed by a boat while attached to a parachute"
+        },
+        {
+          "source_text": "kite surfing",
+          "number": "14",
+          "section": "119.2 WATERSPORTS",
+          "visual_context": "Person riding a board while holding a large kite.",
+          "semantic_meaning": "board sport powered by a kite"
+        },
+        {
+          "source_text": "speed boating",
+          "number": "15",
+          "section": "119.2 WATERSPORTS",
+          "visual_context": "Fast motorboat travelling across water.",
+          "semantic_meaning": "operating or riding in a speedboat"
+        },
+        {
+          "source_text": "rafting",
+          "number": "16",
+          "section": "119.2 WATERSPORTS",
+          "visual_context": "Group riding an inflatable raft through water.",
+          "semantic_meaning": "sport of travelling by inflatable raft"
+        },
+        {
+          "source_text": "jet skiing",
+          "number": "17",
+          "section": "119.2 WATERSPORTS",
+          "visual_context": "Person riding a personal watercraft.",
+          "semantic_meaning": "riding a jet ski"
+        },
+        {
+          "source_text": "water polo",
+          "number": "18",
+          "section": "119.2 WATERSPORTS",
+          "visual_context": "Players in water near a goal.",
+          "semantic_meaning": "team ball sport played in water"
+        },
+        {
+          "source_text": "water skiing",
+          "number": "19",
+          "section": "119.2 WATERSPORTS",
+          "visual_context": "Two people being towed on skis behind a boat.",
+          "semantic_meaning": "being towed over water on skis"
+        },
+        {
+          "source_text": "ski",
+          "number": "20",
+          "section": "119.2 WATERSPORTS",
+          "visual_context": "One of the yellow water skis beneath a skier.",
+          "semantic_meaning": "long narrow runner worn on the feet"
+        },
+        {
+          "source_text": "water skier",
+          "number": "21",
+          "section": "119.2 WATERSPORTS",
+          "visual_context": "Person being towed on water skis.",
+          "semantic_meaning": "person who water-skis"
+        },
+        {
+          "source_text": "to capsize",
+          "number": "22",
+          "section": "119.2 WATERSPORTS",
+          "visual_context": "Sailboat tipped over in the water.",
+          "semantic_meaning": "to overturn in water"
+        },
+        {
+          "source_text": "to navigate",
+          "number": "23",
+          "section": "119.2 WATERSPORTS",
+          "visual_context": "Person steering a sailboat at night.",
+          "semantic_meaning": "to direct the course of a vessel"
+        },
+        {
+          "source_text": "to tack",
+          "number": "24",
+          "section": "119.2 WATERSPORTS",
+          "visual_context": "Diagram showing a zigzag change of course through wind.",
+          "semantic_meaning": "to change direction across the wind while sailing"
+        },
+        {
+          "source_text": "wave",
+          "number": "25",
+          "section": "119.2 WATERSPORTS",
+          "visual_context": "Large breaking ocean wave.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rapids",
+          "number": "26",
+          "section": "119.2 WATERSPORTS",
+          "visual_context": "Fast, foaming turbulent water.",
+          "semantic_meaning": "fast-flowing turbulent parts of a river"
+        },
+        {
+          "source_text": "surf",
+          "number": "27",
+          "section": "119.2 WATERSPORTS",
+          "visual_context": "Breaking white water on the wave.",
+          "semantic_meaning": "breaking waves near shore"
+        },
+        {
+          "source_text": "windsurfing",
+          "number": "28",
+          "section": "119.2 WATERSPORTS",
+          "visual_context": "Person riding a board with an upright sail.",
+          "semantic_meaning": "sport combining sailing and surfing"
+        },
+        {
+          "source_text": "board",
+          "number": "29",
+          "section": "119.2 WATERSPORTS",
+          "visual_context": "Orange board beneath the windsurfer.",
+          "semantic_meaning": "windsurfing board"
+        },
+        {
+          "source_text": "windsurfer",
+          "number": "30",
+          "section": "119.2 WATERSPORTS",
+          "visual_context": "Person holding the sail while riding the board.",
+          "semantic_meaning": "person who windsurfs"
+        },
+        {
+          "source_text": "sail",
+          "number": "31",
+          "section": "119.2 WATERSPORTS",
+          "visual_context": "Large colourful upright sail of the windsurfer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "foot strap",
+          "number": "32",
+          "section": "119.2 WATERSPORTS",
+          "visual_context": "Strap securing the windsurfer's foot to the board.",
+          "semantic_meaning": "strap that holds a foot on a board"
+        },
+        {
+          "source_text": "boom",
+          "number": "33",
+          "section": "119.2 WATERSPORTS",
+          "visual_context": "Horizontal bar held by the windsurfer beneath the sail.",
+          "semantic_meaning": "bar used to hold and control a windsurf sail"
+        }
+      ]
+    }
+  ]
+}

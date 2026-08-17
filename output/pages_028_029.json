@@ -1,0 +1,417 @@
+{
+  "pages": [
+    {
+      "page": 28,
+      "title": "Pregnancy and childhood",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "umbilical cord",
+          "number": "1",
+          "section": "8.1 PREGNANCY AND CHILDBIRTH",
+          "visual_context": "Pointer to the cord connecting the fetus to the placenta in a pregnant person's womb.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "uterus / womb",
+          "number": "2",
+          "section": "8.1 PREGNANCY AND CHILDBIRTH",
+          "visual_context": "Pointer to the internal organ surrounding the fetus.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fetus / foetus (UK)",
+          "number": "3",
+          "section": "8.1 PREGNANCY AND CHILDBIRTH",
+          "visual_context": "Pointer to the unborn baby inside the womb.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "placenta",
+          "number": "4",
+          "section": "8.1 PREGNANCY AND CHILDBIRTH",
+          "visual_context": "Pointer to the placenta beside the fetus.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pregnancy test",
+          "number": "5",
+          "section": "8.1 PREGNANCY AND CHILDBIRTH",
+          "visual_context": "Illustration of two home pregnancy-test sticks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pregnant",
+          "number": "6",
+          "section": "8.1 PREGNANCY AND CHILDBIRTH",
+          "visual_context": "Illustration of a visibly pregnant woman.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ultrasound",
+          "number": "7",
+          "section": "8.1 PREGNANCY AND CHILDBIRTH",
+          "visual_context": "Illustration of an ultrasound scan and probe.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "embryo",
+          "number": "8",
+          "section": "8.1 PREGNANCY AND CHILDBIRTH",
+          "visual_context": "Pointer to an early-stage unborn baby in an ultrasound image.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "due date",
+          "number": "9",
+          "section": "8.1 PREGNANCY AND CHILDBIRTH",
+          "visual_context": "Illustration of a calendar with a date circled.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "midwife",
+          "number": "10",
+          "section": "8.1 PREGNANCY AND CHILDBIRTH",
+          "visual_context": "Illustration of a healthcare worker wearing medical clothing.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "obstetrician",
+          "number": "11",
+          "section": "8.1 PREGNANCY AND CHILDBIRTH",
+          "visual_context": "Illustration of a doctor examining a pregnant patient.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "birth",
+          "number": "12",
+          "section": "8.1 PREGNANCY AND CHILDBIRTH",
+          "visual_context": "Illustration of a baby being born.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "newborn baby",
+          "number": "13",
+          "section": "8.1 PREGNANCY AND CHILDBIRTH",
+          "visual_context": "Illustration of a mother holding a newly born baby.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "vaccination",
+          "number": "14",
+          "section": "8.1 PREGNANCY AND CHILDBIRTH",
+          "visual_context": "Pointer to a syringe held in a hand.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "incubator",
+          "number": "15",
+          "section": "8.1 PREGNANCY AND CHILDBIRTH",
+          "visual_context": "Illustration of a neonatal incubator on a wheeled stand.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "doll",
+          "number": "1",
+          "section": "8.2 TOYS AND GAMES",
+          "visual_context": "Illustration of a small doll.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dollhouse (US)\ndoll’s house (UK)",
+          "number": "2",
+          "section": "8.2 TOYS AND GAMES",
+          "visual_context": "Illustration of a toy house.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "plush toy (US)\nsoft toy (UK)",
+          "number": "3",
+          "section": "8.2 TOYS AND GAMES",
+          "visual_context": "Illustration of a teddy bear.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "board game",
+          "number": "4",
+          "section": "8.2 TOYS AND GAMES",
+          "visual_context": "Illustration of a board game with playing pieces.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "building blocks /\nbuilding bricks",
+          "number": "5",
+          "section": "8.2 TOYS AND GAMES",
+          "visual_context": "Illustration of stacked colored toy blocks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ball",
+          "number": "6",
+          "section": "8.2 TOYS AND GAMES",
+          "visual_context": "Illustration of a green ball.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "top (US)\nspinning top (UK)",
+          "number": "7",
+          "section": "8.2 TOYS AND GAMES",
+          "visual_context": "Illustration of a spinning top.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "yo-yo",
+          "number": "8",
+          "section": "8.2 TOYS AND GAMES",
+          "visual_context": "Illustration of a yo-yo with its string.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "jump rope (US)\nskipping rope (UK)",
+          "number": "9",
+          "section": "8.2 TOYS AND GAMES",
+          "visual_context": "Illustration of a jump rope.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "trampoline",
+          "number": "10",
+          "section": "8.2 TOYS AND GAMES",
+          "visual_context": "Illustration of a person jumping on a trampoline.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "jigsaw puzzle",
+          "number": "11",
+          "section": "8.2 TOYS AND GAMES",
+          "visual_context": "Illustration of interlocking jigsaw pieces.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "train set",
+          "number": "12",
+          "section": "8.2 TOYS AND GAMES",
+          "visual_context": "Illustration of a toy train on a circular track.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 29,
+      "title": null,
+      "context": null,
+      "entries": [
+        {
+          "source_text": "stroller (US)\nbuggy (UK)",
+          "number": "1",
+          "section": "8.3 CHILDHOOD",
+          "visual_context": "Illustration of a lightweight baby stroller.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "baby carriage\n(US) / pram (UK)",
+          "number": "2",
+          "section": "8.3 CHILDHOOD",
+          "visual_context": "Illustration of a larger wheeled baby carriage.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "high chair",
+          "number": "3",
+          "section": "8.3 CHILDHOOD",
+          "visual_context": "Illustration of a child's high chair.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pacifier (US)\ndummy (UK)",
+          "number": "4",
+          "section": "8.3 CHILDHOOD",
+          "visual_context": "Illustration of a pacifier.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rattle",
+          "number": "5",
+          "section": "8.3 CHILDHOOD",
+          "visual_context": "Illustration of a handheld baby rattle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "baby monitor",
+          "number": "6",
+          "section": "8.3 CHILDHOOD",
+          "visual_context": "Illustration of an electronic baby monitor.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stair gate",
+          "number": "7",
+          "section": "8.3 CHILDHOOD",
+          "visual_context": "Illustration of a gate across stairs.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Moses basket",
+          "number": "8",
+          "section": "8.3 CHILDHOOD",
+          "visual_context": "Illustration of a portable baby basket.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "baby bath",
+          "number": "9",
+          "section": "8.3 CHILDHOOD",
+          "visual_context": "Illustration of a small infant bathtub.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "potty",
+          "number": "10",
+          "section": "8.3 CHILDHOOD",
+          "visual_context": "Illustration of a child's potty.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wet wipe",
+          "number": "11",
+          "section": "8.3 CHILDHOOD",
+          "visual_context": "Illustration of a packet of wipes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "toddler",
+          "number": "12",
+          "section": "8.3 CHILDHOOD",
+          "visual_context": "Illustration of a young child with a ball.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "diaper rash\ncream (US) / nappy\nrash cream (UK)",
+          "number": "13",
+          "section": "8.3 CHILDHOOD",
+          "visual_context": "Illustration of a tube of diaper-rash cream.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "diaper (US)\nnappy (UK)",
+          "number": "14",
+          "section": "8.3 CHILDHOOD",
+          "visual_context": "Illustration of a crawling baby wearing a diaper.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "diaper bag (US)\nchanging bag (UK)",
+          "number": "15",
+          "section": "8.3 CHILDHOOD",
+          "visual_context": "Illustration of a bag containing baby-care items.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "playpen",
+          "number": "16",
+          "section": "8.3 CHILDHOOD",
+          "visual_context": "Illustration of a wooden enclosed play area.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bottle",
+          "number": "17",
+          "section": "8.3 CHILDHOOD",
+          "visual_context": "Pointer to a baby feeding bottle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nipple (US)\nteat (UK)",
+          "number": "18",
+          "section": "8.3 CHILDHOOD",
+          "visual_context": "Pointer to the rubber top of the baby bottle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "baby\nformula",
+          "number": "19",
+          "section": "8.3 CHILDHOOD",
+          "visual_context": "Pointer to the liquid inside the baby bottle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hobby horse",
+          "number": "13",
+          "section": "8.2 TOYS AND GAMES",
+          "visual_context": "Pointer to a toy horse head on a stick.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "kite",
+          "number": "14",
+          "section": "8.2 TOYS AND GAMES",
+          "visual_context": "Pointer to a colored diamond-shaped kite.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "balloon",
+          "number": "15",
+          "section": "8.2 TOYS AND GAMES",
+          "visual_context": "Pointer to a purple balloon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "toybox",
+          "number": "16",
+          "section": "8.2 TOYS AND GAMES",
+          "visual_context": "Pointer to an open box filled with toys.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rocking horse",
+          "number": "17",
+          "section": "8.2 TOYS AND GAMES",
+          "visual_context": "Pointer to a wooden rocking horse.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "puppet",
+          "number": "18",
+          "section": "8.2 TOYS AND GAMES",
+          "visual_context": "Pointer to a hand puppet shaped like a bear.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bowling pins (US) / skittles (UK)",
+          "number": "19",
+          "section": "8.2 TOYS AND GAMES",
+          "visual_context": "Pointer to toy bowling pins in the toybox.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bead maze",
+          "number": "20",
+          "section": "8.2 TOYS AND GAMES",
+          "visual_context": "Pointer to a wire maze with colored beads.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pull-along toy",
+          "number": "21",
+          "section": "8.2 TOYS AND GAMES",
+          "visual_context": "Pointer to a wheeled elephant toy with a pull string.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hula hoop",
+          "number": "22",
+          "section": "8.2 TOYS AND GAMES",
+          "visual_context": "Pointer to a striped hoop.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "toy car",
+          "number": "23",
+          "section": "8.2 TOYS AND GAMES",
+          "visual_context": "Pointer to a small red toy car.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

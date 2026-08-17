@@ -1,0 +1,396 @@
+{
+  "pages": [
+    {
+      "page": 244,
+      "title": "Combat sports",
+      "context": "117.1 MARTIAL ARTS; 117.2 ACTIONS",
+      "entries": [
+        {
+          "source_text": "groin protector",
+          "number": "1",
+          "section": "117.1 MARTIAL ARTS",
+          "visual_context": "Pointer to the yellow protective gear at a taekwondo fighter's groin.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "glove",
+          "number": "2",
+          "section": "117.1 MARTIAL ARTS",
+          "visual_context": "Pointer to a fighter's black hand glove.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "belt",
+          "number": "3",
+          "section": "117.1 MARTIAL ARTS",
+          "visual_context": "Pointer to the yellow belt around a martial artist's waist.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "head guard",
+          "number": "4",
+          "section": "117.1 MARTIAL ARTS",
+          "visual_context": "Pointer to the red padded helmet worn by a fighter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chest protection",
+          "number": "5",
+          "section": "117.1 MARTIAL ARTS",
+          "visual_context": "Pointer to the red torso protector worn by a fighter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "taekwondo",
+          "number": "6",
+          "section": "117.1 MARTIAL ARTS",
+          "visual_context": "Illustration of two martial artists sparring, one kicking.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "black belt",
+          "number": "7",
+          "section": "117.1 MARTIAL ARTS",
+          "visual_context": "Pointer to the black belt worn by a karate practitioner.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "karate mat",
+          "number": "8",
+          "section": "117.1 MARTIAL ARTS",
+          "visual_context": "Pointer to the blue-and-red competition mat.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "opponent",
+          "number": "9",
+          "section": "117.1 MARTIAL ARTS",
+          "visual_context": "Pointer to one of two karate practitioners facing each other.",
+          "semantic_meaning": "person competing against another"
+        },
+        {
+          "source_text": "safety area",
+          "number": "10",
+          "section": "117.1 MARTIAL ARTS",
+          "visual_context": "Pointer to the outer blue border of the karate mat.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "karate",
+          "number": "11",
+          "section": "117.1 MARTIAL ARTS",
+          "visual_context": "Illustration of two karate practitioners on a mat.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "danger area",
+          "number": "12",
+          "section": "117.1 MARTIAL ARTS",
+          "visual_context": "Pointer to the red zone surrounding the central blue mat area.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "judo",
+          "number": "13",
+          "section": "117.1 MARTIAL ARTS",
+          "visual_context": "Illustration of two judoka throwing or grappling.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "aikido",
+          "number": "14",
+          "section": "117.1 MARTIAL ARTS",
+          "visual_context": "Illustration of an aikido throw.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hakama",
+          "number": "15",
+          "section": "117.1 MARTIAL ARTS",
+          "visual_context": "Pointer to the dark pleated trousers worn in the aikido illustration.",
+          "semantic_meaning": "traditional pleated martial-arts trousers"
+        },
+        {
+          "source_text": "kung fu",
+          "number": "16",
+          "section": "117.1 MARTIAL ARTS",
+          "visual_context": "Illustration of a martial artist performing a high kick.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "jujitsu",
+          "number": "17",
+          "section": "117.1 MARTIAL ARTS",
+          "visual_context": "Illustration of two practitioners grappling on the ground.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "capoeira",
+          "number": "18",
+          "section": "117.1 MARTIAL ARTS",
+          "visual_context": "Illustration of two capoeira practitioners kicking.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "kickboxing",
+          "number": "19",
+          "section": "117.1 MARTIAL ARTS",
+          "visual_context": "Illustration of two kickboxers sparring.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tai chi",
+          "number": "20",
+          "section": "117.1 MARTIAL ARTS",
+          "visual_context": "Illustration of a person in a low tai chi pose.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wrestling",
+          "number": "21",
+          "section": "117.1 MARTIAL ARTS",
+          "visual_context": "Illustration of two wrestlers throwing one another.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sumo wrestling",
+          "number": "22",
+          "section": "117.1 MARTIAL ARTS",
+          "visual_context": "Illustration of two sumo wrestlers crouching.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mask",
+          "number": "23",
+          "section": "117.1 MARTIAL ARTS",
+          "visual_context": "Pointer to the protective face mask of a kendo fighter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sword",
+          "number": "24",
+          "section": "117.1 MARTIAL ARTS",
+          "visual_context": "Pointer to a wooden sword held by a kendo fighter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "kendo",
+          "number": "25",
+          "section": "117.1 MARTIAL ARTS",
+          "visual_context": "Illustration of two masked kendo fighters with swords.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to fall",
+          "number": "1",
+          "section": "117.2 ACTIONS",
+          "visual_context": "Green action icon of a person falling.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to hold",
+          "number": "2",
+          "section": "117.2 ACTIONS",
+          "visual_context": "Green action icon of two people holding each other.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to throw",
+          "number": "3",
+          "section": "117.2 ACTIONS",
+          "visual_context": "Green action icon of one person throwing another.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to pin",
+          "number": "4",
+          "section": "117.2 ACTIONS",
+          "visual_context": "Green action icon of one person pinning another to the ground.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "front kick",
+          "number": "5",
+          "section": "117.2 ACTIONS",
+          "visual_context": "Green action icon of a forward kick.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "flying kick",
+          "number": "6",
+          "section": "117.2 ACTIONS",
+          "visual_context": "Green action icon of a jumping kick.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 245,
+      "title": "Combat sports",
+      "context": "117.3 BOXING; 117.4 FENCING",
+      "entries": [
+        {
+          "source_text": "Athletics",
+          "number": "116",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "At the gym",
+          "number": "124",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Other sports",
+          "number": "125",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "boxing ring",
+          "number": "1",
+          "section": "117.3 BOXING",
+          "visual_context": "Pointer to the raised square boxing ring.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ropes",
+          "number": "2",
+          "section": "117.3 BOXING",
+          "visual_context": "Pointer to the horizontal ropes around the boxing ring.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "boxing match",
+          "number": "3",
+          "section": "117.3 BOXING",
+          "visual_context": "Illustration of two boxers fighting in a ring.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "round",
+          "number": "4",
+          "section": "117.3 BOXING",
+          "visual_context": "Illustration of a card showing the number 1 and a bell.",
+          "semantic_meaning": "a timed division of a boxing match"
+        },
+        {
+          "source_text": "knock out",
+          "number": "5",
+          "section": "117.3 BOXING",
+          "visual_context": "Illustration of a boxer lying down while the referee signals.",
+          "semantic_meaning": "defeat by rendering an opponent unable to continue"
+        },
+        {
+          "source_text": "boxing gloves",
+          "number": "6",
+          "section": "117.3 BOXING",
+          "visual_context": "Illustration of a pair of red boxing gloves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mouth guard",
+          "number": "7",
+          "section": "117.3 BOXING",
+          "visual_context": "Illustration of a blue-and-red protective mouthpiece.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "punching bag (US)\npunchbag (UK)",
+          "number": "8",
+          "section": "117.3 BOXING",
+          "visual_context": "Illustration of a boxer striking a hanging heavy bag.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to lunge",
+          "number": "1",
+          "section": "117.4 FENCING",
+          "visual_context": "Illustration of a fencer extending forward in an attack.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to parry",
+          "number": "2",
+          "section": "117.4 FENCING",
+          "visual_context": "Illustration of fencers deflecting an attack with blades.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hilt",
+          "number": "3",
+          "section": "117.4 FENCING",
+          "visual_context": "Pointer to the handle section of a fencing weapon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "foil",
+          "number": "4",
+          "section": "117.4 FENCING",
+          "visual_context": "Illustration of a foil fencing weapon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "blade",
+          "number": "5",
+          "section": "117.4 FENCING",
+          "visual_context": "Pointer to the long thin metal part of a fencing weapon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "épée",
+          "number": "6",
+          "section": "117.4 FENCING",
+          "visual_context": "Illustration of an épée fencing weapon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "saber (US)\nsabre (UK)",
+          "number": "7",
+          "section": "117.4 FENCING",
+          "visual_context": "Illustration of a saber/sabre fencing weapon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to punch",
+          "number": "7",
+          "section": null,
+          "visual_context": "Green action icon of one person punching another.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to strike",
+          "number": "8",
+          "section": null,
+          "visual_context": "Green action icon of one person striking another.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to block",
+          "number": "9",
+          "section": null,
+          "visual_context": "Green action icon of a person blocking a blow.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to jump",
+          "number": "10",
+          "section": null,
+          "visual_context": "Green action icon of a person jumping over another person.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to chop",
+          "number": "11",
+          "section": null,
+          "visual_context": "Green action icon of a downward chopping strike.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

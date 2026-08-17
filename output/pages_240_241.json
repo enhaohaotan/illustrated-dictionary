@@ -1,0 +1,389 @@
+{
+  "pages": [
+    {
+      "page": 240,
+      "title": "Golf",
+      "context": "115.1 ON THE GOLF COURSE",
+      "entries": [
+        {
+          "source_text": "hole",
+          "number": "1",
+          "section": "115.1 ON THE GOLF COURSE",
+          "visual_context": "Pointer to the cup on the green beside the flag.",
+          "semantic_meaning": "The cup into which the golf ball is played."
+        },
+        {
+          "source_text": "flag",
+          "number": "2",
+          "section": "115.1 ON THE GOLF COURSE",
+          "visual_context": "Pointer to the red flag marking the hole.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "green",
+          "number": "3",
+          "section": "115.1 ON THE GOLF COURSE",
+          "visual_context": "Pointer to the smooth light-green putting area around the hole.",
+          "semantic_meaning": "The closely mown putting area."
+        },
+        {
+          "source_text": "bunker",
+          "number": "4",
+          "section": "115.1 ON THE GOLF COURSE",
+          "visual_context": "Pointer to the sand-filled hazard beside the green.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "water hazard",
+          "number": "5",
+          "section": "115.1 ON THE GOLF COURSE",
+          "visual_context": "Pointer to the blue water running across the course.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fairway",
+          "number": "6",
+          "section": "115.1 ON THE GOLF COURSE",
+          "visual_context": "Pointer to the broad mown strip leading toward the green.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rough",
+          "number": "7",
+          "section": "115.1 ON THE GOLF COURSE",
+          "visual_context": "Pointer to the long, darker grass at the edge of the fairway.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "golf course",
+          "number": "8",
+          "section": "115.1 ON THE GOLF COURSE",
+          "visual_context": "Pointer to the overall landscaped playing area.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "teeing ground",
+          "number": "9",
+          "section": "115.1 ON THE GOLF COURSE",
+          "visual_context": "Pointer to the starting area where the golfer addresses a ball.",
+          "semantic_meaning": "The area from which a hole is started."
+        },
+        {
+          "source_text": "swing",
+          "number": "10",
+          "section": "115.1 ON THE GOLF COURSE",
+          "visual_context": "Pointer to the raised-club movement of the golfer at right.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stance",
+          "number": "11",
+          "section": "115.1 ON THE GOLF COURSE",
+          "visual_context": "Pointer to the golfer's leg and foot position.",
+          "semantic_meaning": "A golfer's standing position for a shot."
+        },
+        {
+          "source_text": "golfer",
+          "number": "12",
+          "section": "115.1 ON THE GOLF COURSE",
+          "visual_context": "Label beside the illustrated person playing golf.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "clubhouse",
+          "number": "13",
+          "section": "115.1 ON THE GOLF COURSE",
+          "visual_context": "Illustration of the golf-course building.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cart (US)\nbuggy (UK)",
+          "number": "14",
+          "section": "115.1 ON THE GOLF COURSE",
+          "visual_context": "Illustration of a small motorized golf vehicle.",
+          "semantic_meaning": "US and UK names for a golf cart."
+        },
+        {
+          "source_text": "caddy",
+          "number": "15",
+          "section": "115.1 ON THE GOLF COURSE",
+          "visual_context": "Illustration of a person carrying a golf bag beside a golfer.",
+          "semantic_meaning": "A person who carries a golfer's clubs."
+        },
+        {
+          "source_text": "par",
+          "number": "16",
+          "section": "115.1 ON THE GOLF COURSE",
+          "visual_context": "Illustration of a golfer and score display showing 4.",
+          "semantic_meaning": "The expected number of strokes for a hole."
+        },
+        {
+          "source_text": "over par",
+          "number": "17",
+          "section": "115.1 ON THE GOLF COURSE",
+          "visual_context": "Illustration of a golfer and score display showing 5 over a par of 4.",
+          "semantic_meaning": "A score above par."
+        },
+        {
+          "source_text": "under par",
+          "number": "18",
+          "section": "115.1 ON THE GOLF COURSE",
+          "visual_context": "Illustration of a golfer and score display showing 3 over a par of 4.",
+          "semantic_meaning": "A score below par."
+        },
+        {
+          "source_text": "handicap",
+          "number": "19",
+          "section": "115.1 ON THE GOLF COURSE",
+          "visual_context": "Illustration of a golfer with two score figures linked by an arrow.",
+          "semantic_meaning": "A number reflecting a golfer's playing ability."
+        },
+        {
+          "source_text": "line of play",
+          "number": "20",
+          "section": "115.1 ON THE GOLF COURSE",
+          "visual_context": "Illustration of a dotted line showing the intended route from ball to hole.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "practice swing",
+          "number": "21",
+          "section": "115.1 ON THE GOLF COURSE",
+          "visual_context": "Illustration of a golfer swinging above a ball, with a curved arrow.",
+          "semantic_meaning": "A rehearsal swing without hitting the ball."
+        },
+        {
+          "source_text": "backswing",
+          "number": "22",
+          "section": "115.1 ON THE GOLF COURSE",
+          "visual_context": "Illustration of a golfer bringing the club upward behind the body.",
+          "semantic_meaning": "The backward part of a golf swing."
+        },
+        {
+          "source_text": "hole in one",
+          "number": "23",
+          "section": "115.1 ON THE GOLF COURSE",
+          "visual_context": "Illustration of a ball's arcing path directly into the hole.",
+          "semantic_meaning": "A score of one stroke on a hole."
+        },
+        {
+          "source_text": "tournament",
+          "number": "24",
+          "section": "115.1 ON THE GOLF COURSE",
+          "visual_context": "Illustration of a golfer and a cheering gallery.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "spectators",
+          "number": "25",
+          "section": "115.1 ON THE GOLF COURSE",
+          "visual_context": "Illustration of people watching and cheering for a golfer.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 241,
+      "title": "Golf",
+      "context": "115.2 GOLF EQUIPMENT; 115.3 GOLF CLUBS; 115.4 GOLF VERBS",
+      "entries": [
+        {
+          "source_text": "golf cap",
+          "number": "1",
+          "section": "115.2 GOLF EQUIPMENT",
+          "visual_context": "Illustration of a person wearing a blue cap.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "golf ball",
+          "number": "2",
+          "section": "115.2 GOLF EQUIPMENT",
+          "visual_context": "Illustration of a dimpled ball on a tee.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tee",
+          "number": "3",
+          "section": "115.2 GOLF EQUIPMENT",
+          "visual_context": "Pointer to the small red support beneath the golf ball.",
+          "semantic_meaning": "A small support used to raise a ball for the first stroke."
+        },
+        {
+          "source_text": "glove",
+          "number": "4",
+          "section": "115.2 GOLF EQUIPMENT",
+          "visual_context": "Illustration of a golf glove.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "golf shoe",
+          "number": "5",
+          "section": "115.2 GOLF EQUIPMENT",
+          "visual_context": "Illustration of a golf shoe.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "spikes",
+          "number": "6",
+          "section": "115.2 GOLF EQUIPMENT",
+          "visual_context": "Pointer to the studs on the sole of the golf shoe.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "golf bag",
+          "number": "7",
+          "section": "115.2 GOLF EQUIPMENT",
+          "visual_context": "Pointer to the blue bag carried on the push cart.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "harness",
+          "number": "8",
+          "section": "115.2 GOLF EQUIPMENT",
+          "visual_context": "Pointer to the black carrying straps of the golf bag.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stand",
+          "number": "9",
+          "section": "115.2 GOLF EQUIPMENT",
+          "visual_context": "Pointer to the two support legs of the golf bag.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "golf push cart (US)\ngolf trolley (UK)",
+          "number": "10",
+          "section": "115.2 GOLF EQUIPMENT",
+          "visual_context": "Illustration of the wheeled cart holding the golf bag.",
+          "semantic_meaning": "US and UK names for a hand-pushed golf-bag cart."
+        },
+        {
+          "source_text": "grip",
+          "number": "1",
+          "section": "115.3 GOLF CLUBS",
+          "visual_context": "Pointer to the wrapped upper handle of the golf club.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "neck",
+          "number": "2",
+          "section": "115.3 GOLF CLUBS",
+          "visual_context": "Pointer to the connection below the grip on the club.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shaft",
+          "number": "3",
+          "section": "115.3 GOLF CLUBS",
+          "visual_context": "Pointer to the long metal part of the club.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "groove",
+          "number": "4",
+          "section": "115.3 GOLF CLUBS",
+          "visual_context": "Pointer to the parallel lines on the club face.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ferrule",
+          "number": "5",
+          "section": "115.3 GOLF CLUBS",
+          "visual_context": "Pointer to the small band where shaft and club head meet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "heel",
+          "number": "6",
+          "section": "115.3 GOLF CLUBS",
+          "visual_context": "Pointer to the inner part of the club head near the shaft.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "putter",
+          "number": "7",
+          "section": "115.3 GOLF CLUBS",
+          "visual_context": "Illustration of a club with a flat putting head.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sole",
+          "number": "8",
+          "section": "115.3 GOLF CLUBS",
+          "visual_context": "Pointer to the bottom surface of a wood club head.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wood",
+          "number": "9",
+          "section": "115.3 GOLF CLUBS",
+          "visual_context": "Illustration of a large-headed wood club.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "toe",
+          "number": "10",
+          "section": "115.3 GOLF CLUBS",
+          "visual_context": "Pointer to the outer end of an iron club head.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wedge",
+          "number": "11",
+          "section": "115.3 GOLF CLUBS",
+          "visual_context": "Illustration of a lofted wedge club.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "iron",
+          "number": "12",
+          "section": "115.3 GOLF CLUBS",
+          "visual_context": "Illustration of an iron club.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to tee off",
+          "number": "1",
+          "section": "115.4 GOLF VERBS",
+          "visual_context": "Icon of a golfer making the opening shot from a tee.",
+          "semantic_meaning": "To make the first stroke on a hole."
+        },
+        {
+          "source_text": "to drive",
+          "number": "2",
+          "section": "115.4 GOLF VERBS",
+          "visual_context": "Icon of a golfer striking a long shot, with the ball's path shown.",
+          "semantic_meaning": "To hit a long shot, usually from the tee."
+        },
+        {
+          "source_text": "to swing",
+          "number": "3",
+          "section": "115.4 GOLF VERBS",
+          "visual_context": "Icon of a golfer moving a club through a shot.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to putt",
+          "number": "4",
+          "section": "115.4 GOLF VERBS",
+          "visual_context": "Icon of a golfer using a putter near a flag.",
+          "semantic_meaning": "To hit the ball gently on the green."
+        },
+        {
+          "source_text": "to chip",
+          "number": "5",
+          "section": "115.4 GOLF VERBS",
+          "visual_context": "Icon showing a short shot lifting the ball onto the green.",
+          "semantic_meaning": "To play a short, low shot toward the green."
+        },
+        {
+          "source_text": "to win",
+          "number": "6",
+          "section": "115.4 GOLF VERBS",
+          "visual_context": "Icon of a golfer holding a trophy on a winners' podium.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

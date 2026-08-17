@@ -1,0 +1,389 @@
+{
+  "pages": [
+    {
+      "page": 354,
+      "title": "The calendar",
+      "context": "172.1 CALENDAR AND SEASONS",
+      "entries": [
+        {
+          "source_text": "day",
+          "number": "1",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Calendar with one highlighted square.",
+          "semantic_meaning": "A period of 24 hours."
+        },
+        {
+          "source_text": "week",
+          "number": "2",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Calendar with one highlighted row of seven days.",
+          "semantic_meaning": "A period of seven days."
+        },
+        {
+          "source_text": "two weeks / fortnight (UK)",
+          "number": "3",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Calendar with two highlighted rows.",
+          "semantic_meaning": "A period of fourteen days."
+        },
+        {
+          "source_text": "weekend",
+          "number": "4",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Calendar with the final two columns highlighted.",
+          "semantic_meaning": "Saturday and Sunday."
+        },
+        {
+          "source_text": "month",
+          "number": "5",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Calendar with all dates highlighted.",
+          "semantic_meaning": "A calendar month."
+        },
+        {
+          "source_text": "year",
+          "number": "6",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Calendar showing a full year of months.",
+          "semantic_meaning": "A period of twelve months."
+        },
+        {
+          "source_text": "decade",
+          "number": "7",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Red calendar showing 1990 to 1999.",
+          "semantic_meaning": "A period of ten years."
+        },
+        {
+          "source_text": "century",
+          "number": "8",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Red calendar showing 2000 to 2099.",
+          "semantic_meaning": "A period of one hundred years."
+        },
+        {
+          "source_text": "millennium",
+          "number": "9",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Red calendar showing 1000 to 1999.",
+          "semantic_meaning": "A period of one thousand years."
+        },
+        {
+          "source_text": "Monday",
+          "number": "10",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Blue calendar card marked MON.",
+          "semantic_meaning": "Day of the week."
+        },
+        {
+          "source_text": "Tuesday",
+          "number": "11",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Blue calendar card marked TUES.",
+          "semantic_meaning": "Day of the week."
+        },
+        {
+          "source_text": "Wednesday",
+          "number": "12",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Blue calendar card marked WED.",
+          "semantic_meaning": "Day of the week."
+        },
+        {
+          "source_text": "Thursday",
+          "number": "13",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Blue calendar card marked THU.",
+          "semantic_meaning": "Day of the week."
+        },
+        {
+          "source_text": "Friday",
+          "number": "14",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Blue calendar card marked FRI.",
+          "semantic_meaning": "Day of the week."
+        },
+        {
+          "source_text": "Saturday",
+          "number": "15",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Blue calendar card marked SAT.",
+          "semantic_meaning": "Day of the week."
+        },
+        {
+          "source_text": "Sunday",
+          "number": "16",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Blue calendar card marked SUN.",
+          "semantic_meaning": "Day of the week."
+        },
+        {
+          "source_text": "January",
+          "number": "17",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Green calendar card marked JAN.",
+          "semantic_meaning": "Month of the year."
+        },
+        {
+          "source_text": "February",
+          "number": "18",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Green calendar card marked FEB.",
+          "semantic_meaning": "Month of the year."
+        },
+        {
+          "source_text": "March",
+          "number": "19",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Green calendar card marked MAR.",
+          "semantic_meaning": "Month of the year."
+        },
+        {
+          "source_text": "April",
+          "number": "20",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Green calendar card marked APR.",
+          "semantic_meaning": "Month of the year."
+        },
+        {
+          "source_text": "May",
+          "number": "21",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Green calendar card marked MAY.",
+          "semantic_meaning": "Month of the year."
+        },
+        {
+          "source_text": "June",
+          "number": "22",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Green calendar card marked JUN.",
+          "semantic_meaning": "Month of the year."
+        },
+        {
+          "source_text": "July",
+          "number": "23",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Green calendar card marked JUL.",
+          "semantic_meaning": "Month of the year."
+        },
+        {
+          "source_text": "August",
+          "number": "24",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Green calendar card marked AUG.",
+          "semantic_meaning": "Month of the year."
+        },
+        {
+          "source_text": "September",
+          "number": "25",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Green calendar card marked SEP.",
+          "semantic_meaning": "Month of the year."
+        },
+        {
+          "source_text": "October",
+          "number": "26",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Green calendar card marked OCT.",
+          "semantic_meaning": "Month of the year."
+        },
+        {
+          "source_text": "November",
+          "number": "27",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Green calendar card marked NOV.",
+          "semantic_meaning": "Month of the year."
+        },
+        {
+          "source_text": "December",
+          "number": "28",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Green calendar card marked DEC.",
+          "semantic_meaning": "Month of the year."
+        }
+      ]
+    },
+    {
+      "page": 355,
+      "title": null,
+      "context": "172.1 CALENDAR AND SEASONS",
+      "entries": [
+        {
+          "source_text": "nineteen hundred",
+          "number": "29",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Red calendar card showing 1900.",
+          "semantic_meaning": "Way of saying the year 1900."
+        },
+        {
+          "source_text": "nineteen-oh-one",
+          "number": "30",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Red calendar card showing 1901.",
+          "semantic_meaning": "Way of saying the year 1901."
+        },
+        {
+          "source_text": "nineteen ten",
+          "number": "31",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Red calendar card showing 1910.",
+          "semantic_meaning": "Way of saying the year 1910."
+        },
+        {
+          "source_text": "two thousand",
+          "number": "32",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Red calendar card showing 2000.",
+          "semantic_meaning": "Way of saying the year 2000."
+        },
+        {
+          "source_text": "two thousand and one",
+          "number": "33",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Red calendar card showing 2001.",
+          "semantic_meaning": "Way of saying the year 2001."
+        },
+        {
+          "source_text": "twenty thirty-three",
+          "number": "34",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Red calendar card showing 2033.",
+          "semantic_meaning": "Way of saying the year 2033."
+        },
+        {
+          "source_text": "once a week",
+          "number": "35",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Weekly calendar with one ticked day.",
+          "semantic_meaning": "One time each week."
+        },
+        {
+          "source_text": "twice a week",
+          "number": "36",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Weekly calendar with two ticked days.",
+          "semantic_meaning": "Two times each week."
+        },
+        {
+          "source_text": "three times a week",
+          "number": "37",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Weekly calendar with three ticked days.",
+          "semantic_meaning": "Three times each week."
+        },
+        {
+          "source_text": "every day",
+          "number": "38",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Weekly calendar with every day ticked.",
+          "semantic_meaning": "Each day."
+        },
+        {
+          "source_text": "every other day",
+          "number": "39",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Weekly calendar with alternating days ticked.",
+          "semantic_meaning": "On alternate days."
+        },
+        {
+          "source_text": "only weekends",
+          "number": "40",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Weekly calendar with only the weekend days ticked.",
+          "semantic_meaning": "Only on Saturdays and Sundays."
+        },
+        {
+          "source_text": "hourly",
+          "number": "41",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Daily schedule calendar marked with hours from 9AM to 4PM.",
+          "semantic_meaning": "Every hour."
+        },
+        {
+          "source_text": "daily",
+          "number": "42",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Calendar listing MON through SUN.",
+          "semantic_meaning": "Every day."
+        },
+        {
+          "source_text": "weekly",
+          "number": "43",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Calendar listing successive weekly dates.",
+          "semantic_meaning": "Every week."
+        },
+        {
+          "source_text": "monthly",
+          "number": "44",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Calendar listing months from JAN to AUG.",
+          "semantic_meaning": "Every month."
+        },
+        {
+          "source_text": "spring",
+          "number": "45",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Tree with new leaves in the seasonal cycle.",
+          "semantic_meaning": "Season after winter."
+        },
+        {
+          "source_text": "new leaves",
+          "number": "46",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Pointer to small fresh leaves on the spring tree.",
+          "semantic_meaning": "Freshly growing leaves."
+        },
+        {
+          "source_text": "summer",
+          "number": "47",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Tree with dense green foliage in the seasonal cycle.",
+          "semantic_meaning": "Season after spring."
+        },
+        {
+          "source_text": "green foliage",
+          "number": "48",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Pointer to the green leaves on the summer tree.",
+          "semantic_meaning": "Green leaves of a plant or tree."
+        },
+        {
+          "source_text": "seasons",
+          "number": "49",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Circular diagram of four trees showing spring, summer, fall/autumn, and winter.",
+          "semantic_meaning": "The divisions of the year based on weather."
+        },
+        {
+          "source_text": "fall (US) autumn (UK)",
+          "number": "50",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Tree with orange and yellow leaves in the seasonal cycle.",
+          "semantic_meaning": "Season after summer; US and UK terms."
+        },
+        {
+          "source_text": "leaf fall",
+          "number": "51",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Pointer to fallen leaves beneath the fall/autumn tree.",
+          "semantic_meaning": "Leaves falling from a tree."
+        },
+        {
+          "source_text": "winter",
+          "number": "52",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Bare tree in the seasonal cycle.",
+          "semantic_meaning": "Season after fall/autumn."
+        },
+        {
+          "source_text": "bare branches",
+          "number": "53",
+          "section": "CALENDAR AND SEASONS",
+          "visual_context": "Pointer to leafless branches on the winter tree.",
+          "semantic_meaning": "Branches with no leaves."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,389 @@
+{
+  "pages": [
+    {
+      "page": 118,
+      "title": "Meat",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "organic",
+          "number": "1",
+          "section": "53.1 THE BUTCHER",
+          "visual_context": "Cow shown with a crossed-out syringe/chemical symbol.",
+          "semantic_meaning": "Produced without synthetic chemicals or additives."
+        },
+        {
+          "source_text": "free-range",
+          "number": "2",
+          "section": "53.1 THE BUTCHER",
+          "visual_context": "Cows grazing outdoors in a field.",
+          "semantic_meaning": "Animals allowed to range outdoors."
+        },
+        {
+          "source_text": "white meat",
+          "number": "3",
+          "section": "53.1 THE BUTCHER",
+          "visual_context": "Pale poultry meat pieces.",
+          "semantic_meaning": "Light-coloured meat, especially poultry."
+        },
+        {
+          "source_text": "red meat",
+          "number": "4",
+          "section": "53.1 THE BUTCHER",
+          "visual_context": "Red beef cuts.",
+          "semantic_meaning": "Dark-red meat such as beef."
+        },
+        {
+          "source_text": "lean meat",
+          "number": "5",
+          "section": "53.1 THE BUTCHER",
+          "visual_context": "A trimmed red steak.",
+          "semantic_meaning": "Meat with little fat."
+        },
+        {
+          "source_text": "ground meat (US) / mince (UK)",
+          "number": "6",
+          "section": "53.1 THE BUTCHER",
+          "visual_context": "A pile of minced/ground red meat.",
+          "semantic_meaning": "Meat finely chopped or passed through a grinder."
+        },
+        {
+          "source_text": "salami",
+          "number": "7",
+          "section": "53.1 THE BUTCHER",
+          "visual_context": "Strings of pale cured sausage hanging in the butcher's display.",
+          "semantic_meaning": "A cured sausage."
+        },
+        {
+          "source_text": "chorizo",
+          "number": "8",
+          "section": "53.1 THE BUTCHER",
+          "visual_context": "Strings of reddish-brown sausages hanging in the display.",
+          "semantic_meaning": "A seasoned pork sausage."
+        },
+        {
+          "source_text": "ham",
+          "number": "9",
+          "section": "53.1 THE BUTCHER",
+          "visual_context": "Large sliced ham pieces in the display case.",
+          "semantic_meaning": "Cured pork from a pig's leg."
+        },
+        {
+          "source_text": "liver",
+          "number": "10",
+          "section": "53.1 THE BUTCHER",
+          "visual_context": "Dark red organ-meat slices in the display case.",
+          "semantic_meaning": "The edible liver organ."
+        },
+        {
+          "source_text": "chop",
+          "number": "11",
+          "section": "53.1 THE BUTCHER",
+          "visual_context": "Small bone-in meat chops in the display case.",
+          "semantic_meaning": "A small cut of meat, usually with a bone."
+        },
+        {
+          "source_text": "meat hook",
+          "number": "12",
+          "section": "53.1 THE BUTCHER",
+          "visual_context": "Large hooks suspended on chains at the right of the stall.",
+          "semantic_meaning": "A hook for hanging meat."
+        },
+        {
+          "source_text": "rump roast (US)\nrump steak (UK)",
+          "number": "13",
+          "section": "53.1 THE BUTCHER",
+          "visual_context": "Large hanging cut of red meat at the far right.",
+          "semantic_meaning": "A cut from the rump of an animal."
+        },
+        {
+          "source_text": "butcher",
+          "number": "14",
+          "section": "53.1 THE BUTCHER",
+          "visual_context": "The person in an apron behind the meat stall.",
+          "semantic_meaning": "A person who prepares and sells meat."
+        },
+        {
+          "source_text": "rabbit",
+          "number": "15",
+          "section": "53.1 THE BUTCHER",
+          "visual_context": "Whole skinned rabbits in the lower display case.",
+          "semantic_meaning": "Rabbit meat."
+        },
+        {
+          "source_text": "sausages",
+          "number": "16",
+          "section": "53.1 THE BUTCHER",
+          "visual_context": "Rows of sausages in the lower display case.",
+          "semantic_meaning": "Seasoned minced-meat tubes."
+        },
+        {
+          "source_text": "game",
+          "number": "17",
+          "section": "53.1 THE BUTCHER",
+          "visual_context": "Hanging wild birds below the display counter.",
+          "semantic_meaning": "Meat from wild animals or birds."
+        },
+        {
+          "source_text": "bacon (US)\nstreaky bacon (UK)",
+          "number": "18",
+          "section": "53.1 THE BUTCHER",
+          "visual_context": "Strips of streaked bacon in the lower display case.",
+          "semantic_meaning": "Fatty, streaked cured pork."
+        },
+        {
+          "source_text": "back\nbacon",
+          "number": "19",
+          "section": "53.1 THE BUTCHER",
+          "visual_context": "Slices of bacon with a larger lean eye in the lower display case.",
+          "semantic_meaning": "Bacon cut from the back of a pig."
+        },
+        {
+          "source_text": "sirloin steak",
+          "number": "20",
+          "section": "53.1 THE BUTCHER",
+          "visual_context": "Hanging red steak/cut at the far right of the stall.",
+          "semantic_meaning": "A steak cut from the sirloin."
+        }
+      ]
+    },
+    {
+      "page": 119,
+      "title": null,
+      "context": null,
+      "entries": [
+        {
+          "source_text": "lamb",
+          "number": "1",
+          "section": "53.2 TYPES OF MEAT",
+          "visual_context": "A sheep silhouette with a red lamb cut.",
+          "semantic_meaning": "Meat from a young sheep."
+        },
+        {
+          "source_text": "pork",
+          "number": "2",
+          "section": "53.2 TYPES OF MEAT",
+          "visual_context": "A pig silhouette with pale pork cuts.",
+          "semantic_meaning": "Meat from a pig."
+        },
+        {
+          "source_text": "beef",
+          "number": "3",
+          "section": "53.2 TYPES OF MEAT",
+          "visual_context": "A cow silhouette with a red beef cut.",
+          "semantic_meaning": "Meat from cattle."
+        },
+        {
+          "source_text": "veal",
+          "number": "4",
+          "section": "53.2 TYPES OF MEAT",
+          "visual_context": "A calf silhouette with a pale red cut.",
+          "semantic_meaning": "Meat from a young calf."
+        },
+        {
+          "source_text": "venison",
+          "number": "5",
+          "section": "53.2 TYPES OF MEAT",
+          "visual_context": "A deer silhouette with a dark red cut.",
+          "semantic_meaning": "Meat from a deer."
+        },
+        {
+          "source_text": "goat",
+          "number": "6",
+          "section": "53.2 TYPES OF MEAT",
+          "visual_context": "A goat silhouette with a red meat cut.",
+          "semantic_meaning": "Meat from a goat."
+        },
+        {
+          "source_text": "hare",
+          "number": "7",
+          "section": "53.2 TYPES OF MEAT",
+          "visual_context": "A hare silhouette with a red hare cut.",
+          "semantic_meaning": "A wild rabbit-like animal, and its meat."
+        },
+        {
+          "source_text": "wild boar",
+          "number": "8",
+          "section": "53.2 TYPES OF MEAT",
+          "visual_context": "A wild boar silhouette with a dark cut.",
+          "semantic_meaning": "Meat from a wild pig."
+        },
+        {
+          "source_text": "cooked meat",
+          "number": "9",
+          "section": "53.2 TYPES OF MEAT",
+          "visual_context": "Cooked foods including a burger, ham, and skewers.",
+          "semantic_meaning": "Meat that has been cooked."
+        },
+        {
+          "source_text": "raw meat",
+          "number": "10",
+          "section": "53.2 TYPES OF MEAT",
+          "visual_context": "Uncooked red and pale meat cuts.",
+          "semantic_meaning": "Meat not yet cooked."
+        },
+        {
+          "source_text": "cured meat",
+          "number": "11",
+          "section": "53.2 TYPES OF MEAT",
+          "visual_context": "Cured sliced meats and salami.",
+          "semantic_meaning": "Meat preserved by salting, drying, or similar treatment."
+        },
+        {
+          "source_text": "smoked meat",
+          "number": "12",
+          "section": "53.2 TYPES OF MEAT",
+          "visual_context": "A hanging meat piece surrounded by smoke.",
+          "semantic_meaning": "Meat preserved or flavoured with smoke."
+        },
+        {
+          "source_text": "turkey",
+          "number": "1",
+          "section": "53.3 POULTRY",
+          "visual_context": "A whole turkey with a turkey silhouette.",
+          "semantic_meaning": "A large poultry bird and its meat."
+        },
+        {
+          "source_text": "goose",
+          "number": "2",
+          "section": "53.3 POULTRY",
+          "visual_context": "A whole goose with a goose silhouette.",
+          "semantic_meaning": "A large water bird and its meat."
+        },
+        {
+          "source_text": "pheasant",
+          "number": "3",
+          "section": "53.3 POULTRY",
+          "visual_context": "A whole pheasant with a pheasant silhouette.",
+          "semantic_meaning": "A game bird and its meat."
+        },
+        {
+          "source_text": "duck",
+          "number": "4",
+          "section": "53.3 POULTRY",
+          "visual_context": "A whole duck with a duck silhouette.",
+          "semantic_meaning": "A water bird and its meat."
+        },
+        {
+          "source_text": "chicken",
+          "number": "5",
+          "section": "53.3 POULTRY",
+          "visual_context": "A whole chicken with a chicken silhouette.",
+          "semantic_meaning": "A domestic poultry bird and its meat."
+        },
+        {
+          "source_text": "quail",
+          "number": "6",
+          "section": "53.3 POULTRY",
+          "visual_context": "A small whole quail with a quail silhouette.",
+          "semantic_meaning": "A small game bird and its meat."
+        },
+        {
+          "source_text": "Is this chicken\nfree-range?",
+          "number": "7",
+          "section": "53.3 POULTRY",
+          "visual_context": "Speech bubble from a customer asking the butcher about chicken.",
+          "semantic_meaning": "Question asking whether the chicken was raised free-range."
+        },
+        {
+          "source_text": "Yes, it’s\nlocally sourced.",
+          "number": "8",
+          "section": "53.3 POULTRY",
+          "visual_context": "Speech bubble from the butcher responding to the customer.",
+          "semantic_meaning": "States that the product comes from the local area."
+        },
+        {
+          "source_text": "leg",
+          "number": "1",
+          "section": "53.4 CUTS OF MEAT",
+          "visual_context": "Pointer to a chicken leg.",
+          "semantic_meaning": "The lower limb portion of poultry."
+        },
+        {
+          "source_text": "thigh",
+          "number": "2",
+          "section": "53.4 CUTS OF MEAT",
+          "visual_context": "Pointer to the upper leg of a chicken.",
+          "semantic_meaning": "The upper part of a poultry leg."
+        },
+        {
+          "source_text": "breast",
+          "number": "3",
+          "section": "53.4 CUTS OF MEAT",
+          "visual_context": "Pointer to the breast area of a chicken.",
+          "semantic_meaning": "The chest meat of poultry."
+        },
+        {
+          "source_text": "wing",
+          "number": "4",
+          "section": "53.4 CUTS OF MEAT",
+          "visual_context": "Pointer to a chicken wing.",
+          "semantic_meaning": "The wing portion of poultry."
+        },
+        {
+          "source_text": "rib",
+          "number": "5",
+          "section": "53.4 CUTS OF MEAT",
+          "visual_context": "A rib cut of meat.",
+          "semantic_meaning": "A cut containing rib bone."
+        },
+        {
+          "source_text": "filet (US)\nfillet (UK)",
+          "number": "6",
+          "section": "53.4 CUTS OF MEAT",
+          "visual_context": "A long boneless red meat cut.",
+          "semantic_meaning": "A boneless tender cut of meat."
+        },
+        {
+          "source_text": "cuts",
+          "number": "7",
+          "section": "53.4 CUTS OF MEAT",
+          "visual_context": "Several different pieces of butchered meat.",
+          "semantic_meaning": "Pieces of meat separated from an animal."
+        },
+        {
+          "source_text": "cut (US)\njoint (UK)",
+          "number": "8",
+          "section": "53.4 CUTS OF MEAT",
+          "visual_context": "A single bone-in cut of meat.",
+          "semantic_meaning": "A piece of meat cut from an animal."
+        },
+        {
+          "source_text": "slice",
+          "number": "9",
+          "section": "53.4 CUTS OF MEAT",
+          "visual_context": "Several thin slices of meat.",
+          "semantic_meaning": "A thin flat piece cut from meat."
+        },
+        {
+          "source_text": "heart",
+          "number": "10",
+          "section": "53.4 CUTS OF MEAT",
+          "visual_context": "A heart organ shown as offal.",
+          "semantic_meaning": "The edible heart organ."
+        },
+        {
+          "source_text": "tongue",
+          "number": "11",
+          "section": "53.4 CUTS OF MEAT",
+          "visual_context": "A tongue-shaped organ-meat cut.",
+          "semantic_meaning": "The edible tongue organ."
+        },
+        {
+          "source_text": "kidney",
+          "number": "12",
+          "section": "53.4 CUTS OF MEAT",
+          "visual_context": "Kidney organs shown as offal.",
+          "semantic_meaning": "The edible kidney organ."
+        },
+        {
+          "source_text": "offal",
+          "number": "13",
+          "section": "53.4 CUTS OF MEAT",
+          "visual_context": "A selection of internal organs including heart and kidneys.",
+          "semantic_meaning": "Edible internal organs of an animal."
+        }
+      ]
+    }
+  ]
+}

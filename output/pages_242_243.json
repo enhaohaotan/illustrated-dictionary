@@ -1,0 +1,319 @@
+{
+  "pages": [
+    {
+      "page": 242,
+      "title": "Athletics",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "starting line",
+          "number": "1",
+          "section": "116.1 ATHLETICS TRACK",
+          "visual_context": "Pointer to the line where runners begin on the track.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "spectators",
+          "number": "2",
+          "section": "116.1 ATHLETICS TRACK",
+          "visual_context": "Pointer to people seated in the grandstand.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hurdles",
+          "number": "3",
+          "section": "116.1 ATHLETICS TRACK",
+          "visual_context": "Pointer to hurdles placed across track lanes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "finish line",
+          "number": "4",
+          "section": "116.1 ATHLETICS TRACK",
+          "visual_context": "Pointer to the marked line at the end of the race.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "track",
+          "number": "5",
+          "section": "116.1 ATHLETICS TRACK",
+          "visual_context": "Pointer to the oval running track.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lane",
+          "number": "6",
+          "section": "116.1 ATHLETICS TRACK",
+          "visual_context": "Pointer to one marked running lane.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "athlete",
+          "number": "7",
+          "section": "116.1 ATHLETICS TRACK",
+          "visual_context": "Pointer to a runner at a starting block.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "race",
+          "number": "1",
+          "section": "116.2 RACING EVENTS",
+          "visual_context": "Illustration of runners competing in lanes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "starting block",
+          "number": "2",
+          "section": "116.2 RACING EVENTS",
+          "visual_context": "Illustration of a runner pushing off from a starting block.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sprinter",
+          "number": "3",
+          "section": "116.2 RACING EVENTS",
+          "visual_context": "Illustration of a runner sprinting.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "T11 (visual impairment) race",
+          "number": "4",
+          "section": "116.2 RACING EVENTS",
+          "visual_context": "Illustration of a visually impaired runner racing with a guide.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wheelchair race",
+          "number": "5",
+          "section": "116.2 RACING EVENTS",
+          "visual_context": "Illustration of a racer using a racing wheelchair.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "relay race",
+          "number": "6",
+          "section": "116.2 RACING EVENTS",
+          "visual_context": "Illustration of two runners passing a baton.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "baton",
+          "number": "7",
+          "section": "116.2 RACING EVENTS",
+          "visual_context": "Illustration of the object used in a relay handover.",
+          "semantic_meaning": "short stick passed between relay runners"
+        },
+        {
+          "source_text": "marathon",
+          "number": "8",
+          "section": "116.2 RACING EVENTS",
+          "visual_context": "Illustration of runners in a long-distance race.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "photo finish",
+          "number": "9",
+          "section": "116.2 RACING EVENTS",
+          "visual_context": "Illustration of runners crossing a finish line side by side.",
+          "semantic_meaning": "finish decided from a photograph"
+        }
+      ]
+    },
+    {
+      "page": 243,
+      "title": "Athletics",
+      "context": "See also: 117 Combat sports; 118 Swimming; 119 Sailing and watersports; 120 Horse riding; 122 Winter sports; 124 At the gym; 125 Other sports.",
+      "entries": [
+        {
+          "source_text": "Combat sports",
+          "number": "117",
+          "section": "See also",
+          "visual_context": "Cross-reference text only; no associated illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Swimming",
+          "number": "118",
+          "section": "See also",
+          "visual_context": "Cross-reference text only; no associated illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Sailing and watersports",
+          "number": "119",
+          "section": "See also",
+          "visual_context": "Cross-reference text only; no associated illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Horse riding",
+          "number": "120",
+          "section": "See also",
+          "visual_context": "Cross-reference text only; no associated illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Winter sports",
+          "number": "122",
+          "section": "See also",
+          "visual_context": "Cross-reference text only; no associated illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "At the gym",
+          "number": "124",
+          "section": "See also",
+          "visual_context": "Cross-reference text only; no associated illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Other sports",
+          "number": "125",
+          "section": "See also",
+          "visual_context": "Cross-reference text only; no associated illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "discus",
+          "number": "1",
+          "section": "116.3 FIELD EVENTS",
+          "visual_context": "Illustration of an athlete throwing a discus.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shot put",
+          "number": "2",
+          "section": "116.3 FIELD EVENTS",
+          "visual_context": "Illustration of an athlete putting a shot.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hammer",
+          "number": "3",
+          "section": "116.3 FIELD EVENTS",
+          "visual_context": "Illustration of an athlete throwing a hammer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "javelin",
+          "number": "4",
+          "section": "116.3 FIELD EVENTS",
+          "visual_context": "Illustration of an athlete throwing a javelin.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pole vault",
+          "number": "5",
+          "section": "116.3 FIELD EVENTS",
+          "visual_context": "Illustration of an athlete vaulting over a bar using a pole.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "long jump",
+          "number": "6",
+          "section": "116.3 FIELD EVENTS",
+          "visual_context": "Illustration of an athlete jumping into a sand pit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "high jump",
+          "number": "7",
+          "section": "116.3 FIELD EVENTS",
+          "visual_context": "Illustration of an athlete clearing a high bar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "triple jump",
+          "number": "8",
+          "section": "116.3 FIELD EVENTS",
+          "visual_context": "Illustration showing the phases of a triple jump.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "crossbar",
+          "number": "9",
+          "section": "116.3 FIELD EVENTS",
+          "visual_context": "Illustration of the horizontal bar on jump supports.",
+          "semantic_meaning": "horizontal bar cleared in high jump or pole vault"
+        },
+        {
+          "source_text": "laser run",
+          "number": "10",
+          "section": "116.3 FIELD EVENTS",
+          "visual_context": "Illustration of competitors running and shooting at laser targets.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fencing",
+          "number": "11",
+          "section": "116.3 FIELD EVENTS",
+          "visual_context": "Illustration of two fencers with swords.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gold",
+          "number": "1",
+          "section": "116.4 ON THE PODIUM",
+          "visual_context": "Pointer to the gold medal on the central winner.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "silver",
+          "number": "2",
+          "section": "116.4 ON THE PODIUM",
+          "visual_context": "Pointer to the silver medal on the second-place winner.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bronze",
+          "number": "3",
+          "section": "116.4 ON THE PODIUM",
+          "visual_context": "Pointer to the bronze medal on the third-place winner.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "medals",
+          "number": "4",
+          "section": "116.4 ON THE PODIUM",
+          "visual_context": "Pointer to the medals worn by the winners.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "podium",
+          "number": "5",
+          "section": "116.4 ON THE PODIUM",
+          "visual_context": "Pointer to the stepped winners' platform.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "triathlon",
+          "number": "1",
+          "section": "116.5 COMBINED EVENTS",
+          "visual_context": "Illustration combining swimming, cycling, and running.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "modern pentathlon",
+          "number": "2",
+          "section": "116.5 COMBINED EVENTS",
+          "visual_context": "Illustration combining fencing, swimming, horse riding, shooting, and running.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "women’s heptathlon",
+          "number": "3",
+          "section": "116.5 COMBINED EVENTS",
+          "visual_context": "Illustration of the seven women's heptathlon events.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "men’s decathlon",
+          "number": "4",
+          "section": "116.5 COMBINED EVENTS",
+          "visual_context": "Illustration of the ten men's decathlon events.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

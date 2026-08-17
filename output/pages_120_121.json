@@ -1,0 +1,466 @@
+{
+  "pages": [
+    {
+      "page": 120,
+      "title": "Fish and seafood",
+      "context": "54.1 FISH",
+      "entries": [
+        {
+          "source_text": "salmon fillet",
+          "number": "1",
+          "section": "54.1 FISH",
+          "visual_context": "Orange salmon fillet illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "haddock tail",
+          "number": "2",
+          "section": "54.1 FISH",
+          "visual_context": "Two haddock-tail cuts.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "skate wing",
+          "number": "3",
+          "section": "54.1 FISH",
+          "visual_context": "Pale triangular skate-wing cut.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cod fillet",
+          "number": "4",
+          "section": "54.1 FISH",
+          "visual_context": "White cod fillet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sardines",
+          "number": "5",
+          "section": "54.1 FISH",
+          "visual_context": "Stack of small whole fish.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "red mullet",
+          "number": "6",
+          "section": "54.1 FISH",
+          "visual_context": "Orange-and-silver whole fish.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mackerel",
+          "number": "8",
+          "section": "54.1 FISH",
+          "visual_context": "Striped whole fish.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sole",
+          "number": "9",
+          "section": "54.1 FISH",
+          "visual_context": "Brown flatfish.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sea bream",
+          "number": "10",
+          "section": "54.1 FISH",
+          "visual_context": "Grey-blue whole fish.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "monkfish",
+          "number": "11",
+          "section": "54.1 FISH",
+          "visual_context": "Dark brown anglerfish.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sea bass",
+          "number": "12",
+          "section": "54.1 FISH",
+          "visual_context": "Silver-grey whole fish.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "catfish",
+          "number": "13",
+          "section": "54.1 FISH",
+          "visual_context": "Whiskered fish.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Can I have four trout fillets, please?",
+          "number": "24",
+          "section": "54.1 FISH",
+          "visual_context": "Speech bubble from the customer at the fish stall.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "trout",
+          "number": "25",
+          "section": "54.1 FISH",
+          "visual_context": "Pointer to hanging spotted fish at the stall.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "swordfish",
+          "number": "26",
+          "section": "54.1 FISH",
+          "visual_context": "Pointer to the long-billed hanging fish.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tuna",
+          "number": "27",
+          "section": "54.1 FISH",
+          "visual_context": "Pointer to a large hanging fish.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fishmonger",
+          "number": "28",
+          "section": "54.1 FISH",
+          "visual_context": "Pointer to the vendor behind the fish stall.",
+          "semantic_meaning": "person who sells fish"
+        },
+        {
+          "source_text": "rainbow trout",
+          "number": "15",
+          "section": "54.1 FISH",
+          "visual_context": "Spotted fish with a pink side stripe.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "plaice",
+          "number": "29",
+          "section": "54.1 FISH",
+          "visual_context": "Pointer to a brown spotted flatfish.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "skate",
+          "number": "17",
+          "section": "54.1 FISH",
+          "visual_context": "Yellowish ray-shaped fish.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "carp",
+          "number": "23",
+          "section": "54.1 FISH",
+          "visual_context": "Pointer to whole fish in the display case.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pollock",
+          "number": "30",
+          "section": "54.1 FISH",
+          "visual_context": "Dark-backed silver fish.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "herring",
+          "number": "19",
+          "section": "54.1 FISH",
+          "visual_context": "Pointer to small silver fish in the display.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fillet",
+          "number": "31",
+          "section": "54.1 FISH",
+          "visual_context": "Pointer to cut pieces of fish in the display case.",
+          "semantic_meaning": "a boneless cut of fish"
+        },
+        {
+          "source_text": "fish box",
+          "number": "32",
+          "section": "54.1 FISH",
+          "visual_context": "Pointer to stacked wooden boxes containing fish.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "basa",
+          "number": "21",
+          "section": "54.1 FISH",
+          "visual_context": "Blue-grey whiskered fish.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 121,
+      "title": "Fish and seafood",
+      "context": "54.2 SEAFOOD; 54.3 PREPARATION",
+      "entries": [
+        {
+          "source_text": "Cooking",
+          "number": "29",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the “See also:” box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Drinking and eating",
+          "number": "52",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the “See also:” box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Vegetables",
+          "number": "55-56",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the “See also:” box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "At the restaurant",
+          "number": "69",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the “See also:” box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Lunch and dinner",
+          "number": "72",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the “See also:” box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Ocean life",
+          "number": "166",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the “See also:” box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "whiting",
+          "number": "7",
+          "section": "54.1 FISH",
+          "visual_context": "Grey-and-white whole fish in the left column.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "halibut",
+          "number": "14",
+          "section": "54.1 FISH",
+          "visual_context": "Dark brown flatfish in the left column.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "turbot",
+          "number": "16",
+          "section": "54.1 FISH",
+          "visual_context": "Spotted brown flatfish in the left column.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "eel",
+          "number": "18",
+          "section": "54.1 FISH",
+          "visual_context": "Long, eel-shaped fish in the left column.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "perch",
+          "number": "20",
+          "section": "54.1 FISH",
+          "visual_context": "Green striped fish in the left column.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pike perch",
+          "number": "22",
+          "section": "54.1 FISH",
+          "visual_context": "Long pale fish in the left column.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "clam",
+          "number": "1",
+          "section": "54.2 SEAFOOD",
+          "visual_context": "Small ridged shells.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "octopus",
+          "number": "2",
+          "section": "54.2 SEAFOOD",
+          "visual_context": "Orange octopus illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lobster",
+          "number": "3",
+          "section": "54.2 SEAFOOD",
+          "visual_context": "Red lobster illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "scallop",
+          "number": "4",
+          "section": "54.2 SEAFOOD",
+          "visual_context": "Two shellfish in open fan-shaped shells.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "crayfish",
+          "number": "5",
+          "section": "54.2 SEAFOOD",
+          "visual_context": "Small red freshwater crustacean.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "unpeeled shrimp (US) unpeeled prawn (UK)",
+          "number": "6",
+          "section": "54.2 SEAFOOD",
+          "visual_context": "Pointer to whole shell-on shrimp/prawns on the seafood platter.",
+          "semantic_meaning": "regional US/UK terms for shell-on shrimp/prawn"
+        },
+        {
+          "source_text": "peeled shrimp (US) peeled prawn (UK)",
+          "number": "7",
+          "section": "54.2 SEAFOOD",
+          "visual_context": "Pointer to peeled shrimp/prawns on the seafood platter.",
+          "semantic_meaning": "regional US/UK terms for peeled shrimp/prawn"
+        },
+        {
+          "source_text": "squid",
+          "number": "8",
+          "section": "54.2 SEAFOOD",
+          "visual_context": "Pointer to several pale squid on the platter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "oyster",
+          "number": "9",
+          "section": "54.2 SEAFOOD",
+          "visual_context": "Pointer to opened oysters on the platter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mussel",
+          "number": "10",
+          "section": "54.2 SEAFOOD",
+          "visual_context": "Pointer to black mussel shells on the platter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "seafood platter",
+          "number": "11",
+          "section": "54.2 SEAFOOD",
+          "visual_context": "Large platter containing assorted seafood.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "crab",
+          "number": "12",
+          "section": "54.2 SEAFOOD",
+          "visual_context": "Pointer to the red crab on the platter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cockle",
+          "number": "13",
+          "section": "54.2 SEAFOOD",
+          "visual_context": "Small fan-shaped shellfish.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "razor-shell",
+          "number": "14",
+          "section": "54.2 SEAFOOD",
+          "visual_context": "Long narrow shellfish.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "calamari",
+          "number": "15",
+          "section": "54.2 SEAFOOD",
+          "visual_context": "Plate of cut squid rings.",
+          "semantic_meaning": "prepared squid"
+        },
+        {
+          "source_text": "sushi",
+          "number": "16",
+          "section": "54.2 SEAFOOD",
+          "visual_context": "Plate of sushi pieces.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "scale",
+          "number": "1",
+          "section": "54.3 PREPARATION",
+          "visual_context": "Pointer to the scales on a purple fish diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fresh",
+          "number": "2",
+          "section": "54.3 PREPARATION",
+          "visual_context": "Purple whole fish diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tail",
+          "number": "3",
+          "section": "54.3 PREPARATION",
+          "visual_context": "Pointer to the tail of the purple fish diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "frozen",
+          "number": "4",
+          "section": "54.3 PREPARATION",
+          "visual_context": "Fish surrounded by snowflakes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "smoked",
+          "number": "5",
+          "section": "54.3 PREPARATION",
+          "visual_context": "Fish above rising smoke.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "salted",
+          "number": "6",
+          "section": "54.3 PREPARATION",
+          "visual_context": "Fish covered with salt crystals.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "descaled",
+          "number": "7",
+          "section": "54.3 PREPARATION",
+          "visual_context": "Tool removing scales from a fish.",
+          "semantic_meaning": "having had its scales removed"
+        },
+        {
+          "source_text": "cleaned",
+          "number": "8",
+          "section": "54.3 PREPARATION",
+          "visual_context": "Fish being cut open with a knife.",
+          "semantic_meaning": "having had its internal contents removed"
+        },
+        {
+          "source_text": "boned",
+          "number": "9",
+          "section": "54.3 PREPARATION",
+          "visual_context": "Fish split around a visible skeleton.",
+          "semantic_meaning": "having had its bones removed"
+        },
+        {
+          "source_text": "loin",
+          "number": "10",
+          "section": "54.3 PREPARATION",
+          "visual_context": "Thick cross-section cut of fish.",
+          "semantic_meaning": "a thick boneless cut of fish"
+        }
+      ]
+    }
+  ]
+}

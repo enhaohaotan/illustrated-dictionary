@@ -1,0 +1,347 @@
+{
+  "pages": [
+    {
+      "page": 344,
+      "title": "Plants and trees",
+      "context": "167.1 PLANTS AND TREES",
+      "entries": [
+        {
+          "source_text": "liverwort",
+          "number": "1",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Green lobed liverwort plant.",
+          "semantic_meaning": "A small non-vascular plant."
+        },
+        {
+          "source_text": "moss",
+          "number": "2",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Green moss growing on a rock.",
+          "semantic_meaning": "A small non-vascular plant that forms cushions or mats."
+        },
+        {
+          "source_text": "horsetail",
+          "number": "3",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Tall jointed stems with whorled side branches.",
+          "semantic_meaning": "A plant with jointed hollow stems."
+        },
+        {
+          "source_text": "fern",
+          "number": "4",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Two arching feathery fronds.",
+          "semantic_meaning": "A spore-producing plant with divided fronds."
+        },
+        {
+          "source_text": "cycad",
+          "number": "5",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Short trunk topped by stiff fern-like leaves.",
+          "semantic_meaning": "A palm-like seed plant."
+        },
+        {
+          "source_text": "ginkgo",
+          "number": "6",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Large tree and separate fan-shaped leaf.",
+          "semantic_meaning": "A tree with distinctive fan-shaped leaves."
+        },
+        {
+          "source_text": "spruce",
+          "number": "7",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Snow-covered conifer trees.",
+          "semantic_meaning": "A cone-bearing evergreen tree."
+        },
+        {
+          "source_text": "fir",
+          "number": "8",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Single dense triangular evergreen tree.",
+          "semantic_meaning": "A cone-bearing evergreen tree."
+        },
+        {
+          "source_text": "monkey puzzle",
+          "number": "9",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Tall bare trunk with a rounded crown and a spiny branch.",
+          "semantic_meaning": "A South American conifer tree."
+        },
+        {
+          "source_text": "yew",
+          "number": "10",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Broad dark-green tree with a separate needle-bearing twig.",
+          "semantic_meaning": "An evergreen conifer tree or shrub."
+        },
+        {
+          "source_text": "conifers",
+          "number": "11",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Group of needle-leaved evergreen trees.",
+          "semantic_meaning": "Cone-bearing, usually evergreen trees and shrubs."
+        },
+        {
+          "source_text": "larch",
+          "number": "12",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Orange-yellow conifer tree.",
+          "semantic_meaning": "A deciduous conifer tree."
+        },
+        {
+          "source_text": "cedar of Lebanon",
+          "number": "13",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Broad, flat-topped conifer.",
+          "semantic_meaning": "A large cedar tree native to Lebanon and nearby regions."
+        },
+        {
+          "source_text": "umbrella pine",
+          "number": "14",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Tree with a broad umbrella-shaped crown.",
+          "semantic_meaning": "A pine tree with an umbrella-shaped crown."
+        },
+        {
+          "source_text": "water lily",
+          "number": "15",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "White flower floating among lily pads.",
+          "semantic_meaning": "An aquatic flowering plant with floating leaves."
+        },
+        {
+          "source_text": "magnolia",
+          "number": "16",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Large white flower with broad leaves.",
+          "semantic_meaning": "A tree or shrub with large, showy flowers."
+        },
+        {
+          "source_text": "avocado tree",
+          "number": "17",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Leafy twig with a green avocado fruit.",
+          "semantic_meaning": "A tree that produces avocados."
+        },
+        {
+          "source_text": "laurel",
+          "number": "18",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Leafy branch with pale flower buds.",
+          "semantic_meaning": "An aromatic evergreen shrub or tree."
+        },
+        {
+          "source_text": "arum lily",
+          "number": "19",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "White funnel-shaped flowers with yellow spadices.",
+          "semantic_meaning": "A plant with a white spathe surrounding a central spike."
+        },
+        {
+          "source_text": "giant sequoia",
+          "number": "20",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Very tall reddish-brown tree with green foliage.",
+          "semantic_meaning": "An exceptionally large North American conifer."
+        },
+        {
+          "source_text": "Joshua tree",
+          "number": "21",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Branching desert tree with tufts of narrow leaves.",
+          "semantic_meaning": "A desert yucca tree."
+        },
+        {
+          "source_text": "amaryllis",
+          "number": "22",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Potted plant with tall stems and red flowers.",
+          "semantic_meaning": "A bulb plant with large trumpet-shaped flowers."
+        },
+        {
+          "source_text": "cast-iron plant",
+          "number": "23",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Clump of long upright dark-green leaves.",
+          "semantic_meaning": "A hardy broad-leaved houseplant."
+        },
+        {
+          "source_text": "dragon tree",
+          "number": "24",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Trunk topped with a tuft of narrow striped leaves.",
+          "semantic_meaning": "A tree or houseplant with sword-like leaves."
+        },
+        {
+          "source_text": "English bluebell",
+          "number": "25",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Arching stem carrying drooping blue bell-shaped flowers.",
+          "semantic_meaning": "A spring flower with blue bell-shaped blossoms."
+        },
+        {
+          "source_text": "snowdrop",
+          "number": "26",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Single drooping white flower on a curved stem.",
+          "semantic_meaning": "An early spring flower with white hanging blossoms."
+        },
+        {
+          "source_text": "crocus",
+          "number": "27",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Small purple and white cup-shaped flowers.",
+          "semantic_meaning": "A low spring-flowering bulb plant."
+        }
+      ]
+    },
+    {
+      "page": 345,
+      "title": null,
+      "context": "Plants and trees (continued)",
+      "entries": [
+        {
+          "source_text": "freesia",
+          "number": "28",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Purple flowers on a green stem.",
+          "semantic_meaning": "A fragrant flowering plant with funnel-shaped blooms."
+        },
+        {
+          "source_text": "torch lily",
+          "number": "29",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Tall spikes of red, orange, and yellow flowers.",
+          "semantic_meaning": "A plant with torch-like flower spikes."
+        },
+        {
+          "source_text": "lily",
+          "number": "30",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Pale pink flower with long stamens.",
+          "semantic_meaning": "A flowering plant with a large, often trumpet-shaped bloom."
+        },
+        {
+          "source_text": "grass tree",
+          "number": "31",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Dark trunk topped by a large sphere of long grass-like leaves.",
+          "semantic_meaning": "An Australian plant with a grass-like crown on a trunk."
+        },
+        {
+          "source_text": "pineapple",
+          "number": "32",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Pineapple fruit growing from a spiky-leaved plant.",
+          "semantic_meaning": "A tropical plant that produces pineapples."
+        },
+        {
+          "source_text": "aloe",
+          "number": "33",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Rosette of thick pointed succulent leaves.",
+          "semantic_meaning": "A succulent plant with fleshy, often spiny leaves."
+        },
+        {
+          "source_text": "date palm",
+          "number": "34",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Oasis scene with palm trees and date fruits.",
+          "semantic_meaning": "A palm tree that produces dates."
+        },
+        {
+          "source_text": "raffia palm",
+          "number": "35",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Short palm with a dense crown of arching fronds.",
+          "semantic_meaning": "A palm whose leaves provide raffia fibre."
+        },
+        {
+          "source_text": "coconut palm",
+          "number": "36",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Several leaning palms on a beach with coconuts.",
+          "semantic_meaning": "A palm tree that produces coconuts."
+        },
+        {
+          "source_text": "inch plant",
+          "number": "37",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Purple flowers and striped green leaves.",
+          "semantic_meaning": "A trailing houseplant."
+        },
+        {
+          "source_text": "papyrus sedge",
+          "number": "38",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Tall stems with umbrella-like sprays of narrow leaves.",
+          "semantic_meaning": "A tall wetland sedge with umbrella-shaped flower heads."
+        },
+        {
+          "source_text": "queen of the Andes",
+          "number": "39",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Tall pale flower spike rising from a round rosette.",
+          "semantic_meaning": "A giant flowering bromeliad from the Andes."
+        },
+        {
+          "source_text": "bamboo",
+          "number": "40",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Jointed cane stem with narrow leaves.",
+          "semantic_meaning": "A tall woody grass with hollow jointed stems."
+        },
+        {
+          "source_text": "reed",
+          "number": "41",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Tall narrow leaves with a brown cylindrical flower head.",
+          "semantic_meaning": "A tall grass-like plant growing in wet places."
+        },
+        {
+          "source_text": "cattail",
+          "number": "42",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Wetland plants with brown sausage-shaped flower heads.",
+          "semantic_meaning": "A marsh plant with dense brown cylindrical flower spikes."
+        },
+        {
+          "source_text": "grass",
+          "number": "43",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Clump of long green blades growing from soil.",
+          "semantic_meaning": "A low plant with narrow leaves, often forming lawns."
+        },
+        {
+          "source_text": "sugar cane",
+          "number": "44",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Tall segmented cane with long blade-like leaves.",
+          "semantic_meaning": "A tall tropical grass cultivated for sugar."
+        },
+        {
+          "source_text": "pampas grass",
+          "number": "45",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Large mound of grass with tall fluffy pale plumes.",
+          "semantic_meaning": "A tall ornamental grass with feathery flower plumes."
+        },
+        {
+          "source_text": "bird-of-paradise",
+          "number": "46",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Orange-and-blue bird-shaped flowers above broad leaves.",
+          "semantic_meaning": "A tropical plant with distinctive orange and blue flowers."
+        },
+        {
+          "source_text": "Chilean fire bush",
+          "number": "47",
+          "section": "167.1 PLANTS AND TREES",
+          "visual_context": "Woody branch with green leaves and red tubular flower cluster.",
+          "semantic_meaning": "A Chilean shrub with red flowers."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,410 @@
+{
+  "pages": [
+    {
+      "page": 106,
+      "title": "The shopping mall",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "upper level",
+          "number": "1",
+          "section": "47.1 SHOPPING MALL (US) / SHOPPING CENTRE (UK)",
+          "visual_context": "Top floor of the mall illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fashion store",
+          "number": "2",
+          "section": "47.1 SHOPPING MALL (US) / SHOPPING CENTRE (UK)",
+          "visual_context": "Clothing shop with dresses and garments on racks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bag store",
+          "number": "3",
+          "section": "47.1 SHOPPING MALL (US) / SHOPPING CENTRE (UK)",
+          "visual_context": "Store displaying handbags.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "restroom (US)\ntoilets (UK)",
+          "number": "4",
+          "section": "47.1 SHOPPING MALL (US) / SHOPPING CENTRE (UK)",
+          "visual_context": "Restroom sign with male and female symbols.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "I hope there’s\na sale on.",
+          "number": "5",
+          "section": "47.1 SHOPPING MALL (US) / SHOPPING CENTRE (UK)",
+          "visual_context": "Speech bubble from a shopper in the mall.",
+          "semantic_meaning": "Expression hoping that discounted goods are available."
+        },
+        {
+          "source_text": "middle level",
+          "number": "6",
+          "section": "47.1 SHOPPING MALL (US) / SHOPPING CENTRE (UK)",
+          "visual_context": "Middle floor of the mall illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "escalator",
+          "number": "7",
+          "section": "47.1 SHOPPING MALL (US) / SHOPPING CENTRE (UK)",
+          "visual_context": "Moving staircase between mall levels.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hair\nsalon",
+          "number": "8",
+          "section": "47.1 SHOPPING MALL (US) / SHOPPING CENTRE (UK)",
+          "visual_context": "Hairdresser's shop on the middle level.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fast\nfood",
+          "number": "9",
+          "section": "47.1 SHOPPING MALL (US) / SHOPPING CENTRE (UK)",
+          "visual_context": "Quick-service food counter on the lower level.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "health\nfood store",
+          "number": "10",
+          "section": "47.1 SHOPPING MALL (US) / SHOPPING CENTRE (UK)",
+          "visual_context": "Shop selling fruit, vegetables, and health foods.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "seating",
+          "number": "11",
+          "section": "47.1 SHOPPING MALL (US) / SHOPPING CENTRE (UK)",
+          "visual_context": "Tables and chairs in the mall.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ground level",
+          "number": "12",
+          "section": "47.1 SHOPPING MALL (US) / SHOPPING CENTRE (UK)",
+          "visual_context": "Lowest main floor of the mall illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shopping bag (US) / carrier bag (UK)",
+          "number": "13",
+          "section": "47.1 SHOPPING MALL (US) / SHOPPING CENTRE (UK)",
+          "visual_context": "Bag carried by a shopper.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sale sign",
+          "number": "14",
+          "section": "47.1 SHOPPING MALL (US) / SHOPPING CENTRE (UK)",
+          "visual_context": "Red starburst sign with dollar symbols in a shop window.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shopper",
+          "number": "15",
+          "section": "47.1 SHOPPING MALL (US) / SHOPPING CENTRE (UK)",
+          "visual_context": "Person walking while carrying shopping bags.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shopping mall (US) / shopping centre (UK)",
+          "number": "16",
+          "section": "47.1 SHOPPING MALL (US) / SHOPPING CENTRE (UK)",
+          "visual_context": "The complete multi-level mall building.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "first floor (US)\nground floor (UK)",
+          "number": "17",
+          "section": "47.1 SHOPPING MALL (US) / SHOPPING CENTRE (UK)",
+          "visual_context": "Street-level floor in the department-store diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "second floor (US)\nfirst floor (UK)",
+          "number": "18",
+          "section": "47.1 SHOPPING MALL (US) / SHOPPING CENTRE (UK)",
+          "visual_context": "Floor above street level in the department-store diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "basement\nparking",
+          "number": "19",
+          "section": "47.1 SHOPPING MALL (US) / SHOPPING CENTRE (UK)",
+          "visual_context": "Underground car parking level in the department-store diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "department store",
+          "number": "20",
+          "section": "47.1 SHOPPING MALL (US) / SHOPPING CENTRE (UK)",
+          "visual_context": "Multi-floor store diagram with parking below.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "elevator (US)\nlift (UK)",
+          "number": "21",
+          "section": "47.1 SHOPPING MALL (US) / SHOPPING CENTRE (UK)",
+          "visual_context": "Icon of a person using an elevator.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "upscale (US)\nupmarket (UK)",
+          "number": "22",
+          "section": "47.1 SHOPPING MALL (US) / SHOPPING CENTRE (UK)",
+          "visual_context": "Icon of a shopper with branded shopping bags.",
+          "semantic_meaning": "High-class or expensive."
+        },
+        {
+          "source_text": "guarantee",
+          "number": "23",
+          "section": "47.1 SHOPPING MALL (US) / SHOPPING CENTRE (UK)",
+          "visual_context": "Certificate icon with a seal.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 107,
+      "title": "The shopping mall",
+      "context": "See also: 13-15 Clothes  16 Accessories  17 Shoes  18 Beauty  42-43 In town  46 Shopping",
+      "entries": [
+        {
+          "source_text": "changing\nrooms",
+          "number": "24",
+          "section": "47.1 SHOPPING MALL (US) / SHOPPING CENTRE (UK)",
+          "visual_context": "Icon of people beside changing-room cubicles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "womenswear",
+          "number": "25",
+          "section": "47.1 SHOPPING MALL (US) / SHOPPING CENTRE (UK)",
+          "visual_context": "Women's clothes displayed on mannequins.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "menswear",
+          "number": "26",
+          "section": "47.1 SHOPPING MALL (US) / SHOPPING CENTRE (UK)",
+          "visual_context": "Men's clothes displayed on mannequins.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "baby changing\nfacilities",
+          "number": "27",
+          "section": "47.1 SHOPPING MALL (US) / SHOPPING CENTRE (UK)",
+          "visual_context": "Adult using a baby changing table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "children’s\ndepartment",
+          "number": "28",
+          "section": "47.1 SHOPPING MALL (US) / SHOPPING CENTRE (UK)",
+          "visual_context": "Adult and child beside children's merchandise.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "designer labels",
+          "number": "29",
+          "section": "47.1 SHOPPING MALL (US) / SHOPPING CENTRE (UK)",
+          "visual_context": "Shoes and handbags with hanging labels.",
+          "semantic_meaning": "Brand-name fashion products."
+        },
+        {
+          "source_text": "sale",
+          "number": "30",
+          "section": "47.1 SHOPPING MALL (US) / SHOPPING CENTRE (UK)",
+          "visual_context": "Discount symbol showing a downward arrow and percent sign.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lingerie",
+          "number": "31",
+          "section": "47.1 SHOPPING MALL (US) / SHOPPING CENTRE (UK)",
+          "visual_context": "Bra and underwear icon.",
+          "semantic_meaning": "Women's underwear."
+        },
+        {
+          "source_text": "home\nfurnishings",
+          "number": "32",
+          "section": "47.1 SHOPPING MALL (US) / SHOPPING CENTRE (UK)",
+          "visual_context": "Armchair icon.",
+          "semantic_meaning": "Furniture and decorative household items."
+        },
+        {
+          "source_text": "price tag",
+          "number": "33",
+          "section": "47.1 SHOPPING MALL (US) / SHOPPING CENTRE (UK)",
+          "visual_context": "Garments with a hanging price label.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lighting",
+          "number": "34",
+          "section": "47.1 SHOPPING MALL (US) / SHOPPING CENTRE (UK)",
+          "visual_context": "Table lamp and standing lamp icons.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "electrical\nappliances",
+          "number": "35",
+          "section": "47.1 SHOPPING MALL (US) / SHOPPING CENTRE (UK)",
+          "visual_context": "Electric fan and plugs icon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "loyalty card",
+          "number": "36",
+          "section": "47.1 SHOPPING MALL (US) / SHOPPING CENTRE (UK)",
+          "visual_context": "Store card being scanned.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "DIY (do\nit yourself)",
+          "number": "37",
+          "section": "47.1 SHOPPING MALL (US) / SHOPPING CENTRE (UK)",
+          "visual_context": "Crossed hammer and wrench icon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "beauty",
+          "number": "38",
+          "section": "47.1 SHOPPING MALL (US) / SHOPPING CENTRE (UK)",
+          "visual_context": "Cosmetic bottle and tube icon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "customer\nservice",
+          "number": "39",
+          "section": "47.1 SHOPPING MALL (US) / SHOPPING CENTRE (UK)",
+          "visual_context": "Headset-wearing service representative icon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cosmetics (US)\nperfumery (UK)",
+          "number": "40",
+          "section": "47.1 SHOPPING MALL (US) / SHOPPING CENTRE (UK)",
+          "visual_context": "Perfume bottle icon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "food court",
+          "number": "41",
+          "section": "47.1 SHOPPING MALL (US) / SHOPPING CENTRE (UK)",
+          "visual_context": "Plate, fork, and knife icon.",
+          "semantic_meaning": "Area with several food outlets and shared seating."
+        },
+        {
+          "source_text": "stall / kiosk",
+          "number": "1",
+          "section": "47.2 FLOWER STALL",
+          "visual_context": "Flower-selling stand.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "florist",
+          "number": "2",
+          "section": "47.2 FLOWER STALL",
+          "visual_context": "Person working at the flower stall.",
+          "semantic_meaning": "Person who sells or arranges flowers."
+        },
+        {
+          "source_text": "garland",
+          "number": "3",
+          "section": "47.2 FLOWER STALL",
+          "visual_context": "Circular arrangement of flowers hanging from the stall canopy.",
+          "semantic_meaning": "Decorative ring or string of flowers."
+        },
+        {
+          "source_text": "bunch",
+          "number": "4",
+          "section": "47.2 FLOWER STALL",
+          "visual_context": "Bunch of cut flowers held by the florist.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gladiolus",
+          "number": "5",
+          "section": "47.2 FLOWER STALL",
+          "visual_context": "Tall pink-and-white flowers at the left of the stall.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pot\nplant",
+          "number": "6",
+          "section": "47.2 FLOWER STALL",
+          "visual_context": "Small leafy plant in an orange pot on the counter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "foliage",
+          "number": "7",
+          "section": "47.2 FLOWER STALL",
+          "visual_context": "Green leafy plant near the customer.",
+          "semantic_meaning": "Leaves and greenery used in floral displays."
+        },
+        {
+          "source_text": "gerbera",
+          "number": "8",
+          "section": "47.2 FLOWER STALL",
+          "visual_context": "Yellow daisy-like flowers in a tall vase.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "peony",
+          "number": "9",
+          "section": "47.2 FLOWER STALL",
+          "visual_context": "Large coral-pink flowers in a vase.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gypsophila",
+          "number": "10",
+          "section": "47.2 FLOWER STALL",
+          "visual_context": "Small white clustered flowers in a vase.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bouquet",
+          "number": "11",
+          "section": "47.2 FLOWER STALL",
+          "visual_context": "Wrapped arrangement of flowers at the right of the stall.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "acacia",
+          "number": "12",
+          "section": "47.2 FLOWER STALL",
+          "visual_context": "Yellow clustered flowers in a vase.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "orchid",
+          "number": "13",
+          "section": "47.2 FLOWER STALL",
+          "visual_context": "Pink orchid flowers in a vase.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stocks",
+          "number": "14",
+          "section": "47.2 FLOWER STALL",
+          "visual_context": "Purple flower spikes in a vase.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "freesia",
+          "number": "15",
+          "section": "47.2 FLOWER STALL",
+          "visual_context": "Purple freesia flowers in a vase.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

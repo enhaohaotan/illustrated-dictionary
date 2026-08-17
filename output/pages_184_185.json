@@ -1,0 +1,375 @@
+{
+  "pages": [
+    {
+      "page": 184,
+      "title": "Construction",
+      "context": "87.1 CONSTRUCTION SITE (US) / BUILDING SITE (UK)",
+      "entries": [
+        {
+          "source_text": "chimney",
+          "number": "1",
+          "section": "87.1 CONSTRUCTION SITE (US) / BUILDING SITE (UK)",
+          "visual_context": "Pointer to the brick chimney above the roof.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rafter",
+          "number": "2",
+          "section": "87.1 CONSTRUCTION SITE (US) / BUILDING SITE (UK)",
+          "visual_context": "Pointer to a sloping roof support.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ridge beam",
+          "number": "3",
+          "section": "87.1 CONSTRUCTION SITE (US) / BUILDING SITE (UK)",
+          "visual_context": "Pointer to the horizontal beam at the roof ridge.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "brick",
+          "number": "4",
+          "section": "87.1 CONSTRUCTION SITE (US) / BUILDING SITE (UK)",
+          "visual_context": "Pointer to an individual brick in the wall.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lintel",
+          "number": "5",
+          "section": "87.1 CONSTRUCTION SITE (US) / BUILDING SITE (UK)",
+          "visual_context": "Pointer to the support above a door opening.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hard hat",
+          "number": "6",
+          "section": "87.1 CONSTRUCTION SITE (US) / BUILDING SITE (UK)",
+          "visual_context": "Pointer to the worker's protective helmet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "construction worker (US) builder (UK)",
+          "number": "7",
+          "section": "87.1 CONSTRUCTION SITE (US) / BUILDING SITE (UK)",
+          "visual_context": "Pointer to the person carrying a long beam.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "window",
+          "number": "8",
+          "section": "87.1 CONSTRUCTION SITE (US) / BUILDING SITE (UK)",
+          "visual_context": "Pointer to a house window.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wall",
+          "number": "9",
+          "section": "87.1 CONSTRUCTION SITE (US) / BUILDING SITE (UK)",
+          "visual_context": "Pointer to the brick exterior wall.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ladder",
+          "number": "10",
+          "section": "87.1 CONSTRUCTION SITE (US) / BUILDING SITE (UK)",
+          "visual_context": "Pointer to the red ladder leaning against the house.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "construction site (US) / building site (UK)",
+          "number": "11",
+          "section": "87.1 CONSTRUCTION SITE (US) / BUILDING SITE (UK)",
+          "visual_context": "Refers to the overall building-work scene.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pallet",
+          "number": "12",
+          "section": "87.1 CONSTRUCTION SITE (US) / BUILDING SITE (UK)",
+          "visual_context": "Pointer to the wooden platform beneath stacked bricks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lumber (US) timber (UK)",
+          "number": "13",
+          "section": "87.1 CONSTRUCTION SITE (US) / BUILDING SITE (UK)",
+          "visual_context": "Pointer to the stacked wooden boards.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "safety notice board",
+          "number": "14",
+          "section": "87.1 CONSTRUCTION SITE (US) / BUILDING SITE (UK)",
+          "visual_context": "Illustration of a safety-information board.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ear protectors / ear muffs",
+          "number": "15",
+          "section": "87.1 CONSTRUCTION SITE (US) / BUILDING SITE (UK)",
+          "visual_context": "Illustration of protective earmuffs.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "high-visibility vest",
+          "number": "16",
+          "section": "87.1 CONSTRUCTION SITE (US) / BUILDING SITE (UK)",
+          "visual_context": "Illustration of a fluorescent reflective vest.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "safety gloves",
+          "number": "17",
+          "section": "87.1 CONSTRUCTION SITE (US) / BUILDING SITE (UK)",
+          "visual_context": "Illustration of red work gloves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "safety glasses",
+          "number": "18",
+          "section": "87.1 CONSTRUCTION SITE (US) / BUILDING SITE (UK)",
+          "visual_context": "Illustration of protective glasses.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tool belt",
+          "number": "19",
+          "section": "87.1 CONSTRUCTION SITE (US) / BUILDING SITE (UK)",
+          "visual_context": "Illustration of a belt with tool pouches.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "girder",
+          "number": "20",
+          "section": "87.1 CONSTRUCTION SITE (US) / BUILDING SITE (UK)",
+          "visual_context": "Illustration of a long structural beam.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pipe",
+          "number": "21",
+          "section": "87.1 CONSTRUCTION SITE (US) / BUILDING SITE (UK)",
+          "visual_context": "Illustration of a curved pipe.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cement / mortar",
+          "number": "22",
+          "section": "87.1 CONSTRUCTION SITE (US) / BUILDING SITE (UK)",
+          "visual_context": "Illustration of a trowel holding wet building material.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cinder block (US) breeze block (UK)",
+          "number": "23",
+          "section": "87.1 CONSTRUCTION SITE (US) / BUILDING SITE (UK)",
+          "visual_context": "Illustration of a hollow concrete block.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shingles (US) roof tiles (UK)",
+          "number": "24",
+          "section": "87.1 CONSTRUCTION SITE (US) / BUILDING SITE (UK)",
+          "visual_context": "Illustration of a worker laying roof covering.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to build",
+          "number": "25",
+          "section": "87.1 CONSTRUCTION SITE (US) / BUILDING SITE (UK)",
+          "visual_context": "Illustration of a worker constructing a brick wall.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 185,
+      "title": "Construction",
+      "context": "87.2 MACHINERY; 87.3 TOOLS AND ROADWORKS",
+      "entries": [
+        {
+          "source_text": "jib",
+          "number": "1",
+          "section": "87.2 MACHINERY",
+          "visual_context": "Pointer to the horizontal projecting arm of the tower crane.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hook",
+          "number": "2",
+          "section": "87.2 MACHINERY",
+          "visual_context": "Pointer to the crane hook and suspended load.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "support",
+          "number": "3",
+          "section": "87.2 MACHINERY",
+          "visual_context": "Pointer to the vertical crane support tower.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tower crane",
+          "number": "4",
+          "section": "87.2 MACHINERY",
+          "visual_context": "Refers to the complete illustrated tower crane.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "counterweight",
+          "number": "5",
+          "section": "87.2 MACHINERY",
+          "visual_context": "Pointer to the weight at the rear end of the crane jib.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dump truck (US) dumper truck (UK)",
+          "number": "6",
+          "section": "87.2 MACHINERY",
+          "visual_context": "Illustration of a truck with a raised tipping bed.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "truck-mounted crane",
+          "number": "7",
+          "section": "87.2 MACHINERY",
+          "visual_context": "Illustration of a truck with a lifting boom and hook.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bulldozer",
+          "number": "8",
+          "section": "87.2 MACHINERY",
+          "visual_context": "Illustration of a tracked vehicle with a front blade.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "front loader",
+          "number": "9",
+          "section": "87.2 MACHINERY",
+          "visual_context": "Illustration of a wheeled loader with a front bucket.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "grader",
+          "number": "10",
+          "section": "87.2 MACHINERY",
+          "visual_context": "Illustration of a road grader.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "flatbed truck",
+          "number": "11",
+          "section": "87.2 MACHINERY",
+          "visual_context": "Illustration of a truck with a flat open bed.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cement mixer",
+          "number": "12",
+          "section": "87.2 MACHINERY",
+          "visual_context": "Illustration of a truck carrying a rotating mixer drum.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "forklift (US) fork-lift truck (UK)",
+          "number": "13",
+          "section": "87.2 MACHINERY",
+          "visual_context": "Illustration of a forklift lifting a pallet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "trowel",
+          "number": "1",
+          "section": "87.3 TOOLS AND ROADWORKS",
+          "visual_context": "Illustration of a hand trowel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "level (US) spirit level (UK)",
+          "number": "2",
+          "section": "87.3 TOOLS AND ROADWORKS",
+          "visual_context": "Illustration of a bubble level.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "handle",
+          "number": "3",
+          "section": "87.3 TOOLS AND ROADWORKS",
+          "visual_context": "Pointer to the handle of a shovel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shovel",
+          "number": "4",
+          "section": "87.3 TOOLS AND ROADWORKS",
+          "visual_context": "Illustration of a shovel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pickax (US) pickaxe (UK)",
+          "number": "5",
+          "section": "87.3 TOOLS AND ROADWORKS",
+          "visual_context": "Illustration of a pickax.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sledgehammer",
+          "number": "6",
+          "section": "87.3 TOOLS AND ROADWORKS",
+          "visual_context": "Illustration of a large long-handled hammer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "excavator / digger",
+          "number": "7",
+          "section": "87.3 TOOLS AND ROADWORKS",
+          "visual_context": "Pointer to the tracked excavating machine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "You must wear a hard hat while you’re on the site.",
+          "number": "8",
+          "section": "87.3 TOOLS AND ROADWORKS",
+          "visual_context": "Speech bubble from a hard-hat-wearing road worker.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "roller",
+          "number": "9",
+          "section": "87.3 TOOLS AND ROADWORKS",
+          "visual_context": "Pointer to the road roller machine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cone",
+          "number": "10",
+          "section": "87.3 TOOLS AND ROADWORKS",
+          "visual_context": "Pointer to a traffic cone.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "resurfacing",
+          "number": "11",
+          "section": "87.3 TOOLS AND ROADWORKS",
+          "visual_context": "Pointer to workers and machinery resurfacing a road.",
+          "semantic_meaning": "renewing a road surface"
+        },
+        {
+          "source_text": "jackhammer (US) pneumatic drill (UK)",
+          "number": "12",
+          "section": "87.3 TOOLS AND ROADWORKS",
+          "visual_context": "Pointer to a worker operating a road-breaking drill.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "road construction (US) / roadworks (UK)",
+          "number": "13",
+          "section": "87.3 TOOLS AND ROADWORKS",
+          "visual_context": "Refers to the overall roadwork scene.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,473 @@
+{
+  "pages": [
+    {
+      "page": 188,
+      "title": "Jobs",
+      "context": "89.1 OCCUPATIONS",
+      "entries": [
+        {
+          "source_text": "actor",
+          "number": "1",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Person performing on a stage before an audience.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sociologist",
+          "number": "2",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Person standing before a chart of social connections.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "barber",
+          "number": "3",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Person cutting a seated customer's hair.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "editor",
+          "number": "4",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Person working with papers at a desk.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bartender",
+          "number": "5",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Person mixing a drink behind a bar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fisherman",
+          "number": "6",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Person holding a fishing rod beside water.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "physical therapist/ physiotherapist",
+          "number": "7",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Therapist treating a person's raised leg on an examination table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "optician",
+          "number": "8",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Person holding eyeglasses in an eyeglass shop.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "plumber",
+          "number": "9",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Worker repairing pipes beneath a sink.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "This pipe has sprung a leak.",
+          "number": "10",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Speech bubble pointing to the leaking sink pipe being repaired by the plumber.",
+          "semantic_meaning": "A pipe has begun leaking."
+        },
+        {
+          "source_text": "carpenter",
+          "number": "11",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Person sawing wood at a workbench.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ship’s captain",
+          "number": "12",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Uniformed person on a ship deck.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lecturer",
+          "number": "13",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Person teaching with a pointer beside a board.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "comedian",
+          "number": "14",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Performer on stage before an audience.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dancer",
+          "number": "15",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Pair performing a dance.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "clown",
+          "number": "16",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Clown holding balloons.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cleaner",
+          "number": "17",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Person vacuuming a floor.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "doctor",
+          "number": "18",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Doctor holding a patient's file beside hospital beds.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "driving instructor",
+          "number": "19",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Instructor seated in a learner car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "painter",
+          "number": "20",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Worker painting a wall with a roller.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "electrician",
+          "number": "21",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Worker repairing an electrical panel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "designer",
+          "number": "22",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Person working at a large design table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "barista",
+          "number": "23",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Coffee-shop worker preparing a drink.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "firefighter",
+          "number": "24",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Firefighter holding equipment near a fire hydrant.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "app developer",
+          "number": "25",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Person coding on a computer screen.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "spy",
+          "number": "26",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Person in a trench coat using binoculars.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "florist",
+          "number": "27",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Person arranging flowers at a flower stand.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ground maintenance",
+          "number": "28",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Worker carrying gardening equipment in a park.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gardener",
+          "number": "29",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Person tending shrubs with a rake.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "grocer (US) greengrocer (UK)",
+          "number": "30",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Shop worker standing by displays of fruit and vegetables.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "miner",
+          "number": "31",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Worker wearing a helmet in a mine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "IT manager",
+          "number": "32",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Person using a tablet in a computer office.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "jeweler (US) jeweller (UK)",
+          "number": "33",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Person examining jewelry with a magnifier.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dentist",
+          "number": "34",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Dentist treating a patient in a dental chair.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 189,
+      "title": "Jobs",
+      "context": "89.1 OCCUPATIONS",
+      "entries": [
+        {
+          "source_text": "maid / housekeeper",
+          "number": "35",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Person cleaning with a mop beside a cart.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hairdresser / stylist",
+          "number": "36",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Person styling a seated customer's hair.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mechanic",
+          "number": "37",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Person repairing a car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "translator",
+          "number": "38",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "People communicating between Japanese and Spanish.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "museum curator",
+          "number": "39",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "People arranging an artwork in a museum.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "private investigator",
+          "number": "40",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Person observing through binoculars.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "site manager",
+          "number": "41",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Construction worker holding site plans near a crane.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "orthodontist",
+          "number": "42",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Dental specialist beside an X-ray image.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "broadcaster (US) newsreader (UK)",
+          "number": "43",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Person presenting news at a broadcast desk.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pharmacist",
+          "number": "44",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Person holding medicine in front of pharmacy shelves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "butcher",
+          "number": "45",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Butcher in a striped apron with a knife.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "photographer",
+          "number": "46",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Person taking a photograph outdoors.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "police officer",
+          "number": "47",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Uniformed officer beside a police car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nurse",
+          "number": "48",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Nurse beside hospital beds.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sailor",
+          "number": "49",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Uniformed sailor by the sea.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sales assistant",
+          "number": "50",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Shop assistant in a shoe store.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "server (US) waitress (UK)",
+          "number": "51",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Woman serving drinks in a restaurant.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "server (US) waiter (UK)",
+          "number": "52",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Man serving food in a restaurant.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sculptor",
+          "number": "53",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Person carving a sculpture.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "security guard",
+          "number": "54",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Guard standing by a fence.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tailor",
+          "number": "55",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Person standing among suits on display.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ski instructor",
+          "number": "56",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Person teaching another skier on snow.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "soldier",
+          "number": "57",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Uniformed soldier saluting.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "farmer",
+          "number": "58",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Farmer standing beside a tractor.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sportsperson",
+          "number": "59",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Tennis player returning a ball.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fishmonger",
+          "number": "60",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Person selling fish at a fish counter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "singer",
+          "number": "61",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Singer holding a microphone on stage.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "real estate agent (US) estate agent (UK)",
+          "number": "62",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Person showing a house interior.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "market researcher",
+          "number": "63",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Person presenting market charts.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "vet",
+          "number": "64",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Veterinarian examining a dog.",
+          "semantic_meaning": "Veterinarian."
+        },
+        {
+          "source_text": "Your dog is up to date with its vaccinations.",
+          "number": "65",
+          "section": "89.1 OCCUPATIONS",
+          "visual_context": "Speech bubble from the vet examining the dog.",
+          "semantic_meaning": "The dog has received all required vaccinations."
+        }
+      ]
+    }
+  ]
+}

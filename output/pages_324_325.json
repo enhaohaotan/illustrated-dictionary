@@ -1,0 +1,389 @@
+{
+  "pages": [
+    {
+      "page": 324,
+      "title": "Natural history",
+      "context": "157.1 GEOLOGICAL PERIODS",
+      "entries": [
+        {
+          "source_text": "Precambrian",
+          "number": "1",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Timeline period label beneath volcanic early-Earth scene and bacteria.",
+          "semantic_meaning": "Geological time before the Cambrian period."
+        },
+        {
+          "source_text": "bacteria",
+          "number": "2",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Microscopic organisms shown in a magnifying glass.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Cambrian",
+          "number": "3",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Timeline period label beneath marrella.",
+          "semantic_meaning": "Geological period."
+        },
+        {
+          "source_text": "marrella",
+          "number": "4",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Illustrated segmented marine arthropod.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "trilobite",
+          "number": "5",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Illustrated fossil marine arthropod above the Cambrian band.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Ordovician",
+          "number": "6",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Timeline period label beneath jawless fish.",
+          "semantic_meaning": "Geological period."
+        },
+        {
+          "source_text": "jawless fish",
+          "number": "7",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Fish illustration without jaws.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Silurian",
+          "number": "8",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Timeline period label beneath jawed fish.",
+          "semantic_meaning": "Geological period."
+        },
+        {
+          "source_text": "jawed fish",
+          "number": "9",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Shark-like fish illustration with visible jaws.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cooksonia",
+          "number": "10",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Illustrated early plant with branching stalks and round tips.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Jurassic",
+          "number": "25",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Timeline period label connected to flying reptiles, brachiosaurus, and stegosaurus.",
+          "semantic_meaning": "Geological period."
+        },
+        {
+          "source_text": "flying reptiles",
+          "number": "26",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Winged reptile illustration in the Jurassic band.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "brachiosaurus",
+          "number": "27",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Long-necked dinosaur illustration in the Jurassic band.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stegosaurus",
+          "number": "28",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Plated dinosaur illustration in the Jurassic band.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Cretaceous",
+          "number": "29",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Timeline period label connected to tyrannosaurus rex, triceratops, albertonectes, and flowering plants.",
+          "semantic_meaning": "Geological period."
+        },
+        {
+          "source_text": "tyrannosaurus rex",
+          "number": "30",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Large toothed dinosaur illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "triceratops",
+          "number": "31",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Three-horned dinosaur illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "albertonectes",
+          "number": "32",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Long-necked marine reptile illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "flowering plants",
+          "number": "33",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Illustrated flowering plant cluster.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Paleogene",
+          "number": "34",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Timeline period label connected to gastornis.",
+          "semantic_meaning": "Geological period."
+        },
+        {
+          "source_text": "gastornis",
+          "number": "35",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Large flightless bird illustration.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 325,
+      "title": "Natural history",
+      "context": "157.1 GEOLOGICAL PERIODS",
+      "entries": [
+        {
+          "source_text": "Planet Earth",
+          "number": "145",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the boxed “See also:” panel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Mammals",
+          "number": "158-159",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the boxed “See also:” panel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Birds",
+          "number": "160-161",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the boxed “See also:” panel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Insects and bugs",
+          "number": "162",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the boxed “See also:” panel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Amphibians and reptiles",
+          "number": "163",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the boxed “See also:” panel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Ocean life",
+          "number": "166",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the boxed “See also:” panel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Plants and trees",
+          "number": "167-169",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the boxed “See also:” panel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Devonian",
+          "number": "11",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Timeline period label connected to drepanaspis and ichthyostega.",
+          "semantic_meaning": "Geological period."
+        },
+        {
+          "source_text": "drepanaspis",
+          "number": "12",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Armored fish illustration in the Devonian band.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ichthyostega",
+          "number": "13",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Early four-legged animal illustration above the Devonian band.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Carboniferous",
+          "number": "14",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Timeline period label connected to ferns, giant horsetails, and meganeura.",
+          "semantic_meaning": "Geological period."
+        },
+        {
+          "source_text": "ferns",
+          "number": "15",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Cluster of fern plants.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "giant horsetails",
+          "number": "16",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Tall segmented plants.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "meganeura",
+          "number": "17",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Large dragonfly-like insect illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Permian",
+          "number": "18",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Timeline period label connected to dimetrodon.",
+          "semantic_meaning": "Geological period."
+        },
+        {
+          "source_text": "dimetrodon",
+          "number": "19",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Sail-backed reptile illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "conifers",
+          "number": "20",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Tall conifer tree illustrations.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Triassic",
+          "number": "21",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Timeline period label connected to plateosaurus, placerias, and coelophysis.",
+          "semantic_meaning": "Geological period."
+        },
+        {
+          "source_text": "plateosaurus",
+          "number": "22",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Long-necked dinosaur illustration in the Triassic band.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "placerias",
+          "number": "23",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Stocky four-legged reptile illustration in the Triassic band.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "coelophysis",
+          "number": "24",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Small bipedal dinosaur illustration in the Triassic band.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Neogene",
+          "number": "36",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Timeline period label connected to saber-toothed cat and woolly rhinoceros.",
+          "semantic_meaning": "Geological period."
+        },
+        {
+          "source_text": "saber-toothed\ncat (US)\nsabre-toothed cat (UK)",
+          "number": "37",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Spotted saber-toothed cat illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "woolly rhinoceros",
+          "number": "38",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Hairy rhinoceros illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Quaternary",
+          "number": "39",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Timeline period label connected to giant sloth, woolly mammoth, tiger, and early human.",
+          "semantic_meaning": "Geological period."
+        },
+        {
+          "source_text": "giant sloth",
+          "number": "40",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Large upright sloth illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "woolly mammoth",
+          "number": "41",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Hairy elephant with long curved tusks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tiger",
+          "number": "42",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Striped tiger illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "early\nhuman",
+          "number": "43",
+          "section": "GEOLOGICAL PERIODS",
+          "visual_context": "Human figure seated beside a fire.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Paleozoic\n(old life)",
+          "number": "44",
+          "section": "ERAS",
+          "visual_context": "Orange color key in the eras legend.",
+          "semantic_meaning": "Geological era."
+        },
+        {
+          "source_text": "Mesozoic\n(middle life)",
+          "number": "45",
+          "section": "ERAS",
+          "visual_context": "Blue color key in the eras legend.",
+          "semantic_meaning": "Geological era."
+        },
+        {
+          "source_text": "Cenozoic\n(new life)",
+          "number": "46",
+          "section": "ERAS",
+          "visual_context": "Green color key in the eras legend.",
+          "semantic_meaning": "Geological era."
+        }
+      ]
+    }
+  ]
+}

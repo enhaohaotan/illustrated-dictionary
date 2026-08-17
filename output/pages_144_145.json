@@ -1,0 +1,242 @@
+{
+  "pages": [
+    {
+      "page": 144,
+      "title": "At the café continued",
+      "context": "66.1 TEA",
+      "entries": [
+        {
+          "source_text": "herbal tea",
+          "number": "1",
+          "section": "TEA",
+          "visual_context": "Cup of yellow herbal tea with a tea bag on a saucer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "white tea",
+          "number": "2",
+          "section": "TEA",
+          "visual_context": "Glass of pale tea with leaves, beside a teapot.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "iced tea",
+          "number": "3",
+          "section": "TEA",
+          "visual_context": "Tall glass of tea with ice cubes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mint tea",
+          "number": "4",
+          "section": "TEA",
+          "visual_context": "Glass teapot of green tea containing mint leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tea with lemon",
+          "number": "5",
+          "section": "TEA",
+          "visual_context": "Cup of tea served with a lemon slice.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tea infuser",
+          "number": "6",
+          "section": "TEA",
+          "visual_context": "Mesh tea infuser hanging from a pink cup.",
+          "semantic_meaning": "A device for steeping loose tea leaves."
+        },
+        {
+          "source_text": "black tea",
+          "number": "7",
+          "section": "TEA",
+          "visual_context": "Cup containing dark brown tea.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "green tea",
+          "number": "8",
+          "section": "TEA",
+          "visual_context": "Cup of green-colored tea with a leaf garnish.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chamomile tea (US)\ncamomile tea (UK)",
+          "number": "9",
+          "section": "TEA",
+          "visual_context": "Cup of pale yellow chamomile tea with small flowers.",
+          "semantic_meaning": "US and UK spellings for tea made from chamomile flowers."
+        },
+        {
+          "source_text": "tea\nstrainer",
+          "number": "10",
+          "section": "TEA",
+          "visual_context": "Handheld metal strainer positioned over a cup.",
+          "semantic_meaning": "A sieve used to strain tea leaves."
+        },
+        {
+          "source_text": "teapot",
+          "number": "11",
+          "section": "TEA",
+          "visual_context": "Blue spotted pot for making and serving tea.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tea with milk",
+          "number": "12",
+          "section": "TEA",
+          "visual_context": "Milk being poured from a small jug into a cup of tea.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 145,
+      "title": "Candy (US) / Sweets (UK)",
+      "context": "67.1 CANDY STORE (US) / SWEET SHOP (UK)",
+      "entries": [
+        {
+          "source_text": "fruit gum",
+          "number": "1",
+          "section": "CANDY STORE (US) / SWEET SHOP (UK)",
+          "visual_context": "Jar of colorful fruit-shaped gum candies.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "halva",
+          "number": "2",
+          "section": "CANDY STORE (US) / SWEET SHOP (UK)",
+          "visual_context": "Plate of pale, nut-speckled halva squares.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mint",
+          "number": "3",
+          "section": "CANDY STORE (US) / SWEET SHOP (UK)",
+          "visual_context": "Jar of round white and pale-green mint candies.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "toffee",
+          "number": "4",
+          "section": "CANDY STORE (US) / SWEET SHOP (UK)",
+          "visual_context": "Jar of individually wrapped brown toffees.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "soft candy (US)\nsoft sweets (UK)",
+          "number": "5",
+          "section": "CANDY STORE (US) / SWEET SHOP (UK)",
+          "visual_context": "Assortment of soft wrapped candies.",
+          "semantic_meaning": "US and UK terms for soft sweets."
+        },
+        {
+          "source_text": "licorice (US)\nliquorice (UK)",
+          "number": "6",
+          "section": "CANDY STORE (US) / SWEET SHOP (UK)",
+          "visual_context": "Jar of black licorice sticks.",
+          "semantic_meaning": "US and UK spellings for a black flavored confection."
+        },
+        {
+          "source_text": "candy cane",
+          "number": "7",
+          "section": "CANDY STORE (US) / SWEET SHOP (UK)",
+          "visual_context": "Red-and-white striped hooked candy canes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "jelly beans",
+          "number": "8",
+          "section": "CANDY STORE (US) / SWEET SHOP (UK)",
+          "visual_context": "Jar filled with multicolored bean-shaped candies.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chocolate bar",
+          "number": "9",
+          "section": "CANDY STORE (US) / SWEET SHOP (UK)",
+          "visual_context": "Wrapped chocolate bar on the bottom shelf.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dark chocolate",
+          "number": "10",
+          "section": "CANDY STORE (US) / SWEET SHOP (UK)",
+          "visual_context": "Dark brown chocolate bar on a plate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hard candy (US)\nboiled sweets (UK)",
+          "number": "11",
+          "section": "CANDY STORE (US) / SWEET SHOP (UK)",
+          "visual_context": "Round striped hard candies above the display.",
+          "semantic_meaning": "US and UK terms for hard boiled sugar sweets."
+        },
+        {
+          "source_text": "Turkish delight",
+          "number": "12",
+          "section": "CANDY STORE (US) / SWEET SHOP (UK)",
+          "visual_context": "Pile of colored sugar-dusted cubes on a plate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lollipop",
+          "number": "13",
+          "section": "CANDY STORE (US) / SWEET SHOP (UK)",
+          "visual_context": "Colorful round lollipops on sticks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nougat",
+          "number": "14",
+          "section": "CANDY STORE (US) / SWEET SHOP (UK)",
+          "visual_context": "White nut-studded nougat pieces on a plate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "milk\nchocolate",
+          "number": "15",
+          "section": "CANDY STORE (US) / SWEET SHOP (UK)",
+          "visual_context": "Milk chocolate bar on the bottom shelf.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "white chocolate",
+          "number": "16",
+          "section": "CANDY STORE (US) / SWEET SHOP (UK)",
+          "visual_context": "White chocolate bar on a plate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cotton candy (US)\ncandy floss (UK)",
+          "number": "17",
+          "section": "CANDY STORE (US) / SWEET SHOP (UK)",
+          "visual_context": "Pink spun-sugar candy on a stick.",
+          "semantic_meaning": "US and UK terms for spun sugar confection."
+        },
+        {
+          "source_text": "penny candy (US)\npick ’n’ mix (UK)",
+          "number": "18",
+          "section": "CANDY STORE (US) / SWEET SHOP (UK)",
+          "visual_context": "Paper bag of assorted loose candies.",
+          "semantic_meaning": "US and UK terms for a selection of individually chosen candies."
+        },
+        {
+          "source_text": "marshmallow",
+          "number": "19",
+          "section": "CANDY STORE (US) / SWEET SHOP (UK)",
+          "visual_context": "Marshmallows on sticks at the right of the cart.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chewing gum",
+          "number": "20",
+          "section": "CANDY STORE (US) / SWEET SHOP (UK)",
+          "visual_context": "Pack of chewing gum at the lower right.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

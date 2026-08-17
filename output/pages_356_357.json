@@ -1,0 +1,522 @@
+{
+  "pages": [
+    {
+      "page": 356,
+      "title": "Numbers",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "one",
+          "number": "1",
+          "section": "173.1 CARDINAL NUMBERS",
+          "visual_context": "Purple numeral 1.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "two",
+          "number": "2",
+          "section": "173.1 CARDINAL NUMBERS",
+          "visual_context": "Purple numeral 2.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "three",
+          "number": "3",
+          "section": "173.1 CARDINAL NUMBERS",
+          "visual_context": "Purple numeral 3.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "four",
+          "number": "4",
+          "section": "173.1 CARDINAL NUMBERS",
+          "visual_context": "Purple numeral 4.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "five",
+          "number": "5",
+          "section": "173.1 CARDINAL NUMBERS",
+          "visual_context": "Purple numeral 5.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "six",
+          "number": "6",
+          "section": "173.1 CARDINAL NUMBERS",
+          "visual_context": "Purple numeral 6.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "seven",
+          "number": "7",
+          "section": "173.1 CARDINAL NUMBERS",
+          "visual_context": "Purple numeral 7.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "eight",
+          "number": "8",
+          "section": "173.1 CARDINAL NUMBERS",
+          "visual_context": "Purple numeral 8.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "nine",
+          "number": "9",
+          "section": "173.1 CARDINAL NUMBERS",
+          "visual_context": "Purple numeral 9.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "ten",
+          "number": "10",
+          "section": "173.1 CARDINAL NUMBERS",
+          "visual_context": "Purple numeral 10.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "eleven",
+          "number": "11",
+          "section": "173.1 CARDINAL NUMBERS",
+          "visual_context": "Purple numeral 11.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "twelve",
+          "number": "12",
+          "section": "173.1 CARDINAL NUMBERS",
+          "visual_context": "Purple numeral 12.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "thirteen",
+          "number": "13",
+          "section": "173.1 CARDINAL NUMBERS",
+          "visual_context": "Purple numeral 13.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "fourteen",
+          "number": "14",
+          "section": "173.1 CARDINAL NUMBERS",
+          "visual_context": "Purple numeral 14.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "fifteen",
+          "number": "15",
+          "section": "173.1 CARDINAL NUMBERS",
+          "visual_context": "Purple numeral 15.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "sixteen",
+          "number": "16",
+          "section": "173.1 CARDINAL NUMBERS",
+          "visual_context": "Purple numeral 16.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "seventeen",
+          "number": "17",
+          "section": "173.1 CARDINAL NUMBERS",
+          "visual_context": "Purple numeral 17.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "eighteen",
+          "number": "18",
+          "section": "173.1 CARDINAL NUMBERS",
+          "visual_context": "Purple numeral 18.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "nineteen",
+          "number": "19",
+          "section": "173.1 CARDINAL NUMBERS",
+          "visual_context": "Purple numeral 19.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "twenty",
+          "number": "20",
+          "section": "173.1 CARDINAL NUMBERS",
+          "visual_context": "Purple numeral 20.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "twenty-one",
+          "number": "21",
+          "section": "173.1 CARDINAL NUMBERS",
+          "visual_context": "Purple numeral 21.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "twenty-two",
+          "number": "22",
+          "section": "173.1 CARDINAL NUMBERS",
+          "visual_context": "Purple numeral 22.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "thirty",
+          "number": "23",
+          "section": "173.1 CARDINAL NUMBERS",
+          "visual_context": "Purple numeral 30.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "forty",
+          "number": "24",
+          "section": "173.1 CARDINAL NUMBERS",
+          "visual_context": "Purple numeral 40.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "fifty",
+          "number": "25",
+          "section": "173.1 CARDINAL NUMBERS",
+          "visual_context": "Purple numeral 50.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "sixty",
+          "number": "26",
+          "section": "173.1 CARDINAL NUMBERS",
+          "visual_context": "Purple numeral 60.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "seventy",
+          "number": "27",
+          "section": "173.1 CARDINAL NUMBERS",
+          "visual_context": "Purple numeral 70.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "eighty",
+          "number": "28",
+          "section": "173.1 CARDINAL NUMBERS",
+          "visual_context": "Purple numeral 80.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "ninety",
+          "number": "29",
+          "section": "173.1 CARDINAL NUMBERS",
+          "visual_context": "Purple numeral 90.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "one hundred",
+          "number": "30",
+          "section": "173.1 CARDINAL NUMBERS",
+          "visual_context": "Purple numeral 100.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "zero",
+          "number": "31",
+          "section": "173.1 CARDINAL NUMBERS",
+          "visual_context": "Purple numeral 0.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "first",
+          "number": "1",
+          "section": "173.2 ORDINAL NUMBERS",
+          "visual_context": "Blue ordinal numeral 1st.",
+          "semantic_meaning": "Ordinal number."
+        },
+        {
+          "source_text": "second",
+          "number": "2",
+          "section": "173.2 ORDINAL NUMBERS",
+          "visual_context": "Blue ordinal numeral 2nd.",
+          "semantic_meaning": "Ordinal number."
+        },
+        {
+          "source_text": "third",
+          "number": "3",
+          "section": "173.2 ORDINAL NUMBERS",
+          "visual_context": "Blue ordinal numeral 3rd.",
+          "semantic_meaning": "Ordinal number."
+        },
+        {
+          "source_text": "fourth",
+          "number": "4",
+          "section": "173.2 ORDINAL NUMBERS",
+          "visual_context": "Blue ordinal numeral 4th.",
+          "semantic_meaning": "Ordinal number."
+        },
+        {
+          "source_text": "fifth",
+          "number": "5",
+          "section": "173.2 ORDINAL NUMBERS",
+          "visual_context": "Blue ordinal numeral 5th.",
+          "semantic_meaning": "Ordinal number."
+        },
+        {
+          "source_text": "sixth",
+          "number": "6",
+          "section": "173.2 ORDINAL NUMBERS",
+          "visual_context": "Blue ordinal numeral 6th.",
+          "semantic_meaning": "Ordinal number."
+        },
+        {
+          "source_text": "seventh",
+          "number": "7",
+          "section": "173.2 ORDINAL NUMBERS",
+          "visual_context": "Blue ordinal numeral 7th.",
+          "semantic_meaning": "Ordinal number."
+        },
+        {
+          "source_text": "eighth",
+          "number": "8",
+          "section": "173.2 ORDINAL NUMBERS",
+          "visual_context": "Blue ordinal numeral 8th.",
+          "semantic_meaning": "Ordinal number."
+        },
+        {
+          "source_text": "ninth",
+          "number": "9",
+          "section": "173.2 ORDINAL NUMBERS",
+          "visual_context": "Blue ordinal numeral 9th.",
+          "semantic_meaning": "Ordinal number."
+        },
+        {
+          "source_text": "tenth",
+          "number": "10",
+          "section": "173.2 ORDINAL NUMBERS",
+          "visual_context": "Blue ordinal numeral 10th.",
+          "semantic_meaning": "Ordinal number."
+        },
+        {
+          "source_text": "twentieth",
+          "number": "11",
+          "section": "173.2 ORDINAL NUMBERS",
+          "visual_context": "Blue ordinal numeral 20th.",
+          "semantic_meaning": "Ordinal number."
+        },
+        {
+          "source_text": "twenty-first",
+          "number": "12",
+          "section": "173.2 ORDINAL NUMBERS",
+          "visual_context": "Blue ordinal numeral 21st.",
+          "semantic_meaning": "Ordinal number."
+        }
+      ]
+    },
+    {
+      "page": 357,
+      "title": "Numbers",
+      "context": "See also: 74 Mathematics; 171 Time; 172 The calendar; 174 Weights and measures.",
+      "entries": [
+        {
+          "source_text": "two hundred",
+          "number": "1",
+          "section": "173.3 LARGE NUMBERS",
+          "visual_context": "Green numeral 200.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "two hundred and fifty",
+          "number": "2",
+          "section": "173.3 LARGE NUMBERS",
+          "visual_context": "Green numeral 250.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "five hundred",
+          "number": "3",
+          "section": "173.3 LARGE NUMBERS",
+          "visual_context": "Green numeral 500.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "seven hundred and fifty",
+          "number": "4",
+          "section": "173.3 LARGE NUMBERS",
+          "visual_context": "Green numeral 750.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "one thousand",
+          "number": "5",
+          "section": "173.3 LARGE NUMBERS",
+          "visual_context": "Green numeral 1,000.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "one thousand two hundred",
+          "number": "6",
+          "section": "173.3 LARGE NUMBERS",
+          "visual_context": "Green numeral 1,200.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "ten thousand",
+          "number": "7",
+          "section": "173.3 LARGE NUMBERS",
+          "visual_context": "Green numeral 10,000.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "one hundred thousand",
+          "number": "8",
+          "section": "173.3 LARGE NUMBERS",
+          "visual_context": "Green numeral 100,000.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "one million",
+          "number": "9",
+          "section": "173.3 LARGE NUMBERS",
+          "visual_context": "Green numeral 1,000,000.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "five million",
+          "number": "10",
+          "section": "173.3 LARGE NUMBERS",
+          "visual_context": "Green numeral 5,000,000.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "five hundred million / half a billion",
+          "number": "11",
+          "section": "173.3 LARGE NUMBERS",
+          "visual_context": "Green numeral 500,000,000.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "one billion",
+          "number": "12",
+          "section": "173.3 LARGE NUMBERS",
+          "visual_context": "Green numeral 1,000,000,000.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "three thousand, eight hundred and forty-six",
+          "number": "13",
+          "section": "173.3 LARGE NUMBERS",
+          "visual_context": "Green numeral 3,846.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "eighty-two thousand and forty-three",
+          "number": "14",
+          "section": "173.3 LARGE NUMBERS",
+          "visual_context": "Green numeral 82,043.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "I’ve lost count!",
+          "number": "15",
+          "section": "173.3 LARGE NUMBERS",
+          "visual_context": "Speech bubble from a green character beside a stack of banknotes.",
+          "semantic_meaning": "Expression of being unable to continue counting."
+        },
+        {
+          "source_text": "two hundred and thirty-four thousand, four hundred and seven",
+          "number": "16",
+          "section": "173.3 LARGE NUMBERS",
+          "visual_context": "Green numeral 234,407.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "three million, eighty-nine thousand, three hundred and forty-two",
+          "number": "17",
+          "section": "173.3 LARGE NUMBERS",
+          "visual_context": "Green numeral 3,089,342.",
+          "semantic_meaning": "Cardinal number."
+        },
+        {
+          "source_text": "an eighth",
+          "number": "1",
+          "section": "173.4 FRACTIONS, DECIMALS, AND PERCENTAGES",
+          "visual_context": "Red fraction 1/8.",
+          "semantic_meaning": "Fraction."
+        },
+        {
+          "source_text": "a quarter",
+          "number": "2",
+          "section": "173.4 FRACTIONS, DECIMALS, AND PERCENTAGES",
+          "visual_context": "Red fraction 1/4.",
+          "semantic_meaning": "Fraction."
+        },
+        {
+          "source_text": "a third",
+          "number": "3",
+          "section": "173.4 FRACTIONS, DECIMALS, AND PERCENTAGES",
+          "visual_context": "Red fraction 1/3.",
+          "semantic_meaning": "Fraction."
+        },
+        {
+          "source_text": "a half",
+          "number": "4",
+          "section": "173.4 FRACTIONS, DECIMALS, AND PERCENTAGES",
+          "visual_context": "Red fraction 1/2.",
+          "semantic_meaning": "Fraction."
+        },
+        {
+          "source_text": "three-fifths",
+          "number": "5",
+          "section": "173.4 FRACTIONS, DECIMALS, AND PERCENTAGES",
+          "visual_context": "Red fraction 3/5.",
+          "semantic_meaning": "Fraction."
+        },
+        {
+          "source_text": "seven-eighths",
+          "number": "6",
+          "section": "173.4 FRACTIONS, DECIMALS, AND PERCENTAGES",
+          "visual_context": "Red fraction 7/8.",
+          "semantic_meaning": "Fraction."
+        },
+        {
+          "source_text": "zero (US) / nought (UK) point five",
+          "number": "7",
+          "section": "173.4 FRACTIONS, DECIMALS, AND PERCENTAGES",
+          "visual_context": "Red decimal 0.5.",
+          "semantic_meaning": "Decimal number."
+        },
+        {
+          "source_text": "one point seven",
+          "number": "8",
+          "section": "173.4 FRACTIONS, DECIMALS, AND PERCENTAGES",
+          "visual_context": "Red decimal 1.7.",
+          "semantic_meaning": "Decimal number."
+        },
+        {
+          "source_text": "three point nine seven",
+          "number": "9",
+          "section": "173.4 FRACTIONS, DECIMALS, AND PERCENTAGES",
+          "visual_context": "Red decimal 3.97.",
+          "semantic_meaning": "Decimal number."
+        },
+        {
+          "source_text": "one percent",
+          "number": "10",
+          "section": "173.4 FRACTIONS, DECIMALS, AND PERCENTAGES",
+          "visual_context": "Red percentage 1%.",
+          "semantic_meaning": "Percentage."
+        },
+        {
+          "source_text": "ninety-nine percent",
+          "number": "11",
+          "section": "173.4 FRACTIONS, DECIMALS, AND PERCENTAGES",
+          "visual_context": "Red percentage 99%.",
+          "semantic_meaning": "Percentage."
+        },
+        {
+          "source_text": "one hundred percent",
+          "number": "12",
+          "section": "173.4 FRACTIONS, DECIMALS, AND PERCENTAGES",
+          "visual_context": "Red percentage 100%.",
+          "semantic_meaning": "Percentage."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "pages": [
+    {
+      "page": 300,
+      "title": "Planet Earth",
+      "context": "145.1 THE EARTH; 145.2 PLATE TECTONICS",
+      "entries": [
+        {
+          "source_text": "crust",
+          "number": "1",
+          "section": "THE EARTH",
+          "visual_context": "Pointer to the thin outermost layer of the cutaway Earth.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mantle",
+          "number": "2",
+          "section": "THE EARTH",
+          "visual_context": "Pointer to the thick layer beneath the crust in the cutaway Earth.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "continent",
+          "number": "3",
+          "section": "THE EARTH",
+          "visual_context": "Pointer to a green landmass on the globe.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sea",
+          "number": "4",
+          "section": "THE EARTH",
+          "visual_context": "Pointer to the blue water surrounding the globe.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "outer core",
+          "number": "5",
+          "section": "THE EARTH",
+          "visual_context": "Pointer to the red layer surrounding the inner core.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "inner core",
+          "number": "6",
+          "section": "THE EARTH",
+          "visual_context": "Pointer to the yellow central layer of the cutaway Earth.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ocean",
+          "number": "7",
+          "section": "THE EARTH",
+          "visual_context": "Pointer to the large blue ocean area on the globe.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "land",
+          "number": "8",
+          "section": "THE EARTH",
+          "visual_context": "Pointer to the green area of South America on the globe.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Earth",
+          "number": "9",
+          "section": "THE EARTH",
+          "visual_context": "Label for the cutaway globe.",
+          "semantic_meaning": "The planet."
+        },
+        {
+          "source_text": "island",
+          "number": "10",
+          "section": "THE EARTH",
+          "visual_context": "Label for the small tree-covered land surrounded by water.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "seamount",
+          "number": "11",
+          "section": "THE EARTH",
+          "visual_context": "Pointer to a submerged mountain in the ocean cross-section.",
+          "semantic_meaning": "An underwater mountain."
+        },
+        {
+          "source_text": "ocean ridge",
+          "number": "12",
+          "section": "THE EARTH",
+          "visual_context": "Pointer to the raised underwater ridge in the ocean-floor cross-section.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "trench",
+          "number": "13",
+          "section": "THE EARTH",
+          "visual_context": "Pointer to the deep narrow depression near the continental margin in the ocean-floor cross-section.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "undersea features",
+          "number": "14",
+          "section": "THE EARTH",
+          "visual_context": "Label for the illustrated ocean-floor cross-section.",
+          "semantic_meaning": "Features beneath the sea."
+        },
+        {
+          "source_text": "ash cloud",
+          "number": "1",
+          "section": "PLATE TECTONICS",
+          "visual_context": "Pointer to the gray cloud above the erupting volcano.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "crater",
+          "number": "2",
+          "section": "PLATE TECTONICS",
+          "visual_context": "Pointer to the opening at the top of the volcano.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "vent",
+          "number": "3",
+          "section": "PLATE TECTONICS",
+          "visual_context": "Pointer to the volcanic passage near the summit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lava layer",
+          "number": "4",
+          "section": "PLATE TECTONICS",
+          "visual_context": "Pointer to a horizontal layer in the volcano cross-section.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lava",
+          "number": "5",
+          "section": "PLATE TECTONICS",
+          "visual_context": "Pointer to red molten material erupting from the volcano.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ash",
+          "number": "6",
+          "section": "PLATE TECTONICS",
+          "visual_context": "Pointer to gray particles around the eruption.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to erupt",
+          "number": "7",
+          "section": "PLATE TECTONICS",
+          "visual_context": "Pointer to the erupting material in the volcano's central vent.",
+          "semantic_meaning": "To explode or burst out from a volcano."
+        },
+        {
+          "source_text": "bedrock",
+          "number": "8",
+          "section": "PLATE TECTONICS",
+          "visual_context": "Pointer to solid rock beneath the volcano.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "magma chamber",
+          "number": "9",
+          "section": "PLATE TECTONICS",
+          "visual_context": "Pointer to the reservoir of molten rock below the volcano.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "volcano",
+          "number": "10",
+          "section": "PLATE TECTONICS",
+          "visual_context": "Label for the complete volcano cross-section.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "plate",
+          "number": "11",
+          "section": "PLATE TECTONICS",
+          "visual_context": "Label beneath a diagram of a tectonic plate and volcanic activity.",
+          "semantic_meaning": "A large moving slab of Earth's crust."
+        },
+        {
+          "source_text": "earthquake",
+          "number": "12",
+          "section": "PLATE TECTONICS",
+          "visual_context": "Label beneath a diagram showing concentric seismic waves at a fault.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "earth tremor",
+          "number": "13",
+          "section": "PLATE TECTONICS",
+          "visual_context": "Label beneath a diagram of shaking ground and surface waves.",
+          "semantic_meaning": "A small earthquake."
+        },
+        {
+          "source_text": "tsunami",
+          "number": "14",
+          "section": "PLATE TECTONICS",
+          "visual_context": "Label beneath a diagram showing a large sea wave caused by an undersea earthquake.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 301,
+      "title": "Planet Earth",
+      "context": "Continuation of 145.2 PLATE TECTONICS; 145.3 WATER FEATURES AND PHENOMENA",
+      "entries": [
+        {
+          "source_text": "North Pole",
+          "number": "15",
+          "section": "PLATE TECTONICS",
+          "visual_context": "Pointer to the top pole of the globe diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Northern Hemisphere",
+          "number": "16",
+          "section": "PLATE TECTONICS",
+          "visual_context": "Bracket and pointer to the upper half of the globe above the Equator.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tropics",
+          "number": "17",
+          "section": "PLATE TECTONICS",
+          "visual_context": "Bracket to the yellow belt around the middle of the globe.",
+          "semantic_meaning": "The region between the two tropics."
+        },
+        {
+          "source_text": "Southern Hemisphere",
+          "number": "18",
+          "section": "PLATE TECTONICS",
+          "visual_context": "Pointer to the lower half of the globe below the Equator.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "longitude",
+          "number": "19",
+          "section": "PLATE TECTONICS",
+          "visual_context": "Pointer to a north-to-south curved grid line on the globe.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Arctic Circle",
+          "number": "20",
+          "section": "PLATE TECTONICS",
+          "visual_context": "Pointer to the blue circular line near the North Pole.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Tropic of Cancer",
+          "number": "21",
+          "section": "PLATE TECTONICS",
+          "visual_context": "Pointer to the dashed orange line north of the Equator.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Equator",
+          "number": "22",
+          "section": "PLATE TECTONICS",
+          "visual_context": "Pointer to the thick red line around the middle of the globe.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Tropic of Capricorn",
+          "number": "23",
+          "section": "PLATE TECTONICS",
+          "visual_context": "Pointer to the dashed line south of the Equator.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "latitude",
+          "number": "24",
+          "section": "PLATE TECTONICS",
+          "visual_context": "Pointer to an east-to-west circular grid line on the globe.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "South Pole",
+          "number": "25",
+          "section": "PLATE TECTONICS",
+          "visual_context": "Pointer to the bottom pole of the globe diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Victoria Falls",
+          "number": "1",
+          "section": "WATER FEATURES AND PHENOMENA",
+          "visual_context": "Caption below an illustration of a broad waterfall.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Hang Son Doong",
+          "number": "2",
+          "section": "WATER FEATURES AND PHENOMENA",
+          "visual_context": "Caption below an illustration of a cave-like mountain opening.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "the Amazon",
+          "number": "3",
+          "section": "WATER FEATURES AND PHENOMENA",
+          "visual_context": "Caption below an illustration of a winding river through green land.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "the Dead Sea",
+          "number": "4",
+          "section": "WATER FEATURES AND PHENOMENA",
+          "visual_context": "Caption below an illustration of a shoreline and saltwater lake.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Caño Cristales",
+          "number": "5",
+          "section": "WATER FEATURES AND PHENOMENA",
+          "visual_context": "Caption below an illustration of a red and yellow river among cliffs.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Pamukkale",
+          "number": "6",
+          "section": "WATER FEATURES AND PHENOMENA",
+          "visual_context": "Caption below an illustration of blue-white terraced pools.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "the Barrier Reef",
+          "number": "7",
+          "section": "WATER FEATURES AND PHENOMENA",
+          "visual_context": "Caption below an illustration of a coral reef in the sea.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "the Ganges",
+          "number": "8",
+          "section": "WATER FEATURES AND PHENOMENA",
+          "visual_context": "Caption below an illustration of a river beside a city.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Angel Falls",
+          "number": "9",
+          "section": "WATER FEATURES AND PHENOMENA",
+          "visual_context": "Caption below an illustration of a tall waterfall descending from a mountain.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "the Great Blue Hole",
+          "number": "10",
+          "section": "WATER FEATURES AND PHENOMENA",
+          "visual_context": "Caption below an illustration of a dark circular marine sinkhole.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Lake Natron",
+          "number": "11",
+          "section": "WATER FEATURES AND PHENOMENA",
+          "visual_context": "Caption below an illustration of a red lake.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Spotted Lake",
+          "number": "12",
+          "section": "WATER FEATURES AND PHENOMENA",
+          "visual_context": "Caption below an illustration of a lake with many pale circular spots.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

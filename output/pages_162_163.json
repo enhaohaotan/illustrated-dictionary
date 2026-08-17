@@ -1,0 +1,389 @@
+{
+  "pages": [
+    {
+      "page": 162,
+      "title": "Chemistry",
+      "context": "76.1 IN THE LABORATORY",
+      "entries": [
+        {
+          "source_text": "glass bottle",
+          "number": "1",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Pointer to a round glass bottle on a tripod.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "clamp",
+          "number": "2",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Pointer to a laboratory clamp attached to a stand.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "experiment",
+          "number": "3",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Bracket over laboratory apparatus being used together.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "funnel",
+          "number": "4",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Pointer to a funnel held in a clamp.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stopper",
+          "number": "5",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Pointer to the stopper in a flask.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "test tube",
+          "number": "6",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Pointer to the rack of test tubes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chemist",
+          "number": "7",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Pointer to the person in a lab coat and goggles.",
+          "semantic_meaning": "A scientist who studies chemistry."
+        },
+        {
+          "source_text": "I’m carrying out an experiment.",
+          "number": "8",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Speech bubble from the chemist.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tripod",
+          "number": "9",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Pointer to the three-legged support under the glass bottle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "crucible",
+          "number": "10",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Pointer to a small covered heat-resistant cup.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Bunsen burner",
+          "number": "11",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Pointer to the gas burner with a blue flame.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "flask",
+          "number": "12",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Pointer to a conical flask containing purple liquid.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "test tube rack",
+          "number": "13",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Pointer to the rack holding test tubes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "laboratory / lab",
+          "number": "14",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Label for the illustrated laboratory setting.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "scales",
+          "number": "15",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Illustration of digital weighing scales.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "timer",
+          "number": "16",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Illustration of a digital timer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "thermometer",
+          "number": "17",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Illustration of a thermometer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tongs",
+          "number": "18",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Illustration of laboratory tongs.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "spatula",
+          "number": "19",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Illustration of a laboratory spatula.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pestle",
+          "number": "20",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Pointer to the grinding tool in a mortar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mortar",
+          "number": "21",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Pointer to the bowl used with a pestle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "filter paper",
+          "number": "22",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Illustration of folded circular filter paper.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dropper",
+          "number": "23",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Illustration of a dropper releasing a drop.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pipette",
+          "number": "24",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Illustration of a pipette.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "beaker",
+          "number": "25",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Illustration of a graduated beaker.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "glass rod",
+          "number": "26",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Illustration of a straight glass rod.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "safety goggles",
+          "number": "27",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Illustration of protective goggles.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 163,
+      "title": null,
+      "context": "Chemistry — 76.1 IN THE LABORATORY",
+      "entries": [
+        {
+          "source_text": "chemical equation",
+          "number": "28",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Label for the displayed equation 2H₂ + O₂ → 2H₂O.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chemical symbol",
+          "number": "29",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Pointer to the H and O symbols in the equation.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "subscript",
+          "number": "30",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Pointer to the lowered 2 in a chemical formula.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "atom",
+          "number": "31",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Label for the complete atomic model.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "proton",
+          "number": "32",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Pointer to a red particle in the atom's nucleus.",
+          "semantic_meaning": "Positively charged particle in an atom's nucleus."
+        },
+        {
+          "source_text": "electron",
+          "number": "33",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Pointer to a yellow particle orbiting the nucleus.",
+          "semantic_meaning": "Negatively charged particle around an atom's nucleus."
+        },
+        {
+          "source_text": "nucleus",
+          "number": "34",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Pointer to the central cluster of particles in the atom.",
+          "semantic_meaning": "Central part of an atom."
+        },
+        {
+          "source_text": "neutron",
+          "number": "35",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Pointer to a blue particle in the atom's nucleus.",
+          "semantic_meaning": "Uncharged particle in an atom's nucleus."
+        },
+        {
+          "source_text": "chemical formula",
+          "number": "36",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Illustration of the formula H₂O.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "elements",
+          "number": "37",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Illustration of cards showing element symbols such as Na, Li, and C.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "molecule",
+          "number": "38",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Illustration of bonded coloured spheres.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pH level",
+          "number": "39",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Illustration of a coloured pH scale.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "acid",
+          "number": "40",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Pointer to the red end of the pH scale.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "alkali",
+          "number": "41",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Pointer to the blue-purple end of the pH scale.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "reaction",
+          "number": "42",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Illustration of substances reacting in a test tube.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "reaction direction",
+          "number": "43",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Illustration of a one-way arrow, Q < K.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "reversible direction",
+          "number": "44",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Illustration of opposing arrows, Q ⇌ K.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "solid",
+          "number": "45",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Container showing closely packed particles in a fixed arrangement.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "liquid",
+          "number": "46",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Container showing closely packed particles gathered at the bottom.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gas",
+          "number": "47",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Container showing widely spaced particles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "compound",
+          "number": "48",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Illustration of a molecule made from differently coloured atoms.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "base",
+          "number": "49",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Illustration of a test strip in green liquid.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "diffusion",
+          "number": "50",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Illustration of particles spreading through a container.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "alloy",
+          "number": "51",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Illustration of a mixed lattice of differently coloured atoms.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "crystal",
+          "number": "52",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Illustration of an ordered three-dimensional particle lattice.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "biochemistry",
+          "number": "53",
+          "section": "76.1 IN THE LABORATORY",
+          "visual_context": "Illustration of cells or microorganisms.",
+          "semantic_meaning": "The chemistry of living organisms."
+        }
+      ]
+    }
+  ]
+}

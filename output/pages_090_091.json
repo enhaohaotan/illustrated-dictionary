@@ -1,0 +1,389 @@
+{
+  "pages": [
+    {
+      "page": 90,
+      "title": "Practical gardening",
+      "context": "39.1 GARDENING VERBS",
+      "entries": [
+        {
+          "source_text": "My family and I enjoy gardening in the summer.",
+          "number": "1",
+          "section": "GARDENING VERBS",
+          "visual_context": "Speech bubble pointing to a person gardening among flowers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to stake",
+          "number": "2",
+          "section": "GARDENING VERBS",
+          "visual_context": "Pointer to a person supporting a tall plant with a stake.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to sow",
+          "number": "3",
+          "section": "GARDENING VERBS",
+          "visual_context": "Pointer to a person scattering seeds into a garden bed.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to deadhead",
+          "number": "6",
+          "section": "GARDENING VERBS",
+          "visual_context": "Pointer to spent flowers being cut from a flowering plant.",
+          "semantic_meaning": "remove faded flower heads"
+        },
+        {
+          "source_text": "to water",
+          "number": "7",
+          "section": "GARDENING VERBS",
+          "visual_context": "Pointer to a watering can watering a potted plant.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to harvest",
+          "number": "8",
+          "section": "GARDENING VERBS",
+          "visual_context": "Pointer to a person picking tomatoes from a plant.",
+          "semantic_meaning": "collect mature crops"
+        },
+        {
+          "source_text": "to mow the lawn",
+          "number": "15",
+          "section": "GARDENING VERBS",
+          "visual_context": "Green icon of a person pushing a lawn mower.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to lay sod (US)\nto lay turf (UK)",
+          "number": "16",
+          "section": "GARDENING VERBS",
+          "visual_context": "Green icon of a person laying a strip of grass.",
+          "semantic_meaning": "install ready-grown grass"
+        },
+        {
+          "source_text": "to rake (soil)",
+          "number": "17",
+          "section": "GARDENING VERBS",
+          "visual_context": "Green icon of a person raking soil.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to rake (leaves)",
+          "number": "18",
+          "section": "GARDENING VERBS",
+          "visual_context": "Green icon of a person raking fallen leaves into a pile.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to aerate",
+          "number": "19",
+          "section": "GARDENING VERBS",
+          "visual_context": "Green icon of a person using a garden fork on turf.",
+          "semantic_meaning": "make holes in soil or lawn"
+        },
+        {
+          "source_text": "cold frame",
+          "number": "20",
+          "section": "GARDENING VERBS",
+          "visual_context": "Green diagram of a low glazed frame protecting plants.",
+          "semantic_meaning": "low protective glass-covered plant enclosure"
+        },
+        {
+          "source_text": "to graft",
+          "number": "24",
+          "section": "GARDENING VERBS",
+          "visual_context": "Green icon of a gardener joining a plant cutting to another plant.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to propagate",
+          "number": "25",
+          "section": "GARDENING VERBS",
+          "visual_context": "Green icon of a watering can over rows of young plants.",
+          "semantic_meaning": "produce new plants"
+        },
+        {
+          "source_text": "to plant",
+          "number": "26",
+          "section": "GARDENING VERBS",
+          "visual_context": "Green icon of a person placing bulbs or plants into soil.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to mulch",
+          "number": "27",
+          "section": "GARDENING VERBS",
+          "visual_context": "Green icon of a wheelbarrow and material spread around a seedling.",
+          "semantic_meaning": "cover soil around plants with material"
+        },
+        {
+          "source_text": "to do the\nweeding",
+          "number": "28",
+          "section": "GARDENING VERBS",
+          "visual_context": "Green icon of a person pulling weeds from a flower bed.",
+          "semantic_meaning": "remove weeds"
+        },
+        {
+          "source_text": "to transplant",
+          "number": "29",
+          "section": "GARDENING VERBS",
+          "visual_context": "Green icon of a gardener moving small plants to a new bed.",
+          "semantic_meaning": "move a plant to another location"
+        },
+        {
+          "source_text": "to cultivate",
+          "number": "34",
+          "section": "GARDENING VERBS",
+          "visual_context": "Green icon of a person working soil with a cultivator.",
+          "semantic_meaning": "prepare or work the soil"
+        },
+        {
+          "source_text": "to trim",
+          "number": "35",
+          "section": "GARDENING VERBS",
+          "visual_context": "Green icon of a person trimming a hedge with shears.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to prune",
+          "number": "36",
+          "section": "GARDENING VERBS",
+          "visual_context": "Green icon of a person cutting back a potted topiary plant.",
+          "semantic_meaning": "cut back branches or stems"
+        },
+        {
+          "source_text": "to chop",
+          "number": "37",
+          "section": "GARDENING VERBS",
+          "visual_context": "Green icon of a person chopping a palm or large plant.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to sieve",
+          "number": "38",
+          "section": "GARDENING VERBS",
+          "visual_context": "Green icon of a person shaking material through a sieve.",
+          "semantic_meaning": "separate fine soil from larger pieces"
+        },
+        {
+          "source_text": "to landscape",
+          "number": "39",
+          "section": "GARDENING VERBS",
+          "visual_context": "Green icon of a person planning a garden layout on a drawing board.",
+          "semantic_meaning": "design an outdoor garden area"
+        }
+      ]
+    },
+    {
+      "page": 91,
+      "title": "Practical gardening",
+      "context": "39.1 GARDENING VERBS; 39.2 TYPES OF SOIL",
+      "entries": [
+        {
+          "source_text": "potting shed",
+          "number": "4",
+          "section": "GARDENING VERBS",
+          "visual_context": "Pointer to the small garden building on the left.",
+          "semantic_meaning": "shed used for potting plants"
+        },
+        {
+          "source_text": "to dig",
+          "number": "5",
+          "section": "GARDENING VERBS",
+          "visual_context": "Pointer to a person using a spade to dig soil.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to pot up",
+          "number": "9",
+          "section": "GARDENING VERBS",
+          "visual_context": "Pointer to a kneeling person transferring a flowering plant into a pot.",
+          "semantic_meaning": "put a plant into a larger pot"
+        },
+        {
+          "source_text": "bone meal",
+          "number": "10",
+          "section": "GARDENING VERBS",
+          "visual_context": "Pointer to a bag marked with a bone symbol.",
+          "semantic_meaning": "fertilizer made from ground bones"
+        },
+        {
+          "source_text": "plant cutting",
+          "number": "11",
+          "section": "GARDENING VERBS",
+          "visual_context": "Green icon of cut plant stems in a pot.",
+          "semantic_meaning": "piece of a plant used to grow a new plant"
+        },
+        {
+          "source_text": "greenhouse",
+          "number": "12",
+          "section": "GARDENING VERBS",
+          "visual_context": "Green outline drawing of a glasshouse containing plants.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shed",
+          "number": "13",
+          "section": "GARDENING VERBS",
+          "visual_context": "Green outline drawing of a small garden storage building.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "drainage",
+          "number": "14",
+          "section": "GARDENING VERBS",
+          "visual_context": "Green icon of a raised planter with water draining away.",
+          "semantic_meaning": "removal of excess water from soil"
+        },
+        {
+          "source_text": "to top dress",
+          "number": "21",
+          "section": "GARDENING VERBS",
+          "visual_context": "Green icon of a person spreading material over a lawn or bed.",
+          "semantic_meaning": "apply material to the soil surface"
+        },
+        {
+          "source_text": "to tend",
+          "number": "22",
+          "section": "GARDENING VERBS",
+          "visual_context": "Green icon of a wheelchair user watering a potted plant.",
+          "semantic_meaning": "care for plants"
+        },
+        {
+          "source_text": "to train",
+          "number": "23",
+          "section": "GARDENING VERBS",
+          "visual_context": "Green icon of a person tying or guiding a plant onto a trellis.",
+          "semantic_meaning": "guide plant growth on a support"
+        },
+        {
+          "source_text": "to spray",
+          "number": "30",
+          "section": "GARDENING VERBS",
+          "visual_context": "Green icon of a gardener spraying a potted flower.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "plant food",
+          "number": "31",
+          "section": "GARDENING VERBS",
+          "visual_context": "Green icon of liquid being poured from a container into a potted plant.",
+          "semantic_meaning": "fertilizer for plants"
+        },
+        {
+          "source_text": "organic",
+          "number": "32",
+          "section": "GARDENING VERBS",
+          "visual_context": "Green circular leaf symbol.",
+          "semantic_meaning": "produced without synthetic chemicals"
+        },
+        {
+          "source_text": "training /\nsupport cane",
+          "number": "33",
+          "section": "GARDENING VERBS",
+          "visual_context": "Green drawing of tall canes supporting climbing plants.",
+          "semantic_meaning": "cane used to support or guide a plant"
+        },
+        {
+          "source_text": "fertilizer",
+          "number": "40",
+          "section": "GARDENING VERBS",
+          "visual_context": "Green bag scattering granules onto soil.",
+          "semantic_meaning": "substance added to help plants grow"
+        },
+        {
+          "source_text": "to fertilize",
+          "number": "41",
+          "section": "GARDENING VERBS",
+          "visual_context": "Green icon of a person applying granules to a potted plant.",
+          "semantic_meaning": "apply fertilizer"
+        },
+        {
+          "source_text": "weedkiller",
+          "number": "42",
+          "section": "GARDENING VERBS",
+          "visual_context": "Green sprayer applying liquid to wilting weeds beside a healthy plant.",
+          "semantic_meaning": "chemical used to kill weeds"
+        },
+        {
+          "source_text": "soil",
+          "number": "1",
+          "section": "TYPES OF SOIL",
+          "visual_context": "Pointer to the main brown layer in a soil profile.",
+          "semantic_meaning": "earth in which plants grow"
+        },
+        {
+          "source_text": "topsoil",
+          "number": "2",
+          "section": "TYPES OF SOIL",
+          "visual_context": "Pointer to the upper dark layer of a soil profile with a seedling.",
+          "semantic_meaning": "uppermost fertile layer of soil"
+        },
+        {
+          "source_text": "subsoil",
+          "number": "3",
+          "section": "TYPES OF SOIL",
+          "visual_context": "Pointer to the layer below topsoil in the soil profile.",
+          "semantic_meaning": "soil layer beneath topsoil"
+        },
+        {
+          "source_text": "leaching",
+          "number": "4",
+          "section": "TYPES OF SOIL",
+          "visual_context": "Diagram of rainwater moving downward through grass and soil.",
+          "semantic_meaning": "washing dissolved material down through soil"
+        },
+        {
+          "source_text": "surface",
+          "number": "5",
+          "section": "TYPES OF SOIL",
+          "visual_context": "Pointer to the green top edge of a horizontal soil sample.",
+          "semantic_meaning": "top layer or outer boundary"
+        },
+        {
+          "source_text": "loam",
+          "number": "6",
+          "section": "TYPES OF SOIL",
+          "visual_context": "Horizontal brown soil sample.",
+          "semantic_meaning": "fertile balanced mixture of sand, silt, and clay"
+        },
+        {
+          "source_text": "peat",
+          "number": "7",
+          "section": "TYPES OF SOIL",
+          "visual_context": "Horizontal dark brown soil sample.",
+          "semantic_meaning": "organic soil formed from decayed vegetation"
+        },
+        {
+          "source_text": "chalk",
+          "number": "8",
+          "section": "TYPES OF SOIL",
+          "visual_context": "Horizontal dark gray, stony soil sample.",
+          "semantic_meaning": "alkaline soil containing chalk"
+        },
+        {
+          "source_text": "sand",
+          "number": "9",
+          "section": "TYPES OF SOIL",
+          "visual_context": "Horizontal pale yellow soil sample.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "silt",
+          "number": "10",
+          "section": "TYPES OF SOIL",
+          "visual_context": "Horizontal pale gray-beige soil sample.",
+          "semantic_meaning": "fine sedimentary soil"
+        },
+        {
+          "source_text": "clay",
+          "number": "11",
+          "section": "TYPES OF SOIL",
+          "visual_context": "Horizontal orange-brown soil sample.",
+          "semantic_meaning": "heavy fine-grained soil"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,389 @@
+{
+  "pages": [
+    {
+      "page": 230,
+      "title": "Hockey and lacrosse",
+      "context": "110.1 ICE HOCKEY",
+      "entries": [
+        {
+          "source_text": "goal line",
+          "number": "1",
+          "section": "ICE HOCKEY",
+          "visual_context": "Pointer to the red line behind the goal at the end of the ice.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "attack zone",
+          "number": "2",
+          "section": "ICE HOCKEY",
+          "visual_context": "Pointer to the end zone containing the opposing team's goal.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "referee crease",
+          "number": "3",
+          "section": "ICE HOCKEY",
+          "visual_context": "Pointer to the small red semicircular crease beside the boards.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "red line",
+          "number": "4",
+          "section": "ICE HOCKEY",
+          "visual_context": "Pointer to the red centre line across the rink.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "players’ bench",
+          "number": "5",
+          "section": "ICE HOCKEY",
+          "visual_context": "Pointer to the benches along the side of the rink.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "defending zone",
+          "number": "6",
+          "section": "ICE HOCKEY",
+          "visual_context": "Pointer to the zone containing the team's own goal.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "blue line",
+          "number": "7",
+          "section": "ICE HOCKEY",
+          "visual_context": "Pointer to a blue line dividing rink zones.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "end zone",
+          "number": "8",
+          "section": "ICE HOCKEY",
+          "visual_context": "Pointer to the rink area at one end behind a blue line.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "face-off spot",
+          "number": "9",
+          "section": "ICE HOCKEY",
+          "visual_context": "Pointer to a marked face-off spot inside a face-off circle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "goal",
+          "number": "10",
+          "section": "ICE HOCKEY",
+          "visual_context": "Pointer to the net at the left end of the rink.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "goal crease",
+          "number": "11",
+          "section": "ICE HOCKEY",
+          "visual_context": "Pointer to the marked semicircular area in front of the goal.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "boards",
+          "number": "12",
+          "section": "ICE HOCKEY",
+          "visual_context": "Pointer to the perimeter barrier surrounding the rink.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Who do you think will win today?",
+          "number": "13",
+          "section": "ICE HOCKEY",
+          "visual_context": "Speech bubble directed toward spectators beside the rink.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "spectators",
+          "number": "14",
+          "section": "ICE HOCKEY",
+          "visual_context": "Pointer to people watching beside the rink.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "penalty bench",
+          "number": "15",
+          "section": "ICE HOCKEY",
+          "visual_context": "Pointer to a bench for penalized players beside the rink.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "scorekeepers’ bench",
+          "number": "16",
+          "section": "ICE HOCKEY",
+          "visual_context": "Pointer to a bench beside the rink for scorekeepers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "neutral zone",
+          "number": "17",
+          "section": "ICE HOCKEY",
+          "visual_context": "Pointer to the central zone between the blue lines.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ice hockey rink",
+          "number": "18",
+          "section": "ICE HOCKEY",
+          "visual_context": "Pointer to the overall ice rink.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "center (US) centre (UK)",
+          "number": "19",
+          "section": "ICE HOCKEY",
+          "visual_context": "Pointer to the central player position in the ice-hockey positions diagram.",
+          "semantic_meaning": "Alternative US and UK spellings for the central forward position."
+        },
+        {
+          "source_text": "goalkeeper",
+          "number": "20",
+          "section": "ICE HOCKEY",
+          "visual_context": "Pointer to the player positioned in front of the goal in the positions diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "right winger",
+          "number": "21",
+          "section": "ICE HOCKEY",
+          "visual_context": "Pointer to a right-wing player position in the diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "right defenseman (US) right defenceman (UK)",
+          "number": "22",
+          "section": "ICE HOCKEY",
+          "visual_context": "Pointer to a right defensive player position in the diagram.",
+          "semantic_meaning": "Alternative US and UK spellings for the right defensive position."
+        },
+        {
+          "source_text": "left defenseman (US) left defenceman (UK)",
+          "number": "23",
+          "section": "ICE HOCKEY",
+          "visual_context": "Pointer to a left defensive player position in the diagram.",
+          "semantic_meaning": "Alternative US and UK spellings for the left defensive position."
+        },
+        {
+          "source_text": "left winger",
+          "number": "24",
+          "section": "ICE HOCKEY",
+          "visual_context": "Pointer to a left-wing player position in the diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ice hockey positions",
+          "number": "25",
+          "section": "ICE HOCKEY",
+          "visual_context": "Caption for the ice-hockey team-position diagram.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 231,
+      "title": null,
+      "context": "ICE HOCKEY; 110.2 FIELD HOCKEY; 110.3 LACROSSE",
+      "entries": [
+        {
+          "source_text": "to skate",
+          "number": "26",
+          "section": "ICE HOCKEY",
+          "visual_context": "Blue icon of a player skating with a hockey stick and puck.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shoulder pad",
+          "number": "27",
+          "section": "ICE HOCKEY",
+          "visual_context": "Pointer to padding on the ice hockey player's shoulder.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "helmet",
+          "number": "28",
+          "section": "ICE HOCKEY",
+          "visual_context": "Pointer to the ice hockey player's head helmet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "protective padding",
+          "number": "29",
+          "section": "ICE HOCKEY",
+          "visual_context": "Pointer to padding on the ice hockey player's upper arm.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "glove",
+          "number": "30",
+          "section": "ICE HOCKEY",
+          "visual_context": "Pointer to the player's hand glove.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ice skate",
+          "number": "31",
+          "section": "ICE HOCKEY",
+          "visual_context": "Pointer to the player's skate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stick",
+          "number": "32",
+          "section": "ICE HOCKEY",
+          "visual_context": "Pointer to the ice hockey stick.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "puck",
+          "number": "33",
+          "section": "ICE HOCKEY",
+          "visual_context": "Pointer to the black puck.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ice hockey player",
+          "number": "34",
+          "section": "ICE HOCKEY",
+          "visual_context": "Caption for the illustrated ice hockey player.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "blocking glove",
+          "number": "35",
+          "section": "ICE HOCKEY",
+          "visual_context": "Pointer to the goalie's large rectangular blocking glove.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "face mask",
+          "number": "36",
+          "section": "ICE HOCKEY",
+          "visual_context": "Pointer to the protective cage over the goalie's face.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "catching glove",
+          "number": "37",
+          "section": "ICE HOCKEY",
+          "visual_context": "Pointer to the goalie's catching glove.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "leg guard",
+          "number": "38",
+          "section": "ICE HOCKEY",
+          "visual_context": "Pointer to the goalie's padded leg guard.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "goalie stick",
+          "number": "39",
+          "section": "ICE HOCKEY",
+          "visual_context": "Pointer to the goalie's wide-bladed stick.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "goalkeeper",
+          "number": "40",
+          "section": "ICE HOCKEY",
+          "visual_context": "Caption for the illustrated ice hockey goalie.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to hit",
+          "number": "1",
+          "section": "FIELD HOCKEY",
+          "visual_context": "Blue icon of a field hockey player striking a ball with a stick.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shin guard",
+          "number": "2",
+          "section": "FIELD HOCKEY",
+          "visual_context": "Pointer to protective padding over the player's shin.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hockey stick",
+          "number": "3",
+          "section": "FIELD HOCKEY",
+          "visual_context": "Pointer to the field hockey player's stick.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "field hockey player",
+          "number": "4",
+          "section": "FIELD HOCKEY",
+          "visual_context": "Caption for the illustrated field hockey player.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ball",
+          "number": "5",
+          "section": "FIELD HOCKEY",
+          "visual_context": "Pointer to the orange ball by the stick.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "head pocket",
+          "number": "1",
+          "section": "LACROSSE",
+          "visual_context": "Pointer to the netted pocket at the head of the lacrosse stick.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "crosse",
+          "number": "2",
+          "section": "LACROSSE",
+          "visual_context": "Pointer to the lacrosse stick as a whole.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "arm protection",
+          "number": "3",
+          "section": "LACROSSE",
+          "visual_context": "Pointer to padding on the player's upper arm.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "handle",
+          "number": "4",
+          "section": "LACROSSE",
+          "visual_context": "Pointer to the shaft of the lacrosse stick.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lacrosse player",
+          "number": "5",
+          "section": "LACROSSE",
+          "visual_context": "Caption for the illustrated lacrosse player.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to pass",
+          "number": "6",
+          "section": "LACROSSE",
+          "visual_context": "Icon showing one player passing the ball to another with lacrosse sticks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to scoop",
+          "number": "7",
+          "section": "LACROSSE",
+          "visual_context": "Icon showing a player scooping a ball from the ground with a lacrosse stick.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "face-off",
+          "number": "8",
+          "section": "LACROSSE",
+          "visual_context": "Icon showing two players contesting the ball at a face-off.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,417 @@
+{
+  "pages": [
+    {
+      "page": 94,
+      "title": "Garden features",
+      "context": "41.1 GARDEN TYPES AND FEATURES; 41.2 TYPES OF PLANTS",
+      "entries": [
+        {
+          "source_text": "tree",
+          "number": "1",
+          "section": "41.1 GARDEN TYPES AND FEATURES",
+          "visual_context": "Large leafy tree at the left of the garden scene.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "trellis",
+          "number": "2",
+          "section": "41.1 GARDEN TYPES AND FEATURES",
+          "visual_context": "Latticed side panel of the arched garden structure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "arch",
+          "number": "3",
+          "section": "41.1 GARDEN TYPES AND FEATURES",
+          "visual_context": "Wooden arched structure over the path, with climbing plants.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hedge",
+          "number": "4",
+          "section": "41.1 GARDEN TYPES AND FEATURES",
+          "visual_context": "Low clipped green hedge behind the compost heap.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fountain",
+          "number": "5",
+          "section": "41.1 GARDEN TYPES AND FEATURES",
+          "visual_context": "Water-spraying garden fountain.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hanging basket",
+          "number": "6",
+          "section": "41.1 GARDEN TYPES AND FEATURES",
+          "visual_context": "Plant basket suspended from the pergola.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pergola",
+          "number": "7",
+          "section": "41.1 GARDEN TYPES AND FEATURES",
+          "visual_context": "Wooden roofed open garden structure on the right.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "grass",
+          "number": "15",
+          "section": "41.1 GARDEN TYPES AND FEATURES",
+          "visual_context": "Long grass in the foreground.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lawn",
+          "number": "16",
+          "section": "41.1 GARDEN TYPES AND FEATURES",
+          "visual_context": "Mown green grass area.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "path",
+          "number": "17",
+          "section": "41.1 GARDEN TYPES AND FEATURES",
+          "visual_context": "Curving stone path through the garden.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "compost heap",
+          "number": "18",
+          "section": "41.1 GARDEN TYPES AND FEATURES",
+          "visual_context": "Wooden compost bin/heap.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bulb",
+          "number": "19",
+          "section": "41.1 GARDEN TYPES AND FEATURES",
+          "visual_context": "Bulbs planted in soil at the bottom centre.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pond",
+          "number": "20",
+          "section": "41.1 GARDEN TYPES AND FEATURES",
+          "visual_context": "Small blue garden pond with reeds.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "decking",
+          "number": "21",
+          "section": "41.1 GARDEN TYPES AND FEATURES",
+          "visual_context": "Wood-planked deck beneath the pergola.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "patio garden",
+          "number": "26",
+          "section": "41.1 GARDEN TYPES AND FEATURES",
+          "visual_context": "Small icon showing plants around a paved patio.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "roof garden",
+          "number": "27",
+          "section": "41.1 GARDEN TYPES AND FEATURES",
+          "visual_context": "Icon showing plants on a building roof.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rock garden",
+          "number": "28",
+          "section": "41.1 GARDEN TYPES AND FEATURES",
+          "visual_context": "Icon showing rocks and planted mounds.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "formal garden",
+          "number": "29",
+          "section": "41.1 GARDEN TYPES AND FEATURES",
+          "visual_context": "Icon showing a symmetrical landscaped garden.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "annual",
+          "number": "1",
+          "section": "41.2 TYPES OF PLANTS",
+          "visual_context": "Plant life-cycle illustration showing one growing season.",
+          "semantic_meaning": "Plant that completes its life cycle in one year."
+        },
+        {
+          "source_text": "biennial",
+          "number": "2",
+          "section": "41.2 TYPES OF PLANTS",
+          "visual_context": "Plant life-cycle illustration showing growth over two years.",
+          "semantic_meaning": "Plant that completes its life cycle in two years."
+        },
+        {
+          "source_text": "perennial",
+          "number": "3",
+          "section": "41.2 TYPES OF PLANTS",
+          "visual_context": "Flowering plants illustrated over repeated growing seasons.",
+          "semantic_meaning": "Plant that lives for more than two years."
+        },
+        {
+          "source_text": "evergreen",
+          "number": "4",
+          "section": "41.2 TYPES OF PLANTS",
+          "visual_context": "Green trees shown in different seasons.",
+          "semantic_meaning": "Plant that keeps its leaves year-round."
+        },
+        {
+          "source_text": "deciduous",
+          "number": "5",
+          "section": "41.2 TYPES OF PLANTS",
+          "visual_context": "Tree shown leafy and leafless in contrasting seasons.",
+          "semantic_meaning": "Plant that loses its leaves seasonally."
+        },
+        {
+          "source_text": "heather",
+          "number": "6",
+          "section": "41.2 TYPES OF PLANTS",
+          "visual_context": "Low purple-flowering heather plants.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bamboo",
+          "number": "13",
+          "section": "41.2 TYPES OF PLANTS",
+          "visual_context": "Tall segmented bamboo canes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "weeds",
+          "number": "14",
+          "section": "41.2 TYPES OF PLANTS",
+          "visual_context": "Mixed unwanted-looking plants with yellow flowers.",
+          "semantic_meaning": "Plants growing where they are not wanted."
+        },
+        {
+          "source_text": "herbs",
+          "number": "15",
+          "section": "41.2 TYPES OF PLANTS",
+          "visual_context": "Small culinary herb plants.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "water plants",
+          "number": "16",
+          "section": "41.2 TYPES OF PLANTS",
+          "visual_context": "Plants growing in a pond.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rushes",
+          "number": "17",
+          "section": "41.2 TYPES OF PLANTS",
+          "visual_context": "Tall reed-like plants growing in water.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ferns",
+          "number": "18",
+          "section": "41.2 TYPES OF PLANTS",
+          "visual_context": "Plants with feathery fronds.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 95,
+      "title": null,
+      "context": "Continuation of 41.1 GARDEN TYPES AND FEATURES and 41.2 TYPES OF PLANTS",
+      "entries": [
+        {
+          "source_text": "creeper",
+          "number": "8",
+          "section": "41.1 GARDEN TYPES AND FEATURES",
+          "visual_context": "Climbing plant growing up the structure at the far left.",
+          "semantic_meaning": "A plant that grows along surfaces or climbs."
+        },
+        {
+          "source_text": "potted plant",
+          "number": "9",
+          "section": "41.1 GARDEN TYPES AND FEATURES",
+          "visual_context": "Plant growing in an orange pot.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "flowerbed",
+          "number": "10",
+          "section": "41.1 GARDEN TYPES AND FEATURES",
+          "visual_context": "Bed of pink and purple flowers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gate",
+          "number": "11",
+          "section": "41.1 GARDEN TYPES AND FEATURES",
+          "visual_context": "White picket gate behind the gardener.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "These vegetables\nneed watering\nevery day.",
+          "number": "12",
+          "section": "41.1 GARDEN TYPES AND FEATURES",
+          "visual_context": "Speech bubble from the gardener, referring to the vegetable garden.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "vegetable garden",
+          "number": "13",
+          "section": "41.1 GARDEN TYPES AND FEATURES",
+          "visual_context": "Raised bed with vegetable plants.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fence",
+          "number": "14",
+          "section": "41.1 GARDEN TYPES AND FEATURES",
+          "visual_context": "White picket fence surrounding the garden.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "paving",
+          "number": "22",
+          "section": "41.1 GARDEN TYPES AND FEATURES",
+          "visual_context": "Paved brick walkway at the lower left.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ground cover",
+          "number": "23",
+          "section": "41.1 GARDEN TYPES AND FEATURES",
+          "visual_context": "Low flowering plants covering the ground.",
+          "semantic_meaning": "Low plants that spread over soil."
+        },
+        {
+          "source_text": "herbaceous border",
+          "number": "24",
+          "section": "41.1 GARDEN TYPES AND FEATURES",
+          "visual_context": "Long border of flowering non-woody plants in front of the gardener.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "grill (US) / barbecue (UK)",
+          "number": "25",
+          "section": "41.1 GARDEN TYPES AND FEATURES",
+          "visual_context": "Red outdoor cooking grill at the right.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "herb garden",
+          "number": "30",
+          "section": "41.1 GARDEN TYPES AND FEATURES",
+          "visual_context": "Icon showing herbs planted near a house.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "water garden",
+          "number": "31",
+          "section": "41.1 GARDEN TYPES AND FEATURES",
+          "visual_context": "Icon showing a water feature with plants.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cottage garden",
+          "number": "32",
+          "section": "41.1 GARDEN TYPES AND FEATURES",
+          "visual_context": "Icon showing an informal flower-filled garden around a cottage.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "courtyard",
+          "number": "33",
+          "section": "41.1 GARDEN TYPES AND FEATURES",
+          "visual_context": "Icon showing an enclosed garden space with a table and plants.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "palms",
+          "number": "7",
+          "section": "41.2 TYPES OF PLANTS",
+          "visual_context": "Three palm trees.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "conifers",
+          "number": "8",
+          "section": "41.2 TYPES OF PLANTS",
+          "visual_context": "Several cone-shaped evergreen trees.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "topiary",
+          "number": "9",
+          "section": "41.2 TYPES OF PLANTS",
+          "visual_context": "Trees and shrubs clipped into geometric shapes.",
+          "semantic_meaning": "Plants clipped into decorative shapes."
+        },
+        {
+          "source_text": "climber",
+          "number": "10",
+          "section": "41.2 TYPES OF PLANTS",
+          "visual_context": "Plant climbing up the wall of a house.",
+          "semantic_meaning": "A plant that grows upward using support."
+        },
+        {
+          "source_text": "ornamental\nplants",
+          "number": "11",
+          "section": "41.2 TYPES OF PLANTS",
+          "visual_context": "Decorative flowering and foliage plants.",
+          "semantic_meaning": "Plants grown chiefly for decoration."
+        },
+        {
+          "source_text": "shade plants",
+          "number": "12",
+          "section": "41.2 TYPES OF PLANTS",
+          "visual_context": "Plants growing beneath a tree's shade.",
+          "semantic_meaning": "Plants suited to low-light conditions."
+        },
+        {
+          "source_text": "alpine plants",
+          "number": "19",
+          "section": "41.2 TYPES OF PLANTS",
+          "visual_context": "Flowers growing against a mountain backdrop.",
+          "semantic_meaning": "Plants adapted to mountain environments."
+        },
+        {
+          "source_text": "succulents",
+          "number": "20",
+          "section": "41.2 TYPES OF PLANTS",
+          "visual_context": "Fleshy-leaved plants in a dry planting.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cacti",
+          "number": "21",
+          "section": "41.2 TYPES OF PLANTS",
+          "visual_context": "Several cactus plants.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shrubs",
+          "number": "22",
+          "section": "41.2 TYPES OF PLANTS",
+          "visual_context": "Group of low woody bushes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "flowering\nshrub",
+          "number": "23",
+          "section": "41.2 TYPES OF PLANTS",
+          "visual_context": "Bush with purple flowers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "grasses",
+          "number": "24",
+          "section": "41.2 TYPES OF PLANTS",
+          "visual_context": "Clumps of ornamental grass.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

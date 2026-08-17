@@ -1,0 +1,354 @@
+{
+  "pages": [
+    {
+      "page": 220,
+      "title": "Sea vessels",
+      "context": "105 Sea vessels",
+      "entries": [
+        {
+          "source_text": "prow",
+          "number": "1",
+          "section": "105.1 SHIP",
+          "visual_context": "Pointer to the front end of the large ship.",
+          "semantic_meaning": "front of a ship"
+        },
+        {
+          "source_text": "deck",
+          "number": "2",
+          "section": "105.1 SHIP",
+          "visual_context": "Pointer to the ship's upper horizontal surface.",
+          "semantic_meaning": "ship's floor-like surface"
+        },
+        {
+          "source_text": "cabin",
+          "number": "3",
+          "section": "105.1 SHIP",
+          "visual_context": "Pointer to a cutaway passenger sleeping room.",
+          "semantic_meaning": "room on a ship"
+        },
+        {
+          "source_text": "bridge",
+          "number": "4",
+          "section": "105.1 SHIP",
+          "visual_context": "Pointer to the raised control area of the ship.",
+          "semantic_meaning": "ship's navigation and control area"
+        },
+        {
+          "source_text": "radar",
+          "number": "5",
+          "section": "105.1 SHIP",
+          "visual_context": "Pointer to the radar equipment atop the superstructure.",
+          "semantic_meaning": "radio-based detection equipment"
+        },
+        {
+          "source_text": "radio antenna",
+          "number": "6",
+          "section": "105.1 SHIP",
+          "visual_context": "Pointer to the tall aerial above the bridge.",
+          "semantic_meaning": "aerial for radio communication"
+        },
+        {
+          "source_text": "quarterdeck",
+          "number": "7",
+          "section": "105.1 SHIP",
+          "visual_context": "Pointer to the raised rear deck area.",
+          "semantic_meaning": "upper deck at the rear of a ship"
+        },
+        {
+          "source_text": "lifeboat",
+          "number": "8",
+          "section": "105.1 SHIP",
+          "visual_context": "Pointer to an orange rescue boat mounted along the ship's side.",
+          "semantic_meaning": "small emergency rescue boat"
+        },
+        {
+          "source_text": "Plimsoll line",
+          "number": "11",
+          "section": "105.1 SHIP",
+          "visual_context": "Pointer to the load line painted on the hull near the waterline.",
+          "semantic_meaning": "mark showing a ship's safe loading depth"
+        },
+        {
+          "source_text": "hull",
+          "number": "12",
+          "section": "105.1 SHIP",
+          "visual_context": "Pointer to the main body of the ship below the decks.",
+          "semantic_meaning": "main body of a vessel"
+        },
+        {
+          "source_text": "keel",
+          "number": "13",
+          "section": "105.1 SHIP",
+          "visual_context": "Pointer to the long bottommost structure of the ship.",
+          "semantic_meaning": "central bottom structural member of a vessel"
+        },
+        {
+          "source_text": "canoe",
+          "number": "1",
+          "section": "105.2 OTHER BOATS AND SHIPS",
+          "visual_context": "Illustration of a red paddle-powered canoe.",
+          "semantic_meaning": "narrow open paddle boat"
+        },
+        {
+          "source_text": "kayak",
+          "number": "2",
+          "section": "105.2 OTHER BOATS AND SHIPS",
+          "visual_context": "Illustration of a narrow low boat paddled with a double-bladed paddle.",
+          "semantic_meaning": "small enclosed or partly enclosed paddle boat"
+        },
+        {
+          "source_text": "rowboat (US)\nrowing boat (UK)",
+          "number": "3",
+          "section": "105.2 OTHER BOATS AND SHIPS",
+          "visual_context": "Illustration of an open wooden boat with a person rowing.",
+          "semantic_meaning": "small boat propelled with oars"
+        },
+        {
+          "source_text": "inflatable\ndinghy",
+          "number": "4",
+          "section": "105.2 OTHER BOATS AND SHIPS",
+          "visual_context": "Illustration of a small orange inflatable boat with an outboard motor.",
+          "semantic_meaning": "small inflatable boat"
+        },
+        {
+          "source_text": "outboard motor",
+          "number": "5",
+          "section": "105.2 OTHER BOATS AND SHIPS",
+          "visual_context": "Pointer to the motor mounted outside the stern of the inflatable dinghy.",
+          "semantic_meaning": "external boat engine"
+        },
+        {
+          "source_text": "catamaran",
+          "number": "6",
+          "section": "105.2 OTHER BOATS AND SHIPS",
+          "visual_context": "Illustration of a twin-hulled sailing vessel.",
+          "semantic_meaning": "boat with two parallel hulls"
+        },
+        {
+          "source_text": "sailboat (US)\nsailing boat (UK)",
+          "number": "7",
+          "section": "105.2 OTHER BOATS AND SHIPS",
+          "visual_context": "Illustration of a small boat with mast and sails.",
+          "semantic_meaning": "boat propelled by sails"
+        },
+        {
+          "source_text": "mast",
+          "number": "8",
+          "section": "105.2 OTHER BOATS AND SHIPS",
+          "visual_context": "Pointer to the tall vertical spar on the sailboat.",
+          "semantic_meaning": "vertical pole supporting sails"
+        },
+        {
+          "source_text": "speedboat",
+          "number": "15",
+          "section": "105.2 OTHER BOATS AND SHIPS",
+          "visual_context": "Illustration of a streamlined motorboat.",
+          "semantic_meaning": "fast motorboat"
+        },
+        {
+          "source_text": "yacht",
+          "number": "16",
+          "section": "105.2 OTHER BOATS AND SHIPS",
+          "visual_context": "Illustration of a large white recreational motor vessel.",
+          "semantic_meaning": "pleasure boat"
+        },
+        {
+          "source_text": "hydrofoil",
+          "number": "17",
+          "section": "105.2 OTHER BOATS AND SHIPS",
+          "visual_context": "Illustration of a vessel raised above the water on underwater foils.",
+          "semantic_meaning": "boat supported by underwater wings"
+        },
+        {
+          "source_text": "hovercraft",
+          "number": "18",
+          "section": "105.2 OTHER BOATS AND SHIPS",
+          "visual_context": "Illustration of an orange air-cushion vehicle.",
+          "semantic_meaning": "vehicle that travels on an air cushion"
+        },
+        {
+          "source_text": "tugboat",
+          "number": "19",
+          "section": "105.2 OTHER BOATS AND SHIPS",
+          "visual_context": "Illustration of a small working boat with fenders.",
+          "semantic_meaning": "boat used to tow or push ships"
+        },
+        {
+          "source_text": "trawler",
+          "number": "20",
+          "section": "105.2 OTHER BOATS AND SHIPS",
+          "visual_context": "Illustration of a fishing vessel with deck equipment.",
+          "semantic_meaning": "fishing boat that pulls a trawl net"
+        }
+      ]
+    },
+    {
+      "page": 221,
+      "title": "Sea vessels",
+      "context": "Continuation of 105.1 SHIP and 105.2 OTHER BOATS AND SHIPS",
+      "entries": [
+        {
+          "source_text": "funnel",
+          "number": "9",
+          "section": "105.1 SHIP",
+          "visual_context": "Pointer to the large exhaust stack on the ship.",
+          "semantic_meaning": "ship's smokestack"
+        },
+        {
+          "source_text": "stern",
+          "number": "10",
+          "section": "105.1 SHIP",
+          "visual_context": "Pointer to the rear end of the large ship.",
+          "semantic_meaning": "rear of a ship"
+        },
+        {
+          "source_text": "galley",
+          "number": "14",
+          "section": "105.1 SHIP",
+          "visual_context": "Pointer to the cutaway kitchen area inside the ship.",
+          "semantic_meaning": "ship's kitchen"
+        },
+        {
+          "source_text": "engine room",
+          "number": "15",
+          "section": "105.1 SHIP",
+          "visual_context": "Pointer to the cutaway machinery space near the bottom of the ship.",
+          "semantic_meaning": "compartment containing the engines"
+        },
+        {
+          "source_text": "propeller",
+          "number": "16",
+          "section": "105.1 SHIP",
+          "visual_context": "Pointer to the screw-like propulsion device at the stern.",
+          "semantic_meaning": "rotating device that drives a vessel"
+        },
+        {
+          "source_text": "captain",
+          "number": "17",
+          "section": "105.1 SHIP",
+          "visual_context": "Illustration of a uniformed ship officer.",
+          "semantic_meaning": "person in command of a ship"
+        },
+        {
+          "source_text": "life preserver (US)\nlife ring (UK)",
+          "number": "18",
+          "section": "105.1 SHIP",
+          "visual_context": "Illustration of an orange-and-white floating ring.",
+          "semantic_meaning": "ring-shaped flotation rescue device"
+        },
+        {
+          "source_text": "life jacket",
+          "number": "19",
+          "section": "105.1 SHIP",
+          "visual_context": "Illustration of an orange personal flotation vest.",
+          "semantic_meaning": "wearable flotation device"
+        },
+        {
+          "source_text": "anchor",
+          "number": "20",
+          "section": "105.1 SHIP",
+          "visual_context": "Illustration of a blue anchor.",
+          "semantic_meaning": "heavy device used to hold a vessel in place"
+        },
+        {
+          "source_text": "gangway",
+          "number": "21",
+          "section": "105.1 SHIP",
+          "visual_context": "Illustration of a boarding ramp connecting a vessel to shore.",
+          "semantic_meaning": "walkway for boarding a ship"
+        },
+        {
+          "source_text": "bollard",
+          "number": "22",
+          "section": "105.1 SHIP",
+          "visual_context": "Illustration of a mooring post on a dock beside a boat.",
+          "semantic_meaning": "post for securing mooring ropes"
+        },
+        {
+          "source_text": "windlass",
+          "number": "23",
+          "section": "105.1 SHIP",
+          "visual_context": "Illustration of anchor chain machinery on a vessel.",
+          "semantic_meaning": "machine for raising and lowering an anchor"
+        },
+        {
+          "source_text": "ferry",
+          "number": "9",
+          "section": "105.2 OTHER BOATS AND SHIPS",
+          "visual_context": "Illustration of a white passenger vessel.",
+          "semantic_meaning": "boat that carries passengers or vehicles on a regular route"
+        },
+        {
+          "source_text": "cruise ship",
+          "number": "10",
+          "section": "105.2 OTHER BOATS AND SHIPS",
+          "visual_context": "Illustration of a large passenger holiday ship.",
+          "semantic_meaning": "large ship for leisure voyages"
+        },
+        {
+          "source_text": "container ship",
+          "number": "11",
+          "section": "105.2 OTHER BOATS AND SHIPS",
+          "visual_context": "Illustration of a cargo ship carrying stacked colored containers.",
+          "semantic_meaning": "ship designed to carry freight containers"
+        },
+        {
+          "source_text": "container",
+          "number": "12",
+          "section": "105.2 OTHER BOATS AND SHIPS",
+          "visual_context": "Pointer to one stacked cargo container aboard the container ship.",
+          "semantic_meaning": "large standardized cargo box"
+        },
+        {
+          "source_text": "freighter",
+          "number": "13",
+          "section": "105.2 OTHER BOATS AND SHIPS",
+          "visual_context": "Illustration of a cargo vessel carrying bulk material.",
+          "semantic_meaning": "ship that carries cargo"
+        },
+        {
+          "source_text": "freight",
+          "number": "14",
+          "section": "105.2 OTHER BOATS AND SHIPS",
+          "visual_context": "Pointer to the green cargo load in the freighter's hold.",
+          "semantic_meaning": "goods transported as cargo"
+        },
+        {
+          "source_text": "oil tanker",
+          "number": "21",
+          "section": "105.2 OTHER BOATS AND SHIPS",
+          "visual_context": "Illustration of a long tanker vessel.",
+          "semantic_meaning": "ship designed to transport oil"
+        },
+        {
+          "source_text": "aircraft carrier",
+          "number": "22",
+          "section": "105.2 OTHER BOATS AND SHIPS",
+          "visual_context": "Illustration of a flat-deck naval ship.",
+          "semantic_meaning": "warship that carries aircraft"
+        },
+        {
+          "source_text": "battleship",
+          "number": "23",
+          "section": "105.2 OTHER BOATS AND SHIPS",
+          "visual_context": "Illustration of a large armed naval warship.",
+          "semantic_meaning": "heavily armed warship"
+        },
+        {
+          "source_text": "submarine",
+          "number": "24",
+          "section": "105.2 OTHER BOATS AND SHIPS",
+          "visual_context": "Illustration of a vessel operating underwater.",
+          "semantic_meaning": "underwater vessel"
+        },
+        {
+          "source_text": "conning tower",
+          "number": "25",
+          "section": "105.2 OTHER BOATS AND SHIPS",
+          "visual_context": "Pointer to the raised control structure on the submarine.",
+          "semantic_meaning": "submarine's raised control compartment"
+        }
+      ]
+    }
+  ]
+}

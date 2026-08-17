@@ -1,0 +1,900 @@
+{
+  "pages": [
+    {
+      "page": 166,
+      "title": "The periodic table",
+      "context": "78.1 THE PERIODIC TABLE",
+      "entries": [
+        {
+          "source_text": "H\nhydrogen",
+          "number": "1",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Blue periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Li\nlithium",
+          "number": "3",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Pink periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Be\nberyllium",
+          "number": "4",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Orange periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Na\nsodium",
+          "number": "11",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Pink periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Mg\nmagnesium",
+          "number": "12",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Orange periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "K\npotassium",
+          "number": "19",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Pink periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Ca\ncalcium",
+          "number": "20",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Orange periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Sc\nscandium",
+          "number": "21",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Green periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Ti\ntitanium",
+          "number": "22",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Green periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "V\nvanadium",
+          "number": "23",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Green periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Cr\nchromium",
+          "number": "24",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Green periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Mn\nmanganese",
+          "number": "25",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Green periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Fe\niron",
+          "number": "26",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Green periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Co\ncobalt",
+          "number": "27",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Green periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Rb\nrubidium",
+          "number": "37",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Pink periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Sr\nstrontium",
+          "number": "38",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Orange periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Y\nyttrium",
+          "number": "39",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Green periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Zr\nzirconium",
+          "number": "40",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Green periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Nb\nniobium",
+          "number": "41",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Green periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Mo\nmolybdenum",
+          "number": "42",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Green periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Tc\ntechnetium",
+          "number": "43",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Green periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Ru\nruthenium",
+          "number": "44",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Green periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Rh\nrhodium",
+          "number": "45",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Green periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Cs\ncesium (US)\ncaesium (UK)",
+          "number": "55",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Pink periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Ba\nbarium",
+          "number": "56",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Orange periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "La-Lu",
+          "number": null,
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "White placeholder tile for the lanthanide row.",
+          "semantic_meaning": "Lanthanide range."
+        },
+        {
+          "source_text": "Hf\nhafnium",
+          "number": "72",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Green periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Ta\ntantalum",
+          "number": "73",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Green periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "W\ntungsten",
+          "number": "74",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Green periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Re\nrhenium",
+          "number": "75",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Green periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Os\nosmium",
+          "number": "76",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Green periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Ir\niridium",
+          "number": "77",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Green periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Fr\nfrancium",
+          "number": "87",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Pink periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Ra\nradium",
+          "number": "88",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Orange periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Ac-Lr",
+          "number": null,
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "White placeholder tile for the actinide row.",
+          "semantic_meaning": "Actinide range."
+        },
+        {
+          "source_text": "La\nlanthanum",
+          "number": "57",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Pale-yellow lanthanide tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Ce\ncerium",
+          "number": "58",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Pale-yellow lanthanide tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Pr\npraseodymium",
+          "number": "59",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Pale-yellow lanthanide tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Nd\nneodymium",
+          "number": "60",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Pale-yellow lanthanide tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Pm\npromethium",
+          "number": "61",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Pale-yellow lanthanide tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Sm\nsamarium",
+          "number": "62",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Pale-yellow lanthanide tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Ac\nactinium",
+          "number": "89",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Yellow actinide tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Th\nthorium",
+          "number": "90",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Yellow actinide tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Pa\nprotactinium",
+          "number": "91",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Yellow actinide tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "U\nuranium",
+          "number": "92",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Yellow actinide tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Np\nneptunium",
+          "number": "93",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Yellow actinide tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Pu\nplutonium",
+          "number": "94",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Yellow actinide tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "alkali metals",
+          "number": "119",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Pink color-key swatch.",
+          "semantic_meaning": "Element category."
+        },
+        {
+          "source_text": "alkaline earth\nmetals",
+          "number": "120",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Orange color-key swatch.",
+          "semantic_meaning": "Element category."
+        },
+        {
+          "source_text": "transition\nmetals",
+          "number": "121",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Green color-key swatch.",
+          "semantic_meaning": "Element category."
+        },
+        {
+          "source_text": "lanthanide\nseries",
+          "number": "122",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Pale-yellow color-key swatch.",
+          "semantic_meaning": "Element category."
+        },
+        {
+          "source_text": "other metals",
+          "number": "124",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Teal color-key swatch.",
+          "semantic_meaning": "Element category."
+        },
+        {
+          "source_text": "semi-metals",
+          "number": "125",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Light-blue color-key swatch.",
+          "semantic_meaning": "Element category."
+        },
+        {
+          "source_text": "non-metals",
+          "number": "126",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Blue color-key swatch.",
+          "semantic_meaning": "Element category."
+        },
+        {
+          "source_text": "halogens",
+          "number": "127",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Purple color-key swatch.",
+          "semantic_meaning": "Element category."
+        },
+        {
+          "source_text": "Elements are\npure substances.",
+          "number": "130",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Speech bubble beside a laboratory illustration.",
+          "semantic_meaning": "Statement about elements."
+        }
+      ]
+    },
+    {
+      "page": 167,
+      "title": null,
+      "context": "78.1 THE PERIODIC TABLE",
+      "entries": [
+        {
+          "source_text": "He\nhelium",
+          "number": "2",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Peach periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "B\nboron",
+          "number": "5",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Blue periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "C\ncarbon",
+          "number": "6",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Blue periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "N\nnitrogen",
+          "number": "7",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Blue periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "O\noxygen",
+          "number": "8",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Blue periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "F\nfluorine",
+          "number": "9",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Purple periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Ne\nneon",
+          "number": "10",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Peach periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Al\naluminum (US)\naluminium (UK)",
+          "number": "13",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Teal periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Si\nsilicon",
+          "number": "14",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Blue periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "P\nphosphorus",
+          "number": "15",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Blue periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "S\nsulfur (US)\nsulphur (UK)",
+          "number": "16",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Blue periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Cl\nchlorine",
+          "number": "17",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Purple periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Ar\nargon",
+          "number": "18",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Peach periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Ni\nnickel",
+          "number": "28",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Green periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Cu\ncopper",
+          "number": "29",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Green periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Zn\nzinc",
+          "number": "30",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Green periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Ga\ngallium",
+          "number": "31",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Teal periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Ge\ngermanium",
+          "number": "32",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Teal periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "As\narsenic",
+          "number": "33",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Blue periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Se\nselenium",
+          "number": "34",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Blue periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Br\nbromine",
+          "number": "35",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Purple periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Kr\nkrypton",
+          "number": "36",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Peach periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Pd\npalladium",
+          "number": "46",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Green periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Ag\nsilver",
+          "number": "47",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Green periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Cd\ncadmium",
+          "number": "48",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Green periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "In\nindium",
+          "number": "49",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Teal periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Sn\ntin",
+          "number": "50",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Teal periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Sb\nantimony",
+          "number": "51",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Light-blue periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Te\ntellurium",
+          "number": "52",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Blue periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "I\niodine",
+          "number": "53",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Purple periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Xe\nxenon",
+          "number": "54",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Peach periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Pt\nplatinum",
+          "number": "78",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Green periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Au\ngold",
+          "number": "79",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Green periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Hg\nmercury",
+          "number": "80",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Green periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Tl\nthallium",
+          "number": "81",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Teal periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Pb\nlead",
+          "number": "82",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Teal periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Bi\nbismuth",
+          "number": "83",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Teal periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Po\npolonium",
+          "number": "84",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Teal periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "At\nastatine",
+          "number": "85",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Purple periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Rn\nradon",
+          "number": "86",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Peach periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Ds\ndarmstadtium",
+          "number": "110",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Green periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Rg\nroentgenium",
+          "number": "111",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Green periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Cn\ncopernicium",
+          "number": "112",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Green periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Nh\nnihonium",
+          "number": "113",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Teal periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Fl\nflerovium",
+          "number": "114",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Teal periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Mc\nmoscovium",
+          "number": "115",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Teal periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Lv\nlivermorium",
+          "number": "116",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Teal periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Ts\ntennessine",
+          "number": "117",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Purple periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Og\noganesson",
+          "number": "118",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Peach periodic-table tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Eu\neuropium",
+          "number": "63",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Pale-yellow lanthanide tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Gd\ngadolinium",
+          "number": "64",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Pale-yellow lanthanide tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Tb\nterbium",
+          "number": "65",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Pale-yellow lanthanide tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Dy\ndysprosium",
+          "number": "66",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Pale-yellow lanthanide tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Ho\nholmium",
+          "number": "67",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Pale-yellow lanthanide tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Er\nerbium",
+          "number": "68",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Pale-yellow lanthanide tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Tm\nthulium",
+          "number": "69",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Pale-yellow lanthanide tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Yb\nytterbium",
+          "number": "70",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Pale-yellow lanthanide tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Lu\nlutetium",
+          "number": "71",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Pale-yellow lanthanide tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Am\namericium",
+          "number": "95",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Yellow actinide tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Cm\ncurium",
+          "number": "96",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Yellow actinide tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Bk\nberkelium",
+          "number": "97",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Yellow actinide tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Cf\ncalifornium",
+          "number": "98",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Yellow actinide tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Es\neinsteinium",
+          "number": "99",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Yellow actinide tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Fm\nfermium",
+          "number": "100",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Yellow actinide tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Md\nmendelevium",
+          "number": "101",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Yellow actinide tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "No\nnobelium",
+          "number": "102",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Yellow actinide tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "Lr\nlawrencium",
+          "number": "103",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Yellow actinide tile.",
+          "semantic_meaning": "Chemical element."
+        },
+        {
+          "source_text": "actinide series",
+          "number": "123",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Yellow color-key swatch.",
+          "semantic_meaning": "Element category."
+        },
+        {
+          "source_text": "noble gases",
+          "number": "128",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Peach color-key swatch.",
+          "semantic_meaning": "Element category."
+        },
+        {
+          "source_text": "Hydrogen is the most\ncommon element in the universe.",
+          "number": "129",
+          "section": "78.1 THE PERIODIC TABLE",
+          "visual_context": "Speech bubble beside a scientist holding a flask.",
+          "semantic_meaning": "Statement about hydrogen."
+        }
+      ]
+    }
+  ]
+}

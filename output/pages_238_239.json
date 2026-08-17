@@ -1,0 +1,389 @@
+{
+  "pages": [
+    {
+      "page": 238,
+      "title": "Tennis",
+      "context": "114.1 TENNIS MATCH",
+      "entries": [
+        {
+          "source_text": "umpire",
+          "number": "1",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "Pointer to the official seated beside the tennis net.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "net",
+          "number": "2",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "Pointer to the mesh barrier across the centre of the court.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "baseline",
+          "number": "3",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "Pointer to the end line of the tennis court.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "umpire’s chair",
+          "number": "4",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "Pointer to the tall chair used by the umpire.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ball boy / ball girl",
+          "number": "5",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "Pointer to the child crouching beside the umpire’s chair.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sideline",
+          "number": "6",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "Pointer to the long outer boundary line of the court.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "service line",
+          "number": "7",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "Pointer to the line within the court marking the service box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to serve",
+          "number": "8",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "Pointer to a player tossing a ball and preparing to hit it.",
+          "semantic_meaning": "to begin a point by putting the ball into play"
+        },
+        {
+          "source_text": "tennis court",
+          "number": "9",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "The complete marked playing court diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "handle",
+          "number": "10",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "Pointer to the grip at the bottom of the racket.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "racket",
+          "number": "11",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "Pointer to the player’s tennis racket.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "strings",
+          "number": "12",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "Pointer to the woven strings in the racket head.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ball",
+          "number": "13",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "Pointer to the yellow tennis ball above the player.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wristband",
+          "number": "14",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "Pointer to the white band around the player’s wrist.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tennis shoes",
+          "number": "15",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "Pointer to the player’s sports shoe.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "player",
+          "number": "16",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "The tennis player serving in the central illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "forehand",
+          "number": "17",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "Illustration of a player hitting with the front/palm side of the racket hand.",
+          "semantic_meaning": "a stroke played on the dominant-hand side"
+        },
+        {
+          "source_text": "backhand",
+          "number": "18",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "Illustration of a player hitting with the back of the racket hand facing the ball.",
+          "semantic_meaning": "a stroke played across the body"
+        },
+        {
+          "source_text": "volley",
+          "number": "19",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "Illustration of a player striking the ball in the air near the net.",
+          "semantic_meaning": "a shot hit before the ball bounces"
+        },
+        {
+          "source_text": "return",
+          "number": "20",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "Illustration of a player hitting an opponent’s shot back across the net.",
+          "semantic_meaning": "a shot sent back after an opponent’s shot"
+        },
+        {
+          "source_text": "lob",
+          "number": "21",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "Illustration showing the ball travelling in a high arc over a player.",
+          "semantic_meaning": "a high shot hit over an opponent"
+        },
+        {
+          "source_text": "slice",
+          "number": "22",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "Illustration of a player cutting under/across the ball.",
+          "semantic_meaning": "a shot that gives the ball backspin"
+        },
+        {
+          "source_text": "spin",
+          "number": "23",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "Illustration with arrows showing a spinning ball after it is hit.",
+          "semantic_meaning": "rotation applied to the ball"
+        },
+        {
+          "source_text": "ace",
+          "number": "24",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "Illustration of a serve landing untouched in the service box.",
+          "semantic_meaning": "a serve that the opponent cannot return"
+        },
+        {
+          "source_text": "dropshot",
+          "number": "25",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "Illustration of a softly hit ball dropping just over the net.",
+          "semantic_meaning": "a soft shot intended to fall close to the net"
+        },
+        {
+          "source_text": "let",
+          "number": "26",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "Illustration of a serve touching the net and landing in the service court.",
+          "semantic_meaning": "a serve replayed because it touches the net"
+        }
+      ]
+    },
+    {
+      "page": 239,
+      "title": "Tennis / RACKET GAMES",
+      "context": "Continuation of 114.1 TENNIS MATCH; 114.2 RACKET GAMES",
+      "entries": [
+        {
+          "source_text": "Cricket",
+          "number": "111",
+          "section": "See also",
+          "visual_context": "Printed in the See also cross-reference box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Baseball",
+          "number": "113",
+          "section": "See also",
+          "visual_context": "Printed in the See also cross-reference box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Golf",
+          "number": "115",
+          "section": "See also",
+          "visual_context": "Printed in the See also cross-reference box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Athletics",
+          "number": "116",
+          "section": "See also",
+          "visual_context": "Printed in the See also cross-reference box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "game",
+          "number": "27",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "Score display and two players separated by a net.",
+          "semantic_meaning": "a unit of scoring made up of points"
+        },
+        {
+          "source_text": "set",
+          "number": "28",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "Score display and players, including wheelchair players, on opposite sides of a net.",
+          "semantic_meaning": "a scoring unit made up of games"
+        },
+        {
+          "source_text": "match",
+          "number": "29",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "Score display above a tennis court with players and an umpire.",
+          "semantic_meaning": "the complete contest between players"
+        },
+        {
+          "source_text": "love",
+          "number": "30",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "Score display showing 0–0 above a tennis court.",
+          "semantic_meaning": "a score of zero"
+        },
+        {
+          "source_text": "fault",
+          "number": "31",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "Illustration of a serve landing outside the correct service area.",
+          "semantic_meaning": "an unsuccessful serve"
+        },
+        {
+          "source_text": "double fault",
+          "number": "32",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "Illustration of two unsuccessful serves, both outside the correct service area.",
+          "semantic_meaning": "two consecutive faulty serves, losing the point"
+        },
+        {
+          "source_text": "deuce",
+          "number": "33",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "Scoreboard showing 40–40.",
+          "semantic_meaning": "a score of 40–40"
+        },
+        {
+          "source_text": "advantage",
+          "number": "34",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "Scoreboard showing Ad–40 after deuce.",
+          "semantic_meaning": "the point needed to win after deuce"
+        },
+        {
+          "source_text": "tie-break",
+          "number": "35",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "Court and scoreboard showing a tiebreak score.",
+          "semantic_meaning": "a special game used to decide a tied set"
+        },
+        {
+          "source_text": "championship",
+          "number": "36",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "Players beside a net and a scoreboard showing 5:0.",
+          "semantic_meaning": "a competition to determine a champion"
+        },
+        {
+          "source_text": "score",
+          "number": "37",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "Pointer to a scoreboard reading 5:0.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rally",
+          "number": "38",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "Two players exchange the ball repeatedly across a net, shown with multiple ball paths.",
+          "semantic_meaning": "a sequence of shots exchanged by players"
+        },
+        {
+          "source_text": "2 players",
+          "number": "39",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "Pointer to a court with one player on each side of the net.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "singles",
+          "number": "40",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "Court diagram for one player against one player.",
+          "semantic_meaning": "a match with one player on each side"
+        },
+        {
+          "source_text": "linesman",
+          "number": "41",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "Pointer to an official watching the court from beside the playing area.",
+          "semantic_meaning": "an official who judges whether balls land in or out"
+        },
+        {
+          "source_text": "4 players",
+          "number": "42",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "Pointer to a court with two players on each side of the net.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "doubles",
+          "number": "43",
+          "section": "114.1 TENNIS MATCH",
+          "visual_context": "Court diagram for two players against two players.",
+          "semantic_meaning": "a match with two players on each side"
+        },
+        {
+          "source_text": "squash",
+          "number": "1",
+          "section": "114.2 RACKET GAMES",
+          "visual_context": "Purple illustration of two players hitting a ball in a walled court.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "racquetball",
+          "number": "2",
+          "section": "114.2 RACKET GAMES",
+          "visual_context": "Purple illustration of two players playing in an enclosed court.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ping pong / table tennis",
+          "number": "3",
+          "section": "114.2 RACKET GAMES",
+          "visual_context": "Purple illustration of two players hitting a ball across a table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "paddle (US) / bat (UK)",
+          "number": "4",
+          "section": "114.2 RACKET GAMES",
+          "visual_context": "Purple illustration of two table-tennis paddles.",
+          "semantic_meaning": "the implement used to hit the ball in table tennis"
+        },
+        {
+          "source_text": "badminton",
+          "number": "5",
+          "section": "114.2 RACKET GAMES",
+          "visual_context": "Purple illustration of players hitting a shuttlecock with rackets.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shuttlecock",
+          "number": "6",
+          "section": "114.2 RACKET GAMES",
+          "visual_context": "Purple illustration of the feathered projectile used in badminton.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

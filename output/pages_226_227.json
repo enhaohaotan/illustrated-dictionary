@@ -1,0 +1,354 @@
+{
+  "pages": [
+    {
+      "page": 226,
+      "title": "Rugby",
+      "context": "108.1 RUGBY",
+      "entries": [
+        {
+          "source_text": "loosehead prop",
+          "number": "1",
+          "section": "108.1 RUGBY",
+          "visual_context": "Numbered shirt 1 in the rugby-position formation diagram.",
+          "semantic_meaning": "Front-row forward on the left side of a scrum."
+        },
+        {
+          "source_text": "hooker",
+          "number": "2",
+          "section": "108.1 RUGBY",
+          "visual_context": "Numbered shirt 2 in the rugby-position formation diagram.",
+          "semantic_meaning": "Central front-row player in a scrum."
+        },
+        {
+          "source_text": "tighthead prop",
+          "number": "3",
+          "section": "108.1 RUGBY",
+          "visual_context": "Numbered shirt 3 in the rugby-position formation diagram.",
+          "semantic_meaning": "Front-row forward on the right side of a scrum."
+        },
+        {
+          "source_text": "second row",
+          "number": "4",
+          "section": "108.1 RUGBY",
+          "visual_context": "Numbered shirt 4 in the rugby-position formation diagram.",
+          "semantic_meaning": "Lock forward."
+        },
+        {
+          "source_text": "second row",
+          "number": "5",
+          "section": "108.1 RUGBY",
+          "visual_context": "Numbered shirt 5 in the rugby-position formation diagram.",
+          "semantic_meaning": "Lock forward."
+        },
+        {
+          "source_text": "blindside flanker",
+          "number": "6",
+          "section": "108.1 RUGBY",
+          "visual_context": "Numbered shirt 6 in the rugby-position formation diagram.",
+          "semantic_meaning": "Flanker on the short, or blind, side of the scrum."
+        },
+        {
+          "source_text": "openside flanker",
+          "number": "7",
+          "section": "108.1 RUGBY",
+          "visual_context": "Numbered shirt 7 in the rugby-position formation diagram.",
+          "semantic_meaning": "Flanker on the open side of the scrum."
+        },
+        {
+          "source_text": "number eight",
+          "number": "8",
+          "section": "108.1 RUGBY",
+          "visual_context": "Numbered shirt 8 at the back of the scrum formation.",
+          "semantic_meaning": "Forward positioned at the rear of the scrum."
+        },
+        {
+          "source_text": "scrum-half",
+          "number": "9",
+          "section": "108.1 RUGBY",
+          "visual_context": "Wheelchair rugby player illustration.",
+          "semantic_meaning": "Player who links forwards and backs at scrums."
+        },
+        {
+          "source_text": "fly-half",
+          "number": "10",
+          "section": "108.1 RUGBY",
+          "visual_context": "Wheelchair rugby player illustration.",
+          "semantic_meaning": "Back who commonly directs attacking play."
+        },
+        {
+          "source_text": "left-wing",
+          "number": "11",
+          "section": "108.1 RUGBY",
+          "visual_context": "Numbered shirt 11 on the left side of the formation.",
+          "semantic_meaning": "Left-side wing player."
+        },
+        {
+          "source_text": "inside center (US)\ninside centre (UK)",
+          "number": "12",
+          "section": "108.1 RUGBY",
+          "visual_context": "Numbered shirt 12 in the backline formation.",
+          "semantic_meaning": "Inside of the two centre positions."
+        },
+        {
+          "source_text": "outside center (US)\noutside centre (UK)",
+          "number": "13",
+          "section": "108.1 RUGBY",
+          "visual_context": "Numbered shirt 13 in the backline formation.",
+          "semantic_meaning": "Outer of the two centre positions."
+        },
+        {
+          "source_text": "right wing",
+          "number": "14",
+          "section": "108.1 RUGBY",
+          "visual_context": "Numbered shirt 14 on the right side of the formation.",
+          "semantic_meaning": "Right-side wing player."
+        },
+        {
+          "source_text": "full back",
+          "number": "15",
+          "section": "108.1 RUGBY",
+          "visual_context": "Numbered shirt 15 at the rear of the formation.",
+          "semantic_meaning": "Deepest back-field defender."
+        },
+        {
+          "source_text": "rugby positions",
+          "number": "16",
+          "section": "108.1 RUGBY",
+          "visual_context": "Label beneath the numbered team-position field diagram.",
+          "semantic_meaning": "The numbered player roles in a rugby team."
+        },
+        {
+          "source_text": "player",
+          "number": "17",
+          "section": "108.1 RUGBY",
+          "visual_context": "Illustration of a running player carrying a rugby ball.",
+          "semantic_meaning": "Person taking part in a rugby match."
+        },
+        {
+          "source_text": "rugby ball",
+          "number": "18",
+          "section": "108.1 RUGBY",
+          "visual_context": "Green-and-white oval ball illustration.",
+          "semantic_meaning": "Oval ball used in rugby."
+        },
+        {
+          "source_text": "rugby shirt",
+          "number": "19",
+          "section": "108.1 RUGBY",
+          "visual_context": "Blue short-sleeved rugby top illustration.",
+          "semantic_meaning": "Short-sleeved rugby team top."
+        },
+        {
+          "source_text": "rugby jersey",
+          "number": "20",
+          "section": "108.1 RUGBY",
+          "visual_context": "Striped long-sleeved rugby top illustration.",
+          "semantic_meaning": "Rugby team shirt or top."
+        },
+        {
+          "source_text": "try line",
+          "number": "21",
+          "section": "108.1 RUGBY",
+          "visual_context": "Pointer to the solid line across the pitch at the scoring end.",
+          "semantic_meaning": "Line a player must cross to score a try."
+        },
+        {
+          "source_text": "dead ball line",
+          "number": "22",
+          "section": "108.1 RUGBY",
+          "visual_context": "Pointer to the boundary line behind the try line.",
+          "semantic_meaning": "End boundary line beyond the in-goal area."
+        },
+        {
+          "source_text": "goal",
+          "number": "23",
+          "section": "108.1 RUGBY",
+          "visual_context": "Pointer to the H-shaped scoring structure at the end of the pitch.",
+          "semantic_meaning": "The structure through which kicks score points."
+        },
+        {
+          "source_text": "goal posts",
+          "number": "24",
+          "section": "108.1 RUGBY",
+          "visual_context": "Pointer to the two upright posts of the goal.",
+          "semantic_meaning": "Vertical uprights of a rugby goal."
+        },
+        {
+          "source_text": "quad rugby (US)\nwheelchair rugby (UK)",
+          "number": "36",
+          "section": "108.1 RUGBY",
+          "visual_context": "Two athletes playing rugby in wheelchairs.",
+          "semantic_meaning": "A wheelchair team sport also called quad rugby."
+        }
+      ]
+    },
+    {
+      "page": 227,
+      "title": "Rugby",
+      "context": "108.1 RUGBY",
+      "entries": [
+        {
+          "source_text": "American football",
+          "number": "107",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the See also box.",
+          "semantic_meaning": "Related vocabulary topic."
+        },
+        {
+          "source_text": "Soccer / Football",
+          "number": "109",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the See also box.",
+          "semantic_meaning": "Related vocabulary topic."
+        },
+        {
+          "source_text": "Hockey and lacrosse",
+          "number": "110",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the See also box.",
+          "semantic_meaning": "Related vocabulary topic."
+        },
+        {
+          "source_text": "Basketball and volleyball",
+          "number": "112",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the See also box.",
+          "semantic_meaning": "Related vocabulary topic."
+        },
+        {
+          "source_text": "5-meter line (US)\n5-metre line (UK)",
+          "number": "25",
+          "section": "108.1 RUGBY",
+          "visual_context": "Pointer to the dashed field line five metres from the try line.",
+          "semantic_meaning": "Pitch marking five metres from the try line."
+        },
+        {
+          "source_text": "players",
+          "number": "26",
+          "section": "108.1 RUGBY",
+          "visual_context": "Pointer to the group of red- and blue-shirted players on the pitch.",
+          "semantic_meaning": "People taking part in the match."
+        },
+        {
+          "source_text": "referee",
+          "number": "27",
+          "section": "108.1 RUGBY",
+          "visual_context": "Pointer to the official in black beside the players.",
+          "semantic_meaning": "Match official who enforces the rules."
+        },
+        {
+          "source_text": "in-goal area",
+          "number": "28",
+          "section": "108.1 RUGBY",
+          "visual_context": "Pointer to the area behind the try line and before the dead ball line.",
+          "semantic_meaning": "Scoring area at each end of a rugby pitch."
+        },
+        {
+          "source_text": "crossbar",
+          "number": "29",
+          "section": "108.1 RUGBY",
+          "visual_context": "Pointer to the horizontal bar between the goal posts.",
+          "semantic_meaning": "Horizontal bar joining the goal posts."
+        },
+        {
+          "source_text": "playing surface",
+          "number": "30",
+          "section": "108.1 RUGBY",
+          "visual_context": "Pointer to the green ground of the rugby pitch.",
+          "semantic_meaning": "The ground on which rugby is played."
+        },
+        {
+          "source_text": "rugby pitch",
+          "number": "31",
+          "section": "108.1 RUGBY",
+          "visual_context": "Label for the full marked rugby field diagram.",
+          "semantic_meaning": "Field used for rugby."
+        },
+        {
+          "source_text": "halfway line",
+          "number": "32",
+          "section": "108.1 RUGBY",
+          "visual_context": "Pointer to the central line across the pitch.",
+          "semantic_meaning": "Line dividing the pitch into two halves."
+        },
+        {
+          "source_text": "10-meter line (US)\n10-metre line (UK)",
+          "number": "33",
+          "section": "108.1 RUGBY",
+          "visual_context": "Pointer to the dashed line ten metres from the halfway line.",
+          "semantic_meaning": "Pitch marking ten metres from the halfway line."
+        },
+        {
+          "source_text": "22-meter line (US)\n22-metre line (UK)",
+          "number": "34",
+          "section": "108.1 RUGBY",
+          "visual_context": "Pointer to the line marked 22 near the goal end.",
+          "semantic_meaning": "Pitch marking 22 metres from the try line."
+        },
+        {
+          "source_text": "touch-in-goal line",
+          "number": "35",
+          "section": "108.1 RUGBY",
+          "visual_context": "Pointer to the side boundary of the in-goal area.",
+          "semantic_meaning": "Side boundary line of the in-goal area."
+        },
+        {
+          "source_text": "to throw",
+          "number": "37",
+          "section": "108.1 RUGBY",
+          "visual_context": "Player shown releasing a ball toward another player.",
+          "semantic_meaning": "To propel the ball by hand."
+        },
+        {
+          "source_text": "to pass",
+          "number": "38",
+          "section": "108.1 RUGBY",
+          "visual_context": "Sequence showing a player transferring a ball to a teammate.",
+          "semantic_meaning": "To send the ball to a teammate."
+        },
+        {
+          "source_text": "to tackle",
+          "number": "39",
+          "section": "108.1 RUGBY",
+          "visual_context": "Player stopping an opponent by holding them.",
+          "semantic_meaning": "To bring down or impede a ball carrier."
+        },
+        {
+          "source_text": "to kick",
+          "number": "40",
+          "section": "108.1 RUGBY",
+          "visual_context": "Player kicking a ball with a raised leg.",
+          "semantic_meaning": "To strike the ball with the foot."
+        },
+        {
+          "source_text": "conversion",
+          "number": "41",
+          "section": "108.1 RUGBY",
+          "visual_context": "Player kicking the ball toward goal posts after a try.",
+          "semantic_meaning": "Kick at goal attempted after scoring a try."
+        },
+        {
+          "source_text": "try",
+          "number": "42",
+          "section": "108.1 RUGBY",
+          "visual_context": "Player grounding the ball over the try line.",
+          "semantic_meaning": "A score made by grounding the ball in the in-goal area."
+        },
+        {
+          "source_text": "ruck",
+          "number": "43",
+          "section": "108.1 RUGBY",
+          "visual_context": "Two opposing players bound over a ball on the ground.",
+          "semantic_meaning": "Contest for the ball after a tackle."
+        },
+        {
+          "source_text": "scrum",
+          "number": "44",
+          "section": "108.1 RUGBY",
+          "visual_context": "Two packs of players bound together around the ball.",
+          "semantic_meaning": "Set formation used to restart play."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "pages": [
+    {
+      "page": 256,
+      "title": "Motorsports",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "RACE CAR (US) / RACING CAR (UK)",
+          "number": null,
+          "section": "123.1 RACE CAR (US) / RACING CAR (UK)",
+          "visual_context": "Section heading above an illustrated race car and driver.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "racing overalls",
+          "number": "1",
+          "section": "123.1 RACE CAR (US) / RACING CAR (UK)",
+          "visual_context": "Pointer to the driver's red racing suit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "helmet",
+          "number": "2",
+          "section": "123.1 RACE CAR (US) / RACING CAR (UK)",
+          "visual_context": "Pointer to the yellow helmet held by the driver.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "race car driver (US) racing driver (UK)",
+          "number": "3",
+          "section": "123.1 RACE CAR (US) / RACING CAR (UK)",
+          "visual_context": "Label beneath the illustrated driver.",
+          "semantic_meaning": "Person who drives a race car."
+        },
+        {
+          "source_text": "bodywork",
+          "number": "4",
+          "section": "123.1 RACE CAR (US) / RACING CAR (UK)",
+          "visual_context": "Shown as the outer blue car body in a small car diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chassis",
+          "number": "5",
+          "section": "123.1 RACE CAR (US) / RACING CAR (UK)",
+          "visual_context": "Shown as the underlying frame in a small car diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cockpit",
+          "number": "6",
+          "section": "123.1 RACE CAR (US) / RACING CAR (UK)",
+          "visual_context": "Pointer to the driver's seating compartment.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "headrest",
+          "number": "7",
+          "section": "123.1 RACE CAR (US) / RACING CAR (UK)",
+          "visual_context": "Pointer to the padded support behind the driver's head.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "engine intake",
+          "number": "8",
+          "section": "123.1 RACE CAR (US) / RACING CAR (UK)",
+          "visual_context": "Pointer to the air intake behind the cockpit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "camera mount",
+          "number": "9",
+          "section": "123.1 RACE CAR (US) / RACING CAR (UK)",
+          "visual_context": "Pointer to the mount above the cockpit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rear wing",
+          "number": "10",
+          "section": "123.1 RACE CAR (US) / RACING CAR (UK)",
+          "visual_context": "Pointer to the large wing at the rear of the car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nose cone",
+          "number": "11",
+          "section": "123.1 RACE CAR (US) / RACING CAR (UK)",
+          "visual_context": "Pointer to the yellow front nose section.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "front wing",
+          "number": "12",
+          "section": "123.1 RACE CAR (US) / RACING CAR (UK)",
+          "visual_context": "Pointer to the blue-and-yellow aerodynamic wing at the front.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "front suspension",
+          "number": "13",
+          "section": "123.1 RACE CAR (US) / RACING CAR (UK)",
+          "visual_context": "Pointer to the linkage between the front wheel and car body.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "brake cooling intake",
+          "number": "14",
+          "section": "123.1 RACE CAR (US) / RACING CAR (UK)",
+          "visual_context": "Pointer to an intake near the front wheel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "seat belts",
+          "number": "15",
+          "section": "123.1 RACE CAR (US) / RACING CAR (UK)",
+          "visual_context": "Pointer to the harness straps in the cockpit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rear suspension",
+          "number": "16",
+          "section": "123.1 RACE CAR (US) / RACING CAR (UK)",
+          "visual_context": "Pointer to the linkage by the rear wheel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "TYPES OF MOTORSPORTS",
+          "number": null,
+          "section": "123.2 TYPES OF MOTORSPORTS",
+          "visual_context": "Section heading above illustrations of motorsport types.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "auto racing (US) motor racing (UK)",
+          "number": "1",
+          "section": "123.2 TYPES OF MOTORSPORTS",
+          "visual_context": "Illustration of race cars driving at speed.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rally driving",
+          "number": "2",
+          "section": "123.2 TYPES OF MOTORSPORTS",
+          "visual_context": "Illustration of a car jumping on a rough rally course.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "drag racing",
+          "number": "3",
+          "section": "123.2 TYPES OF MOTORSPORTS",
+          "visual_context": "Illustration of two cars accelerating beside drag-race lights.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 257,
+      "title": null,
+      "context": "Motorsports",
+      "entries": [
+        {
+          "source_text": "RACE TRACK",
+          "number": null,
+          "section": "123.3 RACE TRACK",
+          "visual_context": "Section heading above a labeled circuit diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hairpin turn",
+          "number": "1",
+          "section": "123.3 RACE TRACK",
+          "visual_context": "Pointer to the tight U-shaped bend at the top of the circuit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chicane",
+          "number": "2",
+          "section": "123.3 RACE TRACK",
+          "visual_context": "Pointer to the sequence of tight bends on the left side of the circuit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "checkered flag (US) chequered flag (UK)",
+          "number": "3",
+          "section": "123.3 RACE TRACK",
+          "visual_context": "Pointer to the black-and-white flag at the finish area.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pit stop",
+          "number": "4",
+          "section": "123.3 RACE TRACK",
+          "visual_context": "Pointer to mechanics servicing a race car beside the pit building.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pit lane",
+          "number": "5",
+          "section": "123.3 RACE TRACK",
+          "visual_context": "Pointer to the lane beside the pit garages.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "finish line",
+          "number": "6",
+          "section": "123.3 RACE TRACK",
+          "visual_context": "Pointer to the marked line across the track at the finish gantry.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "starting grid",
+          "number": "7",
+          "section": "123.3 RACE TRACK",
+          "visual_context": "Pointer to the marked starting positions on the track.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pole position",
+          "number": "8",
+          "section": "123.3 RACE TRACK",
+          "visual_context": "Pointer to the foremost starting-grid position.",
+          "semantic_meaning": "First position on the starting grid."
+        },
+        {
+          "source_text": "homestretch",
+          "number": "9",
+          "section": "123.3 RACE TRACK",
+          "visual_context": "Pointer to the final straight section of the circuit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "blowout",
+          "number": "10",
+          "section": "123.3 RACE TRACK",
+          "visual_context": "Illustration of a race car with a burst tire.",
+          "semantic_meaning": "Sudden bursting of a tire."
+        },
+        {
+          "source_text": "qualifying",
+          "number": "11",
+          "section": "123.3 RACE TRACK",
+          "visual_context": "Illustration of a race car driving alone during a timed session.",
+          "semantic_meaning": "Session used to determine starting positions."
+        },
+        {
+          "source_text": "motorcycle racing (US) motorbike racing (UK)",
+          "number": "4",
+          "section": "123.2 TYPES OF MOTORSPORTS",
+          "visual_context": "Illustration of motorcycles racing at speed.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "speedway",
+          "number": "5",
+          "section": "123.2 TYPES OF MOTORSPORTS",
+          "visual_context": "Illustration of a motorcycle sliding around a dirt track.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "motocross",
+          "number": "6",
+          "section": "123.2 TYPES OF MOTORSPORTS",
+          "visual_context": "Illustration of a motorcycle jumping over off-road terrain.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "monster truck",
+          "number": "7",
+          "section": "123.2 TYPES OF MOTORSPORTS",
+          "visual_context": "Illustration of a large truck with oversized wheels.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "go-cart",
+          "number": "8",
+          "section": "123.2 TYPES OF MOTORSPORTS",
+          "visual_context": "Illustration of a small open-wheel kart.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

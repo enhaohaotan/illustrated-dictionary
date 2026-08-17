@@ -1,0 +1,466 @@
+{
+  "pages": [
+    {
+      "page": 310,
+      "title": "Countries continued",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "Canada",
+          "number": "1",
+          "section": "150.1 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "visual_context": "Flag of Canada.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "United States\nof America",
+          "number": "2",
+          "section": "150.1 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "visual_context": "Flag of the United States of America.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Mexico",
+          "number": "3",
+          "section": "150.1 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "visual_context": "Flag of Mexico.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Guatemala",
+          "number": "4",
+          "section": "150.1 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "visual_context": "Flag of Guatemala.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Belize",
+          "number": "5",
+          "section": "150.1 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "visual_context": "Flag of Belize.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "El Salvador",
+          "number": "6",
+          "section": "150.1 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "visual_context": "Flag of El Salvador.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Honduras",
+          "number": "8",
+          "section": "150.1 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "visual_context": "Flag of Honduras.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Nicaragua",
+          "number": "9",
+          "section": "150.1 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "visual_context": "Flag of Nicaragua.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Costa Rica",
+          "number": "10",
+          "section": "150.1 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "visual_context": "Flag of Costa Rica.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Panama",
+          "number": "11",
+          "section": "150.1 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "visual_context": "Flag of Panama.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Cuba",
+          "number": "12",
+          "section": "150.1 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "visual_context": "Flag of Cuba.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Bahamas",
+          "number": "13",
+          "section": "150.1 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "visual_context": "Flag of the Bahamas.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Jamaica",
+          "number": "15",
+          "section": "150.1 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "visual_context": "Flag of Jamaica.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Haiti",
+          "number": "16",
+          "section": "150.1 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "visual_context": "Flag of Haiti.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Dominican\nRepublic",
+          "number": "17",
+          "section": "150.1 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "visual_context": "Flag of the Dominican Republic.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Barbados",
+          "number": "18",
+          "section": "150.1 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "visual_context": "Flag of Barbados.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Trinidad and\nTobago",
+          "number": "19",
+          "section": "150.1 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "visual_context": "Flag of Trinidad and Tobago.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "St. Kitts and\nNevis",
+          "number": "20",
+          "section": "150.1 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "visual_context": "Flag of St. Kitts and Nevis.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Dominica",
+          "number": "22",
+          "section": "150.1 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "visual_context": "Pointer to the flag of Dominica.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Antigua and\nBarbuda",
+          "number": "23",
+          "section": "150.1 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "visual_context": "Pointer to the flag of Antigua and Barbuda.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Papua New\nGuinea",
+          "number": "1",
+          "section": "150.2 OCEANIA",
+          "visual_context": "Flag of Papua New Guinea.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Australia",
+          "number": "2",
+          "section": "150.2 OCEANIA",
+          "visual_context": "Flag of Australia.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "New Zealand",
+          "number": "3",
+          "section": "150.2 OCEANIA",
+          "visual_context": "Flag of New Zealand.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Marshall\nIslands",
+          "number": "4",
+          "section": "150.2 OCEANIA",
+          "visual_context": "Flag of the Marshall Islands.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Palau",
+          "number": "5",
+          "section": "150.2 OCEANIA",
+          "visual_context": "Flag of Palau.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Micronesia",
+          "number": "6",
+          "section": "150.2 OCEANIA",
+          "visual_context": "Flag of Micronesia.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Nauru",
+          "number": "8",
+          "section": "150.2 OCEANIA",
+          "visual_context": "Flag of Nauru.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Kiribati",
+          "number": "9",
+          "section": "150.2 OCEANIA",
+          "visual_context": "Flag of Kiribati.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Tuvalu",
+          "number": "10",
+          "section": "150.2 OCEANIA",
+          "visual_context": "Flag of Tuvalu.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Samoa",
+          "number": "11",
+          "section": "150.2 OCEANIA",
+          "visual_context": "Flag of Samoa.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Tonga",
+          "number": "12",
+          "section": "150.2 OCEANIA",
+          "visual_context": "Flag of Tonga.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Vanuatu",
+          "number": "13",
+          "section": "150.2 OCEANIA",
+          "visual_context": "Flag of Vanuatu.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 311,
+      "title": "Countries continued",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "Grenada",
+          "number": "7",
+          "section": "150.1 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "visual_context": "Flag of Grenada.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "St. Lucia",
+          "number": "14",
+          "section": "150.1 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "visual_context": "Flag of St. Lucia.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "St. Vincent\nand The\nGrenadines",
+          "number": "21",
+          "section": "150.1 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "visual_context": "Flag of St. Vincent and The Grenadines.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Solomon\nIslands",
+          "number": "7",
+          "section": "150.2 OCEANIA",
+          "visual_context": "Flag of the Solomon Islands.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Fiji",
+          "number": "14",
+          "section": "150.2 OCEANIA",
+          "visual_context": "Flag of Fiji.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Turkey",
+          "number": "1",
+          "section": "150.3 ASIA",
+          "visual_context": "Flag of Turkey.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Russian\nFederation",
+          "number": "2",
+          "section": "150.3 ASIA",
+          "visual_context": "Flag of the Russian Federation.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Georgia",
+          "number": "3",
+          "section": "150.3 ASIA",
+          "visual_context": "Flag of Georgia.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Armenia",
+          "number": "4",
+          "section": "150.3 ASIA",
+          "visual_context": "Flag of Armenia.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Azerbaijan",
+          "number": "5",
+          "section": "150.3 ASIA",
+          "visual_context": "Flag of Azerbaijan.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Iraq",
+          "number": "6",
+          "section": "150.3 ASIA",
+          "visual_context": "Flag of Iraq.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Syria",
+          "number": "7",
+          "section": "150.3 ASIA",
+          "visual_context": "Flag of Syria.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Lebanon",
+          "number": "8",
+          "section": "150.3 ASIA",
+          "visual_context": "Flag of Lebanon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Israel",
+          "number": "9",
+          "section": "150.3 ASIA",
+          "visual_context": "Flag of Israel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Jordan",
+          "number": "10",
+          "section": "150.3 ASIA",
+          "visual_context": "Flag of Jordan.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Pakistan",
+          "number": "11",
+          "section": "150.3 ASIA",
+          "visual_context": "Flag of Pakistan.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "India",
+          "number": "12",
+          "section": "150.3 ASIA",
+          "visual_context": "Flag of India.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Maldives",
+          "number": "13",
+          "section": "150.3 ASIA",
+          "visual_context": "Flag of the Maldives.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Sri Lanka",
+          "number": "14",
+          "section": "150.3 ASIA",
+          "visual_context": "Flag of Sri Lanka.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "China",
+          "number": "15",
+          "section": "150.3 ASIA",
+          "visual_context": "Flag of China.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Mongolia",
+          "number": "16",
+          "section": "150.3 ASIA",
+          "visual_context": "Flag of Mongolia.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "North Korea",
+          "number": "17",
+          "section": "150.3 ASIA",
+          "visual_context": "Flag of North Korea.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "South Korea",
+          "number": "18",
+          "section": "150.3 ASIA",
+          "visual_context": "Flag of South Korea.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Japan",
+          "number": "19",
+          "section": "150.3 ASIA",
+          "visual_context": "Flag of Japan.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Bangladesh",
+          "number": "20",
+          "section": "150.3 ASIA",
+          "visual_context": "Flag of Bangladesh.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Bhutan",
+          "number": "21",
+          "section": "150.3 ASIA",
+          "visual_context": "Flag of Bhutan.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Myanmar\n(Burma)",
+          "number": "22",
+          "section": "150.3 ASIA",
+          "visual_context": "Flag of Myanmar.",
+          "semantic_meaning": "Myanmar, also shown with Burma in parentheses."
+        },
+        {
+          "source_text": "Thailand",
+          "number": "23",
+          "section": "150.3 ASIA",
+          "visual_context": "Flag of Thailand.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Laos",
+          "number": "24",
+          "section": "150.3 ASIA",
+          "visual_context": "Flag of Laos.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Vietnam",
+          "number": "25",
+          "section": "150.3 ASIA",
+          "visual_context": "Flag of Vietnam.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Cambodia",
+          "number": "26",
+          "section": "150.3 ASIA",
+          "visual_context": "Flag of Cambodia.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Nepal",
+          "number": "27",
+          "section": "150.3 ASIA",
+          "visual_context": "Flag of Nepal.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

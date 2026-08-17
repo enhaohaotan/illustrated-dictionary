@@ -1,0 +1,459 @@
+{
+  "pages": [
+    {
+      "page": 114,
+      "title": "Energy and power supply",
+      "context": "51.1 NUCLEAR ENERGY AND FOSSIL FUELS",
+      "entries": [
+        {
+          "source_text": "water vapor (US) water vapour (UK)",
+          "number": "1",
+          "section": "51.1 NUCLEAR ENERGY AND FOSSIL FUELS",
+          "visual_context": "Steam rising from the nuclear plant cooling tower.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cooling tower",
+          "number": "2",
+          "section": "51.1 NUCLEAR ENERGY AND FOSSIL FUELS",
+          "visual_context": "Large hyperboloid tower at the nuclear plant.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fuel rods",
+          "number": "3",
+          "section": "51.1 NUCLEAR ENERGY AND FOSSIL FUELS",
+          "visual_context": "Vertical rods inside the reactor building.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "electricity",
+          "number": "4",
+          "section": "51.1 NUCLEAR ENERGY AND FOSSIL FUELS",
+          "visual_context": "Lightning-bolt symbol and arrows leaving the nuclear plant.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nuclear waste",
+          "number": "5",
+          "section": "51.1 NUCLEAR ENERGY AND FOSSIL FUELS",
+          "visual_context": "Yellow radioactive-waste barrel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "reactor",
+          "number": "6",
+          "section": "51.1 NUCLEAR ENERGY AND FOSSIL FUELS",
+          "visual_context": "Nuclear plant reactor structure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nuclear plant (US) / station (UK)",
+          "number": "7",
+          "section": "51.1 NUCLEAR ENERGY AND FOSSIL FUELS",
+          "visual_context": "Entire nuclear power facility.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "coal",
+          "number": "8",
+          "section": "51.1 NUCLEAR ENERGY AND FOSSIL FUELS",
+          "visual_context": "Pile of black coal.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "oil",
+          "number": "9",
+          "section": "51.1 NUCLEAR ENERGY AND FOSSIL FUELS",
+          "visual_context": "Oil barrels and oil-pump equipment.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gas",
+          "number": "10",
+          "section": "51.1 NUCLEAR ENERGY AND FOSSIL FUELS",
+          "visual_context": "Orange gas cylinders.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fossil fuels",
+          "number": "11",
+          "section": "51.1 NUCLEAR ENERGY AND FOSSIL FUELS",
+          "visual_context": "Coal, oil, and gas grouped together.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "open-pit mining (US) / open-cast mining (UK)",
+          "number": "12",
+          "section": "51.1 NUCLEAR ENERGY AND FOSSIL FUELS",
+          "visual_context": "Excavator and dump truck working in an open mine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "derrick",
+          "number": "13",
+          "section": "51.1 NUCLEAR ENERGY AND FOSSIL FUELS",
+          "visual_context": "Oil pumping derrick.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "oil field",
+          "number": "14",
+          "section": "51.1 NUCLEAR ENERGY AND FOSSIL FUELS",
+          "visual_context": "Landscape containing several oil derricks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shale",
+          "number": "15",
+          "section": "51.1 NUCLEAR ENERGY AND FOSSIL FUELS",
+          "visual_context": "Underground rock layer in the fracking diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shale gas",
+          "number": "16",
+          "section": "51.1 NUCLEAR ENERGY AND FOSSIL FUELS",
+          "visual_context": "Gas trapped in the underground shale formation.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fissures",
+          "number": "17",
+          "section": "51.1 NUCLEAR ENERGY AND FOSSIL FUELS",
+          "visual_context": "Cracks in shale around the horizontal well.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fracking",
+          "number": "18",
+          "section": "51.1 NUCLEAR ENERGY AND FOSSIL FUELS",
+          "visual_context": "Diagram of fluid injection and gas extraction from shale.",
+          "semantic_meaning": "Hydraulic fracturing."
+        },
+        {
+          "source_text": "flare",
+          "number": "19",
+          "section": "51.1 NUCLEAR ENERGY AND FOSSIL FUELS",
+          "visual_context": "Flame burning at the top of an offshore drilling rig.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "helipad",
+          "number": "20",
+          "section": "51.1 NUCLEAR ENERGY AND FOSSIL FUELS",
+          "visual_context": "Helicopter landing platform on the offshore rig.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sea bed",
+          "number": "21",
+          "section": "51.1 NUCLEAR ENERGY AND FOSSIL FUELS",
+          "visual_context": "Bottom layer beneath the sea around the offshore rig.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "oil",
+          "number": "22",
+          "section": "51.1 NUCLEAR ENERGY AND FOSSIL FUELS",
+          "visual_context": "Underground yellow oil deposit below the offshore rig.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "drilling rig",
+          "number": "23",
+          "section": "51.1 NUCLEAR ENERGY AND FOSSIL FUELS",
+          "visual_context": "Offshore oil platform.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mine shaft",
+          "number": "24",
+          "section": "51.1 NUCLEAR ENERGY AND FOSSIL FUELS",
+          "visual_context": "Vertical shaft descending into the coal mine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "miners",
+          "number": "25",
+          "section": "51.1 NUCLEAR ENERGY AND FOSSIL FUELS",
+          "visual_context": "Workers underground in the mine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "coal mine",
+          "number": "26",
+          "section": "51.1 NUCLEAR ENERGY AND FOSSIL FUELS",
+          "visual_context": "Underground mining cross-section.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "emissions",
+          "number": "27",
+          "section": "51.1 NUCLEAR ENERGY AND FOSSIL FUELS",
+          "visual_context": "Smoke released from factory chimneys.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "clouds",
+          "number": "28",
+          "section": "51.1 NUCLEAR ENERGY AND FOSSIL FUELS",
+          "visual_context": "Clouds above the industrial and mountain landscape.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wind",
+          "number": "29",
+          "section": "51.1 NUCLEAR ENERGY AND FOSSIL FUELS",
+          "visual_context": "Arrow carrying pollution through the air.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rain",
+          "number": "30",
+          "section": "51.1 NUCLEAR ENERGY AND FOSSIL FUELS",
+          "visual_context": "Rain falling over the hills.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "acid rain",
+          "number": "31",
+          "section": "51.1 NUCLEAR ENERGY AND FOSSIL FUELS",
+          "visual_context": "Polluted rainfall and runoff entering the lake.",
+          "semantic_meaning": "Rain made acidic by atmospheric pollution."
+        }
+      ]
+    },
+    {
+      "page": 115,
+      "title": "Energy and power supply",
+      "context": "51.2 RENEWABLE ENERGY",
+      "entries": [
+        {
+          "source_text": "Electrics and plumbing",
+          "number": "33",
+          "section": "See also:",
+          "visual_context": "Cross-reference topic listed in the top-right box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "In town",
+          "number": "42-43",
+          "section": "See also:",
+          "visual_context": "Cross-reference topic listed in the top-right box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Planet Earth",
+          "number": "145",
+          "section": "See also:",
+          "visual_context": "Cross-reference topic listed in the top-right box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Climate and the environment",
+          "number": "155",
+          "section": "See also:",
+          "visual_context": "Cross-reference topic listed in the top-right box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "solar farm",
+          "number": "1",
+          "section": "51.2 RENEWABLE ENERGY",
+          "visual_context": "Group of solar panels on a hillside.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "solar panel",
+          "number": "2",
+          "section": "51.2 RENEWABLE ENERGY",
+          "visual_context": "One photovoltaic panel in the solar farm.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tidal energy",
+          "number": "3",
+          "section": "51.2 RENEWABLE ENERGY",
+          "visual_context": "Underwater tidal-energy devices near the shore.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wind farm",
+          "number": "4",
+          "section": "51.2 RENEWABLE ENERGY",
+          "visual_context": "Group of wind turbines on the hill.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "biomass energy",
+          "number": "5",
+          "section": "51.2 RENEWABLE ENERGY",
+          "visual_context": "Plant and machinery associated with biomass energy in the landscape.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hydroelectric energy",
+          "number": "6",
+          "section": "51.2 RENEWABLE ENERGY",
+          "visual_context": "Dam and flowing water used to generate power.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "geothermal plant (US) station (UK)",
+          "number": "7",
+          "section": "51.2 RENEWABLE ENERGY",
+          "visual_context": "Surface geothermal power facility with pipes into the ground.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "geothermal energy",
+          "number": "8",
+          "section": "51.2 RENEWABLE ENERGY",
+          "visual_context": "Heat-energy path below the geothermal plant.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "green energy",
+          "number": "9",
+          "section": "51.2 RENEWABLE ENERGY",
+          "visual_context": "General label for the renewable-energy illustrations.",
+          "semantic_meaning": "Energy from environmentally sustainable sources."
+        },
+        {
+          "source_text": "solar energy",
+          "number": "10",
+          "section": "51.2 RENEWABLE ENERGY",
+          "visual_context": "Sunlight striking a solar panel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "solar water heating",
+          "number": "11",
+          "section": "51.2 RENEWABLE ENERGY",
+          "visual_context": "Solar panel heating water for a tank.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sluice gates",
+          "number": "12",
+          "section": "51.2 RENEWABLE ENERGY",
+          "visual_context": "Water-control gates in the tidal barrage.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "turbine",
+          "number": "13",
+          "section": "51.2 RENEWABLE ENERGY",
+          "visual_context": "Turbine inside the tidal barrage.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tidal barrage",
+          "number": "14",
+          "section": "51.2 RENEWABLE ENERGY",
+          "visual_context": "Structure across tidal water containing a turbine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "reservoir",
+          "number": "15",
+          "section": "51.2 RENEWABLE ENERGY",
+          "visual_context": "Stored water behind the dam.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "penstock",
+          "number": "16",
+          "section": "51.2 RENEWABLE ENERGY",
+          "visual_context": "Pipe/channel carrying water from the reservoir toward the turbine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "generator",
+          "number": "17",
+          "section": "51.2 RENEWABLE ENERGY",
+          "visual_context": "Electricity-generating unit in the hydroelectric station.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pylon",
+          "number": "18",
+          "section": "51.2 RENEWABLE ENERGY",
+          "visual_context": "Transmission tower carrying electricity away from the station.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "turbine",
+          "number": "19",
+          "section": "51.2 RENEWABLE ENERGY",
+          "visual_context": "Water turbine in the hydroelectric power station.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dam",
+          "number": "20",
+          "section": "51.2 RENEWABLE ENERGY",
+          "visual_context": "Barrier holding back reservoir water.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hydroelectric power station",
+          "number": "21",
+          "section": "51.2 RENEWABLE ENERGY",
+          "visual_context": "Complete dam, water channel, turbine, and generator installation.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "blade",
+          "number": "22",
+          "section": "51.2 RENEWABLE ENERGY",
+          "visual_context": "One long blade of the wind turbine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nacelle",
+          "number": "23",
+          "section": "51.2 RENEWABLE ENERGY",
+          "visual_context": "Housing behind the wind-turbine hub containing machinery.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rotor",
+          "number": "24",
+          "section": "51.2 RENEWABLE ENERGY",
+          "visual_context": "Rotating blade assembly of the wind turbine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hub",
+          "number": "25",
+          "section": "51.2 RENEWABLE ENERGY",
+          "visual_context": "Central part connecting the blades to the nacelle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wind energy",
+          "number": "26",
+          "section": "51.2 RENEWABLE ENERGY",
+          "visual_context": "Wind turning the turbine blades.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tower",
+          "number": "27",
+          "section": "51.2 RENEWABLE ENERGY",
+          "visual_context": "Tall supporting column of the wind turbine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wind turbine",
+          "number": "28",
+          "section": "51.2 RENEWABLE ENERGY",
+          "visual_context": "Complete wind turbine diagram.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "pages": [
+    {
+      "page": 16,
+      "title": "Hands and feet",
+      "context": "2.1 HANDS; 2.2 BODY VERBS",
+      "entries": [
+        {
+          "source_text": "palm",
+          "number": "1",
+          "section": "2.1 HANDS",
+          "visual_context": "Pointer to the inner surface of an open hand.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "thumb",
+          "number": "2",
+          "section": "2.1 HANDS",
+          "visual_context": "Pointer to the thumb on an open hand.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "index finger",
+          "number": "3",
+          "section": "2.1 HANDS",
+          "visual_context": "Pointer to the forefinger of an open hand.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "middle finger",
+          "number": "4",
+          "section": "2.1 HANDS",
+          "visual_context": "Pointer to the middle finger of an open hand.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ring finger",
+          "number": "5",
+          "section": "2.1 HANDS",
+          "visual_context": "Pointer to the ring finger of an open hand.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "little finger",
+          "number": "6",
+          "section": "2.1 HANDS",
+          "visual_context": "Pointer to the smallest finger of an open hand.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wrist",
+          "number": "7",
+          "section": "2.1 HANDS",
+          "visual_context": "Pointer to the joint between the hand and arm.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fingernail",
+          "number": "8",
+          "section": "2.1 HANDS",
+          "visual_context": "Pointer to a nail on a raised hand.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cuticle",
+          "number": "9",
+          "section": "2.1 HANDS",
+          "visual_context": "Pointer to the skin at the base of a fingernail.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "knuckle",
+          "number": "10",
+          "section": "2.1 HANDS",
+          "visual_context": "Pointer to a joint on a clenched fist.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fist",
+          "number": "11",
+          "section": "2.1 HANDS",
+          "visual_context": "Pointer to a clenched hand.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to smile",
+          "number": "1",
+          "section": "2.2 BODY VERBS",
+          "visual_context": "Illustration of a smiling mouth.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to grin",
+          "number": "2",
+          "section": "2.2 BODY VERBS",
+          "visual_context": "Illustration of a broad smile showing teeth.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to frown",
+          "number": "3",
+          "section": "2.2 BODY VERBS",
+          "visual_context": "Illustration of furrowed eyebrows and a displeased expression.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to wink",
+          "number": "4",
+          "section": "2.2 BODY VERBS",
+          "visual_context": "Illustration of one eye closed.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to blink",
+          "number": "5",
+          "section": "2.2 BODY VERBS",
+          "visual_context": "Illustration of eyes closing and opening.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to blush",
+          "number": "6",
+          "section": "2.2 BODY VERBS",
+          "visual_context": "Illustration of cheeks becoming red.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to yawn",
+          "number": "7",
+          "section": "2.2 BODY VERBS",
+          "visual_context": "Illustration of a person yawning beside a bed.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to snore",
+          "number": "8",
+          "section": "2.2 BODY VERBS",
+          "visual_context": "Illustration of a sleeping person at a desk with Z symbols.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to lick",
+          "number": "9",
+          "section": "2.2 BODY VERBS",
+          "visual_context": "Illustration of a tongue licking an object.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to suck",
+          "number": "10",
+          "section": "2.2 BODY VERBS",
+          "visual_context": "Illustration of a person drinking through a straw.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to breathe",
+          "number": "11",
+          "section": "2.2 BODY VERBS",
+          "visual_context": "Illustration of a person breathing outdoors.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to hold your breath",
+          "number": "12",
+          "section": "2.2 BODY VERBS",
+          "visual_context": "Illustration of a person holding their nose beside a steaming dish.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "title": "Hands and feet",
+      "context": "2.3 FEET; 2.2 BODY VERBS (continued)",
+      "entries": [
+        {
+          "source_text": "sole",
+          "number": "1",
+          "section": "2.3 FEET",
+          "visual_context": "Pointer to the underside of a foot.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "little toe",
+          "number": "2",
+          "section": "2.3 FEET",
+          "visual_context": "Pointer to the smallest toe.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "big toe",
+          "number": "3",
+          "section": "2.3 FEET",
+          "visual_context": "Pointer to the largest toe.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ankle",
+          "number": "4",
+          "section": "2.3 FEET",
+          "visual_context": "Pointer to the joint between the foot and leg.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bridge",
+          "number": "5",
+          "section": "2.3 FEET",
+          "visual_context": "Pointer to the top of the foot.",
+          "semantic_meaning": "top part of the foot"
+        },
+        {
+          "source_text": "instep",
+          "number": "6",
+          "section": "2.3 FEET",
+          "visual_context": "Pointer to the raised upper middle part of the foot.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "toenail",
+          "number": "7",
+          "section": "2.3 FEET",
+          "visual_context": "Pointer to a nail on a toe.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "toe",
+          "number": "8",
+          "section": "2.3 FEET",
+          "visual_context": "Pointer to a toe at the front of the foot.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ball",
+          "number": "9",
+          "section": "2.3 FEET",
+          "visual_context": "Pointer to the padded underside below the toes.",
+          "semantic_meaning": "padded part of the sole below the toes"
+        },
+        {
+          "source_text": "arch",
+          "number": "10",
+          "section": "2.3 FEET",
+          "visual_context": "Pointer to the curved inner underside of the foot.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "heel",
+          "number": "11",
+          "section": "2.3 FEET",
+          "visual_context": "Pointer to the back underside of the foot.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to laugh",
+          "number": "13",
+          "section": "2.2 BODY VERBS",
+          "visual_context": "Illustration of a laughing person with a “Ha ha!” speech bubble.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to cry",
+          "number": "14",
+          "section": "2.2 BODY VERBS",
+          "visual_context": "Illustration of a crying person with tears.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to sigh",
+          "number": "15",
+          "section": "2.2 BODY VERBS",
+          "visual_context": "Illustration of a person sighing.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to wave",
+          "number": "16",
+          "section": "2.2 BODY VERBS",
+          "visual_context": "Illustration of a person waving a raised hand.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to shrug",
+          "number": "17",
+          "section": "2.2 BODY VERBS",
+          "visual_context": "Illustration of a person raising their shoulders.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to bow",
+          "number": "18",
+          "section": "2.2 BODY VERBS",
+          "visual_context": "Illustration of a person bending forward.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to clap",
+          "number": "19",
+          "section": "2.2 BODY VERBS",
+          "visual_context": "Illustration of hands clapping.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to sweat / to perspire",
+          "number": "20",
+          "section": "2.2 BODY VERBS",
+          "visual_context": "Illustration of a person sweating.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to shiver",
+          "number": "21",
+          "section": "2.2 BODY VERBS",
+          "visual_context": "Illustration of a person trembling with motion lines.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to sneeze",
+          "number": "22",
+          "section": "2.2 BODY VERBS",
+          "visual_context": "Illustration of a person sneezing.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to shake your head",
+          "number": "23",
+          "section": "2.2 BODY VERBS",
+          "visual_context": "Illustration of a head moving side to side.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to nod",
+          "number": "24",
+          "section": "2.2 BODY VERBS",
+          "visual_context": "Illustration of a head moving up and down.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

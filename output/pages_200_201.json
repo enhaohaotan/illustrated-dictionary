@@ -1,0 +1,354 @@
+{
+  "pages": [
+    {
+      "page": 200,
+      "title": "Meeting and presenting",
+      "context": "95.1 MEETING",
+      "entries": [
+        {
+          "source_text": "to attend a meeting",
+          "number": "1",
+          "section": "95.1 MEETING",
+          "visual_context": "Three people seated around a meeting table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "What’s on the agenda today, Maria?",
+          "number": "2",
+          "section": "95.1 MEETING",
+          "visual_context": "Speech bubble from a man at the meeting table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "We’re discussing the presentations for next week.",
+          "number": "3",
+          "section": "95.1 MEETING",
+          "visual_context": "Speech bubble from a woman seated at the table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to have a conference call",
+          "number": "4",
+          "section": "95.1 MEETING",
+          "visual_context": "Several people talking around a table via a telephone/conference device.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to take minutes",
+          "number": "5",
+          "section": "95.1 MEETING",
+          "visual_context": "Person writing notes at a desk.",
+          "semantic_meaning": "to make the official written record of a meeting"
+        },
+        {
+          "source_text": "to take questions",
+          "number": "6",
+          "section": "95.1 MEETING",
+          "visual_context": "Meeting participants with one person raising a hand.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to be absent",
+          "number": "7",
+          "section": "95.1 MEETING",
+          "visual_context": "Two people at a table and an empty chair, with an absent-person symbol.",
+          "semantic_meaning": "to not be present"
+        },
+        {
+          "source_text": "to interrupt",
+          "number": "8",
+          "section": "95.1 MEETING",
+          "visual_context": "A person speaking over people seated at a meeting table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to reach a consensus",
+          "number": "9",
+          "section": "95.1 MEETING",
+          "visual_context": "A chairperson addressing people who are raising their hands.",
+          "semantic_meaning": "to achieve general agreement"
+        },
+        {
+          "source_text": "unanimous vote",
+          "number": "10",
+          "section": "95.1 MEETING",
+          "visual_context": "All meeting participants raise their hands.",
+          "semantic_meaning": "a vote in which everyone agrees"
+        },
+        {
+          "source_text": "action points",
+          "number": "11",
+          "section": "95.1 MEETING",
+          "visual_context": "Person marking an alert symbol on a board.",
+          "semantic_meaning": "tasks agreed for follow-up"
+        },
+        {
+          "source_text": "show of hands",
+          "number": "12",
+          "section": "95.1 MEETING",
+          "visual_context": "Several raised hands.",
+          "semantic_meaning": "a vote or indication by raising hands"
+        },
+        {
+          "source_text": "any other business",
+          "number": "13",
+          "section": "95.1 MEETING",
+          "visual_context": "People around a table while a chairperson asks a question.",
+          "semantic_meaning": "final agenda item for miscellaneous matters"
+        },
+        {
+          "source_text": "boardroom",
+          "number": "14",
+          "section": "95.1 MEETING",
+          "visual_context": "Formal meeting room with people around a large table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "board of directors",
+          "number": "15",
+          "section": "95.1 MEETING",
+          "visual_context": "Organizational chart beneath a portrait.",
+          "semantic_meaning": "group of directors governing an organization"
+        },
+        {
+          "source_text": "to reach an agreement",
+          "number": "16",
+          "section": "95.1 MEETING",
+          "visual_context": "People shaking hands across a meeting table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "annual general meeting (AGM)",
+          "number": "17",
+          "section": "95.1 MEETING",
+          "visual_context": "Large formal meeting with attendees at a long table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to wrap up the meeting",
+          "number": "18",
+          "section": "95.1 MEETING",
+          "visual_context": "Two people concluding discussion at a table, with a clock behind them.",
+          "semantic_meaning": "to bring the meeting to an end"
+        },
+        {
+          "source_text": "whiteboard",
+          "number": "19",
+          "section": "95.1 MEETING",
+          "visual_context": "Person writing on a white board.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "notebook",
+          "number": "20",
+          "section": "95.1 MEETING",
+          "visual_context": "Open notebook with a pencil and pen.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "agenda",
+          "number": "21",
+          "section": "95.1 MEETING",
+          "visual_context": "Printed sheet headed “AGENDA”.",
+          "semantic_meaning": "list of items to be discussed at a meeting"
+        }
+      ]
+    },
+    {
+      "page": 201,
+      "title": "Meeting and presenting",
+      "context": "95.2 PRESENTING",
+      "entries": [
+        {
+          "source_text": "At work",
+          "number": "81",
+          "section": "See also:",
+          "visual_context": "Cross-reference list.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "In the office",
+          "number": "82",
+          "section": "See also:",
+          "visual_context": "Cross-reference list.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Computers and technology",
+          "number": "83",
+          "section": "See also:",
+          "visual_context": "Cross-reference list.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Media",
+          "number": "84",
+          "section": "See also:",
+          "visual_context": "Cross-reference list.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to commence",
+          "number": "1",
+          "section": "95.2 PRESENTING",
+          "visual_context": "Presenter standing before an audience and a screen.",
+          "semantic_meaning": "to begin"
+        },
+        {
+          "source_text": "to sum up",
+          "number": "2",
+          "section": "95.2 PRESENTING",
+          "visual_context": "Presenter pointing to a declining chart.",
+          "semantic_meaning": "to summarize"
+        },
+        {
+          "source_text": "to run out of time",
+          "number": "3",
+          "section": "95.2 PRESENTING",
+          "visual_context": "Figure holding an empty hourglass.",
+          "semantic_meaning": "to have no time remaining"
+        },
+        {
+          "source_text": "slide",
+          "number": "4",
+          "section": "95.2 PRESENTING",
+          "visual_context": "Presentation slide displayed on a computer monitor.",
+          "semantic_meaning": "a single page of a presentation"
+        },
+        {
+          "source_text": "roadmap",
+          "number": "5",
+          "section": "95.2 PRESENTING",
+          "visual_context": "Person pointing at a diagram showing sequential stages.",
+          "semantic_meaning": "a plan showing stages or direction"
+        },
+        {
+          "source_text": "to give a presentation",
+          "number": "6",
+          "section": "95.2 PRESENTING",
+          "visual_context": "Presenter standing at a lectern with a pointer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "projector",
+          "number": "7",
+          "section": "95.2 PRESENTING",
+          "visual_context": "Digital projector device.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "timer",
+          "number": "8",
+          "section": "95.2 PRESENTING",
+          "visual_context": "Countdown timer/clock.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "HDMI cable",
+          "number": "9",
+          "section": "95.2 PRESENTING",
+          "visual_context": "HDMI connector and cable.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "portable speakers",
+          "number": "10",
+          "section": "95.2 PRESENTING",
+          "visual_context": "Wireless portable speaker unit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "handouts",
+          "number": "11",
+          "section": "95.2 PRESENTING",
+          "visual_context": "Presenter distributing printed papers to seated attendees.",
+          "semantic_meaning": "printed materials given to an audience"
+        },
+        {
+          "source_text": "notes",
+          "number": "12",
+          "section": "95.2 PRESENTING",
+          "visual_context": "People viewing presentation notes on a screen and in hand.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "smartpen",
+          "number": "13",
+          "section": "95.2 PRESENTING",
+          "visual_context": "Presenter using a digital pen device before an audience.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "microphone",
+          "number": "14",
+          "section": "95.2 PRESENTING",
+          "visual_context": "Handheld microphone.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "headphones",
+          "number": "15",
+          "section": "95.2 PRESENTING",
+          "visual_context": "Person wearing headphones.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "flip chart",
+          "number": "16",
+          "section": "95.2 PRESENTING",
+          "visual_context": "Presenter standing beside a flip chart.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to share your screen",
+          "number": "17",
+          "section": "95.2 PRESENTING",
+          "visual_context": "Computer-screen icon showing a person and a small shared image.",
+          "semantic_meaning": "to display one’s computer screen to others remotely"
+        },
+        {
+          "source_text": "presenter remote",
+          "number": "18",
+          "section": "95.2 PRESENTING",
+          "visual_context": "Presenter using a wireless remote while facing a projected chart.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "conference",
+          "number": "19",
+          "section": "95.2 PRESENTING",
+          "visual_context": "Speaker presenting a chart to a seated audience.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "guest speaker",
+          "number": "20",
+          "section": "95.2 PRESENTING",
+          "visual_context": "Visiting speaker addressing an audience from a lectern.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "presentation",
+          "number": "21",
+          "section": "95.2 PRESENTING",
+          "visual_context": "Presenter pointing to a projected barchart.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "barchart",
+          "number": "22",
+          "section": "95.2 PRESENTING",
+          "visual_context": "Pointer line identifies the vertical-bar chart on the projection screen.",
+          "semantic_meaning": "a chart made of bars"
+        },
+        {
+          "source_text": "Now let’s turn our attention to the data from last year.",
+          "number": "23",
+          "section": "95.2 PRESENTING",
+          "visual_context": "Speech bubble from the presenter pointing at the projected chart.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

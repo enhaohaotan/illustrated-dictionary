@@ -1,0 +1,431 @@
+{
+  "pages": [
+    {
+      "page": 100,
+      "title": "Buildings and architecture",
+      "context": "44.1 TYPES OF BUILDINGS",
+      "entries": [
+        {
+          "source_text": "castle",
+          "number": "1",
+          "section": "44.1 TYPES OF BUILDINGS",
+          "visual_context": "large grey castle illustration",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "drawbridge",
+          "number": "2",
+          "section": "44.1 TYPES OF BUILDINGS",
+          "visual_context": "bridge leading over the castle moat",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "portcullis",
+          "number": "3",
+          "section": "44.1 TYPES OF BUILDINGS",
+          "visual_context": "raised gridded gate at the castle entrance",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wall",
+          "number": "4",
+          "section": "44.1 TYPES OF BUILDINGS",
+          "visual_context": "castle exterior wall",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "arrow slit",
+          "number": "5",
+          "section": "44.1 TYPES OF BUILDINGS",
+          "visual_context": "narrow vertical opening in castle tower",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "keep",
+          "number": "6",
+          "section": "44.1 TYPES OF BUILDINGS",
+          "visual_context": "central fortified castle tower",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "turret",
+          "number": "7",
+          "section": "44.1 TYPES OF BUILDINGS",
+          "visual_context": "small tower at the castle wall",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "battlement",
+          "number": "8",
+          "section": "44.1 TYPES OF BUILDINGS",
+          "visual_context": "notched defensive top of the castle wall",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "moat",
+          "number": "9",
+          "section": "44.1 TYPES OF BUILDINGS",
+          "visual_context": "water-filled ditch around the castle",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Ancient Greek temple",
+          "number": "10",
+          "section": "44.1 TYPES OF BUILDINGS",
+          "visual_context": "classical temple with columns and triangular roof",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pediment",
+          "number": "11",
+          "section": "44.1 TYPES OF BUILDINGS",
+          "visual_context": "triangular upper front of the Greek temple",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "column",
+          "number": "12",
+          "section": "44.1 TYPES OF BUILDINGS",
+          "visual_context": "vertical temple support",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "church",
+          "number": "13",
+          "section": "44.1 TYPES OF BUILDINGS",
+          "visual_context": "church building illustration",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stained glass\nwindow",
+          "number": "14",
+          "section": "44.1 TYPES OF BUILDINGS",
+          "visual_context": "coloured window in the church tower",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bell tower",
+          "number": "15",
+          "section": "44.1 TYPES OF BUILDINGS",
+          "visual_context": "church tower containing a bell",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ziggurat",
+          "number": "16",
+          "section": "44.1 TYPES OF BUILDINGS",
+          "visual_context": "stepped pyramid-like building icon",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "windmill",
+          "number": "17",
+          "section": "44.1 TYPES OF BUILDINGS",
+          "visual_context": "building with four sails",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "warehouse",
+          "number": "18",
+          "section": "44.1 TYPES OF BUILDINGS",
+          "visual_context": "storage building with boxes and hand truck",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shelter",
+          "number": "19",
+          "section": "44.1 TYPES OF BUILDINGS",
+          "visual_context": "simple open-sided shelter among trees",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "monastery",
+          "number": "20",
+          "section": "44.1 TYPES OF BUILDINGS",
+          "visual_context": "pagoda-like religious building",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ancient ruins",
+          "number": "21",
+          "section": "44.1 TYPES OF BUILDINGS",
+          "visual_context": "ruined classical columns and arch",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "abandoned (US) /\nderelict (UK) building",
+          "number": "22",
+          "section": "44.1 TYPES OF BUILDINGS",
+          "visual_context": "damaged, boarded-up building",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lighthouse",
+          "number": "23",
+          "section": "44.1 TYPES OF BUILDINGS",
+          "visual_context": "striped coastal beacon tower",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "power station",
+          "number": "24",
+          "section": "44.1 TYPES OF BUILDINGS",
+          "visual_context": "industrial plant with smokestack",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "modern\nbuilding",
+          "number": "25",
+          "section": "44.1 TYPES OF BUILDINGS",
+          "visual_context": "modern box-shaped building icon",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "historic\nbuilding",
+          "number": "26",
+          "section": "44.1 TYPES OF BUILDINGS",
+          "visual_context": "classical historic building with columns",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "residential\nbuildings",
+          "number": "27",
+          "section": "44.1 TYPES OF BUILDINGS",
+          "visual_context": "multi-storey apartment buildings",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mosque",
+          "number": "28",
+          "section": "44.1 TYPES OF BUILDINGS",
+          "visual_context": "mosque with large dome and minarets",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dome",
+          "number": "29",
+          "section": "44.1 TYPES OF BUILDINGS",
+          "visual_context": "large rounded roof of the mosque",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "minaret",
+          "number": "30",
+          "section": "44.1 TYPES OF BUILDINGS",
+          "visual_context": "tall narrow mosque tower",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Orthodox\nchurch",
+          "number": "31",
+          "section": "44.1 TYPES OF BUILDINGS",
+          "visual_context": "church with onion-shaped domes",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "onion dome",
+          "number": "32",
+          "section": "44.1 TYPES OF BUILDINGS",
+          "visual_context": "bulbous dome atop the Orthodox church",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "temple",
+          "number": "33",
+          "section": "44.1 TYPES OF BUILDINGS",
+          "visual_context": "tiered East Asian temple",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "overhanging\neaves",
+          "number": "34",
+          "section": "44.1 TYPES OF BUILDINGS",
+          "visual_context": "projecting layered roof edges of the temple",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "synagogue",
+          "number": "35",
+          "section": "44.1 TYPES OF BUILDINGS",
+          "visual_context": "synagogue building with two towers",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Star of\nDavid",
+          "number": "36",
+          "section": "44.1 TYPES OF BUILDINGS",
+          "visual_context": "star symbol on the synagogue facade",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 101,
+      "title": "Buildings and architecture",
+      "context": "44.2 FAMOUS BUILDINGS AND MONUMENTS",
+      "entries": [
+        {
+          "source_text": "A place to live",
+          "number": "25",
+          "section": "See also:",
+          "visual_context": null,
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "House and home",
+          "number": "32",
+          "section": "See also:",
+          "visual_context": null,
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "In town",
+          "number": "42-43",
+          "section": "See also:",
+          "visual_context": null,
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Sightseeing",
+          "number": "132",
+          "section": "See also:",
+          "visual_context": null,
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "the Colosseum",
+          "number": "1",
+          "section": "44.2 FAMOUS BUILDINGS AND MONUMENTS",
+          "visual_context": "Roman amphitheatre illustration",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "arch",
+          "number": "2",
+          "section": "44.2 FAMOUS BUILDINGS AND MONUMENTS",
+          "visual_context": "arched opening in the Colosseum",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "the pyramids\nof Giza",
+          "number": "3",
+          "section": "44.2 FAMOUS BUILDINGS AND MONUMENTS",
+          "visual_context": "Egyptian pyramids illustration",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "the Great Mosque of Djenné",
+          "number": "4",
+          "section": "44.2 FAMOUS BUILDINGS AND MONUMENTS",
+          "visual_context": "large mud-brick mosque illustration",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "qibla prayer wall",
+          "number": "5",
+          "section": "44.2 FAMOUS BUILDINGS AND MONUMENTS",
+          "visual_context": "wall area of the Great Mosque of Djenné",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tower",
+          "number": "6",
+          "section": "44.2 FAMOUS BUILDINGS AND MONUMENTS",
+          "visual_context": "tall tower of the Great Mosque of Djenné",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "the White House",
+          "number": "7",
+          "section": "44.2 FAMOUS BUILDINGS AND MONUMENTS",
+          "visual_context": "White House illustration",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "the Taj Mahal",
+          "number": "8",
+          "section": "44.2 FAMOUS BUILDINGS AND MONUMENTS",
+          "visual_context": "Taj Mahal with reflecting pool",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "the Forbidden City",
+          "number": "9",
+          "section": "44.2 FAMOUS BUILDINGS AND MONUMENTS",
+          "visual_context": "Chinese palace complex illustration",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "St. Basil’s cathedral",
+          "number": "10",
+          "section": "44.2 FAMOUS BUILDINGS AND MONUMENTS",
+          "visual_context": "cathedral with colourful onion domes",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Sydney Opera House",
+          "number": "11",
+          "section": "44.2 FAMOUS BUILDINGS AND MONUMENTS",
+          "visual_context": "harbour building with sail-like roofs",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Himeji Castle",
+          "number": "12",
+          "section": "44.2 FAMOUS BUILDINGS AND MONUMENTS",
+          "visual_context": "multi-roofed Japanese castle",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Big Ben",
+          "number": "13",
+          "section": "44.2 FAMOUS BUILDINGS AND MONUMENTS",
+          "visual_context": "London clock tower",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "clock",
+          "number": "14",
+          "section": "44.2 FAMOUS BUILDINGS AND MONUMENTS",
+          "visual_context": "clock face on Big Ben",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "the Leaning\nTower of Pisa",
+          "number": "15",
+          "section": "44.2 FAMOUS BUILDINGS AND MONUMENTS",
+          "visual_context": "leaning bell tower illustration",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "the Eiffel Tower",
+          "number": "16",
+          "section": "44.2 FAMOUS BUILDINGS AND MONUMENTS",
+          "visual_context": "Eiffel Tower illustration",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "viewing\nplatform",
+          "number": "17",
+          "section": "44.2 FAMOUS BUILDINGS AND MONUMENTS",
+          "visual_context": "viewing platform on the Eiffel Tower",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "the Empire\nState Building",
+          "number": "18",
+          "section": "44.2 FAMOUS BUILDINGS AND MONUMENTS",
+          "visual_context": "Empire State Building illustration",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Burj Khalifa",
+          "number": "19",
+          "section": "44.2 FAMOUS BUILDINGS AND MONUMENTS",
+          "visual_context": "very tall Burj Khalifa illustration",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

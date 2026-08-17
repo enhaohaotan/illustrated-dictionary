@@ -1,0 +1,424 @@
+{
+  "pages": [
+    {
+      "page": 246,
+      "title": "Swimming",
+      "context": "118.1 SWIMMING",
+      "entries": [
+        {
+          "source_text": "water",
+          "number": "1",
+          "section": "118.1 SWIMMING",
+          "visual_context": "Pointer to the water in the swimming pool.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lane",
+          "number": "2",
+          "section": "118.1 SWIMMING",
+          "visual_context": "Pointer to a marked swimming lane.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lane rope",
+          "number": "3",
+          "section": "118.1 SWIMMING",
+          "visual_context": "Pointer to the floating rope separating pool lanes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "swimmer",
+          "number": "4",
+          "section": "118.1 SWIMMING",
+          "visual_context": "Pointer to a person swimming in the pool.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to turn",
+          "number": "5",
+          "section": "118.1 SWIMMING",
+          "visual_context": "Pointer to a swimmer turning at the pool wall.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "swimming pool",
+          "number": "6",
+          "section": "118.1 SWIMMING",
+          "visual_context": "Large illustration of a rectangular pool with lanes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "starting block",
+          "number": "7",
+          "section": "118.1 SWIMMING",
+          "visual_context": "Illustration of poolside starting blocks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "synchronized swimming",
+          "number": "8",
+          "section": "118.1 SWIMMING",
+          "visual_context": "Illustration of swimmers performing together in water.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lockers",
+          "number": "9",
+          "section": "118.1 SWIMMING",
+          "visual_context": "Illustration of changing-room lockers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lifeguard",
+          "number": "10",
+          "section": "118.1 SWIMMING",
+          "visual_context": "Illustration of a lifeguard seated on a high chair with a life ring.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to tread water",
+          "number": "11",
+          "section": "118.1 SWIMMING",
+          "visual_context": "Illustration of a person upright in water, moving their limbs.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "deep end",
+          "number": "12",
+          "section": "118.1 SWIMMING",
+          "visual_context": "Pointer to the deep side of a pool cross-section.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shallow end",
+          "number": "13",
+          "section": "118.1 SWIMMING",
+          "visual_context": "Pointer to the shallow side of a pool cross-section.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cramp",
+          "number": "14",
+          "section": "118.1 SWIMMING",
+          "visual_context": "Illustration of a swimmer clutching a painful lower leg.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "open turn",
+          "number": "15",
+          "section": "118.1 SWIMMING",
+          "visual_context": "Diagram of a swimmer turning at a wall without a somersault.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "flip / tumble turn",
+          "number": "16",
+          "section": "118.1 SWIMMING",
+          "visual_context": "Diagram of a swimmer somersaulting at a pool wall.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bucket turn",
+          "number": "17",
+          "section": "118.1 SWIMMING",
+          "visual_context": "Diagram of a swimmer rotating at a wall in a bucket-shaped motion.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to float",
+          "number": "18",
+          "section": "118.1 SWIMMING",
+          "visual_context": "Illustration of a swimmer lying supported on the water surface.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to kick",
+          "number": "19",
+          "section": "118.1 SWIMMING",
+          "visual_context": "Illustration emphasizing a swimmer's kicking legs.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stroke",
+          "number": "20",
+          "section": "118.1 SWIMMING",
+          "visual_context": "Illustration of a swimmer moving an arm through the water.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sidestroke",
+          "number": "21",
+          "section": "118.1 SWIMMING",
+          "visual_context": "Illustration of a swimmer using the sidestroke.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "breaststroke",
+          "number": "22",
+          "section": "118.1 SWIMMING",
+          "visual_context": "Illustration of a swimmer using breaststroke.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "backstroke",
+          "number": "23",
+          "section": "118.1 SWIMMING",
+          "visual_context": "Illustration of a swimmer on their back.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "front crawl",
+          "number": "24",
+          "section": "118.1 SWIMMING",
+          "visual_context": "Illustration of a swimmer using front crawl.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "butterfly",
+          "number": "25",
+          "section": "118.1 SWIMMING",
+          "visual_context": "Illustration of a swimmer using the butterfly stroke.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "medley relay",
+          "number": "26",
+          "section": "118.1 SWIMMING",
+          "visual_context": "Illustration of several swimmers using different strokes in a relay.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cap",
+          "number": "27",
+          "section": "118.1 SWIMMING",
+          "visual_context": "Pointer to the swimmer's head cap.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "goggles",
+          "number": "28",
+          "section": "118.1 SWIMMING",
+          "visual_context": "Pointer to goggles worn over the eyes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nose clip",
+          "number": "29",
+          "section": "118.1 SWIMMING",
+          "visual_context": "Pointer to the clip over the swimmer's nose.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "armband",
+          "number": "30",
+          "section": "118.1 SWIMMING",
+          "visual_context": "Pointer to a flotation armband on the upper arm.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "swimsuit",
+          "number": "31",
+          "section": "118.1 SWIMMING",
+          "visual_context": "Pointer to the swimmer's one-piece suit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "float",
+          "number": "32",
+          "section": "118.1 SWIMMING",
+          "visual_context": "Pointer to a rectangular flotation aid held by the swimmer.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 247,
+      "title": "Diving / Underwater diving",
+      "context": "118.2 DIVING; 118.3 UNDERWATER DIVING",
+      "entries": [
+        {
+          "source_text": "diving board",
+          "number": "1",
+          "section": "118.2 DIVING",
+          "visual_context": "Pointer to the board projecting above the water.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to dive",
+          "number": "2",
+          "section": "118.2 DIVING",
+          "visual_context": "Illustration of a person entering the water head-first.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "racing dive",
+          "number": "3",
+          "section": "118.2 DIVING",
+          "visual_context": "Illustration of a swimmer diving from a starting block.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "platform",
+          "number": "4",
+          "section": "118.2 DIVING",
+          "visual_context": "Illustration of a lower fixed diving platform.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "diving tower",
+          "number": "5",
+          "section": "118.2 DIVING",
+          "visual_context": "Illustration of a tall diving structure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "high dive",
+          "number": "6",
+          "section": "118.2 DIVING",
+          "visual_context": "Illustration of a high diving platform.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "diver",
+          "number": "7",
+          "section": "118.2 DIVING",
+          "visual_context": "Illustration of a person standing on a diving board.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "front-flip",
+          "number": "8",
+          "section": "118.2 DIVING",
+          "visual_context": "Diagram of a forward somersault dive.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "back-flip",
+          "number": "9",
+          "section": "118.2 DIVING",
+          "visual_context": "Diagram of a backward somersault dive.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "head-first",
+          "number": "10",
+          "section": "118.2 DIVING",
+          "visual_context": "Diagram of a head-first water entry.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "feet-first",
+          "number": "11",
+          "section": "118.2 DIVING",
+          "visual_context": "Diagram of a feet-first water entry.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "springboard",
+          "number": "12",
+          "section": "118.2 DIVING",
+          "visual_context": "Illustration of a flexible board bending under a diver.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "snorkel",
+          "number": "1",
+          "section": "118.3 UNDERWATER DIVING",
+          "visual_context": "Pointer to the breathing tube beside the snorkeler's head.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "coral reef fish",
+          "number": "2",
+          "section": "118.3 UNDERWATER DIVING",
+          "visual_context": "Pointer to brightly colored fish swimming near the snorkeler.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "snorkeling (US) / snorkelling (UK)",
+          "number": "3",
+          "section": "118.3 UNDERWATER DIVING",
+          "visual_context": "Illustration of a person swimming at the surface with mask, snorkel, and fins.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wet suit",
+          "number": "4",
+          "section": "118.3 UNDERWATER DIVING",
+          "visual_context": "Pointer to the diver's black protective suit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "weight belt",
+          "number": "5",
+          "section": "118.3 UNDERWATER DIVING",
+          "visual_context": "Pointer to the weighted belt around the diver's waist.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "air cylinder",
+          "number": "6",
+          "section": "118.3 UNDERWATER DIVING",
+          "visual_context": "Pointer to the compressed-air tank on a diver's back.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fins / flippers",
+          "number": "7",
+          "section": "118.3 UNDERWATER DIVING",
+          "visual_context": "Pointer to the yellow-and-black foot fins.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "scuba diving",
+          "number": "8",
+          "section": "118.3 UNDERWATER DIVING",
+          "visual_context": "Illustration of divers using air tanks underwater.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mask",
+          "number": "9",
+          "section": "118.3 UNDERWATER DIVING",
+          "visual_context": "Pointer to the diver's face mask.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "regulator",
+          "number": "10",
+          "section": "118.3 UNDERWATER DIVING",
+          "visual_context": "Pointer to the breathing mouthpiece.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "underwater camera",
+          "number": "11",
+          "section": "118.3 UNDERWATER DIVING",
+          "visual_context": "Pointer to the camera held by the diver.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "depth gauge",
+          "number": "12",
+          "section": "118.3 UNDERWATER DIVING",
+          "visual_context": "Pointer to the circular depth-measuring instrument.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "coral reef",
+          "number": "13",
+          "section": "118.3 UNDERWATER DIVING",
+          "visual_context": "Pointer to the coral-and-fish seabed habitat.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "deep diving",
+          "number": "14",
+          "section": "118.3 UNDERWATER DIVING",
+          "visual_context": "Illustration of a scuba diver above a coral reef.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

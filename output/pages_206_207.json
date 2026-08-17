@@ -1,0 +1,361 @@
+{
+  "pages": [
+    {
+      "page": 206,
+      "title": "Cars continued",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "auto repair shop (US)\ngarage (UK)",
+          "number": "1",
+          "section": "98.1 BREAKDOWN ASSISTANCE",
+          "visual_context": "A car being repaired on a lift in a repair shop.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mechanic",
+          "number": "2",
+          "section": "98.1 BREAKDOWN ASSISTANCE",
+          "visual_context": "A repair worker holding a wrench beside the raised car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tow truck",
+          "number": "3",
+          "section": "98.1 BREAKDOWN ASSISTANCE",
+          "visual_context": "A truck carrying a car on its rear platform.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "spare tire (US)\nspare tyre (UK)",
+          "number": "4",
+          "section": "98.1 BREAKDOWN ASSISTANCE",
+          "visual_context": "A spare wheel attached at the rear of a car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "flat tire (US)\nflat tyre (UK)",
+          "number": "5",
+          "section": "98.1 BREAKDOWN ASSISTANCE",
+          "visual_context": "A car shown with a deflated rear tire.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fan belt",
+          "number": "1",
+          "section": "98.2 MECHANICS",
+          "visual_context": "The belt and pulley visible through the front of a car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "air filter",
+          "number": "2",
+          "section": "98.2 MECHANICS",
+          "visual_context": "A rectangular filter in the exposed front-engine diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "radiator",
+          "number": "3",
+          "section": "98.2 MECHANICS",
+          "visual_context": "The finned radiator at the front of the car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "spark plug",
+          "number": "4",
+          "section": "98.2 MECHANICS",
+          "visual_context": "An orange spark plug illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fuse box",
+          "number": "5",
+          "section": "98.2 MECHANICS",
+          "visual_context": "A box containing colored electrical fuses and wires.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "distributor",
+          "number": "6",
+          "section": "98.2 MECHANICS",
+          "visual_context": "An ignition distributor component illustration.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sunroof",
+          "number": "7",
+          "section": "98.2 MECHANICS",
+          "visual_context": "The glazed opening in the roof of the cutaway car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "roof",
+          "number": "8",
+          "section": "98.2 MECHANICS",
+          "visual_context": "The top exterior surface of the car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "exhaust pipe",
+          "number": "9",
+          "section": "98.2 MECHANICS",
+          "visual_context": "The pipe exiting beneath the rear of the car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cooling system",
+          "number": "10",
+          "section": "98.2 MECHANICS",
+          "visual_context": "The cooling components in the front engine compartment.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "engine",
+          "number": "11",
+          "section": "98.2 MECHANICS",
+          "visual_context": "The main engine block in the front compartment.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gearbox",
+          "number": "12",
+          "section": "98.2 MECHANICS",
+          "visual_context": "The gear-changing unit behind the engine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "transmission",
+          "number": "13",
+          "section": "98.2 MECHANICS",
+          "visual_context": "The drivetrain connection running from the engine toward the wheels.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "suspension",
+          "number": "14",
+          "section": "98.2 MECHANICS",
+          "visual_context": "The spring-and-strut assembly by the front wheel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "driveshaft",
+          "number": "15",
+          "section": "98.2 MECHANICS",
+          "visual_context": "The long green shaft running beneath the car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hubcap",
+          "number": "16",
+          "section": "98.2 MECHANICS",
+          "visual_context": "The circular cover at the center of the wheel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "muffler (US)\nsilencer (UK)",
+          "number": "17",
+          "section": "98.2 MECHANICS",
+          "visual_context": "The exhaust silencing component at the rear underside of the car.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 207,
+      "title": null,
+      "context": null,
+      "entries": [
+        {
+          "source_text": "wrench",
+          "number": "6",
+          "section": "98.2 MECHANICS",
+          "visual_context": "A blue open-ended wrench.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lug nuts (US)\nwheel nuts (UK)",
+          "number": "7",
+          "section": "98.2 MECHANICS",
+          "visual_context": "Wheel nuts shown beside a wheel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "jack",
+          "number": "8",
+          "section": "98.2 MECHANICS",
+          "visual_context": "A jack lifting one side of a car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "washer fluid reservoir (US)\nscreen wash reservoir (UK)",
+          "number": "18",
+          "section": "98.2 MECHANICS",
+          "visual_context": "The reservoir under the open hood at the left side of the engine compartment.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hood (US)\nbonnet (UK)",
+          "number": "19",
+          "section": "98.2 MECHANICS",
+          "visual_context": "The raised front cover of the car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "brake fluid reservoir",
+          "number": "20",
+          "section": "98.2 MECHANICS",
+          "visual_context": "The small fluid reservoir in the engine compartment.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dipstick",
+          "number": "21",
+          "section": "98.2 MECHANICS",
+          "visual_context": "The yellow-handled oil dipstick.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pipe",
+          "number": "22",
+          "section": "98.2 MECHANICS",
+          "visual_context": "A black hose or pipe in the engine compartment.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "coolant reservoir",
+          "number": "23",
+          "section": "98.2 MECHANICS",
+          "visual_context": "The coolant container in the engine compartment.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "battery",
+          "number": "24",
+          "section": "98.2 MECHANICS",
+          "visual_context": "An orange car battery icon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bodywork",
+          "number": "25",
+          "section": "98.2 MECHANICS",
+          "visual_context": "An orange outline of a car body.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cylinder head",
+          "number": "26",
+          "section": "98.2 MECHANICS",
+          "visual_context": "An orange engine cylinder-head component.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to fill up",
+          "number": "1",
+          "section": "98.3 VERBS FOR DRIVING",
+          "visual_context": "A person filling a car with fuel at a gas pump.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to check\nthe oil",
+          "number": "2",
+          "section": "98.3 VERBS FOR DRIVING",
+          "visual_context": "A person checking oil under an open hood.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to check the\ntires (US) / tyres (UK)",
+          "number": "3",
+          "section": "98.3 VERBS FOR DRIVING",
+          "visual_context": "A person inspecting a car tire.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to service\nthe car",
+          "number": "4",
+          "section": "98.3 VERBS FOR DRIVING",
+          "visual_context": "A mechanic working beneath a raised car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to park",
+          "number": "5",
+          "section": "98.3 VERBS FOR DRIVING",
+          "visual_context": "A car entering a marked parking space.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to take off (US)\nto set off (UK)",
+          "number": "6",
+          "section": "98.3 VERBS FOR DRIVING",
+          "visual_context": "A car pulling away from a parking place.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to signal (US)\nto indicate (UK)",
+          "number": "7",
+          "section": "98.3 VERBS FOR DRIVING",
+          "visual_context": "A car with a flashing directional signal.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to brake",
+          "number": "8",
+          "section": "98.3 VERBS FOR DRIVING",
+          "visual_context": "A car stopping near a road sign.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to slow down",
+          "number": "9",
+          "section": "98.3 VERBS FOR DRIVING",
+          "visual_context": "A car reducing speed near a 30 sign.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to speed up",
+          "number": "10",
+          "section": "98.3 VERBS FOR DRIVING",
+          "visual_context": "A car moving faster, shown with speed lines.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to pick\nsomeone up",
+          "number": "11",
+          "section": "98.3 VERBS FOR DRIVING",
+          "visual_context": "A driver stopping to collect a waiting person.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to drop\nsomeone off",
+          "number": "12",
+          "section": "98.3 VERBS FOR DRIVING",
+          "visual_context": "A passenger leaving a stopped car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to have a\ncar accident",
+          "number": "13",
+          "section": "98.3 VERBS FOR DRIVING",
+          "visual_context": "Two cars colliding, with one overturned.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to break down",
+          "number": "14",
+          "section": "98.3 VERBS FOR DRIVING",
+          "visual_context": "A stopped car with smoke from the hood and a person beside it.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to pass (US)\nto overtake (UK)",
+          "number": "15",
+          "section": "98.3 VERBS FOR DRIVING",
+          "visual_context": "One car moving around and ahead of another car.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,466 @@
+{
+  "pages": [
+    {
+      "page": 46,
+      "title": "Shoes",
+      "context": "17.1 SHOES AND ACCESSORIES; 17.2 BOOTS",
+      "entries": [
+        {
+          "source_text": "high-heeled shoes",
+          "number": "1",
+          "section": "17.1 SHOES AND ACCESSORIES",
+          "visual_context": "Pair of black high-heeled shoes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "flats",
+          "number": "2",
+          "section": "17.1 SHOES AND ACCESSORIES",
+          "visual_context": "Pair of black flat shoes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "flip-flops",
+          "number": "3",
+          "section": "17.1 SHOES AND ACCESSORIES",
+          "visual_context": "Pair of blue thong sandals.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "espadrilles",
+          "number": "4",
+          "section": "17.1 SHOES AND ACCESSORIES",
+          "visual_context": "Pair of blue espadrille shoes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "kitten heels",
+          "number": "5",
+          "section": "17.1 SHOES AND ACCESSORIES",
+          "visual_context": "Pair of red low-heeled shoes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stilettos",
+          "number": "6",
+          "section": "17.1 SHOES AND ACCESSORIES",
+          "visual_context": "Pair of red very high-heeled shoes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sandals",
+          "number": "7",
+          "section": "17.1 SHOES AND ACCESSORIES",
+          "visual_context": "Pair of brown open sandals.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "jelly sandals",
+          "number": "8",
+          "section": "17.1 SHOES AND ACCESSORIES",
+          "visual_context": "Pair of translucent pale-blue plastic sandals.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gladiator sandals",
+          "number": "9",
+          "section": "17.1 SHOES AND ACCESSORIES",
+          "visual_context": "Pair of tan strappy ankle-height sandals.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wedge sandals",
+          "number": "10",
+          "section": "17.1 SHOES AND ACCESSORIES",
+          "visual_context": "Pair of sandals with wedge soles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "T-strap heels",
+          "number": "11",
+          "section": "17.1 SHOES AND ACCESSORIES",
+          "visual_context": "Pair of red heels with T-shaped ankle straps.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "platforms",
+          "number": "12",
+          "section": "17.1 SHOES AND ACCESSORIES",
+          "visual_context": "Pair of high heels with thick platform soles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ankle strap heels",
+          "number": "13",
+          "section": "17.1 SHOES AND ACCESSORIES",
+          "visual_context": "Pair of black heels with ankle straps.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "peep toes",
+          "number": "14",
+          "section": "17.1 SHOES AND ACCESSORIES",
+          "visual_context": "Pair of blue open-toe high heels.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "slingback heels",
+          "number": "15",
+          "section": "17.1 SHOES AND ACCESSORIES",
+          "visual_context": "Pair of blue heels with rear slingback straps.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ballerina flats",
+          "number": "16",
+          "section": "17.1 SHOES AND ACCESSORIES",
+          "visual_context": "Pair of green ballet-style flat shoes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mules",
+          "number": "17",
+          "section": "17.1 SHOES AND ACCESSORIES",
+          "visual_context": "Pair of black backless slip-on shoes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Mary Janes",
+          "number": "18",
+          "section": "17.1 SHOES AND ACCESSORIES",
+          "visual_context": "Pair of black shoes with instep straps and buckles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "work boots",
+          "number": "1",
+          "section": "17.2 BOOTS",
+          "visual_context": "Pair of brown lace-up work boots.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Chelsea boots",
+          "number": "2",
+          "section": "17.2 BOOTS",
+          "visual_context": "Pair of brown ankle boots with elastic side panels.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hiking boots",
+          "number": "3",
+          "section": "17.2 BOOTS",
+          "visual_context": "Pair of blue lace-up hiking boots.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ankle boots",
+          "number": "4",
+          "section": "17.2 BOOTS",
+          "visual_context": "Pair of brown boots ending at the ankle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "thigh-high boot",
+          "number": "5",
+          "section": "17.2 BOOTS",
+          "visual_context": "Single black boot extending above the knee.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "zipper (US) / zip (UK)",
+          "number": "6",
+          "section": "17.2 BOOTS",
+          "visual_context": "Pointer to the zipper on the thigh-high boot.",
+          "semantic_meaning": "Fastener on a boot."
+        },
+        {
+          "source_text": "chukka boots / desert boots",
+          "number": "7",
+          "section": "17.2 BOOTS",
+          "visual_context": "Pair of light-colored ankle-height lace-up boots.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lace",
+          "number": "8",
+          "section": "17.2 BOOTS",
+          "visual_context": "Pointer to the shoelace on the lace-up boots.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sole",
+          "number": "9",
+          "section": "17.2 BOOTS",
+          "visual_context": "Pointer to the bottom sole of a boot.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "eyelet",
+          "number": "10",
+          "section": "17.2 BOOTS",
+          "visual_context": "Pointer to a lace hole on a boot.",
+          "semantic_meaning": "Hole through which a lace passes."
+        },
+        {
+          "source_text": "heel",
+          "number": "11",
+          "section": "17.2 BOOTS",
+          "visual_context": "Pointer to the raised rear part of a boot sole.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lace-up boots",
+          "number": "12",
+          "section": "17.2 BOOTS",
+          "visual_context": "Pair of brown boots with laces.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "knee-high boots",
+          "number": "13",
+          "section": "17.2 BOOTS",
+          "visual_context": "Pair of tall black boots reaching the knees.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rain boots (US) wellington boots (UK)",
+          "number": "14",
+          "section": "17.2 BOOTS",
+          "visual_context": "Pair of yellow waterproof boots.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cowboy boots",
+          "number": "15",
+          "section": "17.2 BOOTS",
+          "visual_context": "Pair of brown western-style boots.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 47,
+      "title": "Shoes",
+      "context": "17.2 BOOTS; 17.3 SPORTS SHOES",
+      "entries": [
+        {
+          "source_text": "Oxfords",
+          "number": "19",
+          "section": "17.2 BOOTS",
+          "visual_context": "Pair of black lace-up dress shoes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Derby shoes",
+          "number": "20",
+          "section": "17.2 BOOTS",
+          "visual_context": "Pair of brown lace-up dress shoes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "slip-ons",
+          "number": "21",
+          "section": "17.2 BOOTS",
+          "visual_context": "Pair of blue shoes without laces.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "moccasins",
+          "number": "22",
+          "section": "17.2 BOOTS",
+          "visual_context": "Pair of tan moccasin-style shoes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "boot shapers",
+          "number": "23",
+          "section": "17.2 BOOTS",
+          "visual_context": "Blue inserts used to hold tall boots upright.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shoe trees",
+          "number": "24",
+          "section": "17.2 BOOTS",
+          "visual_context": "Pair of shoe-shaped forms on rods.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "clogs",
+          "number": "25",
+          "section": "17.2 BOOTS",
+          "visual_context": "Pair of yellow closed-toe clogs.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "buckled shoes",
+          "number": "26",
+          "section": "17.2 BOOTS",
+          "visual_context": "Pair of blue shoes with buckles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sliders",
+          "number": "27",
+          "section": "17.2 BOOTS",
+          "visual_context": "Pair of open-toe slide sandals.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "slippers",
+          "number": "28",
+          "section": "17.2 BOOTS",
+          "visual_context": "Pair of dark-blue indoor slippers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shoelaces",
+          "number": "29",
+          "section": "17.2 BOOTS",
+          "visual_context": "Coiled red shoelaces.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "insoles",
+          "number": "30",
+          "section": "17.2 BOOTS",
+          "visual_context": "Pair of removable shoe inserts.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "loafers",
+          "number": "31",
+          "section": "17.2 BOOTS",
+          "visual_context": "Pair of blue slip-on loafers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "boat shoes",
+          "number": "32",
+          "section": "17.2 BOOTS",
+          "visual_context": "Pair of brown boat shoes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "kids’ shoes",
+          "number": "33",
+          "section": "17.2 BOOTS",
+          "visual_context": "Pair of small black children's shoes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "brogues",
+          "number": "34",
+          "section": "17.2 BOOTS",
+          "visual_context": "Pair of brown perforated lace-up shoes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shoe polish",
+          "number": "35",
+          "section": "17.2 BOOTS",
+          "visual_context": "Tin of shoe polish.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shoe brush",
+          "number": "36",
+          "section": "17.2 BOOTS",
+          "visual_context": "Brush for cleaning or polishing shoes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "running spikes",
+          "number": "1",
+          "section": "17.3 SPORTS SHOES",
+          "visual_context": "Running shoe with spikes on the outsole.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "baseball cleats",
+          "number": "2",
+          "section": "17.3 SPORTS SHOES",
+          "visual_context": "Black and yellow cleated baseball shoes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tennis shoes",
+          "number": "3",
+          "section": "17.3 SPORTS SHOES",
+          "visual_context": "Pair of white tennis shoes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "high-tops",
+          "number": "4",
+          "section": "17.3 SPORTS SHOES",
+          "visual_context": "Pair of red high-top sports shoes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "golf shoes",
+          "number": "5",
+          "section": "17.3 SPORTS SHOES",
+          "visual_context": "Pair of pale golf shoes with cleated soles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sneaker (US) trainer (UK)",
+          "number": "6",
+          "section": "17.3 SPORTS SHOES",
+          "visual_context": "Blue sneaker with laces.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tongue",
+          "number": "7",
+          "section": "17.3 SPORTS SHOES",
+          "visual_context": "Pointer to the flap beneath the sneaker laces.",
+          "semantic_meaning": "Flap under shoe laces."
+        },
+        {
+          "source_text": "cycling shoe",
+          "number": "8",
+          "section": "17.3 SPORTS SHOES",
+          "visual_context": "Red cycling shoe and its cleated sole.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ski boot",
+          "number": "9",
+          "section": "17.3 SPORTS SHOES",
+          "visual_context": "Green and gray rigid ski boot with buckles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "water shoes",
+          "number": "10",
+          "section": "17.3 SPORTS SHOES",
+          "visual_context": "Pair of turquoise water shoes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "riding boots",
+          "number": "11",
+          "section": "17.3 SPORTS SHOES",
+          "visual_context": "Pair of tall black riding boots.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tabi boots",
+          "number": "12",
+          "section": "17.3 SPORTS SHOES",
+          "visual_context": "Pair of split-toe black boots.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "soccer cleats (US) / football boots (UK)",
+          "number": "13",
+          "section": "17.3 SPORTS SHOES",
+          "visual_context": "Pair of black cleated soccer shoes.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

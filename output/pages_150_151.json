@@ -1,0 +1,445 @@
+{
+  "pages": [
+    {
+      "page": 150,
+      "title": "Fast food",
+      "context": "70.1 IN A FAST-FOOD RESTAURANT",
+      "entries": [
+        {
+          "source_text": "price list",
+          "number": "1",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "A posted menu/price sheet at the burger-bar counter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "straw",
+          "number": "2",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "A straw in a cup beside the counter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "soft drink",
+          "number": "3",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "A lidded cup with a straw.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fries (US) chips (UK)",
+          "number": "4",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "French fries in a carton held by the server.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Is this to eat in?",
+          "number": "5",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "Speech bubble above the fast-food server, asking whether the customer will dine at the restaurant.",
+          "semantic_meaning": "Question about eating on the premises."
+        },
+        {
+          "source_text": "hamburger",
+          "number": "6",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "A burger on the serving tray.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "paper napkin",
+          "number": "7",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "A white napkin on the tray.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tray",
+          "number": "8",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "The blue-green tray holding the meal.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "burger bar",
+          "number": "9",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "The fast-food service counter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to eat in",
+          "number": "10",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "People seated at a table eating a meal.",
+          "semantic_meaning": "Eat at the restaurant rather than take food away."
+        },
+        {
+          "source_text": "carryout (US) take-away (UK)",
+          "number": "11",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "Bagged food and takeaway containers.",
+          "semantic_meaning": "Food bought to consume elsewhere."
+        },
+        {
+          "source_text": "home delivery",
+          "number": "12",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "A delivery person handing an order to someone at a door.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "street stall",
+          "number": "13",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "A small food stand with an awning.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "menu",
+          "number": "14",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "An open printed menu.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "milkshake",
+          "number": "15",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "A tall creamy drink with a straw.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "canned drink",
+          "number": "16",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "A beverage can.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "soda (US) fizzy drink (UK)",
+          "number": "17",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "A glass of carbonated dark drink.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "meal deal",
+          "number": "18",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "A packaged sandwich, snack, and bottled drink sold together.",
+          "semantic_meaning": "A bundled meal offered at one price."
+        },
+        {
+          "source_text": "reusable cup",
+          "number": "19",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "A lidded refillable takeaway cup.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sauce",
+          "number": "20",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "Two condiment bottles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "food truck (US) food van (UK)",
+          "number": "21",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "A mobile truck with a food-service window.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "waffle",
+          "number": "22",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "A waffle on a plate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ice cream",
+          "number": "23",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "An ice-cream cone.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "muffin",
+          "number": "24",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "A small iced cake in a paper case.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "donut (US) doughnut (UK)",
+          "number": "25",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "An iced ring-shaped doughnut.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "food delivery driver",
+          "number": "26",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "A rider on a scooter with a delivery box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Your order is on its way.",
+          "number": "27",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "Speech bubble from the food delivery driver.",
+          "semantic_meaning": "Notification that a delivery has been dispatched."
+        }
+      ]
+    },
+    {
+      "page": 151,
+      "title": null,
+      "context": "70.1 IN A FAST-FOOD RESTAURANT",
+      "entries": [
+        {
+          "source_text": "Drinking and eating",
+          "number": "52",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "In the pantry",
+          "number": "60",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "At the café",
+          "number": "65",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Candy / Sweets",
+          "number": "67",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "veggie burger",
+          "number": "28",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "A burger with a vegetable patty.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cheeseburger",
+          "number": "29",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "A burger containing cheese.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chicken sandwich (US) chicken burger (UK)",
+          "number": "30",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "A sandwich with a chicken fillet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "burger",
+          "number": "31",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "A burger with bun, salad, and filling.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chicken nuggets",
+          "number": "32",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "Small breaded pieces of chicken.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fried chicken",
+          "number": "33",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "Pieces of fried chicken.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hash browns",
+          "number": "34",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "Small fried potato patties.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fish and chips",
+          "number": "35",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "Fried fish served with chips.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hot dog",
+          "number": "36",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "A sausage in a bun with condiments.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ketchup",
+          "number": "37",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "Red sauce on the hot dog.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mustard",
+          "number": "38",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "Yellow sauce on the hot dog.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "kebab",
+          "number": "39",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "Skewered pieces of grilled meat and vegetables.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ribs",
+          "number": "40",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "A rack of cooked ribs.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "noodles",
+          "number": "41",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "A bowl of noodles with chopsticks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dumplings",
+          "number": "42",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "Steamed dumplings in a bamboo basket.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "empanada",
+          "number": "43",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "A folded, crimp-edged pastry.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wrap",
+          "number": "44",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "A rolled flatbread with filling visible at one end.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "filling",
+          "number": "45",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "The ingredients inside the wrap.",
+          "semantic_meaning": "Food placed inside a wrap, pastry, or sandwich."
+        },
+        {
+          "source_text": "crêpe",
+          "number": "46",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "A thin pancake on a plate.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "taco",
+          "number": "47",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "Folded tortilla filled with vegetables and sauce.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "falafel",
+          "number": "48",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "Fried balls served with flatbread.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nachos",
+          "number": "49",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "Tortilla chips in a carton.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sandwich",
+          "number": "50",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "A filled sandwich.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "club sandwich",
+          "number": "51",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "A layered triangular sandwich.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "open sandwich",
+          "number": "52",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "A slice of bread with toppings and no upper slice.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pizza oven",
+          "number": "53",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "The heated oven behind the pizza counter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pizza",
+          "number": "54",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "A round topped pizza on the counter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "topping",
+          "number": "55",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "Ingredients placed on top of the pizza.",
+          "semantic_meaning": "An ingredient added on top of a pizza."
+        },
+        {
+          "source_text": "tomato sauce",
+          "number": "56",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "A jar of red tomato sauce beside the pizza.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pizzeria",
+          "number": "57",
+          "section": "70.1 IN A FAST-FOOD RESTAURANT",
+          "visual_context": "The pizza restaurant/counter scene.",
+          "semantic_meaning": "A restaurant that makes or sells pizza."
+        }
+      ]
+    }
+  ]
+}

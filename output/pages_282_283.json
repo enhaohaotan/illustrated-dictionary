@@ -1,0 +1,410 @@
+{
+  "pages": [
+    {
+      "page": 282,
+      "title": "Home entertainment",
+      "context": "136.1 TELEVISION AND AUDIO",
+      "entries": [
+        {
+          "source_text": "surround sound speaker",
+          "number": "1",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "Tall speaker positioned to the left of the television.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "screen",
+          "number": "2",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "Display area of the television.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "remote control",
+          "number": "3",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "Handheld remote lying on the home-cinema unit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "center speaker (US) centre speaker (UK)",
+          "number": "4",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "Horizontal speaker beneath the television.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "front speaker",
+          "number": "5",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "Small speaker beside the television.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "television / TV",
+          "number": "6",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "Large television set.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "subwoofer",
+          "number": "7",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "Box speaker on the floor at the right.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "home cinema",
+          "number": "8",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "Complete television and surround-sound setup.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stand",
+          "number": "9",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "Base supporting the television.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sound bar",
+          "number": "10",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "Long slim horizontal speaker.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "CD",
+          "number": "11",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "Compact disc.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "DVD",
+          "number": "12",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "DVD disc and case.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "display",
+          "number": "13",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "Small orange screen on a radio.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tuning buttons",
+          "number": "14",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "Buttons on the radio used for tuning.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "radio",
+          "number": "15",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "Portable radio receiver.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "earphones",
+          "number": "16",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "Small in-ear wired headphones.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "headphones",
+          "number": "17",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "Wired over-ear headphones.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wireless headphones",
+          "number": "18",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "Over-ear headphones receiving a wireless signal.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Bluetooth speaker",
+          "number": "19",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "Portable speaker marked with the Bluetooth symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "record player",
+          "number": "20",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "Turntable with a vinyl record.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "records",
+          "number": "21",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "Vinyl records and their sleeves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tweeter",
+          "number": "22",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "Small upper driver in a loudspeaker.",
+          "semantic_meaning": "high-frequency speaker driver"
+        },
+        {
+          "source_text": "woofer",
+          "number": "23",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "Large lower driver in a loudspeaker.",
+          "semantic_meaning": "low-frequency speaker driver"
+        },
+        {
+          "source_text": "speaker stand",
+          "number": "24",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "Tripod support under a loudspeaker.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "loudspeakers",
+          "number": "25",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "Pair of large speakers on stands.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "CD player",
+          "number": "26",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "Central component of a hi-fi system.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "controls",
+          "number": "27",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "Buttons and knobs on the hi-fi system.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tuner",
+          "number": "28",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "Radio-tuning component of the hi-fi system.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hi-fi system",
+          "number": "29",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "Stereo component system with two speakers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "eyecup",
+          "number": "30",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "Rubber viewing cup at the rear of a camcorder.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lens",
+          "number": "31",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "Front optical lens of a camcorder.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "digital screen",
+          "number": "32",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "Flip-out blue display on a camcorder.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "camcorder",
+          "number": "33",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "Handheld video camera with a flip-out screen.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 283,
+      "title": "Home entertainment",
+      "context": "136.1 TELEVISION AND AUDIO; 136.2 VIDEO GAMES",
+      "entries": [
+        {
+          "source_text": "stereo",
+          "number": "34",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "Two speakers producing sound.",
+          "semantic_meaning": "sound reproduced through two channels"
+        },
+        {
+          "source_text": "mono",
+          "number": "35",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "One speaker producing sound.",
+          "semantic_meaning": "sound reproduced through one channel"
+        },
+        {
+          "source_text": "to tune in",
+          "number": "36",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "Person selecting a station on an audio device.",
+          "semantic_meaning": "to find and receive a broadcast signal"
+        },
+        {
+          "source_text": "volume",
+          "number": "37",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "Speaker icon with a rising volume-level bar.",
+          "semantic_meaning": "loudness level"
+        },
+        {
+          "source_text": "to turn up",
+          "number": "38",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "Speaker icon with an increasing volume-level bar.",
+          "semantic_meaning": "to increase the volume"
+        },
+        {
+          "source_text": "to turn down",
+          "number": "39",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "Speaker icon with a decreasing volume-level bar.",
+          "semantic_meaning": "to decrease the volume"
+        },
+        {
+          "source_text": "satellite dish",
+          "number": "40",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "Dish aerial receiving a signal.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "digital box",
+          "number": "41",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "Small television receiver box with an aerial.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "microphone",
+          "number": "42",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "Handheld microphone used by a karaoke singer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "karaoke",
+          "number": "43",
+          "section": "136.1 TELEVISION AND AUDIO",
+          "visual_context": "Person singing into a microphone beside a screen.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "console",
+          "number": "1",
+          "section": "136.2 VIDEO GAMES",
+          "visual_context": "Video-game console connected to controllers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "controller",
+          "number": "2",
+          "section": "136.2 VIDEO GAMES",
+          "visual_context": "Handheld wired game controller.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "strategy game",
+          "number": "3",
+          "section": "136.2 VIDEO GAMES",
+          "visual_context": "Game illustration showing armies facing across a barrier.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "trivia game",
+          "number": "4",
+          "section": "136.2 VIDEO GAMES",
+          "visual_context": "Game cards with question marks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "platform game",
+          "number": "5",
+          "section": "136.2 VIDEO GAMES",
+          "visual_context": "Running character jumping between platforms.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "adventure game",
+          "number": "6",
+          "section": "136.2 VIDEO GAMES",
+          "visual_context": "Character travelling through a landscape.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "role-playing game",
+          "number": "7",
+          "section": "136.2 VIDEO GAMES",
+          "visual_context": "Fantasy character with a sword in a mountainous setting.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "action game",
+          "number": "8",
+          "section": "136.2 VIDEO GAMES",
+          "visual_context": "Armed character running through an urban setting.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "multiplayer game",
+          "number": "9",
+          "section": "136.2 VIDEO GAMES",
+          "visual_context": "Several people playing together on a large screen.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "simulation game",
+          "number": "10",
+          "section": "136.2 VIDEO GAMES",
+          "visual_context": "Isometric simulated city scene.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sports game",
+          "number": "11",
+          "section": "136.2 VIDEO GAMES",
+          "visual_context": "Players playing a racket sport.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "puzzle game",
+          "number": "12",
+          "section": "136.2 VIDEO GAMES",
+          "visual_context": "Falling block puzzle display.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "logic game",
+          "number": "13",
+          "section": "136.2 VIDEO GAMES",
+          "visual_context": "Diagrammatic puzzle board with connected shapes.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

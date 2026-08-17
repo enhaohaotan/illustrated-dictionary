@@ -1,0 +1,361 @@
+{
+  "pages": [
+    {
+      "page": 264,
+      "title": "Movies (US) / Films (UK)",
+      "context": "127.1 AT THE MOVIES (US) / CINEMA (UK)",
+      "entries": [
+        {
+          "source_text": "drama",
+          "number": "1",
+          "section": "AT THE MOVIES (US) / CINEMA (UK)",
+          "visual_context": "Two theatrical masks, one happy and one sad.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "musical",
+          "number": "2",
+          "section": "AT THE MOVIES (US) / CINEMA (UK)",
+          "visual_context": "People dancing beneath musical notes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "science fiction",
+          "number": "3",
+          "section": "AT THE MOVIES (US) / CINEMA (UK)",
+          "visual_context": "A flying saucer abducting a person with a beam.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "thriller",
+          "number": "4",
+          "section": "AT THE MOVIES (US) / CINEMA (UK)",
+          "visual_context": "A shadowy figure behind a curtain.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "comedy",
+          "number": "5",
+          "section": "AT THE MOVIES (US) / CINEMA (UK)",
+          "visual_context": "A smiling theatrical mask.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "action movie",
+          "number": "6",
+          "section": "AT THE MOVIES (US) / CINEMA (UK)",
+          "visual_context": "A car pursuing a motorcycle, with motion lines.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "horror",
+          "number": "7",
+          "section": "AT THE MOVIES (US) / CINEMA (UK)",
+          "visual_context": "A stitched skull-like face.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "animation",
+          "number": "8",
+          "section": "AT THE MOVIES (US) / CINEMA (UK)",
+          "visual_context": "Cartoon figures high-fiving.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "romantic\ncomedy",
+          "number": "9",
+          "section": "AT THE MOVIES (US) / CINEMA (UK)",
+          "visual_context": "A couple beneath a heart.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "crime drama",
+          "number": "10",
+          "section": "AT THE MOVIES (US) / CINEMA (UK)",
+          "visual_context": "A magnifying glass over a fingerprint.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "western",
+          "number": "11",
+          "section": "AT THE MOVIES (US) / CINEMA (UK)",
+          "visual_context": "A rider on a horse wearing a cowboy hat.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "historical\ndrama",
+          "number": "12",
+          "section": "AT THE MOVIES (US) / CINEMA (UK)",
+          "visual_context": "Two figures in old-fashioned formal clothing.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fantasy",
+          "number": "13",
+          "section": "AT THE MOVIES (US) / CINEMA (UK)",
+          "visual_context": "A wizard holding a staff.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "martial arts",
+          "number": "14",
+          "section": "AT THE MOVIES (US) / CINEMA (UK)",
+          "visual_context": "People performing fighting moves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "special effects",
+          "number": "15",
+          "section": "AT THE MOVIES (US) / CINEMA (UK)",
+          "visual_context": "A movie camera beside a stylized explosion.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "box office",
+          "number": "16",
+          "section": "AT THE MOVIES (US) / CINEMA (UK)",
+          "visual_context": "Cinema ticket counter with staff.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "multiplex",
+          "number": "17",
+          "section": "AT THE MOVIES (US) / CINEMA (UK)",
+          "visual_context": "A cinema building with multiple screens indicated.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "popcorn",
+          "number": "18",
+          "section": "AT THE MOVIES (US) / CINEMA (UK)",
+          "visual_context": "A customer receiving a drink and popcorn at a concession counter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "movie star (US)\nfilm star (UK)",
+          "number": "19",
+          "section": "AT THE MOVIES (US) / CINEMA (UK)",
+          "visual_context": "Pointer to the leading performer shown on the cinema screen.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "screen",
+          "number": "20",
+          "section": "AT THE MOVIES (US) / CINEMA (UK)",
+          "visual_context": "Pointer to the large display at the front of the cinema.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "audience",
+          "number": "21",
+          "section": "AT THE MOVIES (US) / CINEMA (UK)",
+          "visual_context": "Pointer to the seated viewers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "movie theater (US) / cinema (UK)",
+          "number": "22",
+          "section": "AT THE MOVIES (US) / CINEMA (UK)",
+          "visual_context": "The complete auditorium with screen and rows of seats.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "main character",
+          "number": "23",
+          "section": "AT THE MOVIES (US) / CINEMA (UK)",
+          "visual_context": "A figure highlighted by a spotlight among other figures.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hero",
+          "number": "24",
+          "section": "AT THE MOVIES (US) / CINEMA (UK)",
+          "visual_context": "A cowboy-like figure confronting another person.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "villain",
+          "number": "25",
+          "section": "AT THE MOVIES (US) / CINEMA (UK)",
+          "visual_context": "A running, masked-looking figure with a sack.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 265,
+      "title": "FILM STUDIO",
+      "context": "127.2 FILM STUDIO",
+      "entries": [
+        {
+          "source_text": "On stage",
+          "number": "126",
+          "section": "See also:",
+          "visual_context": null,
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Home entertainment",
+          "number": "136",
+          "section": "See also:",
+          "visual_context": null,
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Television",
+          "number": "137",
+          "section": "See also:",
+          "visual_context": null,
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sound engineer",
+          "number": "1",
+          "section": "FILM STUDIO",
+          "visual_context": "Pointer to the crew member wearing headphones and holding a boom microphone.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lens",
+          "number": "2",
+          "section": "FILM STUDIO",
+          "visual_context": "Pointer to the lens on the tripod-mounted camera.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cinematographer",
+          "number": "3",
+          "section": "FILM STUDIO",
+          "visual_context": "Pointer to the person filming the set with a camera.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "camera\noperator",
+          "number": "4",
+          "section": "FILM STUDIO",
+          "visual_context": "Pointer to the person operating the foreground movie camera.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "director",
+          "number": "5",
+          "section": "FILM STUDIO",
+          "visual_context": "Pointer to the seated person directing the production.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "producer",
+          "number": "6",
+          "section": "FILM STUDIO",
+          "visual_context": "Pointer to the standing crew member holding papers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "movie camera",
+          "number": "7",
+          "section": "FILM STUDIO",
+          "visual_context": "Pointer to the large professional camera on a tripod.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "film set",
+          "number": "8",
+          "section": "FILM STUDIO",
+          "visual_context": "The staged kitchen-room setting being filmed.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "paparazzi",
+          "number": "9",
+          "section": "FILM STUDIO",
+          "visual_context": "Photographers clustered around the arriving celebrity.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "red carpet",
+          "number": "10",
+          "section": "FILM STUDIO",
+          "visual_context": "Pointer to the red carpet leading to the premiere venue.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "celebrity",
+          "number": "11",
+          "section": "FILM STUDIO",
+          "visual_context": "Pointer to the notable person arriving on the red carpet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "premiere",
+          "number": "12",
+          "section": "FILM STUDIO",
+          "visual_context": "The film-opening red-carpet event outside a cinema.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "audition",
+          "number": "13",
+          "section": "FILM STUDIO",
+          "visual_context": "A performer appearing before seated judges.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cast",
+          "number": "14",
+          "section": "FILM STUDIO",
+          "visual_context": "A group of actors.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "extras",
+          "number": "15",
+          "section": "FILM STUDIO",
+          "visual_context": "Background people around a film scene.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stunt",
+          "number": "16",
+          "section": "FILM STUDIO",
+          "visual_context": "A person falling from a building.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "props",
+          "number": "17",
+          "section": "FILM STUDIO",
+          "visual_context": "Film objects including a globe, typewriter, sword, and other items.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "screenplay",
+          "number": "18",
+          "section": "FILM STUDIO",
+          "visual_context": "A stack of script pages.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "costumes",
+          "number": "19",
+          "section": "FILM STUDIO",
+          "visual_context": "Period clothing displayed on figures.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "soundtrack",
+          "number": "20",
+          "section": "FILM STUDIO",
+          "visual_context": "A filmstrip containing a musical note.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "screenwriter",
+          "number": "21",
+          "section": "FILM STUDIO",
+          "visual_context": "A person writing beside a clapperboard and script.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

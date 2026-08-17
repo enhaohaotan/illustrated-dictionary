@@ -1,0 +1,473 @@
+{
+  "pages": [
+    {
+      "page": 88,
+      "title": "Garden plants and houseplants",
+      "context": "38.1 GARDEN PLANTS AND FLOWERS",
+      "entries": [
+        {
+          "source_text": "dandelion",
+          "number": "1",
+          "section": "38.1 GARDEN PLANTS AND FLOWERS",
+          "visual_context": "Illustration of a yellow dandelion with toothed leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "evening primrose",
+          "number": "2",
+          "section": "38.1 GARDEN PLANTS AND FLOWERS",
+          "visual_context": "Illustration of yellow evening-primrose flowers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "thistle",
+          "number": "3",
+          "section": "38.1 GARDEN PLANTS AND FLOWERS",
+          "visual_context": "Illustration of purple thistle flower heads.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tulip",
+          "number": "4",
+          "section": "38.1 GARDEN PLANTS AND FLOWERS",
+          "visual_context": "Illustration of red and orange tulips.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lily of the valley",
+          "number": "5",
+          "section": "38.1 GARDEN PLANTS AND FLOWERS",
+          "visual_context": "Illustration of a stem with small white bell-shaped flowers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "carnation",
+          "number": "6",
+          "section": "38.1 GARDEN PLANTS AND FLOWERS",
+          "visual_context": "Illustration of white carnation flowers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "daisy",
+          "number": "8",
+          "section": "38.1 GARDEN PLANTS AND FLOWERS",
+          "visual_context": "Illustration of a white daisy with a yellow centre.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "buttercup",
+          "number": "9",
+          "section": "38.1 GARDEN PLANTS AND FLOWERS",
+          "visual_context": "Illustration of a yellow buttercup.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "poppy",
+          "number": "10",
+          "section": "38.1 GARDEN PLANTS AND FLOWERS",
+          "visual_context": "Illustration of a red poppy.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pansy",
+          "number": "11",
+          "section": "38.1 GARDEN PLANTS AND FLOWERS",
+          "visual_context": "Illustration of purple pansy flowers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "geranium",
+          "number": "12",
+          "section": "38.1 GARDEN PLANTS AND FLOWERS",
+          "visual_context": "Illustration of red geranium flowers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "foxglove",
+          "number": "13",
+          "section": "38.1 GARDEN PLANTS AND FLOWERS",
+          "visual_context": "Illustration of tall purple foxglove spikes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lupin",
+          "number": "15",
+          "section": "38.1 GARDEN PLANTS AND FLOWERS",
+          "visual_context": "Illustration of purple lupin flower spikes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rose",
+          "number": "16",
+          "section": "38.1 GARDEN PLANTS AND FLOWERS",
+          "visual_context": "Illustration of a red rose.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sunflower",
+          "number": "17",
+          "section": "38.1 GARDEN PLANTS AND FLOWERS",
+          "visual_context": "Illustration of a yellow sunflower.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "orchid",
+          "number": "18",
+          "section": "38.1 GARDEN PLANTS AND FLOWERS",
+          "visual_context": "Illustration of a flowering orchid stem.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "begonia",
+          "number": "19",
+          "section": "38.1 GARDEN PLANTS AND FLOWERS",
+          "visual_context": "Illustration of orange begonia flowers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lily",
+          "number": "20",
+          "section": "38.1 GARDEN PLANTS AND FLOWERS",
+          "visual_context": "Illustration of an orange lily.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "violet",
+          "number": "22",
+          "section": "38.1 GARDEN PLANTS AND FLOWERS",
+          "visual_context": "Illustration of purple violet flowers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "crocus",
+          "number": "23",
+          "section": "38.1 GARDEN PLANTS AND FLOWERS",
+          "visual_context": "Illustration of purple crocus flowers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "daffodil",
+          "number": "24",
+          "section": "38.1 GARDEN PLANTS AND FLOWERS",
+          "visual_context": "Illustration of yellow daffodils.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lilac",
+          "number": "25",
+          "section": "38.1 GARDEN PLANTS AND FLOWERS",
+          "visual_context": "Illustration of a hanging cluster of pale-purple lilac flowers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gardenia",
+          "number": "26",
+          "section": "38.1 GARDEN PLANTS AND FLOWERS",
+          "visual_context": "Illustration of white gardenia flowers among leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lavender",
+          "number": "27",
+          "section": "38.1 GARDEN PLANTS AND FLOWERS",
+          "visual_context": "Illustration of purple lavender spikes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "marigold",
+          "number": "29",
+          "section": "38.1 GARDEN PLANTS AND FLOWERS",
+          "visual_context": "Illustration of orange marigold flowers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "azalea",
+          "number": "30",
+          "section": "38.1 GARDEN PLANTS AND FLOWERS",
+          "visual_context": "Illustration of pink azalea flowers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chrysanthemum",
+          "number": "31",
+          "section": "38.1 GARDEN PLANTS AND FLOWERS",
+          "visual_context": "Illustration of pale-yellow chrysanthemum flowers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rhododendron",
+          "number": "32",
+          "section": "38.1 GARDEN PLANTS AND FLOWERS",
+          "visual_context": "Illustration of a cluster of purple rhododendron flowers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rose of Sharon / hibiscus",
+          "number": "33",
+          "section": "38.1 GARDEN PLANTS AND FLOWERS",
+          "visual_context": "Illustration of two blue flowers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "honeysuckle",
+          "number": "35",
+          "section": "38.1 GARDEN PLANTS AND FLOWERS",
+          "visual_context": "Illustration of a sprawling flowering honeysuckle vine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "iris",
+          "number": "36",
+          "section": "38.1 GARDEN PLANTS AND FLOWERS",
+          "visual_context": "Illustration of a purple-and-yellow iris.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lotus",
+          "number": "37",
+          "section": "38.1 GARDEN PLANTS AND FLOWERS",
+          "visual_context": "Illustration of a pink lotus on a green pad.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wisteria",
+          "number": "38",
+          "section": "38.1 GARDEN PLANTS AND FLOWERS",
+          "visual_context": "Illustration of hanging purple wisteria clusters.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "African daisy",
+          "number": "39",
+          "section": "38.1 GARDEN PLANTS AND FLOWERS",
+          "visual_context": "Illustration of orange African daisy flowers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hydrangea",
+          "number": "40",
+          "section": "38.1 GARDEN PLANTS AND FLOWERS",
+          "visual_context": "Illustration of a blue hydrangea flower cluster.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 89,
+      "title": "Garden plants and houseplants",
+      "context": "38.2 HOUSEPLANTS; 38.3 FLOWER ANATOMY",
+      "entries": [
+        {
+          "source_text": "heather",
+          "number": "7",
+          "section": "38.1 GARDEN PLANTS AND FLOWERS",
+          "visual_context": "Illustration of a low mound of purple heather flowers, continuing the garden-plants list from the facing page.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "camellia",
+          "number": "14",
+          "section": "38.1 GARDEN PLANTS AND FLOWERS",
+          "visual_context": "Illustration of orange-red camellia flowers, continuing the garden-plants list from the facing page.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pampas grass",
+          "number": "21",
+          "section": "38.1 GARDEN PLANTS AND FLOWERS",
+          "visual_context": "Illustration of a clump of grass with pale feathery plumes, continuing the garden-plants list from the facing page.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "protea",
+          "number": "28",
+          "section": "38.1 GARDEN PLANTS AND FLOWERS",
+          "visual_context": "Illustration of a red protea flower, continuing the garden-plants list from the facing page.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rosemary",
+          "number": "34",
+          "section": "38.1 GARDEN PLANTS AND FLOWERS",
+          "visual_context": "Illustration of a green rosemary sprig, continuing the garden-plants list from the facing page.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bay tree",
+          "number": "41",
+          "section": "38.1 GARDEN PLANTS AND FLOWERS",
+          "visual_context": "Illustration of a small bay tree, continuing the garden-plants list from the facing page.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "peace lily",
+          "number": "1",
+          "section": "38.2 HOUSEPLANTS",
+          "visual_context": "Illustration of a potted plant with white flowers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "snake plant",
+          "number": "2",
+          "section": "38.2 HOUSEPLANTS",
+          "visual_context": "Illustration of a potted plant with tall upright striped leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "spider plant",
+          "number": "3",
+          "section": "38.2 HOUSEPLANTS",
+          "visual_context": "Illustration of a potted plant with long arching leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "yucca",
+          "number": "4",
+          "section": "38.2 HOUSEPLANTS",
+          "visual_context": "Illustration of a potted yucca with a woody trunk and spiky leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dragon tree",
+          "number": "5",
+          "section": "38.2 HOUSEPLANTS",
+          "visual_context": "Illustration of a potted dragon tree with narrow red-edged leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bonsai tree",
+          "number": "6",
+          "section": "38.2 HOUSEPLANTS",
+          "visual_context": "Illustration of a miniature tree in a shallow pot.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Swiss cheese plant",
+          "number": "7",
+          "section": "38.2 HOUSEPLANTS",
+          "visual_context": "Illustration of a potted plant with large split leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "succulents",
+          "number": "8",
+          "section": "38.2 HOUSEPLANTS",
+          "visual_context": "Illustration of three small potted succulents.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Chinese money plant",
+          "number": "9",
+          "section": "38.2 HOUSEPLANTS",
+          "visual_context": "Illustration of a potted plant with rounded leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rubber plant",
+          "number": "10",
+          "section": "38.2 HOUSEPLANTS",
+          "visual_context": "Illustration of a potted plant with broad glossy leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "umbrella plant",
+          "number": "11",
+          "section": "38.2 HOUSEPLANTS",
+          "visual_context": "Illustration of a potted plant with leaves arranged like umbrellas.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "polka dot plant",
+          "number": "12",
+          "section": "38.2 HOUSEPLANTS",
+          "visual_context": "Illustration of a small potted plant with spotted leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "marble queen",
+          "number": "13",
+          "section": "38.2 HOUSEPLANTS",
+          "visual_context": "Illustration of a potted plant with variegated pale-green leaves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "jade pothos",
+          "number": "14",
+          "section": "38.2 HOUSEPLANTS",
+          "visual_context": "Illustration of a trailing potted pothos plant.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stamen",
+          "number": "1",
+          "section": "38.3 FLOWER ANATOMY",
+          "visual_context": "Bracket and pointers identify the male flower structure, including anther and filament.",
+          "semantic_meaning": "Male reproductive part of a flower."
+        },
+        {
+          "source_text": "anther",
+          "number": "2",
+          "section": "38.3 FLOWER ANATOMY",
+          "visual_context": "Pointer to the yellow pollen-bearing tip of a stamen.",
+          "semantic_meaning": "Pollen-bearing part of a stamen."
+        },
+        {
+          "source_text": "filament",
+          "number": "3",
+          "section": "38.3 FLOWER ANATOMY",
+          "visual_context": "Pointer to the slender stalk supporting an anther.",
+          "semantic_meaning": "Stalk of a stamen."
+        },
+        {
+          "source_text": "stigma",
+          "number": "4",
+          "section": "38.3 FLOWER ANATOMY",
+          "visual_context": "Pointer to the top of the central green female structure.",
+          "semantic_meaning": "Pollen-receiving tip of the female flower part."
+        },
+        {
+          "source_text": "style",
+          "number": "5",
+          "section": "38.3 FLOWER ANATOMY",
+          "visual_context": "Pointer to the central green stalk below the stigma.",
+          "semantic_meaning": "Stalk connecting stigma and ovary."
+        },
+        {
+          "source_text": "petal",
+          "number": "6",
+          "section": "38.3 FLOWER ANATOMY",
+          "visual_context": "Pointer to an orange-red flower petal.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ovary",
+          "number": "7",
+          "section": "38.3 FLOWER ANATOMY",
+          "visual_context": "Pointer to the swollen green base enclosing the ovules.",
+          "semantic_meaning": "Female structure containing ovules."
+        },
+        {
+          "source_text": "sepal",
+          "number": "8",
+          "section": "38.3 FLOWER ANATOMY",
+          "visual_context": "Pointer to a green leaf-like structure beneath the petals.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stem",
+          "number": "9",
+          "section": "38.3 FLOWER ANATOMY",
+          "visual_context": "Pointer to the vertical green stalk below the flower.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "receptacle",
+          "number": "10",
+          "section": "38.3 FLOWER ANATOMY",
+          "visual_context": "Pointer to the base where the flower parts join the stem.",
+          "semantic_meaning": "Base of the flower where its parts attach."
+        }
+      ]
+    }
+  ]
+}

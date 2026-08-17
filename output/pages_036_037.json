@@ -1,0 +1,487 @@
+{
+  "pages": [
+    {
+      "page": 36,
+      "title": "Appearance and hair",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "medium height",
+          "number": "1",
+          "section": "12.1 GENERAL APPEARANCE",
+          "visual_context": "Pointer to the woman of average height in a group of three women.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tall",
+          "number": "2",
+          "section": "12.1 GENERAL APPEARANCE",
+          "visual_context": "Pointer to the tallest woman in the group.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "short",
+          "number": "3",
+          "section": "12.1 GENERAL APPEARANCE",
+          "visual_context": "Pointer to the shortest woman in the group.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "beautiful",
+          "number": "4",
+          "section": "12.1 GENERAL APPEARANCE",
+          "visual_context": "Woman in a long red dress holding a flower.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "handsome",
+          "number": "5",
+          "section": "12.1 GENERAL APPEARANCE",
+          "visual_context": "Man wearing a black suit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "young",
+          "number": "6",
+          "section": "12.1 GENERAL APPEARANCE",
+          "visual_context": "Young woman in a purple dress.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "middle-aged",
+          "number": "7",
+          "section": "12.1 GENERAL APPEARANCE",
+          "visual_context": "Middle-aged man in a suit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "old",
+          "number": "8",
+          "section": "12.1 GENERAL APPEARANCE",
+          "visual_context": "Elderly woman using a walking stick.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pores",
+          "number": "9",
+          "section": "12.1 GENERAL APPEARANCE",
+          "visual_context": "Close-up side view of a nose with visible skin pores.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "freckles",
+          "number": "10",
+          "section": "12.1 GENERAL APPEARANCE",
+          "visual_context": "Close-up of a face with small spots across the cheeks and nose.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wrinkles",
+          "number": "11",
+          "section": "12.1 GENERAL APPEARANCE",
+          "visual_context": "Close-up of an older face with lines on the forehead and around the eyes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dimples",
+          "number": "12",
+          "section": "12.1 GENERAL APPEARANCE",
+          "visual_context": "Close-up of a smiling face with cheek indentations.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mole",
+          "number": "13",
+          "section": "12.1 GENERAL APPEARANCE",
+          "visual_context": "Close-up of a face with a dark spot below the mouth.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to style your hair",
+          "number": "1",
+          "section": "12.2 HAIR",
+          "visual_context": "Man applying a hair product while touching his hair.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to wash your hair",
+          "number": "2",
+          "section": "12.2 HAIR",
+          "visual_context": "Person shampooing their hair with foam.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to have (or get) your hair cut",
+          "number": "3",
+          "section": "12.2 HAIR",
+          "visual_context": "Hairdresser cutting a seated customer's hair.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to tie your hair back",
+          "number": "4",
+          "section": "12.2 HAIR",
+          "visual_context": "Woman gathering her long hair behind her head.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to grow your hair",
+          "number": "5",
+          "section": "12.2 HAIR",
+          "visual_context": "Woman beside a calendar, with an arrow indicating passage of time.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to shave",
+          "number": "6",
+          "section": "12.2 HAIR",
+          "visual_context": "Man shaving his face with a razor.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "long hair",
+          "number": "7",
+          "section": "12.2 HAIR",
+          "visual_context": "Head with long straight black hair.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "short hair",
+          "number": "8",
+          "section": "12.2 HAIR",
+          "visual_context": "Head with a short black hairstyle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shoulder-length hair",
+          "number": "9",
+          "section": "12.2 HAIR",
+          "visual_context": "Head with hair ending at the shoulders.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "side parting",
+          "number": "10",
+          "section": "12.2 HAIR",
+          "visual_context": "Head with hair divided by a part at one side.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "center parting (US)\ncentre parting (UK)",
+          "number": "11",
+          "section": "12.2 HAIR",
+          "visual_context": "Head with hair divided down the middle.",
+          "semantic_meaning": "US and UK terms for a middle hair part."
+        },
+        {
+          "source_text": "mustache (US)\nmoustache (UK)",
+          "number": "12",
+          "section": "12.2 HAIR",
+          "visual_context": "Pointer to hair above a bald man's upper lip.",
+          "semantic_meaning": "US and UK spellings for facial hair above the upper lip."
+        },
+        {
+          "source_text": "goatee",
+          "number": "13",
+          "section": "12.2 HAIR",
+          "visual_context": "Pointer to a small pointed beard around the chin.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "beard",
+          "number": "14",
+          "section": "12.2 HAIR",
+          "visual_context": "Pointer to full hair covering a man's chin and jaw.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shaved head",
+          "number": "15",
+          "section": "12.2 HAIR",
+          "visual_context": "Pointer to the hairless top of a head.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stubble",
+          "number": "16",
+          "section": "12.2 HAIR",
+          "visual_context": "Pointer to short, rough facial hair on a man's lower face.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sideburns",
+          "number": "17",
+          "section": "12.2 HAIR",
+          "visual_context": "Pointer to hair extending down the sides of the face in front of the ears.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "facial hair",
+          "number": "18",
+          "section": "12.2 HAIR",
+          "visual_context": "Label beneath illustrations of beard, stubble, and sideburns.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 37,
+      "title": null,
+      "context": "Continuation of 12.2 HAIR.",
+      "entries": [
+        {
+          "source_text": "crew cut",
+          "number": "19",
+          "section": "12.2 HAIR",
+          "visual_context": "Man with very short hair, glasses, and a mustache.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bald",
+          "number": "20",
+          "section": "12.2 HAIR",
+          "visual_context": "Head with no hair.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "straight hair",
+          "number": "21",
+          "section": "12.2 HAIR",
+          "visual_context": "Head with long straight hair.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wavy hair",
+          "number": "22",
+          "section": "12.2 HAIR",
+          "visual_context": "Head with long hair in loose waves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "curly hair",
+          "number": "23",
+          "section": "12.2 HAIR",
+          "visual_context": "Head with defined curls.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "frizzy hair",
+          "number": "24",
+          "section": "12.2 HAIR",
+          "visual_context": "Head with dense, frizzy hair.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ponytail",
+          "number": "25",
+          "section": "12.2 HAIR",
+          "visual_context": "Side view of hair gathered and tied at the back.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "plait",
+          "number": "26",
+          "section": "12.2 HAIR",
+          "visual_context": "Side view of a long braided plait.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pigtails",
+          "number": "27",
+          "section": "12.2 HAIR",
+          "visual_context": "Head with two tied sections of hair, one on each side.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bob",
+          "number": "28",
+          "section": "12.2 HAIR",
+          "visual_context": "Side view of a short, chin-length haircut with bangs.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "crop",
+          "number": "29",
+          "section": "12.2 HAIR",
+          "visual_context": "Side view of a very short haircut.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wig",
+          "number": "30",
+          "section": "12.2 HAIR",
+          "visual_context": "Bright green artificial hairpiece on a mannequin head.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "French plait",
+          "number": "31",
+          "section": "12.2 HAIR",
+          "visual_context": "Side view of a braid woven close to the head.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bun",
+          "number": "32",
+          "section": "12.2 HAIR",
+          "visual_context": "Side view of hair gathered into a round knot at the back of the head.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "highlights",
+          "number": "33",
+          "section": "12.2 HAIR",
+          "visual_context": "Hair with lighter-colored streaks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Afro",
+          "number": "34",
+          "section": "12.2 HAIR",
+          "visual_context": "Side view of a rounded natural curly hairstyle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "braids",
+          "number": "35",
+          "section": "12.2 HAIR",
+          "visual_context": "Side view of multiple long braided strands.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cornrows",
+          "number": "36",
+          "section": "12.2 HAIR",
+          "visual_context": "Side view of hair braided in close rows along the scalp.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "normal hair",
+          "number": "37",
+          "section": "12.2 HAIR",
+          "visual_context": "Head with ordinary straight brown hair.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "greasy hair",
+          "number": "38",
+          "section": "12.2 HAIR",
+          "visual_context": "Head with dark, shiny-looking hair.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dry hair",
+          "number": "39",
+          "section": "12.2 HAIR",
+          "visual_context": "Head with dry, untidy-looking hair.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dandruff",
+          "number": "40",
+          "section": "12.2 HAIR",
+          "visual_context": "Hair with white flakes visible on it.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hair gel",
+          "number": "41",
+          "section": "12.2 HAIR",
+          "visual_context": "Jar of hair styling gel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hair spray",
+          "number": "42",
+          "section": "12.2 HAIR",
+          "visual_context": "Aerosol can spraying hair product.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "black hair",
+          "number": "43",
+          "section": "12.2 HAIR",
+          "visual_context": "Black lock of hair.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "brown hair",
+          "number": "44",
+          "section": "12.2 HAIR",
+          "visual_context": "Brown lock of hair.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "blond / blonde\nhair",
+          "number": "45",
+          "section": "12.2 HAIR",
+          "visual_context": "Light blond lock of hair.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "red hair",
+          "number": "46",
+          "section": "12.2 HAIR",
+          "visual_context": "Red lock of hair.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "auburn hair",
+          "number": "47",
+          "section": "12.2 HAIR",
+          "visual_context": "Reddish-brown lock of hair.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gray hair (US)\ngrey hair (UK)",
+          "number": "48",
+          "section": "12.2 HAIR",
+          "visual_context": "Gray lock of hair.",
+          "semantic_meaning": "US and UK spellings for gray hair."
+        },
+        {
+          "source_text": "straightening\niron (US) / hair\nstraightener (UK)",
+          "number": "49",
+          "section": "12.2 HAIR",
+          "visual_context": "Electric heated hair-straightening tool.",
+          "semantic_meaning": "US and UK terms for a hair-straightening tool."
+        },
+        {
+          "source_text": "curling iron (US)\nhair curler (UK)",
+          "number": "50",
+          "section": "12.2 HAIR",
+          "visual_context": "Electric heated curling tool.",
+          "semantic_meaning": "US and UK terms for a hair-curling tool."
+        },
+        {
+          "source_text": "hairbrush",
+          "number": "51",
+          "section": "12.2 HAIR",
+          "visual_context": "Hairbrush with bristles and a handle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "comb",
+          "number": "52",
+          "section": "12.2 HAIR",
+          "visual_context": "Orange wide-toothed comb.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hair shears (US)\nhair scissors (UK)",
+          "number": "53",
+          "section": "12.2 HAIR",
+          "visual_context": "Pair of scissors for cutting hair.",
+          "semantic_meaning": "US and UK terms for scissors used to cut hair."
+        },
+        {
+          "source_text": "hair dryer",
+          "number": "54",
+          "section": "12.2 HAIR",
+          "visual_context": "Handheld electric hair dryer.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

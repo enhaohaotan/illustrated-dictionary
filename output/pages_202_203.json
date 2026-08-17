@@ -1,0 +1,410 @@
+{
+  "pages": [
+    {
+      "page": 202,
+      "title": "Roads",
+      "context": "96.1 ON THE ROAD",
+      "entries": [
+        {
+          "source_text": "road markings",
+          "number": "1",
+          "section": "96.1 ON THE ROAD",
+          "visual_context": "Pointer to the painted striped markings at the ramp merge.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ramp (US) / slip road (UK)",
+          "number": "2",
+          "section": "96.1 ON THE ROAD",
+          "visual_context": "Pointer to the road joining the highway.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "emergency phone",
+          "number": "3",
+          "section": "96.1 ON THE ROAD",
+          "visual_context": "Pointer to a roadside emergency telephone.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "exit ramp",
+          "number": "4",
+          "section": "96.1 ON THE ROAD",
+          "visual_context": "Pointer to the curved road leaving the highway.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "inside lane",
+          "number": "5",
+          "section": "96.1 ON THE ROAD",
+          "visual_context": "Pointer to the lane nearest the median.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "middle lane",
+          "number": "6",
+          "section": "96.1 ON THE ROAD",
+          "visual_context": "Pointer to a central traffic lane.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "outside lane",
+          "number": "7",
+          "section": "96.1 ON THE ROAD",
+          "visual_context": "Pointer to the lane farthest from the median.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hard shoulder",
+          "number": "8",
+          "section": "96.1 ON THE ROAD",
+          "visual_context": "Pointer to the paved roadside shoulder beside the tollbooths.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tollbooth",
+          "number": "9",
+          "section": "96.1 ON THE ROAD",
+          "visual_context": "Pointer to a toll collection booth.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "median (US)\ncentral reservation (UK)",
+          "number": "10",
+          "section": "96.1 ON THE ROAD",
+          "visual_context": "Pointer to the divider between opposing carriageways.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "traffic",
+          "number": "11",
+          "section": "96.1 ON THE ROAD",
+          "visual_context": "Pointer to the cars on the highway.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "highway (US) / motorway (UK)",
+          "number": "12",
+          "section": "96.1 ON THE ROAD",
+          "visual_context": "The large multi-lane road diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "divided highway (US)\ndual carriageway (UK)",
+          "number": "13",
+          "section": "96.1 ON THE ROAD",
+          "visual_context": "Illustration of two separated directions of traffic.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "divider",
+          "number": "14",
+          "section": "96.1 ON THE ROAD",
+          "visual_context": "Pointer to the physical separation between carriageways.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "junction",
+          "number": "15",
+          "section": "96.1 ON THE ROAD",
+          "visual_context": "Illustration of intersecting roads.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "roundabout",
+          "number": "16",
+          "section": "96.1 ON THE ROAD",
+          "visual_context": "Illustration of a circular road intersection.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "flyover",
+          "number": "17",
+          "section": "96.1 ON THE ROAD",
+          "visual_context": "Illustration of an elevated road crossing another road.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "underpass",
+          "number": "18",
+          "section": "96.1 ON THE ROAD",
+          "visual_context": "Illustration of a road or walkway passing beneath a road.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "traffic barrier (US)\ncrash barrier (UK)",
+          "number": "19",
+          "section": "96.1 ON THE ROAD",
+          "visual_context": "Illustration of striped road barriers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "detour (US)\ndiversion (UK)",
+          "number": "20",
+          "section": "96.1 ON THE ROAD",
+          "visual_context": "Illustration of a directional diversion sign and barriers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "speed camera",
+          "number": "21",
+          "section": "96.1 ON THE ROAD",
+          "visual_context": "Illustration of a camera monitoring a car beside a 30 sign.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stop light (US)\ntraffic light (UK)",
+          "number": "22",
+          "section": "96.1 ON THE ROAD",
+          "visual_context": "Illustration of cars beside a traffic signal.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "traffic jam",
+          "number": "23",
+          "section": "96.1 ON THE ROAD",
+          "visual_context": "Illustration of a motorcycle and closely packed cars.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "one-way street",
+          "number": "24",
+          "section": "96.1 ON THE ROAD",
+          "visual_context": "Illustration of a right-pointing one-way arrow sign.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pedestrian\ncrossing",
+          "number": "25",
+          "section": "96.1 ON THE ROAD",
+          "visual_context": "Illustration of a pedestrian crossing in front of a car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "road construction (US)\nroadworks (UK)",
+          "number": "26",
+          "section": "96.1 ON THE ROAD",
+          "visual_context": "Illustration of a worker, barriers, cones, and roadworks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "disabled\nparking",
+          "number": "27",
+          "section": "96.1 ON THE ROAD",
+          "visual_context": "Illustration of a wheelchair-accessible parking sign.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "parking\nattendant",
+          "number": "28",
+          "section": "96.1 ON THE ROAD",
+          "visual_context": "Illustration of an attendant beside a parked car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "parking meter",
+          "number": "29",
+          "section": "96.1 ON THE ROAD",
+          "visual_context": "Illustration of a person using a parking meter beside a car.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 203,
+      "title": "Roads",
+      "context": "96.2 ROAD SIGNS; 96.3 VERBS FOR DRIVING",
+      "entries": [
+        {
+          "source_text": "no entry",
+          "number": "1",
+          "section": "96.2 ROAD SIGNS",
+          "visual_context": "Red circular sign with a horizontal white bar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "speed limit",
+          "number": "2",
+          "section": "96.2 ROAD SIGNS",
+          "visual_context": "Car beside a 30 speed sign.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hazard",
+          "number": "3",
+          "section": "96.2 ROAD SIGNS",
+          "visual_context": "Yellow triangular warning sign with an exclamation mark.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "no right turn",
+          "number": "4",
+          "section": "96.2 ROAD SIGNS",
+          "visual_context": "Right-turn arrow crossed by a red prohibition bar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "no U-turn",
+          "number": "5",
+          "section": "96.2 ROAD SIGNS",
+          "visual_context": "U-turn arrow crossed by a red prohibition bar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "right bend",
+          "number": "6",
+          "section": "96.2 ROAD SIGNS",
+          "visual_context": "Triangular warning sign showing a bend to the right.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "yield (US)\ngive way (UK)",
+          "number": "7",
+          "section": "96.2 ROAD SIGNS",
+          "visual_context": "Inverted triangular yield sign.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "priority traffic",
+          "number": "8",
+          "section": "96.2 ROAD SIGNS",
+          "visual_context": "Sign with opposing arrows indicating traffic priority.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "no passing (US)\nno overtaking (UK)",
+          "number": "9",
+          "section": "96.2 ROAD SIGNS",
+          "visual_context": "Two cars crossed by a red prohibition bar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "school zone",
+          "number": "10",
+          "section": "96.2 ROAD SIGNS",
+          "visual_context": "Yellow warning sign showing two schoolchildren.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bumps",
+          "number": "11",
+          "section": "96.2 ROAD SIGNS",
+          "visual_context": "Triangular warning sign showing uneven raised road surface.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "deer crossing",
+          "number": "12",
+          "section": "96.2 ROAD SIGNS",
+          "visual_context": "Yellow warning sign showing a deer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "direction to\nfollow",
+          "number": "13",
+          "section": "96.2 ROAD SIGNS",
+          "visual_context": "Diamond sign showing a directional turning arrow.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "construction ahead (US)\nroadworks ahead (UK)",
+          "number": "14",
+          "section": "96.2 ROAD SIGNS",
+          "visual_context": "Roadworks warning sign and barriers ahead.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stop light (US) /\ntraffic light (UK)\nahead",
+          "number": "15",
+          "section": "96.2 ROAD SIGNS",
+          "visual_context": "Triangular warning sign containing a traffic light.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "closed to\nbicycles",
+          "number": "16",
+          "section": "96.2 ROAD SIGNS",
+          "visual_context": "Bicycle crossed by a red prohibition bar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "closed to\npedestrians",
+          "number": "17",
+          "section": "96.2 ROAD SIGNS",
+          "visual_context": "Pedestrian crossed by a red prohibition bar.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to drive",
+          "number": "1",
+          "section": "96.3 VERBS FOR DRIVING",
+          "visual_context": "Illustration of a moving car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to reverse",
+          "number": "2",
+          "section": "96.3 VERBS FOR DRIVING",
+          "visual_context": "Car with a backward-pointing arrow.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to stop",
+          "number": "3",
+          "section": "96.3 VERBS FOR DRIVING",
+          "visual_context": "Person stopping a car in traffic.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to tow away",
+          "number": "4",
+          "section": "96.3 VERBS FOR DRIVING",
+          "visual_context": "Tow truck removing a car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "parking enforcement officer (US)\ntraffic warden (UK)",
+          "number": "5",
+          "section": "96.3 VERBS FOR DRIVING",
+          "visual_context": "Pointer to the officer beside the tow truck.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to turn left",
+          "number": "6",
+          "section": "96.3 VERBS FOR DRIVING",
+          "visual_context": "Left-curving arrow.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to turn right",
+          "number": "7",
+          "section": "96.3 VERBS FOR DRIVING",
+          "visual_context": "Right-curving arrow.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to go straight ahead /\nto go straight on (UK)",
+          "number": "8",
+          "section": "96.3 VERBS FOR DRIVING",
+          "visual_context": "Straight-ahead arrow.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to take the\nfirst left",
+          "number": "9",
+          "section": "96.3 VERBS FOR DRIVING",
+          "visual_context": "Road diagram with an arrow taking the first left turn.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to take the\nsecond right",
+          "number": "10",
+          "section": "96.3 VERBS FOR DRIVING",
+          "visual_context": "Road diagram with an arrow taking the second right turn.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

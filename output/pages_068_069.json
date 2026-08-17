@@ -1,0 +1,480 @@
+{
+  "pages": [
+    {
+      "page": 68,
+      "title": "Kitchenware",
+      "context": "28.1 KITCHEN EQUIPMENT",
+      "entries": [
+        {
+          "source_text": "grater",
+          "number": "1",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Box grater.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "peeler",
+          "number": "2",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Green hand peeler.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "whisk",
+          "number": "3",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Wire whisk.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "kitchen knife",
+          "number": "4",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Chef's knife.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bread knife",
+          "number": "5",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Serrated knife.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "kitchen scissors",
+          "number": "6",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Kitchen shears.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cleaver",
+          "number": "7",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Large-bladed chopping knife on a cutting board.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "knife sharpener",
+          "number": "8",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Handheld sharpening rod.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "meat tenderizer",
+          "number": "9",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Mallet with textured head.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "skewer",
+          "number": "10",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Metal skewer holding food pieces.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "can opener (US) tin opener (UK)",
+          "number": "11",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Hand-operated can opener.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cutting board (US) chopping board (UK)",
+          "number": "12",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Board beneath the cleaver.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bottle opener",
+          "number": "13",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Small handheld bottle opener.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "corkscrew",
+          "number": "14",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "T-handle corkscrew.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wooden spoon",
+          "number": "15",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Wooden cooking spoon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "slotted spoon",
+          "number": "16",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Long spoon with perforated bowl.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "spatula",
+          "number": "17",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Flat flexible turner with red blade.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "apple corer",
+          "number": "18",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Tube-shaped apple corer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "masher",
+          "number": "19",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Potato masher.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "garlic press",
+          "number": "20",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Handheld garlic press.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "carving fork",
+          "number": "21",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Two-pronged carving fork.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "scoop",
+          "number": "22",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Deep-handled scoop.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "handle",
+          "number": "23",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Pointer to the saucepan's black handle.",
+          "semantic_meaning": "Part used to hold a pan."
+        },
+        {
+          "source_text": "lid",
+          "number": "24",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Pointer to the saucepan cover.",
+          "semantic_meaning": "Cover for a pan."
+        },
+        {
+          "source_text": "saucepan",
+          "number": "25",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Lidded cooking pan.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "frying pan",
+          "number": "26",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Shallow handled pan.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "griddle pan",
+          "number": "27",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Square pan with ridged cooking surface.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wok",
+          "number": "28",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Wide, deep round-bottomed pan.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "colander",
+          "number": "29",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Perforated draining bowl.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "turner / flipper (US) fish slice (UK)",
+          "number": "30",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Slotted flat turner.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sieve",
+          "number": "31",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Round mesh sieve.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "measuring spoons",
+          "number": "32",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Set of nested measuring spoons.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mortar",
+          "number": "33",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Pointer to the bowl of the mortar-and-pestle set.",
+          "semantic_meaning": "Bowl used for grinding ingredients."
+        },
+        {
+          "source_text": "pestle",
+          "number": "34",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Pointer to the grinding tool in the mortar.",
+          "semantic_meaning": "Tool used for grinding in a mortar."
+        },
+        {
+          "source_text": "pestle and mortar",
+          "number": "35",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Complete mortar-and-pestle set.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 69,
+      "title": "Kitchenware",
+      "context": "28.1 KITCHEN EQUIPMENT",
+      "entries": [
+        {
+          "source_text": "Kitchen and tableware",
+          "number": "27",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the see-also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Cooking",
+          "number": "29",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the see-also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Herbs and spices",
+          "number": "59",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the see-also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "In the pantry",
+          "number": "60",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the see-also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Breakfast",
+          "number": "71",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the see-also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Lunch and dinner",
+          "number": "72",
+          "section": "See also:",
+          "visual_context": "Cross-reference listed in the see-also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tagine",
+          "number": "36",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Conical-lidded tagine pot.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mixing bowl",
+          "number": "37",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Large yellow bowl.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "soufflé dish",
+          "number": "38",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Tall ribbed ceramic dish.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ramekin",
+          "number": "39",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Small round ceramic baking dish.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "casserole dish",
+          "number": "40",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Lidded casserole pot.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "frying basket",
+          "number": "41",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Wire basket with a handle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "butter dish",
+          "number": "42",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Covered butter container.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "timer",
+          "number": "43",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Round stopwatch-style kitchen timer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "egg timer",
+          "number": "44",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Small egg-shaped timer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lemon squeezer",
+          "number": "45",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Handheld citrus press squeezing a lemon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "coffee press / cafetière",
+          "number": "46",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "French press coffee maker.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "meat thermometer",
+          "number": "47",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Dial thermometer with long probe.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "measuring cups (US) jugs (UK)",
+          "number": "48",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Two graduated measuring vessels.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cake pan (US) cake tin (UK)",
+          "number": "49",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Round cake baking pan.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Let’s chop up some fresh herbs.",
+          "number": "60",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Speech bubble from the chef chopping food beside herbs.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "skillet",
+          "number": "50",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Deep frying pan on a shelf.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "glass baking dish",
+          "number": "51",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Rectangular transparent baking dish.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tongs",
+          "number": "52",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Hanging kitchen tongs.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "strainer",
+          "number": "53",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Hanging wire strainer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mandoline (US) mandolin (UK)",
+          "number": "54",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Adjustable slicing board on the counter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "knife stand",
+          "number": "55",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Countertop block holding knives.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pizza cutter",
+          "number": "56",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Wheel cutter beside a pizza.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dishcloth (US) tea towel (UK)",
+          "number": "57",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Cloth hanging from a cabinet handle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "egg slicer",
+          "number": "58",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Wire egg slicer with sliced eggs.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pressure cooker",
+          "number": "59",
+          "section": "KITCHEN EQUIPMENT",
+          "visual_context": "Lidded cooker releasing steam on the stove.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,410 @@
+{
+  "pages": [
+    {
+      "page": 60,
+      "title": "Healthy body, healthy mind",
+      "context": "24.1 YOGA",
+      "entries": [
+        {
+          "source_text": "yoga pants",
+          "number": "1",
+          "section": "YOGA",
+          "visual_context": "Pointer to the pants of the person doing a headstand.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mat",
+          "number": "2",
+          "section": "YOGA",
+          "visual_context": "Pointer to the rectangular exercise mat beneath the headstand.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "headstand",
+          "number": "3",
+          "section": "YOGA",
+          "visual_context": "Pointer to the inverted person balancing on their head and hands.",
+          "semantic_meaning": "An inverted yoga pose."
+        },
+        {
+          "source_text": "yoga class",
+          "number": "4",
+          "section": "YOGA",
+          "visual_context": "Label for the yoga practice scene.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Take a deep breath in, and then breathe out.",
+          "number": "5",
+          "section": "YOGA",
+          "visual_context": "Speech bubble pointing toward the central yoga practitioner.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "child’s pose",
+          "number": "6",
+          "section": "YOGA",
+          "visual_context": "Illustration of a person curled forward on the floor.",
+          "semantic_meaning": "A yoga pose."
+        },
+        {
+          "source_text": "cobra pose",
+          "number": "7",
+          "section": "YOGA",
+          "visual_context": "Illustration of a person lying face-down with their upper body raised.",
+          "semantic_meaning": "A yoga pose."
+        },
+        {
+          "source_text": "warrior pose",
+          "number": "8",
+          "section": "YOGA",
+          "visual_context": "Illustration of a person standing with arms outstretched and legs apart.",
+          "semantic_meaning": "A yoga pose."
+        },
+        {
+          "source_text": "seated twist",
+          "number": "9",
+          "section": "YOGA",
+          "visual_context": "Illustration of a seated person twisting their torso.",
+          "semantic_meaning": "A yoga pose."
+        },
+        {
+          "source_text": "triangle pose",
+          "number": "10",
+          "section": "YOGA",
+          "visual_context": "Illustration of a standing person bending sideways with one arm raised.",
+          "semantic_meaning": "A yoga pose."
+        },
+        {
+          "source_text": "seated forward fold",
+          "number": "11",
+          "section": "YOGA",
+          "visual_context": "Illustration of a seated person folding forward over their legs.",
+          "semantic_meaning": "A yoga pose."
+        },
+        {
+          "source_text": "corpse pose",
+          "number": "12",
+          "section": "YOGA",
+          "visual_context": "Illustration of a person lying flat on their back.",
+          "semantic_meaning": "A yoga pose."
+        },
+        {
+          "source_text": "crow pose",
+          "number": "13",
+          "section": "YOGA",
+          "visual_context": "Illustration of a person balancing on their hands with knees bent.",
+          "semantic_meaning": "A yoga pose."
+        },
+        {
+          "source_text": "chair pose",
+          "number": "14",
+          "section": "YOGA",
+          "visual_context": "Illustration of a person squatting with arms raised.",
+          "semantic_meaning": "A yoga pose."
+        },
+        {
+          "source_text": "mountain pose",
+          "number": "15",
+          "section": "YOGA",
+          "visual_context": "Illustration of a person standing upright.",
+          "semantic_meaning": "A yoga pose."
+        },
+        {
+          "source_text": "bridge pose",
+          "number": "16",
+          "section": "YOGA",
+          "visual_context": "Illustration of a person lying down with hips lifted.",
+          "semantic_meaning": "A yoga pose."
+        },
+        {
+          "source_text": "plank pose",
+          "number": "17",
+          "section": "YOGA",
+          "visual_context": "Illustration of a person supporting their body straight on hands and feet.",
+          "semantic_meaning": "A yoga pose."
+        },
+        {
+          "source_text": "bow pose",
+          "number": "18",
+          "section": "YOGA",
+          "visual_context": "Illustration of a person lying on their stomach holding their raised feet.",
+          "semantic_meaning": "A yoga pose."
+        },
+        {
+          "source_text": "pigeon pose",
+          "number": "19",
+          "section": "YOGA",
+          "visual_context": "Illustration of a seated person stretching one bent leg forward.",
+          "semantic_meaning": "A yoga pose."
+        },
+        {
+          "source_text": "tree pose",
+          "number": "20",
+          "section": "YOGA",
+          "visual_context": "Illustration of a person standing on one leg with hands overhead.",
+          "semantic_meaning": "A yoga pose."
+        },
+        {
+          "source_text": "downward dog",
+          "number": "21",
+          "section": "YOGA",
+          "visual_context": "Illustration of an inverted V-shaped pose on hands and feet.",
+          "semantic_meaning": "A yoga pose."
+        },
+        {
+          "source_text": "bound ankle pose",
+          "number": "22",
+          "section": "YOGA",
+          "visual_context": "Illustration of a seated person with soles of the feet together.",
+          "semantic_meaning": "A yoga pose."
+        },
+        {
+          "source_text": "camel pose",
+          "number": "23",
+          "section": "YOGA",
+          "visual_context": "Illustration of a kneeling person arching backward.",
+          "semantic_meaning": "A yoga pose."
+        },
+        {
+          "source_text": "wheel pose",
+          "number": "24",
+          "section": "YOGA",
+          "visual_context": "Illustration of a person arched upward on hands and feet.",
+          "semantic_meaning": "A yoga pose."
+        },
+        {
+          "source_text": "half moon pose",
+          "number": "25",
+          "section": "YOGA",
+          "visual_context": "Illustration of a person balancing with one arm and one leg raised.",
+          "semantic_meaning": "A yoga pose."
+        },
+        {
+          "source_text": "dolphin pose",
+          "number": "26",
+          "section": "YOGA",
+          "visual_context": "Illustration of an inverted pose supported on forearms and feet.",
+          "semantic_meaning": "A yoga pose."
+        }
+      ]
+    },
+    {
+      "page": 61,
+      "title": "TREATMENTS AND THERAPY",
+      "context": "24.2 TREATMENTS AND THERAPY",
+      "entries": [
+        {
+          "source_text": "massage",
+          "number": "1",
+          "section": "TREATMENTS AND THERAPY",
+          "visual_context": "Person giving a massage to someone lying on a table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shiatsu",
+          "number": "2",
+          "section": "TREATMENTS AND THERAPY",
+          "visual_context": "Person applying pressure to another person lying down.",
+          "semantic_meaning": "A Japanese bodywork therapy."
+        },
+        {
+          "source_text": "chiropractic",
+          "number": "3",
+          "section": "TREATMENTS AND THERAPY",
+          "visual_context": "Practitioner manipulating the back of a person on a treatment table.",
+          "semantic_meaning": "Treatment involving manipulation of the spine and joints."
+        },
+        {
+          "source_text": "osteopathy",
+          "number": "4",
+          "section": "TREATMENTS AND THERAPY",
+          "visual_context": "Practitioner treating a seated person's neck or shoulder.",
+          "semantic_meaning": "Manual therapy focused on the body’s muscles and bones."
+        },
+        {
+          "source_text": "reflexology",
+          "number": "5",
+          "section": "TREATMENTS AND THERAPY",
+          "visual_context": "Practitioner working on a reclining person's foot.",
+          "semantic_meaning": "Therapy applying pressure to areas of the feet."
+        },
+        {
+          "source_text": "meditation",
+          "number": "6",
+          "section": "TREATMENTS AND THERAPY",
+          "visual_context": "Person sitting cross-legged with hands together.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "reiki",
+          "number": "7",
+          "section": "TREATMENTS AND THERAPY",
+          "visual_context": "Practitioner holding hands over a person lying on a table.",
+          "semantic_meaning": "A healing practice involving hands placed near or on the body."
+        },
+        {
+          "source_text": "acupuncture",
+          "number": "8",
+          "section": "TREATMENTS AND THERAPY",
+          "visual_context": "Practitioner treating a person on a table with needles.",
+          "semantic_meaning": "Treatment using fine needles."
+        },
+        {
+          "source_text": "ayurveda",
+          "number": "9",
+          "section": "TREATMENTS AND THERAPY",
+          "visual_context": "Cross-legged person shown with coloured body-energy points.",
+          "semantic_meaning": "A traditional Indian system of medicine."
+        },
+        {
+          "source_text": "hypnotherapy",
+          "number": "10",
+          "section": "TREATMENTS AND THERAPY",
+          "visual_context": "Person reclining while another person gestures toward them.",
+          "semantic_meaning": "Therapy using hypnosis."
+        },
+        {
+          "source_text": "hydrotherapy",
+          "number": "11",
+          "section": "TREATMENTS AND THERAPY",
+          "visual_context": "Person relaxing in water in a bath.",
+          "semantic_meaning": "Treatment using water."
+        },
+        {
+          "source_text": "aromatherapy",
+          "number": "12",
+          "section": "TREATMENTS AND THERAPY",
+          "visual_context": "Practitioner treating a person on a table, with fragrant vapour illustrated.",
+          "semantic_meaning": "Therapy using aromatic oils."
+        },
+        {
+          "source_text": "herbalism",
+          "number": "13",
+          "section": "TREATMENTS AND THERAPY",
+          "visual_context": "Mortar and pestle with herbs and plants.",
+          "semantic_meaning": "Treatment using herbs."
+        },
+        {
+          "source_text": "essential oils",
+          "number": "14",
+          "section": "TREATMENTS AND THERAPY",
+          "visual_context": "Bottle with a drop symbol and leaves.",
+          "semantic_meaning": "Concentrated fragrant oils extracted from plants."
+        },
+        {
+          "source_text": "homeopathy",
+          "number": "15",
+          "section": "TREATMENTS AND THERAPY",
+          "visual_context": "Bottle of small pills with a leaf label.",
+          "semantic_meaning": "A system of alternative medicine using highly diluted substances."
+        },
+        {
+          "source_text": "acupressure",
+          "number": "16",
+          "section": "TREATMENTS AND THERAPY",
+          "visual_context": "Hand pressing another hand.",
+          "semantic_meaning": "Therapy applying pressure to specific points on the body."
+        },
+        {
+          "source_text": "crystal healing",
+          "number": "17",
+          "section": "TREATMENTS AND THERAPY",
+          "visual_context": "A sparkling crystal illustration.",
+          "semantic_meaning": "An alternative healing practice using crystals."
+        },
+        {
+          "source_text": "naturopathy",
+          "number": "18",
+          "section": "TREATMENTS AND THERAPY",
+          "visual_context": "Winged medical staff symbol.",
+          "semantic_meaning": "A system of treatment using natural remedies."
+        },
+        {
+          "source_text": "feng shui",
+          "number": "19",
+          "section": "TREATMENTS AND THERAPY",
+          "visual_context": "Circular symbols representing natural elements.",
+          "semantic_meaning": "A Chinese practice of arranging spaces for harmony."
+        },
+        {
+          "source_text": "poetry therapy",
+          "number": "20",
+          "section": "TREATMENTS AND THERAPY",
+          "visual_context": "Person writing at a desk with a thought bubble containing “Poetry.”",
+          "semantic_meaning": "Therapy involving reading or writing poetry."
+        },
+        {
+          "source_text": "art therapy",
+          "number": "21",
+          "section": "TREATMENTS AND THERAPY",
+          "visual_context": "Person making artwork at an easel.",
+          "semantic_meaning": "Therapy involving artistic creation."
+        },
+        {
+          "source_text": "pet therapy",
+          "number": "22",
+          "section": "TREATMENTS AND THERAPY",
+          "visual_context": "Seated person interacting with a cat.",
+          "semantic_meaning": "Therapy involving animals."
+        },
+        {
+          "source_text": "nature therapy",
+          "number": "23",
+          "section": "TREATMENTS AND THERAPY",
+          "visual_context": "Person sitting outdoors among trees, birds, and flowers.",
+          "semantic_meaning": "Therapy involving time in natural environments."
+        },
+        {
+          "source_text": "music therapy",
+          "number": "24",
+          "section": "TREATMENTS AND THERAPY",
+          "visual_context": "Two people playing musical instruments.",
+          "semantic_meaning": "Therapy involving music."
+        },
+        {
+          "source_text": "relaxation",
+          "number": "25",
+          "section": "TREATMENTS AND THERAPY",
+          "visual_context": "Person reclining in a hammock.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mindfulness",
+          "number": "26",
+          "section": "TREATMENTS AND THERAPY",
+          "visual_context": "Head silhouette containing a leaf symbol.",
+          "semantic_meaning": "Focused awareness of the present moment."
+        },
+        {
+          "source_text": "counselor (US)\ncounsellor (UK)",
+          "number": "27",
+          "section": "TREATMENTS AND THERAPY",
+          "visual_context": "A seated counselor and client talking face-to-face.",
+          "semantic_meaning": "A professional who gives advice or therapy."
+        },
+        {
+          "source_text": "psychotherapy",
+          "number": "28",
+          "section": "TREATMENTS AND THERAPY",
+          "visual_context": "Therapist and reclining client in a consultation room.",
+          "semantic_meaning": "Treatment of mental or emotional problems through talking."
+        },
+        {
+          "source_text": "group therapy",
+          "number": "29",
+          "section": "TREATMENTS AND THERAPY",
+          "visual_context": "Several people seated in a discussion group; the speech bubble points to the group.",
+          "semantic_meaning": "Therapy conducted with a group of participants."
+        },
+        {
+          "source_text": "Today, we’re talking about stress at work.",
+          "number": "30",
+          "section": "TREATMENTS AND THERAPY",
+          "visual_context": "Speech bubble from a person leading the seated group.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

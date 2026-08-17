@@ -1,0 +1,473 @@
+{
+  "pages": [
+    {
+      "page": 62,
+      "title": "A place to live",
+      "context": "25.1 HOUSES",
+      "entries": [
+        {
+          "source_text": "gutter",
+          "number": "1",
+          "section": "25.1 HOUSES",
+          "visual_context": "Pointer to the channel at the edge of a roof.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dormer",
+          "number": "2",
+          "section": "25.1 HOUSES",
+          "visual_context": "Pointer to the small projecting roof window.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "roof",
+          "number": "3",
+          "section": "25.1 HOUSES",
+          "visual_context": "Pointer to a house roof.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "antenna (US)\naerial (UK)",
+          "number": "4",
+          "section": "25.1 HOUSES",
+          "visual_context": "Pointer to a rooftop television aerial.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tile",
+          "number": "5",
+          "section": "25.1 HOUSES",
+          "visual_context": "Pointer to individual roof tiles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chimney",
+          "number": "6",
+          "section": "25.1 HOUSES",
+          "visual_context": "Pointer to a chimney stack.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chimney pot",
+          "number": "7",
+          "section": "25.1 HOUSES",
+          "visual_context": "Pointer to the pot at the top of a chimney.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "satellite dish",
+          "number": "8",
+          "section": "25.1 HOUSES",
+          "visual_context": "Pointer to a satellite dish mounted on a roof.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mail box",
+          "number": "17",
+          "section": "25.1 HOUSES",
+          "visual_context": "Pointer to a roadside mailbox.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "doorbell",
+          "number": "18",
+          "section": "25.1 HOUSES",
+          "visual_context": "Pointer to a button beside a house door.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "front\nentrance",
+          "number": "19",
+          "section": "25.1 HOUSES",
+          "visual_context": "Pointer to the main entrance doorway of a house.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "steps",
+          "number": "20",
+          "section": "25.1 HOUSES",
+          "visual_context": "Pointer to steps leading up to a porch.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shutter",
+          "number": "21",
+          "section": "25.1 HOUSES",
+          "visual_context": "Pointer to a window shutter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "apartment buzzer (US)\ndoor buzzer (UK)",
+          "number": "22",
+          "section": "25.1 HOUSES",
+          "visual_context": "Pointer to the buzzer panel beside an apartment-building door.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "staircase /\nstairs",
+          "number": "30",
+          "section": "25.1 HOUSES",
+          "visual_context": "Illustration of a staircase.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "downstairs",
+          "number": "31",
+          "section": "25.1 HOUSES",
+          "visual_context": "Illustration of a person moving down a staircase, with a downward arrow.",
+          "semantic_meaning": "toward a lower floor"
+        },
+        {
+          "source_text": "upstairs",
+          "number": "32",
+          "section": "25.1 HOUSES",
+          "visual_context": "Illustration of a person moving up a staircase, with an upward arrow.",
+          "semantic_meaning": "toward a higher floor"
+        },
+        {
+          "source_text": "basement",
+          "number": "33",
+          "section": "25.1 HOUSES",
+          "visual_context": "Building diagram with the lowest level highlighted.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "first floor (US)\nground floor (UK)",
+          "number": "34",
+          "section": "25.1 HOUSES",
+          "visual_context": "Building diagram with the street-level floor highlighted.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "second floor (US)\nfirst floor (UK)",
+          "number": "35",
+          "section": "25.1 HOUSES",
+          "visual_context": "Building diagram with the level above the street floor highlighted.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "patio / terrace",
+          "number": "36",
+          "section": "25.1 HOUSES",
+          "visual_context": "Illustration of a paved outdoor seating area.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "patio doors/\nFrench doors",
+          "number": "37",
+          "section": "25.1 HOUSES",
+          "visual_context": "Illustration of glazed double doors opening onto a patio.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "balcony",
+          "number": "38",
+          "section": "25.1 HOUSES",
+          "visual_context": "Illustration of an upper-level outdoor platform with railing.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "courtyard",
+          "number": "39",
+          "section": "25.1 HOUSES",
+          "visual_context": "Illustration of an enclosed outdoor space between buildings.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "intercom",
+          "number": "40",
+          "section": "25.1 HOUSES",
+          "visual_context": "Illustration of a person using a wall-mounted communication panel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "apartment (US)\nflat (UK)",
+          "number": "41",
+          "section": "25.1 HOUSES",
+          "visual_context": "Illustration of a multi-storey residential building.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "elevator (US)\nlift (UK)",
+          "number": "42",
+          "section": "25.1 HOUSES",
+          "visual_context": "Illustration of elevator doors and call button.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "paddling pool",
+          "number": "43",
+          "section": "25.1 HOUSES",
+          "visual_context": "Illustration of a shallow circular pool with a child.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "jacuzzi",
+          "number": "44",
+          "section": "25.1 HOUSES",
+          "visual_context": "Illustration of a bubbling hot tub.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shed",
+          "number": "45",
+          "section": "25.1 HOUSES",
+          "visual_context": "Illustration of a small garden outbuilding.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dumpster (US)\nwheelie bin (UK)",
+          "number": "46",
+          "section": "25.1 HOUSES",
+          "visual_context": "Illustration of a wheeled rubbish container.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 63,
+      "title": null,
+      "context": "25.1 HOUSES; 25.2 HALLWAY",
+      "entries": [
+        {
+          "source_text": "House and home",
+          "number": "32",
+          "section": "See also:",
+          "visual_context": "Reference listed in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Household chores",
+          "number": "34",
+          "section": "See also:",
+          "visual_context": "Reference listed in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Decorating",
+          "number": "37",
+          "section": "See also:",
+          "visual_context": "Reference listed in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "In town",
+          "number": "42-43",
+          "section": "See also:",
+          "visual_context": "Reference listed in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Buildings and architecture",
+          "number": "44",
+          "section": "See also:",
+          "visual_context": "Reference listed in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "apartment block (US)\nblock of flats (UK)",
+          "number": "9",
+          "section": "25.1 HOUSES",
+          "visual_context": "Pointer to a large multi-storey residential building.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "window",
+          "number": "10",
+          "section": "25.1 HOUSES",
+          "visual_context": "Pointer to a house window.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "porch light",
+          "number": "11",
+          "section": "25.1 HOUSES",
+          "visual_context": "Pointer to a light above a porch entrance.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bus stop",
+          "number": "12",
+          "section": "25.1 HOUSES",
+          "visual_context": "Pointer to the bus-stop shelter and sign.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "streetlight",
+          "number": "13",
+          "section": "25.1 HOUSES",
+          "visual_context": "Pointer to a street lamp.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sash window",
+          "number": "14",
+          "section": "25.1 HOUSES",
+          "visual_context": "Pointer to a vertically sliding window.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "attic",
+          "number": "15",
+          "section": "25.1 HOUSES",
+          "visual_context": "Pointer to the roof-space window.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "burglar\nalarm",
+          "number": "16",
+          "section": "25.1 HOUSES",
+          "visual_context": "Pointer to an alarm box on the exterior wall.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "grass",
+          "number": "23",
+          "section": "25.1 HOUSES",
+          "visual_context": "Pointer to the grass strip beside the sidewalk.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "porch",
+          "number": "24",
+          "section": "25.1 HOUSES",
+          "visual_context": "Pointer to the covered entrance platform of a house.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "trash can (US)\ndustbin (UK)",
+          "number": "25",
+          "section": "25.1 HOUSES",
+          "visual_context": "Pointer to a rubbish bin by the sidewalk.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sidewalk (US)\npavement (UK)",
+          "number": "26",
+          "section": "25.1 HOUSES",
+          "visual_context": "Pointer to the pedestrian path beside the street.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "store window (US)\nshop window (UK)",
+          "number": "27",
+          "section": "25.1 HOUSES",
+          "visual_context": "Pointer to a shop display window.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bay\nwindow",
+          "number": "28",
+          "section": "25.1 HOUSES",
+          "visual_context": "Pointer to a projecting curved-front window.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "garage",
+          "number": "29",
+          "section": "25.1 HOUSES",
+          "visual_context": "Pointer to the garage building and door.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mail slot (US)\nletterbox (UK)",
+          "number": "1",
+          "section": "25.2 HALLWAY",
+          "visual_context": "Pointer to the horizontal slot in the front door.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "key",
+          "number": "2",
+          "section": "25.2 HALLWAY",
+          "visual_context": "Pointer to a key hanging beside the door.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bolt",
+          "number": "3",
+          "section": "25.2 HALLWAY",
+          "visual_context": "Pointer to the door bolt at the top of the door.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "front door",
+          "number": "4",
+          "section": "25.2 HALLWAY",
+          "visual_context": "Pointer to the exterior entrance door.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "door handle\n/ knob",
+          "number": "5",
+          "section": "25.2 HALLWAY",
+          "visual_context": "Pointer to the handle and knob on the door.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "doormat",
+          "number": "6",
+          "section": "25.2 HALLWAY",
+          "visual_context": "Pointer to the mat in front of the door.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "keyhole",
+          "number": "7",
+          "section": "25.2 HALLWAY",
+          "visual_context": "Pointer to the keyhole below the door handle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hallway",
+          "number": "8",
+          "section": "25.2 HALLWAY",
+          "visual_context": "Pointer to the interior entrance area.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "handrail",
+          "number": "9",
+          "section": "25.2 HALLWAY",
+          "visual_context": "Pointer to the rail alongside the stairs.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "banister",
+          "number": "10",
+          "section": "25.2 HALLWAY",
+          "visual_context": "Pointer to the stair railing structure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wall",
+          "number": "11",
+          "section": "25.2 HALLWAY",
+          "visual_context": "Pointer to the interior brick wall.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "floor",
+          "number": "12",
+          "section": "25.2 HALLWAY",
+          "visual_context": "Pointer to the hallway floor surface.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "door knocker",
+          "number": "13",
+          "section": "25.2 HALLWAY",
+          "visual_context": "Illustration of a person knocking on a door.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "door chain",
+          "number": "14",
+          "section": "25.2 HALLWAY",
+          "visual_context": "Illustration of a security chain attached across a door.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

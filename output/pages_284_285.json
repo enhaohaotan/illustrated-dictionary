@@ -1,0 +1,424 @@
+{
+  "pages": [
+    {
+      "page": 284,
+      "title": "Television",
+      "context": "137.1 WATCHING TELEVISION; 137.2 TELEVISION VERBS",
+      "entries": [
+        {
+          "source_text": "screen",
+          "number": "1",
+          "section": "137.1 WATCHING TELEVISION",
+          "visual_context": "Pointer to the display area of a television.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "TV set",
+          "number": "2",
+          "section": "137.1 WATCHING TELEVISION",
+          "visual_context": "Pointer to the complete television on its stand.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "remote control",
+          "number": "3",
+          "section": "137.1 WATCHING TELEVISION",
+          "visual_context": "Pointer to the handheld remote beside the TV.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "high-definition",
+          "number": "4",
+          "section": "137.1 WATCHING TELEVISION",
+          "visual_context": "Television screen with reflective diagonal bands.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cable TV",
+          "number": "5",
+          "section": "137.1 WATCHING TELEVISION",
+          "visual_context": "Television with a cable receiver box on top.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "satellite TV",
+          "number": "6",
+          "section": "137.1 WATCHING TELEVISION",
+          "visual_context": "Television with a satellite dish and receiver.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "video on demand",
+          "number": "7",
+          "section": "137.1 WATCHING TELEVISION",
+          "visual_context": "Television displaying a play icon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "channel",
+          "number": "8",
+          "section": "137.1 WATCHING TELEVISION",
+          "visual_context": "Television displaying a numbered channel symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pay-per-view channel",
+          "number": "9",
+          "section": "137.1 WATCHING TELEVISION",
+          "visual_context": "Television displaying a dollar sign.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "episode",
+          "number": "10",
+          "section": "137.1 WATCHING TELEVISION",
+          "visual_context": "Television displaying a single programme card.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "season (US) series (UK)",
+          "number": "11",
+          "section": "137.1 WATCHING TELEVISION",
+          "visual_context": "Television displaying several numbered programme cards.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "show (US) programme (UK)",
+          "number": "12",
+          "section": "137.1 WATCHING TELEVISION",
+          "visual_context": "Television showing a person presenting.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "subtitles",
+          "number": "13",
+          "section": "137.1 WATCHING TELEVISION",
+          "visual_context": "Television showing people with text lines along the bottom.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "interview",
+          "number": "14",
+          "section": "137.1 WATCHING TELEVISION",
+          "visual_context": "Television showing two people speaking with a microphone.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "TV guide / schedule",
+          "number": "15",
+          "section": "137.1 WATCHING TELEVISION",
+          "visual_context": "Grid listing television channels and programmes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "preview",
+          "number": "16",
+          "section": "137.1 WATCHING TELEVISION",
+          "visual_context": "Television split between two programme scenes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "reporter",
+          "number": "17",
+          "section": "137.1 WATCHING TELEVISION",
+          "visual_context": "Camera operator filming a person holding a microphone.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "host (US) presenter (UK)",
+          "number": "18",
+          "section": "137.1 WATCHING TELEVISION",
+          "visual_context": "Person holding two microphones.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "news anchor (US) newsreader (UK)",
+          "number": "19",
+          "section": "137.1 WATCHING TELEVISION",
+          "visual_context": "Television showing a news presenter at a desk.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "commercial break (US) adverts (UK)",
+          "number": "20",
+          "section": "137.1 WATCHING TELEVISION",
+          "visual_context": "Television displaying an advertising-style graphic.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "weather forecaster",
+          "number": "21",
+          "section": "137.1 WATCHING TELEVISION",
+          "visual_context": "Television showing a person presenting sun and cloud weather symbols.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "couch potato",
+          "number": "22",
+          "section": "137.1 WATCHING TELEVISION",
+          "visual_context": "Person lying on a couch watching television.",
+          "semantic_meaning": "A person who spends a lot of time watching television."
+        },
+        {
+          "source_text": "to turn on",
+          "number": "1",
+          "section": "137.2 TELEVISION VERBS",
+          "visual_context": "Television with radiating lines indicating it has been switched on.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to turn off",
+          "number": "2",
+          "section": "137.2 TELEVISION VERBS",
+          "visual_context": "Television with a dimmed screen symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to turn up the volume",
+          "number": "3",
+          "section": "137.2 TELEVISION VERBS",
+          "visual_context": "Television with a loud speaker and increasing sound waves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to turn down the volume",
+          "number": "4",
+          "section": "137.2 TELEVISION VERBS",
+          "visual_context": "Television with a speaker and reduced sound waves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to change the channel",
+          "number": "5",
+          "section": "137.2 TELEVISION VERBS",
+          "visual_context": "Television screen changing from channel 1 to channel 3.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to stream",
+          "number": "6",
+          "section": "137.2 TELEVISION VERBS",
+          "visual_context": "Television with a play icon and wireless signal waves.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 285,
+      "title": null,
+      "context": "137.3 TV SHOWS AND CHANNELS; 137.2 TELEVISION VERBS",
+      "entries": [
+        {
+          "source_text": "cooking show",
+          "number": "1",
+          "section": "137.3 TV SHOWS AND CHANNELS",
+          "visual_context": "Television showing a chef cooking.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "talk show (US) chat show (UK)",
+          "number": "2",
+          "section": "137.3 TV SHOWS AND CHANNELS",
+          "visual_context": "Television showing two people talking with speech bubbles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sports",
+          "number": "3",
+          "section": "137.3 TV SHOWS AND CHANNELS",
+          "visual_context": "Television showing players and a ball.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "documentary",
+          "number": "4",
+          "section": "137.3 TV SHOWS AND CHANNELS",
+          "visual_context": "Television showing a camera operator filming a presenter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "nature documentary",
+          "number": "5",
+          "section": "137.3 TV SHOWS AND CHANNELS",
+          "visual_context": "Television showing a lion.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "period drama / costume drama",
+          "number": "6",
+          "section": "137.3 TV SHOWS AND CHANNELS",
+          "visual_context": "Television showing people in historical costume.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sitcom",
+          "number": "7",
+          "section": "137.3 TV SHOWS AND CHANNELS",
+          "visual_context": "Television showing two comic characters.",
+          "semantic_meaning": "A situational comedy."
+        },
+        {
+          "source_text": "quiz show",
+          "number": "8",
+          "section": "137.3 TV SHOWS AND CHANNELS",
+          "visual_context": "Television showing a quiz contestant at a podium.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "current affairs",
+          "number": "9",
+          "section": "137.3 TV SHOWS AND CHANNELS",
+          "visual_context": "Television showing two formal discussion presenters.",
+          "semantic_meaning": "Television programmes about recent political and social events."
+        },
+        {
+          "source_text": "news",
+          "number": "10",
+          "section": "137.3 TV SHOWS AND CHANNELS",
+          "visual_context": "Television showing a globe and news banner.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "weather",
+          "number": "11",
+          "section": "137.3 TV SHOWS AND CHANNELS",
+          "visual_context": "Television showing a weather presenter and weather symbols.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "soap opera",
+          "number": "12",
+          "section": "137.3 TV SHOWS AND CHANNELS",
+          "visual_context": "Television showing an embracing couple.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "game show",
+          "number": "13",
+          "section": "137.3 TV SHOWS AND CHANNELS",
+          "visual_context": "Television showing a contestant spinning a prize wheel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "comedy",
+          "number": "14",
+          "section": "137.3 TV SHOWS AND CHANNELS",
+          "visual_context": "Television displaying theatre masks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cartoon",
+          "number": "15",
+          "section": "137.3 TV SHOWS AND CHANNELS",
+          "visual_context": "Television showing a cartoon character.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "crime",
+          "number": "16",
+          "section": "137.3 TV SHOWS AND CHANNELS",
+          "visual_context": "Television showing a fingerprint under a magnifying glass.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "thriller",
+          "number": "17",
+          "section": "137.3 TV SHOWS AND CHANNELS",
+          "visual_context": "Television displaying a large eye.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "satire",
+          "number": "18",
+          "section": "137.3 TV SHOWS AND CHANNELS",
+          "visual_context": "Television displaying quotation marks in speech bubbles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "children’s show (US) children’s TV (UK)",
+          "number": "19",
+          "section": "137.3 TV SHOWS AND CHANNELS",
+          "visual_context": "Television showing a children’s entertainer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "morning show (US) breakfast TV (UK)",
+          "number": "20",
+          "section": "137.3 TV SHOWS AND CHANNELS",
+          "visual_context": "Television showing people eating breakfast in the morning.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "reality TV",
+          "number": "21",
+          "section": "137.3 TV SHOWS AND CHANNELS",
+          "visual_context": "Television displaying a surveillance camera.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "catch-up TV",
+          "number": "22",
+          "section": "137.3 TV SHOWS AND CHANNELS",
+          "visual_context": "Television displaying a grid of programme listings.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shopping channel",
+          "number": "23",
+          "section": "137.3 TV SHOWS AND CHANNELS",
+          "visual_context": "Television showing a presenter beside a product display.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "music channel",
+          "number": "24",
+          "section": "137.3 TV SHOWS AND CHANNELS",
+          "visual_context": "Television displaying musical notes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to play",
+          "number": "7",
+          "section": "137.2 TELEVISION VERBS",
+          "visual_context": "Television displaying a play triangle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to stop",
+          "number": "8",
+          "section": "137.2 TELEVISION VERBS",
+          "visual_context": "Television displaying a stop square.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to pause",
+          "number": "9",
+          "section": "137.2 TELEVISION VERBS",
+          "visual_context": "Television displaying a pause symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to rewind",
+          "number": "10",
+          "section": "137.2 TELEVISION VERBS",
+          "visual_context": "Television displaying rewind arrows.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to fast forward",
+          "number": "11",
+          "section": "137.2 TELEVISION VERBS",
+          "visual_context": "Television displaying fast-forward arrows.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to record",
+          "number": "12",
+          "section": "137.2 TELEVISION VERBS",
+          "visual_context": "Television displaying a person and the text “REC”.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

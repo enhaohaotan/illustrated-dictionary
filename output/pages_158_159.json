@@ -1,0 +1,438 @@
+{
+  "pages": [
+    {
+      "page": 158,
+      "title": "Mathematics",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "oval",
+          "number": "1",
+          "section": "74.1 SHAPES",
+          "visual_context": "Light-blue oval shape.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "square",
+          "number": "2",
+          "section": "74.1 SHAPES",
+          "visual_context": "Blue-outlined square containing a diagonal.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "diagonal",
+          "number": "3",
+          "section": "74.1 SHAPES",
+          "visual_context": "Pointer to the sloping line joining opposite corners of the square.",
+          "semantic_meaning": "A line joining two non-adjacent corners of a shape."
+        },
+        {
+          "source_text": "rectangle",
+          "number": "4",
+          "section": "74.1 SHAPES",
+          "visual_context": "Light-blue horizontal rectangle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "triangle",
+          "number": "5",
+          "section": "74.1 SHAPES",
+          "visual_context": "Right triangle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "angle",
+          "number": "6",
+          "section": "74.1 SHAPES",
+          "visual_context": "Pointer to the marked interior corner of the right triangle.",
+          "semantic_meaning": "The space between two lines meeting at a point."
+        },
+        {
+          "source_text": "hypotenuse",
+          "number": "7",
+          "section": "74.1 SHAPES",
+          "visual_context": "Pointer to the sloping longest side of the right triangle.",
+          "semantic_meaning": "The side opposite the right angle in a right triangle."
+        },
+        {
+          "source_text": "center (US)\ncentre (UK)",
+          "number": "8",
+          "section": "74.1 SHAPES",
+          "visual_context": "Pointer to the middle point of the large circle.",
+          "semantic_meaning": "The point equally distant from all points on a circle."
+        },
+        {
+          "source_text": "circumference",
+          "number": "9",
+          "section": "74.1 SHAPES",
+          "visual_context": "Pointer to the outer boundary of the large circle.",
+          "semantic_meaning": "The distance around a circle."
+        },
+        {
+          "source_text": "arc",
+          "number": "10",
+          "section": "74.1 SHAPES",
+          "visual_context": "Pointer to an orange curved portion of the circle's circumference.",
+          "semantic_meaning": "A curved section of a circle's circumference."
+        },
+        {
+          "source_text": "radius",
+          "number": "11",
+          "section": "74.1 SHAPES",
+          "visual_context": "Pointer to the red line from the circle's center to its edge.",
+          "semantic_meaning": "A line from a circle's center to its circumference."
+        },
+        {
+          "source_text": "diameter",
+          "number": "12",
+          "section": "74.1 SHAPES",
+          "visual_context": "Pointer to the green line passing through the circle's center from edge to edge.",
+          "semantic_meaning": "A line through a circle's center joining two points on its circumference."
+        },
+        {
+          "source_text": "circle",
+          "number": "13",
+          "section": "74.1 SHAPES",
+          "visual_context": "Large light-blue circular diagram.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "parallelogram",
+          "number": "14",
+          "section": "74.1 SHAPES",
+          "visual_context": "Slanted four-sided light-blue shape with opposite sides parallel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rhombus",
+          "number": "15",
+          "section": "74.1 SHAPES",
+          "visual_context": "Slanted diamond-like four-sided shape.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "trapezoid (US)\ntrapezium (UK)",
+          "number": "16",
+          "section": "74.1 SHAPES",
+          "visual_context": "Light-blue four-sided shape with one pair of parallel sides.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pentagon",
+          "number": "17",
+          "section": "74.1 SHAPES",
+          "visual_context": "Five-sided light-blue polygon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hexagon",
+          "number": "18",
+          "section": "74.1 SHAPES",
+          "visual_context": "Six-sided light-blue polygon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "octagon",
+          "number": "19",
+          "section": "74.1 SHAPES",
+          "visual_context": "Eight-sided light-blue polygon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cone",
+          "number": "1",
+          "section": "74.2 SOLIDS",
+          "visual_context": "Large yellow cone.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "apex",
+          "number": "2",
+          "section": "74.2 SOLIDS",
+          "visual_context": "Pointer to the pointed top of the cone.",
+          "semantic_meaning": "The pointed top of a cone or pyramid."
+        },
+        {
+          "source_text": "base",
+          "number": "3",
+          "section": "74.2 SOLIDS",
+          "visual_context": "Pointer to the circular bottom of the cone.",
+          "semantic_meaning": "The bottom surface of a solid."
+        },
+        {
+          "source_text": "cube",
+          "number": "4",
+          "section": "74.2 SOLIDS",
+          "visual_context": "Green cube.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "side",
+          "number": "5",
+          "section": "74.2 SOLIDS",
+          "visual_context": "Pointer to one flat face of the cube.",
+          "semantic_meaning": "A flat face of a solid."
+        },
+        {
+          "source_text": "cylinder",
+          "number": "6",
+          "section": "74.2 SOLIDS",
+          "visual_context": "Orange cylinder.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pyramid",
+          "number": "7",
+          "section": "74.2 SOLIDS",
+          "visual_context": "Red pyramid.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sphere",
+          "number": "8",
+          "section": "74.2 SOLIDS",
+          "visual_context": "Blue sphere.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "straight",
+          "number": "1",
+          "section": "74.3 LINES",
+          "visual_context": "Single horizontal purple line.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "parallel",
+          "number": "2",
+          "section": "74.3 LINES",
+          "visual_context": "Two horizontal purple lines that remain the same distance apart.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "perpendicular",
+          "number": "3",
+          "section": "74.3 LINES",
+          "visual_context": "Vertical and horizontal purple lines meeting at a right angle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "right angle",
+          "number": "4",
+          "section": "74.3 LINES",
+          "visual_context": "Small square marking the 90-degree angle where the lines meet.",
+          "semantic_meaning": "An angle of 90 degrees."
+        },
+        {
+          "source_text": "curved",
+          "number": "5",
+          "section": "74.3 LINES",
+          "visual_context": "Purple curved line.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 159,
+      "title": "Mathematics",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "volume",
+          "number": "1",
+          "section": "74.4 MEASUREMENTS",
+          "visual_context": "Illustration of liquid being poured into a measuring container.",
+          "semantic_meaning": "The amount of space an object or substance occupies."
+        },
+        {
+          "source_text": "fraction",
+          "number": "2",
+          "section": "74.4 MEASUREMENTS",
+          "visual_context": "The fraction 1/2.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "numerator",
+          "number": "3",
+          "section": "74.4 MEASUREMENTS",
+          "visual_context": "Pointer to the 1 above the fraction bar in 1/2.",
+          "semantic_meaning": "The top number of a fraction."
+        },
+        {
+          "source_text": "denominator",
+          "number": "4",
+          "section": "74.4 MEASUREMENTS",
+          "visual_context": "Pointer to the 2 below the fraction bar in 1/2.",
+          "semantic_meaning": "The bottom number of a fraction."
+        },
+        {
+          "source_text": "height",
+          "number": "5",
+          "section": "74.4 MEASUREMENTS",
+          "visual_context": "Pointer to the vertical dimension arrow of a box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dimensions",
+          "number": "6",
+          "section": "74.4 MEASUREMENTS",
+          "visual_context": "Three-dimensional rectangular box with dimension arrows.",
+          "semantic_meaning": "Measurements such as length, width, height, and depth."
+        },
+        {
+          "source_text": "depth",
+          "number": "7",
+          "section": "74.4 MEASUREMENTS",
+          "visual_context": "Pointer to the front-to-back dimension arrow of a box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "length",
+          "number": "8",
+          "section": "74.4 MEASUREMENTS",
+          "visual_context": "Pointer to the long horizontal measurement arrow above a rectangle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "width",
+          "number": "9",
+          "section": "74.4 MEASUREMENTS",
+          "visual_context": "Pointer to the short vertical measurement arrow beside a rectangle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "area",
+          "number": "10",
+          "section": "74.4 MEASUREMENTS",
+          "visual_context": "The interior surface of the large rectangle.",
+          "semantic_meaning": "The amount of surface inside a two-dimensional shape."
+        },
+        {
+          "source_text": "plus sign",
+          "number": "1",
+          "section": "74.5 OPERATIONS",
+          "visual_context": "Red + symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "minus sign",
+          "number": "2",
+          "section": "74.5 OPERATIONS",
+          "visual_context": "Red − symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "multiplication sign",
+          "number": "3",
+          "section": "74.5 OPERATIONS",
+          "visual_context": "Red × symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "division sign",
+          "number": "4",
+          "section": "74.5 OPERATIONS",
+          "visual_context": "Red ÷ symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "equals",
+          "number": "5",
+          "section": "74.5 OPERATIONS",
+          "visual_context": "Red = symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to count",
+          "number": "6",
+          "section": "74.5 OPERATIONS",
+          "visual_context": "Hands held up for counting.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to add",
+          "number": "7",
+          "section": "74.5 OPERATIONS",
+          "visual_context": "Teacher beside a board showing “3+3”.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to subtract",
+          "number": "8",
+          "section": "74.5 OPERATIONS",
+          "visual_context": "Teacher beside a board showing “4-4”.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to multiply",
+          "number": "9",
+          "section": "74.5 OPERATIONS",
+          "visual_context": "Teacher beside a board showing “6×6”.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to divide",
+          "number": "10",
+          "section": "74.5 OPERATIONS",
+          "visual_context": "Teacher beside a board showing “5÷5”.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "equation",
+          "number": "11",
+          "section": "74.5 OPERATIONS",
+          "visual_context": "Person beside a board showing “4(√x)”.",
+          "semantic_meaning": "A mathematical statement showing two expressions are equal."
+        },
+        {
+          "source_text": "percentage",
+          "number": "12",
+          "section": "74.5 OPERATIONS",
+          "visual_context": "Pie-chart and % illustration.",
+          "semantic_meaning": "An amount expressed per hundred."
+        },
+        {
+          "source_text": "triangle (US)\nset square (UK)",
+          "number": "1",
+          "section": "74.6 MATHEMATICAL EQUIPMENT",
+          "visual_context": "Green triangular set square.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "protractor",
+          "number": "2",
+          "section": "74.6 MATHEMATICAL EQUIPMENT",
+          "visual_context": "Semicircular angle-measuring tool.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ruler",
+          "number": "3",
+          "section": "74.6 MATHEMATICAL EQUIPMENT",
+          "visual_context": "Green marked measuring ruler.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "compass",
+          "number": "4",
+          "section": "74.6 MATHEMATICAL EQUIPMENT",
+          "visual_context": "Drawing compass for making circles.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "calculator",
+          "number": "5",
+          "section": "74.6 MATHEMATICAL EQUIPMENT",
+          "visual_context": "Person using a calculator.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Addition is so\nmuch easier using\na calculator.",
+          "number": "6",
+          "section": "74.6 MATHEMATICAL EQUIPMENT",
+          "visual_context": "Speech bubble from the person using a calculator.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

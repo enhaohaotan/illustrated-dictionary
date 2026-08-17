@@ -1,0 +1,333 @@
+{
+  "pages": [
+    {
+      "page": 222,
+      "title": "The port",
+      "context": "106.1 AT THE DOCKS",
+      "entries": [
+        {
+          "source_text": "container ship",
+          "number": "1",
+          "section": "AT THE DOCKS",
+          "visual_context": "Large cargo vessel carrying stacked containers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "crane",
+          "number": "2",
+          "section": "AT THE DOCKS",
+          "visual_context": "Yellow dockside crane lifting a container.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shipping container",
+          "number": "3",
+          "section": "AT THE DOCKS",
+          "visual_context": "One of the stacked rectangular cargo containers on the ship.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "warehouse",
+          "number": "4",
+          "section": "AT THE DOCKS",
+          "visual_context": "Large building with loading-bay doors.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "forklift (US)\nfork-lift truck (UK)",
+          "number": "5",
+          "section": "AT THE DOCKS",
+          "visual_context": "Small yellow vehicle carrying a pallet outside the warehouse.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "access road",
+          "number": "6",
+          "section": "AT THE DOCKS",
+          "visual_context": "Road leading into the dock area.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dock",
+          "number": "7",
+          "section": "AT THE DOCKS",
+          "visual_context": "Waterfront loading area beside the container ship.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "customhouse (US)\ncustoms house (UK)",
+          "number": "8",
+          "section": "AT THE DOCKS",
+          "visual_context": "Customs building with a clock tower.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ferry terminal",
+          "number": "17",
+          "section": "AT THE DOCKS",
+          "visual_context": "Terminal building and berth for ferries.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ferry",
+          "number": "18",
+          "section": "AT THE DOCKS",
+          "visual_context": "White passenger ferry by the terminal.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "passenger port",
+          "number": "19",
+          "section": "AT THE DOCKS",
+          "visual_context": "Port area with a large passenger ferry.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "passengers",
+          "number": "20",
+          "section": "AT THE DOCKS",
+          "visual_context": "People standing near the passenger ferry.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fishing port",
+          "number": "21",
+          "section": "AT THE DOCKS",
+          "visual_context": "Small harbor with fishing boats.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ticket office",
+          "number": "22",
+          "section": "AT THE DOCKS",
+          "visual_context": "Counter where a customer receives a ticket.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mooring",
+          "number": "27",
+          "section": "AT THE DOCKS",
+          "visual_context": "Boats tied up alongside a shore.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "harbor (US)\nharbour (UK)",
+          "number": "28",
+          "section": "AT THE DOCKS",
+          "visual_context": "Sheltered water area containing boats.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "marina",
+          "number": "29",
+          "section": "AT THE DOCKS",
+          "visual_context": "Berths for small leisure boats and sailing boats.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pier",
+          "number": "30",
+          "section": "AT THE DOCKS",
+          "visual_context": "Long raised walkway over water with a ferry alongside.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "jetty",
+          "number": "31",
+          "section": "AT THE DOCKS",
+          "visual_context": "Narrow structure projecting into the water.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shipyard",
+          "number": "32",
+          "section": "AT THE DOCKS",
+          "visual_context": "Yard with ships supported by large gantry structures.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 223,
+      "title": "The port",
+      "context": "106.1 AT THE DOCKS; 106.2 VERBS",
+      "entries": [
+        {
+          "source_text": "quay",
+          "number": "9",
+          "section": "AT THE DOCKS",
+          "visual_context": "Concrete waterfront platform beside a container ship.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wharf",
+          "number": "10",
+          "section": "AT THE DOCKS",
+          "visual_context": "Cargo-handling waterfront platform with cranes and containers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "oil terminal",
+          "number": "11",
+          "section": "AT THE DOCKS",
+          "visual_context": "Area of large white oil-storage tanks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "railroad terminal (US)\nrailway terminal (UK)",
+          "number": "12",
+          "section": "AT THE DOCKS",
+          "visual_context": "Rail tracks and a train serving containers at the port.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cargo",
+          "number": "13",
+          "section": "AT THE DOCKS",
+          "visual_context": "Container load carried by the ship.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bridge crane",
+          "number": "14",
+          "section": "AT THE DOCKS",
+          "visual_context": "Large red container-handling crane spanning the wharf.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "port",
+          "number": "15",
+          "section": "AT THE DOCKS",
+          "visual_context": "Overall industrial harbor with ships, cranes, and terminals.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "floating crane",
+          "number": "16",
+          "section": "AT THE DOCKS",
+          "visual_context": "Crane mounted on a floating vessel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "dry dock",
+          "number": "23",
+          "section": "AT THE DOCKS",
+          "visual_context": "Enclosed drained dock holding a ship for repair.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "buoy",
+          "number": "24",
+          "section": "AT THE DOCKS",
+          "visual_context": "Floating navigation marker in the water.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lighthouse",
+          "number": "25",
+          "section": "AT THE DOCKS",
+          "visual_context": "Striped tower on an island emitting a beam of light.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lamp",
+          "number": "26",
+          "section": "AT THE DOCKS",
+          "visual_context": "Light fixture at the top of the lighthouse.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lock",
+          "number": "33",
+          "section": "AT THE DOCKS",
+          "visual_context": "Canal lock chamber between stretches of water.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gate",
+          "number": "34",
+          "section": "AT THE DOCKS",
+          "visual_context": "Closing barrier across the canal lock.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "coastguard",
+          "number": "35",
+          "section": "AT THE DOCKS",
+          "visual_context": "Uniformed coastguard officer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "harbor master (US)\nharbour master (UK)",
+          "number": "36",
+          "section": "AT THE DOCKS",
+          "visual_context": "Uniformed harbor official.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Roads",
+          "number": "96",
+          "section": "See also:",
+          "visual_context": null,
+          "semantic_meaning": "Cross-reference."
+        },
+        {
+          "source_text": "Trains",
+          "number": "102",
+          "section": "See also:",
+          "visual_context": null,
+          "semantic_meaning": "Cross-reference."
+        },
+        {
+          "source_text": "Sea vessels",
+          "number": "105",
+          "section": "See also:",
+          "visual_context": null,
+          "semantic_meaning": "Cross-reference."
+        },
+        {
+          "source_text": "to board",
+          "number": "1",
+          "section": "VERBS",
+          "visual_context": "Passengers entering a boat from a gangway.",
+          "semantic_meaning": "To get onto a vessel."
+        },
+        {
+          "source_text": "to moor",
+          "number": "2",
+          "section": "VERBS",
+          "visual_context": "Person securing a boat with a rope at the shore.",
+          "semantic_meaning": "To secure a vessel in place."
+        },
+        {
+          "source_text": "to disembark",
+          "number": "3",
+          "section": "VERBS",
+          "visual_context": "Passengers leaving a boat by a gangway.",
+          "semantic_meaning": "To get off a vessel."
+        },
+        {
+          "source_text": "to drop anchor",
+          "number": "4",
+          "section": "VERBS",
+          "visual_context": "Anchor being lowered from a sailboat into the water.",
+          "semantic_meaning": "To lower an anchor."
+        },
+        {
+          "source_text": "to dock",
+          "number": "5",
+          "section": "VERBS",
+          "visual_context": "Ship moving into a berth beside a pier.",
+          "semantic_meaning": "To bring a vessel into a dock."
+        },
+        {
+          "source_text": "to set sail",
+          "number": "6",
+          "section": "VERBS",
+          "visual_context": "Sailboat departing from a dock.",
+          "semantic_meaning": "To begin a voyage."
+        }
+      ]
+    }
+  ]
+}

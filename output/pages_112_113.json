@@ -1,0 +1,515 @@
+{
+  "pages": [
+    {
+      "page": 112,
+      "title": "Emergency services",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "paramedic",
+          "number": "1",
+          "section": "50.1 ACCIDENT AND EMERGENCY",
+          "visual_context": "Pointer to the paramedic treating a person on the ground.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Bring me the defibrillator!",
+          "number": "2",
+          "section": "50.1 ACCIDENT AND EMERGENCY",
+          "visual_context": "Speech bubble from the paramedic.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "headlights",
+          "number": "3",
+          "section": "50.1 ACCIDENT AND EMERGENCY",
+          "visual_context": "Pointer to the ambulance’s front lights.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "emergency vehicle beacon",
+          "number": "4",
+          "section": "50.1 ACCIDENT AND EMERGENCY",
+          "visual_context": "Pointer to the flashing red beacon on the ambulance roof.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "first aid bag",
+          "number": "5",
+          "section": "50.1 ACCIDENT AND EMERGENCY",
+          "visual_context": "Pointer to the red medical bag carried by a paramedic.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ambulance",
+          "number": "6",
+          "section": "50.1 ACCIDENT AND EMERGENCY",
+          "visual_context": "Pointer to the emergency vehicle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Battenberg markings",
+          "number": "7",
+          "section": "50.1 ACCIDENT AND EMERGENCY",
+          "visual_context": "Pointer to the green-and-yellow checker markings on the ambulance.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "air ambulance",
+          "number": "8",
+          "section": "50.1 ACCIDENT AND EMERGENCY",
+          "visual_context": "Helicopter lifting a casualty from an accident scene.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ambulance stretcher",
+          "number": "9",
+          "section": "50.1 ACCIDENT AND EMERGENCY",
+          "visual_context": "Wheeled stretcher being pushed by paramedics.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pole stretcher",
+          "number": "10",
+          "section": "50.1 ACCIDENT AND EMERGENCY",
+          "visual_context": "Two paramedics carrying a patient on a stretcher.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "emergency department / A&E (UK)",
+          "number": "11",
+          "section": "50.1 ACCIDENT AND EMERGENCY",
+          "visual_context": "Hospital building with an ambulance outside.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "defibrillator",
+          "number": "12",
+          "section": "50.1 ACCIDENT AND EMERGENCY",
+          "visual_context": "Medical device with paddles and heart-monitor display.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "oxygen mask",
+          "number": "13",
+          "section": "50.1 ACCIDENT AND EMERGENCY",
+          "visual_context": "Person wearing an oxygen mask connected to a cylinder.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "smoke alarm",
+          "number": "1",
+          "section": "50.2 FIRE DEPARTMENT (US) / FIRE BRIGADE (UK)",
+          "visual_context": "Alarm detecting smoke.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fire alarm",
+          "number": "2",
+          "section": "50.2 FIRE DEPARTMENT (US) / FIRE BRIGADE (UK)",
+          "visual_context": "Manual fire-alarm call point.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fire escape",
+          "number": "3",
+          "section": "50.2 FIRE DEPARTMENT (US) / FIRE BRIGADE (UK)",
+          "visual_context": "Emergency stairway sign.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fire station",
+          "number": "4",
+          "section": "50.2 FIRE DEPARTMENT (US) / FIRE BRIGADE (UK)",
+          "visual_context": "Fire-station building.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "compressed-air cylinder",
+          "number": "5",
+          "section": "50.2 FIRE DEPARTMENT (US) / FIRE BRIGADE (UK)",
+          "visual_context": "Compressed-air bottle for firefighting breathing equipment.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fire extinguisher",
+          "number": "6",
+          "section": "50.2 FIRE DEPARTMENT (US) / FIRE BRIGADE (UK)",
+          "visual_context": "Firefighter holding an extinguisher.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "boom",
+          "number": "7",
+          "section": "50.2 FIRE DEPARTMENT (US) / FIRE BRIGADE (UK)",
+          "visual_context": "Extendable ladder arm on the fire engine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cradle",
+          "number": "8",
+          "section": "50.2 FIRE DEPARTMENT (US) / FIRE BRIGADE (UK)",
+          "visual_context": "Basket/platform at the end of the boom.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "water jet",
+          "number": "9",
+          "section": "50.2 FIRE DEPARTMENT (US) / FIRE BRIGADE (UK)",
+          "visual_context": "Stream of water directed at the burning roof.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ladder",
+          "number": "10",
+          "section": "50.2 FIRE DEPARTMENT (US) / FIRE BRIGADE (UK)",
+          "visual_context": "Ladder leaning against the burning building.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "smoke",
+          "number": "11",
+          "section": "50.2 FIRE DEPARTMENT (US) / FIRE BRIGADE (UK)",
+          "visual_context": "Clouds above the burning roof.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fire",
+          "number": "12",
+          "section": "50.2 FIRE DEPARTMENT (US) / FIRE BRIGADE (UK)",
+          "visual_context": "Flames on the building.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hydrant",
+          "number": "13",
+          "section": "50.2 FIRE DEPARTMENT (US) / FIRE BRIGADE (UK)",
+          "visual_context": "Red fire hydrant connected to a hose.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "roof ladder",
+          "number": "14",
+          "section": "50.2 FIRE DEPARTMENT (US) / FIRE BRIGADE (UK)",
+          "visual_context": "Long ladder lying across the fire-engine roof.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "firefighters",
+          "number": "15",
+          "section": "50.2 FIRE DEPARTMENT (US) / FIRE BRIGADE (UK)",
+          "visual_context": "Group of firefighters at the scene.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ax (US) / axe (UK)",
+          "number": "16",
+          "section": "50.2 FIRE DEPARTMENT (US) / FIRE BRIGADE (UK)",
+          "visual_context": "Tool carried by a firefighter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hose",
+          "number": "17",
+          "section": "50.2 FIRE DEPARTMENT (US) / FIRE BRIGADE (UK)",
+          "visual_context": "Fire hose being used to spray water.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cab",
+          "number": "18",
+          "section": "50.2 FIRE DEPARTMENT (US) / FIRE BRIGADE (UK)",
+          "visual_context": "Driver’s compartment of the fire engine.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fire engine",
+          "number": "19",
+          "section": "50.2 FIRE DEPARTMENT (US) / FIRE BRIGADE (UK)",
+          "visual_context": "Firefighting truck.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 113,
+      "title": "Emergency services",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "Illness and injury",
+          "number": "19",
+          "section": "See also:",
+          "visual_context": "Cross-reference in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "The hospital",
+          "number": "21",
+          "section": "See also:",
+          "visual_context": "Cross-reference in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Law",
+          "number": "85",
+          "section": "See also:",
+          "visual_context": "Cross-reference in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "radar speed gun",
+          "number": "1",
+          "section": "50.3 POLICE",
+          "visual_context": "Speed-measuring device aimed at a car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "breathalyzer",
+          "number": "2",
+          "section": "50.3 POLICE",
+          "visual_context": "Device used by a person blowing into it.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "walkie-talkie",
+          "number": "3",
+          "section": "50.3 POLICE",
+          "visual_context": "Handheld radio held by a police officer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "police dog",
+          "number": "4",
+          "section": "50.3 POLICE",
+          "visual_context": "Police officer leading a dog.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "complaint",
+          "number": "5",
+          "section": "50.3 POLICE",
+          "visual_context": "Person making a report to a police officer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "police station",
+          "number": "6",
+          "section": "50.3 POLICE",
+          "visual_context": "Police-station building.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "police cell",
+          "number": "7",
+          "section": "50.3 POLICE",
+          "visual_context": "Person behind barred cell door.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "interrogation room",
+          "number": "8",
+          "section": "50.3 POLICE",
+          "visual_context": "Police officer questioning a seated person across a table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "detective",
+          "number": "9",
+          "section": "50.3 POLICE",
+          "visual_context": "Investigator holding a magnifying glass.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "inspector",
+          "number": "10",
+          "section": "50.3 POLICE",
+          "visual_context": "Senior police officer in uniform.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fingerprint",
+          "number": "11",
+          "section": "50.3 POLICE",
+          "visual_context": "Fingerprints displayed on a computer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "charge",
+          "number": "12",
+          "section": "50.3 POLICE",
+          "visual_context": "Officer recording a charge from a person.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "police officer",
+          "number": "13",
+          "section": "50.3 POLICE",
+          "visual_context": "Full-length uniformed police officer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "police hat",
+          "number": "14",
+          "section": "50.3 POLICE",
+          "visual_context": "Pointer to the officer’s cap.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "uniform",
+          "number": "15",
+          "section": "50.3 POLICE",
+          "visual_context": "Pointer to the officer’s clothing.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "badge",
+          "number": "16",
+          "section": "50.3 POLICE",
+          "visual_context": "Pointer to the badge on the officer’s shirt.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "duty belt",
+          "number": "17",
+          "section": "50.3 POLICE",
+          "visual_context": "Pointer to the equipment belt.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "baton (US) / truncheon (UK)",
+          "number": "18",
+          "section": "50.3 POLICE",
+          "visual_context": "Pointer to the baton at the officer’s side.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "police bike",
+          "number": "19",
+          "section": "50.3 POLICE",
+          "visual_context": "Police motorcycle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "motorcycle police officer",
+          "number": "20",
+          "section": "50.3 POLICE",
+          "visual_context": "Officer riding the police motorcycle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "helmet",
+          "number": "21",
+          "section": "50.3 POLICE",
+          "visual_context": "Pointer to the motorcycle officer’s helmet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "megaphone",
+          "number": "22",
+          "section": "50.3 POLICE",
+          "visual_context": "Megaphone held by an officer leaning from a police car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lights",
+          "number": "23",
+          "section": "50.3 POLICE",
+          "visual_context": "Flashing roof lights on the police car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "police car",
+          "number": "24",
+          "section": "50.3 POLICE",
+          "visual_context": "Police vehicle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "robbery",
+          "number": "25",
+          "section": "50.3 POLICE",
+          "visual_context": "Robbers breaking into a bank.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "alarm",
+          "number": "26",
+          "section": "50.3 POLICE",
+          "visual_context": "Alarm sounding above the bank entrance.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "break in",
+          "number": "27",
+          "section": "50.3 POLICE",
+          "visual_context": "Broken bank window during the robbery.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "robbers",
+          "number": "28",
+          "section": "50.3 POLICE",
+          "visual_context": "Two people stealing from the bank.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "crime scene",
+          "number": "29",
+          "section": "50.3 POLICE",
+          "visual_context": "Area marked with police tape.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "investigation",
+          "number": "30",
+          "section": "50.3 POLICE",
+          "visual_context": "Officers examining a crime scene.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "evidence",
+          "number": "31",
+          "section": "50.3 POLICE",
+          "visual_context": "Item being examined at the crime scene.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "radio",
+          "number": "32",
+          "section": "50.3 POLICE",
+          "visual_context": "Officer speaking into a radio.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "arrest",
+          "number": "33",
+          "section": "50.3 POLICE",
+          "visual_context": "Police officers detaining a person.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "suspect",
+          "number": "34",
+          "section": "50.3 POLICE",
+          "visual_context": "Person being held by police officers.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "handcuffs",
+          "number": "35",
+          "section": "50.3 POLICE",
+          "visual_context": "Handcuffs on the arrested person’s wrists.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "You’re under arrest!",
+          "number": "36",
+          "section": "50.3 POLICE",
+          "visual_context": "Speech bubble from the arresting officer.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

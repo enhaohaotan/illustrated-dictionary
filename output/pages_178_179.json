@@ -1,0 +1,389 @@
+{
+  "pages": [
+    {
+      "page": 178,
+      "title": "Media",
+      "context": "84.1 TELEVISION STUDIO; 84.2 RADIO",
+      "entries": [
+        {
+          "source_text": "light",
+          "number": "1",
+          "section": "84.1 TELEVISION STUDIO",
+          "visual_context": "Studio light panel suspended above the set.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sound boom",
+          "number": "2",
+          "section": "84.1 TELEVISION STUDIO",
+          "visual_context": "Long boom pole with a microphone held over the presenter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "host (US)\npresenter (UK)",
+          "number": "3",
+          "section": "84.1 TELEVISION STUDIO",
+          "visual_context": "Woman standing in front of the studio sofa.",
+          "semantic_meaning": "Person who presents a television programme."
+        },
+        {
+          "source_text": "camera",
+          "number": "4",
+          "section": "84.1 TELEVISION STUDIO",
+          "visual_context": "Camera mounted on the large crane arm.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "camera crane",
+          "number": "5",
+          "section": "84.1 TELEVISION STUDIO",
+          "visual_context": "Overhead crane arm holding a camera.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "camera\noperator",
+          "number": "6",
+          "section": "84.1 TELEVISION STUDIO",
+          "visual_context": "Person operating the studio camera.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "We’re going\nlive in 5 seconds.",
+          "number": "7",
+          "section": "84.1 TELEVISION STUDIO",
+          "visual_context": "Speech bubble from the seated director.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "director",
+          "number": "8",
+          "section": "84.1 TELEVISION STUDIO",
+          "visual_context": "Seated person supervising the production.",
+          "semantic_meaning": "Person directing the television production."
+        },
+        {
+          "source_text": "clapper board",
+          "number": "9",
+          "section": "84.1 TELEVISION STUDIO",
+          "visual_context": "Striped slate held by a crew member.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "television studio",
+          "number": "10",
+          "section": "84.1 TELEVISION STUDIO",
+          "visual_context": "The complete TV set, including cameras, lights, and presenter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "autocue",
+          "number": "11",
+          "section": "84.1 TELEVISION STUDIO",
+          "visual_context": "Prompt screen positioned in front of the camera.",
+          "semantic_meaning": "Screen displaying text for the presenter to read."
+        },
+        {
+          "source_text": "director’s chair",
+          "number": "12",
+          "section": "84.1 TELEVISION STUDIO",
+          "visual_context": "Foldable chair used by the director.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "microphone",
+          "number": "1",
+          "section": "84.2 RADIO",
+          "visual_context": "Orange microphone on an adjustable arm.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mixing desk",
+          "number": "2",
+          "section": "84.2 RADIO",
+          "visual_context": "Audio control console in front of the DJ.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "headphones",
+          "number": "3",
+          "section": "84.2 RADIO",
+          "visual_context": "Headphones worn by the DJ.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "DJ",
+          "number": "4",
+          "section": "84.2 RADIO",
+          "visual_context": "Person wearing headphones and operating the mixing desk.",
+          "semantic_meaning": "Disc jockey / radio presenter."
+        },
+        {
+          "source_text": "recording studio",
+          "number": "5",
+          "section": "84.2 RADIO",
+          "visual_context": "The room containing the DJ, microphone, and mixing desk.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sound technician",
+          "number": "6",
+          "section": "84.2 RADIO",
+          "visual_context": "Person operating a mixing desk at a table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "radio station",
+          "number": "7",
+          "section": "84.2 RADIO",
+          "visual_context": "Broadcast transmitter and station building.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to broadcast",
+          "number": "8",
+          "section": "84.2 RADIO",
+          "visual_context": "Radio presenter transmitting from a microphone, with radio-wave symbol.",
+          "semantic_meaning": "To transmit a programme by radio or television."
+        },
+        {
+          "source_text": "digital",
+          "number": "9",
+          "section": "84.2 RADIO",
+          "visual_context": "Digital radio receiver.",
+          "semantic_meaning": "Using digital rather than analogue signals."
+        },
+        {
+          "source_text": "FM",
+          "number": "10",
+          "section": "84.2 RADIO",
+          "visual_context": "Radio receiver tuned with a frequency scale.",
+          "semantic_meaning": "Frequency modulation radio band."
+        },
+        {
+          "source_text": "frequency",
+          "number": "11",
+          "section": "84.2 RADIO",
+          "visual_context": "Radio receiver with tuning scale and radio waves.",
+          "semantic_meaning": "Radio signal position on the broadcast band."
+        }
+      ]
+    },
+    {
+      "page": 179,
+      "title": "Media",
+      "context": "84.3 SOCIAL AND ONLINE MEDIA",
+      "entries": [
+        {
+          "source_text": "to follow",
+          "number": "1",
+          "section": "84.3 SOCIAL AND ONLINE MEDIA",
+          "visual_context": "Person icon with a plus sign.",
+          "semantic_meaning": "To subscribe to another user's social-media updates."
+        },
+        {
+          "source_text": "to like",
+          "number": "2",
+          "section": "84.3 SOCIAL AND ONLINE MEDIA",
+          "visual_context": "Thumbs-up icon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to go viral",
+          "number": "3",
+          "section": "84.3 SOCIAL AND ONLINE MEDIA",
+          "visual_context": "Network of people and sharing arrows.",
+          "semantic_meaning": "To spread very rapidly online."
+        },
+        {
+          "source_text": "to trend",
+          "number": "4",
+          "section": "84.3 SOCIAL AND ONLINE MEDIA",
+          "visual_context": "Rising bar chart with upward arrow.",
+          "semantic_meaning": "To become widely popular or discussed online."
+        },
+        {
+          "source_text": "avatar",
+          "number": "5",
+          "section": "84.3 SOCIAL AND ONLINE MEDIA",
+          "visual_context": "Illustrated online character figures.",
+          "semantic_meaning": "An image representing a user online."
+        },
+        {
+          "source_text": "vlog",
+          "number": "6",
+          "section": "84.3 SOCIAL AND ONLINE MEDIA",
+          "visual_context": "Person shown in a video-player frame.",
+          "semantic_meaning": "A video blog."
+        },
+        {
+          "source_text": "vlogger",
+          "number": "7",
+          "section": "84.3 SOCIAL AND ONLINE MEDIA",
+          "visual_context": "Person filming themself with a camera on a stick.",
+          "semantic_meaning": "Person who makes vlogs."
+        },
+        {
+          "source_text": "blog",
+          "number": "8",
+          "section": "84.3 SOCIAL AND ONLINE MEDIA",
+          "visual_context": "Computer screen displaying a written post.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "My blog has over\n500 followers.",
+          "number": "9",
+          "section": "84.3 SOCIAL AND ONLINE MEDIA",
+          "visual_context": "Speech bubble from the person seated at a computer.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "blogger",
+          "number": "10",
+          "section": "84.3 SOCIAL AND ONLINE MEDIA",
+          "visual_context": "Person sitting at a computer desk.",
+          "semantic_meaning": "Person who writes a blog."
+        },
+        {
+          "source_text": "to share",
+          "number": "11",
+          "section": "84.3 SOCIAL AND ONLINE MEDIA",
+          "visual_context": "Share-arrow icon.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to block",
+          "number": "12",
+          "section": "84.3 SOCIAL AND ONLINE MEDIA",
+          "visual_context": "User icon overlaid with a prohibition sign.",
+          "semantic_meaning": "To prevent a user from contacting or viewing one's online account."
+        },
+        {
+          "source_text": "to post",
+          "number": "13",
+          "section": "84.3 SOCIAL AND ONLINE MEDIA",
+          "visual_context": "Pen adding content to a page with a plus sign.",
+          "semantic_meaning": "To publish content online."
+        },
+        {
+          "source_text": "to DM\nsomeone",
+          "number": "14",
+          "section": "84.3 SOCIAL AND ONLINE MEDIA",
+          "visual_context": "Paper-plane direct-message icon.",
+          "semantic_meaning": "To send someone a direct message."
+        },
+        {
+          "source_text": "influencer",
+          "number": "15",
+          "section": "84.3 SOCIAL AND ONLINE MEDIA",
+          "visual_context": "Mobile social-media profile with a prominent person image.",
+          "semantic_meaning": "Person whose online following can influence others."
+        },
+        {
+          "source_text": "follower",
+          "number": "16",
+          "section": "84.3 SOCIAL AND ONLINE MEDIA",
+          "visual_context": "Group-of-people icon.",
+          "semantic_meaning": "Person who subscribes to another user's updates."
+        },
+        {
+          "source_text": "podcast",
+          "number": "17",
+          "section": "84.3 SOCIAL AND ONLINE MEDIA",
+          "visual_context": "Microphone with radiating sound waves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "emoji",
+          "number": "18",
+          "section": "84.3 SOCIAL AND ONLINE MEDIA",
+          "visual_context": "Several expressive face icons.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hashtag",
+          "number": "19",
+          "section": "84.3 SOCIAL AND ONLINE MEDIA",
+          "visual_context": "Large # symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "thread",
+          "number": "20",
+          "section": "84.3 SOCIAL AND ONLINE MEDIA",
+          "visual_context": "Stacked connected message bubbles.",
+          "semantic_meaning": "A sequence of connected online messages or posts."
+        },
+        {
+          "source_text": "newsfeed",
+          "number": "21",
+          "section": "84.3 SOCIAL AND ONLINE MEDIA",
+          "visual_context": "Social-media feed layout with posts.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "status update",
+          "number": "22",
+          "section": "84.3 SOCIAL AND ONLINE MEDIA",
+          "visual_context": "Social-media post layout.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "CMS\n(content management system)",
+          "number": "23",
+          "section": "84.3 SOCIAL AND ONLINE MEDIA",
+          "visual_context": "Website screen with a large settings gear.",
+          "semantic_meaning": "Software used to create and manage website content."
+        },
+        {
+          "source_text": "platform",
+          "number": "24",
+          "section": "84.3 SOCIAL AND ONLINE MEDIA",
+          "visual_context": "Computer and mobile-device screens with settings icons.",
+          "semantic_meaning": "An online service or environment for publishing and interaction."
+        },
+        {
+          "source_text": "cookie",
+          "number": "25",
+          "section": "84.3 SOCIAL AND ONLINE MEDIA",
+          "visual_context": "Computer screen showing cookie icons.",
+          "semantic_meaning": "Small data file stored by a website in a user's browser."
+        },
+        {
+          "source_text": "pop-up",
+          "number": "26",
+          "section": "84.3 SOCIAL AND ONLINE MEDIA",
+          "visual_context": "Computer screen with overlapping pop-up windows.",
+          "semantic_meaning": "A small window that appears over a webpage."
+        },
+        {
+          "source_text": "news website",
+          "number": "27",
+          "section": "84.3 SOCIAL AND ONLINE MEDIA",
+          "visual_context": "Computer screen displaying a news-style webpage.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "magazine\nwebsite",
+          "number": "28",
+          "section": "84.3 SOCIAL AND ONLINE MEDIA",
+          "visual_context": "Computer screen displaying a magazine-style webpage.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "community\nwebsite",
+          "number": "29",
+          "section": "84.3 SOCIAL AND ONLINE MEDIA",
+          "visual_context": "Computer screen displaying a community-style webpage.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "trolling",
+          "number": "30",
+          "section": "84.3 SOCIAL AND ONLINE MEDIA",
+          "visual_context": "Person surrounded by hostile messages, symbols, and emojis.",
+          "semantic_meaning": "Deliberately provoking or upsetting people online."
+        }
+      ]
+    }
+  ]
+}

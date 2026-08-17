@@ -1,0 +1,410 @@
+{
+  "pages": [
+    {
+      "page": 208,
+      "title": "Cars and buses",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "headrest",
+          "number": "1",
+          "section": "99.1 CAR INTERIOR",
+          "visual_context": "Pointer to the headrest on the rear car seat.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "door lock",
+          "number": "2",
+          "section": "99.1 CAR INTERIOR",
+          "visual_context": "Pointer to the lock on the car door.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "armrest",
+          "number": "3",
+          "section": "99.1 CAR INTERIOR",
+          "visual_context": "Pointer to the armrest of the front seat.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "back seat",
+          "number": "4",
+          "section": "99.1 CAR INTERIOR",
+          "visual_context": "Pointer to the rear bench seat.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "car interior",
+          "number": "5",
+          "section": "99.1 CAR INTERIOR",
+          "visual_context": "Label for the illustrated passenger compartment of the car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "door handle",
+          "number": "6",
+          "section": "99.1 CAR INTERIOR",
+          "visual_context": "Pointer to the interior door handle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "manual",
+          "number": "7",
+          "section": "99.1 CAR INTERIOR",
+          "visual_context": "Icon of a manual gearshift pattern.",
+          "semantic_meaning": "A manual transmission."
+        },
+        {
+          "source_text": "automatic",
+          "number": "8",
+          "section": "99.1 CAR INTERIOR",
+          "visual_context": "Icon of an automatic gear selector.",
+          "semantic_meaning": "An automatic transmission."
+        },
+        {
+          "source_text": "air conditioning",
+          "number": "9",
+          "section": "99.1 CAR INTERIOR",
+          "visual_context": "Car icon with a snowflake symbol.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "car stereo",
+          "number": "10",
+          "section": "99.1 CAR INTERIOR",
+          "visual_context": "Icon of a car audio unit with music notes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ignition",
+          "number": "11",
+          "section": "99.1 CAR INTERIOR",
+          "visual_context": "Pointer to the key and ignition switch beside the steering wheel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "foot pedals",
+          "number": "12",
+          "section": "99.1 CAR INTERIOR",
+          "visual_context": "Label for the three pedals below the steering wheel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "clutch",
+          "number": "13",
+          "section": "99.1 CAR INTERIOR",
+          "visual_context": "Pointer to the left foot pedal.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "brake",
+          "number": "14",
+          "section": "99.1 CAR INTERIOR",
+          "visual_context": "Pointer to the middle foot pedal.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gas (US)\naccelerator (UK)",
+          "number": "15",
+          "section": "99.1 CAR INTERIOR",
+          "visual_context": "Pointer to the right foot pedal.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "horn",
+          "number": "1",
+          "section": "99.2 DASHBOARD AND CONTROLS",
+          "visual_context": "Pointer to the centre of the steering wheel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "hazard lights",
+          "number": "2",
+          "section": "99.2 DASHBOARD AND CONTROLS",
+          "visual_context": "Pointer to the red triangular hazard-light button on the dashboard.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "GPS / satnav (UK)",
+          "number": "3",
+          "section": "99.2 DASHBOARD AND CONTROLS",
+          "visual_context": "Pointer to the navigation screen in the dashboard.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "steering wheel",
+          "number": "4",
+          "section": "99.2 DASHBOARD AND CONTROLS",
+          "visual_context": "Pointer to the steering wheel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "airbag",
+          "number": "5",
+          "section": "99.2 DASHBOARD AND CONTROLS",
+          "visual_context": "Pointer to the airbag symbol/button to the left of the steering wheel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "headlight\ncontrols",
+          "number": "6",
+          "section": "99.2 DASHBOARD AND CONTROLS",
+          "visual_context": "Pointer to the headlight control stalk beside the steering wheel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "emergency brake (US)\nhandbrake (UK)",
+          "number": "7",
+          "section": "99.2 DASHBOARD AND CONTROLS",
+          "visual_context": "Pointer to the hand-operated brake lever between the seats.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gearshift (US)\ngear stick (UK)",
+          "number": "8",
+          "section": "99.2 DASHBOARD AND CONTROLS",
+          "visual_context": "Pointer to the gear lever in the centre console.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "heater\ncontrols",
+          "number": "9",
+          "section": "99.2 DASHBOARD AND CONTROLS",
+          "visual_context": "Pointer to the dashboard heating-control dials.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "temperature gauge",
+          "number": "10",
+          "section": "99.2 DASHBOARD AND CONTROLS",
+          "visual_context": "Pointer to the small engine-temperature dial in the instrument panel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "speedometer",
+          "number": "11",
+          "section": "99.2 DASHBOARD AND CONTROLS",
+          "visual_context": "Pointer to the large right-hand speed dial.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tachometer (US)\nrev counter (UK)",
+          "number": "12",
+          "section": "99.2 DASHBOARD AND CONTROLS",
+          "visual_context": "Pointer to the large left-hand engine-revolutions dial.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "odometer",
+          "number": "13",
+          "section": "99.2 DASHBOARD AND CONTROLS",
+          "visual_context": "Pointer to the mileage display within the speedometer.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 209,
+      "title": "Cars and buses",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "bus shelter",
+          "number": "1",
+          "section": "99.3 BUS",
+          "visual_context": "Illustration of a covered bus-stop shelter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bus station",
+          "number": "2",
+          "section": "99.3 BUS",
+          "visual_context": "Illustration of a bus terminal with a bus.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bus ticket",
+          "number": "3",
+          "section": "99.3 BUS",
+          "visual_context": "Illustration of a ticket.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fare",
+          "number": "4",
+          "section": "99.3 BUS",
+          "visual_context": "Illustration of coins.",
+          "semantic_meaning": "The money paid for a bus journey."
+        },
+        {
+          "source_text": "bell",
+          "number": "5",
+          "section": "99.3 BUS",
+          "visual_context": "Pointer to the bell above the seated passenger.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stop button",
+          "number": "6",
+          "section": "99.3 BUS",
+          "visual_context": "Pointer to the red stop-request button on the bus handrail.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "driver’s seat",
+          "number": "7",
+          "section": "99.3 BUS",
+          "visual_context": "Pointer to the driver's seat at the front of the bus.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "handrail",
+          "number": "8",
+          "section": "99.3 BUS",
+          "visual_context": "Pointer to the vertical rail beside the driver's area.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "window",
+          "number": "9",
+          "section": "99.3 BUS",
+          "visual_context": "Pointer to a passenger window.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "door",
+          "number": "10",
+          "section": "99.3 BUS",
+          "visual_context": "Pointer to the blue passenger door.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rear wheel",
+          "number": "11",
+          "section": "99.3 BUS",
+          "visual_context": "Pointer to the wheel at the rear of the bus.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "front wheel",
+          "number": "12",
+          "section": "99.3 BUS",
+          "visual_context": "Pointer to the wheel at the front of the bus.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "coach",
+          "number": "13",
+          "section": "99.3 BUS",
+          "visual_context": "Pointer to the luggage-compartment area of the long-distance bus.",
+          "semantic_meaning": "A long-distance bus."
+        },
+        {
+          "source_text": "luggage hold",
+          "number": "14",
+          "section": "99.3 BUS",
+          "visual_context": "Pointer to the open compartment containing luggage.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "wheelchair access",
+          "number": "15",
+          "section": "99.3 BUS",
+          "visual_context": "Pointer to the deployed wheelchair ramp and wheelchair user.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "double-decker bus",
+          "number": "1",
+          "section": "99.4 TYPES OF BUSES",
+          "visual_context": "Illustration of a bus with two passenger levels.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "upper deck",
+          "number": "2",
+          "section": "99.4 TYPES OF BUSES",
+          "visual_context": "Pointer to the upper level of the double-decker bus.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lower deck",
+          "number": "3",
+          "section": "99.4 TYPES OF BUSES",
+          "visual_context": "Pointer to the lower level of the double-decker bus.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "driver",
+          "number": "4",
+          "section": "99.4 TYPES OF BUSES",
+          "visual_context": "Pointer to the person driving the double-decker bus.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tour bus (US)\ntourist bus (UK)",
+          "number": "5",
+          "section": "99.4 TYPES OF BUSES",
+          "visual_context": "Illustration of an open-top sightseeing bus.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sightseeing",
+          "number": "6",
+          "section": "99.4 TYPES OF BUSES",
+          "visual_context": "Pointer to passengers viewing sights from the open upper deck.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "route number",
+          "number": "7",
+          "section": "99.4 TYPES OF BUSES",
+          "visual_context": "Pointer to the number 24 displayed on the front of a bus.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "school bus",
+          "number": "8",
+          "section": "99.4 TYPES OF BUSES",
+          "visual_context": "Illustration of a school bus.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "minibus",
+          "number": "9",
+          "section": "99.4 TYPES OF BUSES",
+          "visual_context": "Illustration of a small bus.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "articulated bus",
+          "number": "10",
+          "section": "99.4 TYPES OF BUSES",
+          "visual_context": "Illustration of a bus with a flexible joint between sections.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shuttle bus",
+          "number": "11",
+          "section": "99.4 TYPES OF BUSES",
+          "visual_context": "Illustration of a shuttle bus.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "trolley bus",
+          "number": "12",
+          "section": "99.4 TYPES OF BUSES",
+          "visual_context": "Illustration of an electric bus connected to overhead wires.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tram",
+          "number": "13",
+          "section": "99.4 TYPES OF BUSES",
+          "visual_context": "Illustration of a rail tram with an overhead power connector.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

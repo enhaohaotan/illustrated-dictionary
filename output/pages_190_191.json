@@ -1,0 +1,368 @@
+{
+  "pages": [
+    {
+      "page": 190,
+      "title": "Jobs continued",
+      "context": "90.1 OCCUPATIONS",
+      "entries": [
+        {
+          "source_text": "security guard",
+          "number": "1",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "A uniformed guard wearing an ID badge.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "window cleaner",
+          "number": "2",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "A worker cleaning a large window from a ladder.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "artist",
+          "number": "3",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "A person painting at an easel.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bodyguard",
+          "number": "4",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "Two suited guards accompanying a woman.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "psychologist",
+          "number": "5",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "A professional speaking with a seated client in an office.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "businessman",
+          "number": "6",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "A suited man carrying a briefcase.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "businesswoman",
+          "number": "7",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "A businesswoman walking with a handbag.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "accountant",
+          "number": "8",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "A person calculating figures and handling money at a desk.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chef",
+          "number": "9",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "A chef in a kitchen preparing food.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "construction worker (US) / builder (UK)",
+          "number": "10",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "A high-visibility-clothed worker at a construction site.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "radio DJ",
+          "number": "11",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "A person speaking into a microphone at a radio console.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "engineer",
+          "number": "12",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "A worker repairing an electrical control box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fashion designer",
+          "number": "13",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "A designer working with a dress on a mannequin.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rock star",
+          "number": "14",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "A singer performing with a microphone.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "flight instructor",
+          "number": "15",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "An instructor and student in a small aircraft.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "janitor",
+          "number": "16",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "A cleaner mopping a floor.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tour guide",
+          "number": "17",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "A guide holding up a red marker for a group.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mail carrier (US) postman / postwoman (UK)",
+          "number": "18",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "A postal worker delivering letters.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "personal assistant (PA)",
+          "number": "19",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "An assistant handing documents to an office worker.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "librarian",
+          "number": "20",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "A librarian holding books in front of shelves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "locksmith",
+          "number": "21",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "A worker kneeling to repair a door lock.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "paramedic",
+          "number": "22",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "A paramedic beside an ambulance with a medical kit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "music teacher",
+          "number": "23",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "A teacher instructing children playing instruments.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "childcare provider",
+          "number": "24",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "An adult caring for children and toys.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "kitchen fitter",
+          "number": "25",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "Workers installing kitchen cabinets.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "taxi driver",
+          "number": "26",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "A driver standing in front of a taxi.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "zookeeper",
+          "number": "27",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "A keeper cleaning beside an elephant.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "judge",
+          "number": "28",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "A judge seated at a bench with a gavel and law book.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "You should have a lot of courtroom experience before you become a judge.",
+          "number": "29",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "Speech bubble above the illustrated judge.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 191,
+      "title": "Jobs continued",
+      "context": "90.1 OCCUPATIONS; see also: 81 At work, 82 In the office, 91 Industries and departments, 92 Applying for a job, 93 Workplace skills, 95 Meeting and presenting",
+      "entries": [
+        {
+          "source_text": "anesthesiologist (US) / anaesthetist (UK)",
+          "number": "30",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "A masked medical professional administering anaesthesia in an operating room.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "surgeon",
+          "number": "31",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "A masked medical professional holding a patient chart in an operating room.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "My shift started at 8 o’clock this morning.",
+          "number": "32",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "Speech bubble above the surgeon in the operating-room scene.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "driver",
+          "number": "33",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "A chauffeur-like driver standing in front of a car.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "secretary",
+          "number": "34",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "A person working at an office desk.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "receptionist",
+          "number": "35",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "A person at a reception counter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "flight attendant",
+          "number": "36",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "An airline attendant standing in an aircraft aisle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "scientist",
+          "number": "37",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "A scientist in a white lab coat.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "bus driver",
+          "number": "38",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "A driver seated in a bus.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "musician",
+          "number": "39",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "A cellist playing a cello.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "surveyor",
+          "number": "40",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "A worker using surveying equipment on a tripod.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lawyer",
+          "number": "41",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "A lawyer speaking at a desk in court.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "teacher",
+          "number": "42",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "A teacher at a blackboard teaching children.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "journalist",
+          "number": "43",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "A reporter holding a microphone and notebook.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "train driver",
+          "number": "44",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "A uniformed driver standing on a train platform.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "travel agent",
+          "number": "45",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "A person at a desk with a globe.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "truck driver (US) lorry driver (UK)",
+          "number": "46",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "A driver standing in front of a truck.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "architect",
+          "number": "47",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "An architect holding building plans at a construction site.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "writer",
+          "number": "48",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "A person writing at a desk with a laptop.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "yoga teacher",
+          "number": "49",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "An instructor demonstrating a yoga pose.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "pilot",
+          "number": "50",
+          "section": "90.1 OCCUPATIONS",
+          "visual_context": "A uniformed pilot pulling a suitcase at an airport.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

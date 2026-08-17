@@ -1,0 +1,508 @@
+{
+  "pages": [
+    {
+      "page": 34,
+      "title": "Abilities and actions",
+      "context": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+      "entries": [
+        {
+          "source_text": "to see",
+          "number": "1",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "An eye looking toward a door.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to taste",
+          "number": "2",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A chef tasting food from a pot.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to smell",
+          "number": "3",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person smelling steam rising from a pot.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to crawl",
+          "number": "4",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person crawling on hands and knees.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to hit",
+          "number": "5",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person hitting a ball with a bat.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to play",
+          "number": "6",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "Children playing with a ball.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to kick",
+          "number": "7",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person kicking a ball.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to throw",
+          "number": "8",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person throwing a ball.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to dance",
+          "number": "9",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "Two people dancing.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "I love to dance.",
+          "number": "10",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "Speech bubble pointing to a dancing person.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Me too!",
+          "number": "11",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "Speech bubble pointing to the other dancing person.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to catch",
+          "number": "12",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person catching a thrown object.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to run",
+          "number": "13",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A running person.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to hop",
+          "number": "14",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person hopping on one foot.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to jump",
+          "number": "15",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person jumping.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to creep",
+          "number": "16",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person moving cautiously on tiptoe.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to shake",
+          "number": "17",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person shaking an object.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to work",
+          "number": "18",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person working at a computer desk.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to blow",
+          "number": "19",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person blowing out candles on a cake.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to make (a snowman)",
+          "number": "20",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person making a snowman.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to spell",
+          "number": "21",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person writing a letter on a board.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to do (homework)",
+          "number": "22",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person doing work at a desk.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to copy",
+          "number": "23",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "One seated person copying another person's work.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to build",
+          "number": "24",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person building a brick wall.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to dig",
+          "number": "25",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person digging with a tool.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to repair",
+          "number": "26",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person repairing a car on a lift.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to fix",
+          "number": "27",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person fixing machinery with a wrench.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to sit down",
+          "number": "28",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person sitting onto a chair.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to stand up",
+          "number": "29",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person standing from a chair.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to understand",
+          "number": "30",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person with books and a hammer beside a chair.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to fall",
+          "number": "31",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person falling over.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to lift",
+          "number": "32",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person lifting a barbell.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to add",
+          "number": "33",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A plus sign.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to subtract",
+          "number": "34",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A minus sign.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to count",
+          "number": "35",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "Several raised hands showing fingers.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 35,
+      "title": null,
+      "context": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+      "entries": [
+        {
+          "source_text": "Daily routines",
+          "number": "09",
+          "section": "See also:",
+          "visual_context": "Cross-reference topic in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Workplace skills",
+          "number": "93",
+          "section": "See also:",
+          "visual_context": "Cross-reference topic in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Common phrasal verbs",
+          "number": "178",
+          "section": "See also:",
+          "visual_context": "Cross-reference topic in the See also box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to listen",
+          "number": "36",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person holding a hand to their ear with sound waves.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to talk",
+          "number": "37",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "Two people beneath a speech bubble.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to speak",
+          "number": "38",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person speaking with sound waves beside their head.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to shout",
+          "number": "39",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person shouting with sound lines.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to sing",
+          "number": "40",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A singer with a musical note.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to act",
+          "number": "41",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person performing a dramatic pose.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to whisper",
+          "number": "42",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "One person whispering to another.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to think",
+          "number": "43",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person with a thought bubble.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to decide",
+          "number": "44",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person between arrows pointing in opposite directions.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to remember",
+          "number": "45",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person thinking of an umbrella.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to forget",
+          "number": "46",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person thinking of a crossed-out umbrella.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to help",
+          "number": "47",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "One person helping another up a slope.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to point",
+          "number": "48",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person pointing outward.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to pack",
+          "number": "49",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person packing items into a suitcase.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to unpack",
+          "number": "50",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person removing items from a box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to fly",
+          "number": "51",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "An aeroplane in flight.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to ride",
+          "number": "52",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person riding a bicycle.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to climb",
+          "number": "53",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person climbing a mountain.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to lick",
+          "number": "54",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person licking an ice cream.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to take",
+          "number": "55",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person taking an item from another person.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to bring",
+          "number": "56",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person carrying an item toward a table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to pick up / to collect (UK)",
+          "number": "57",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person picking up groceries at a collection counter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to enter",
+          "number": "58",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person entering through a door.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to exit",
+          "number": "59",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person leaving through a door.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to win",
+          "number": "60",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person raising a trophy.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to raise",
+          "number": "61",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person raising a glass.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to carry",
+          "number": "62",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person carrying a stack of books.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to juggle",
+          "number": "63",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person juggling balls.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to hold",
+          "number": "64",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person holding a box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to move",
+          "number": "65",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A person moving boxes.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to push",
+          "number": "66",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A blue figure pushing a large block.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to pull",
+          "number": "67",
+          "section": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+          "visual_context": "A blue figure pulling a large block.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,480 @@
+{
+  "pages": [
+    {
+      "page": 308,
+      "title": "Countries",
+      "context": "149.1 AFRICA",
+      "entries": [
+        {
+          "source_text": "Morocco",
+          "number": "1",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Mauritania",
+          "number": "2",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Cape Verde",
+          "number": "3",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Senegal",
+          "number": "4",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Gambia",
+          "number": "5",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Guinea-Bissau",
+          "number": "6",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Guinea",
+          "number": "7",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Sierra Leone",
+          "number": "8",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Liberia",
+          "number": "9",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Ivory Coast",
+          "number": "10",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Burkina Faso",
+          "number": "11",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Mali",
+          "number": "12",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Algeria",
+          "number": "13",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Tunisia",
+          "number": "14",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Libya",
+          "number": "15",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Niger",
+          "number": "16",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Ghana",
+          "number": "17",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Togo",
+          "number": "18",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Benin",
+          "number": "19",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Nigeria",
+          "number": "20",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "São Tomé and Príncipe",
+          "number": "21",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Equatorial Guinea",
+          "number": "22",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Gabon",
+          "number": "23",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Cameroon",
+          "number": "24",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Chad",
+          "number": "25",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Rwanda",
+          "number": "26",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Burundi",
+          "number": "27",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Tanzania",
+          "number": "28",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Mozambique",
+          "number": "29",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Malawi",
+          "number": "30",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Republic of the Congo",
+          "number": "31",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Democratic Republic of the Congo",
+          "number": "32",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Zambia",
+          "number": "33",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Angola",
+          "number": "34",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Namibia",
+          "number": "35",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Botswana",
+          "number": "36",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 309,
+      "title": null,
+      "context": "149.1 AFRICA; 149.2 SOUTH AMERICA",
+      "entries": [
+        {
+          "source_text": "Zimbabwe",
+          "number": "37",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "South Africa",
+          "number": "38",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Lesotho",
+          "number": "39",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Comoros",
+          "number": "40",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Madagascar",
+          "number": "41",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Egypt",
+          "number": "42",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Sudan",
+          "number": "43",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "South Sudan",
+          "number": "44",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Ethiopia",
+          "number": "45",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Eritrea",
+          "number": "46",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Somalia",
+          "number": "47",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Kenya",
+          "number": "48",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Uganda",
+          "number": "49",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Djibouti",
+          "number": "50",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Seychelles",
+          "number": "51",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Mauritius",
+          "number": "52",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Central African Republic",
+          "number": "53",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Eswatini",
+          "number": "54",
+          "section": "AFRICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Venezuela",
+          "number": "1",
+          "section": "SOUTH AMERICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Colombia",
+          "number": "2",
+          "section": "SOUTH AMERICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Brazil",
+          "number": "3",
+          "section": "SOUTH AMERICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Bolivia",
+          "number": "4",
+          "section": "SOUTH AMERICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Ecuador",
+          "number": "5",
+          "section": "SOUTH AMERICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Peru",
+          "number": "6",
+          "section": "SOUTH AMERICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Chile",
+          "number": "7",
+          "section": "SOUTH AMERICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Argentina",
+          "number": "8",
+          "section": "SOUTH AMERICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Guyana",
+          "number": "9",
+          "section": "SOUTH AMERICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Suriname",
+          "number": "10",
+          "section": "SOUTH AMERICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Paraguay",
+          "number": "11",
+          "section": "SOUTH AMERICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Uruguay",
+          "number": "12",
+          "section": "SOUTH AMERICA",
+          "visual_context": "national flag",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}

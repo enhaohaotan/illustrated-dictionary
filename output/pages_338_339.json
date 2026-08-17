@@ -1,0 +1,494 @@
+{
+  "pages": [
+    {
+      "page": 338,
+      "title": "Pets",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "British shorthair",
+          "number": "1",
+          "section": "164.1 CAT BREEDS",
+          "visual_context": "Pointer to a gray seated cat.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Ragdoll",
+          "number": "2",
+          "section": "164.1 CAT BREEDS",
+          "visual_context": "Pointer to a long-haired cream-colored cat.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Maine coon",
+          "number": "3",
+          "section": "164.1 CAT BREEDS",
+          "visual_context": "Pointer to a large brown long-haired cat.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "sphinx",
+          "number": "4",
+          "section": "164.1 CAT BREEDS",
+          "visual_context": "Pointer to a hairless pink cat on the sofa.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "exotic shorthair",
+          "number": "5",
+          "section": "164.1 CAT BREEDS",
+          "visual_context": "Pointer to a flat-faced gray cat on the sofa back.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Himalayan",
+          "number": "6",
+          "section": "164.1 CAT BREEDS",
+          "visual_context": "Pointer to a long-haired colorpoint cat on the sofa.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Persian",
+          "number": "7",
+          "section": "164.1 CAT BREEDS",
+          "visual_context": "Pointer to a fluffy cream cat above the section.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Burmese",
+          "number": "8",
+          "section": "164.1 CAT BREEDS",
+          "visual_context": "Pointer to a brown cat lying on the sofa.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Siamese",
+          "number": "9",
+          "section": "164.1 CAT BREEDS",
+          "visual_context": "Pointer to a slender colorpoint cat beside the sofa.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Bengal",
+          "number": "10",
+          "section": "164.1 CAT BREEDS",
+          "visual_context": "Pointer to a spotted striped cat by an overturned plant pot.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Bombay",
+          "number": "11",
+          "section": "164.1 CAT BREEDS",
+          "visual_context": "Pointer to a black cat sitting in a cardboard box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Japanese bobtail",
+          "number": "12",
+          "section": "164.1 CAT BREEDS",
+          "visual_context": "Pointer to a black-and-white short-tailed cat.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Angora",
+          "number": "13",
+          "section": "164.1 CAT BREEDS",
+          "visual_context": "Pointer to a white long-haired cat on a box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Abyssinian",
+          "number": "14",
+          "section": "164.1 CAT BREEDS",
+          "visual_context": "Pointer to a slender tan cat in front of the box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "American curl",
+          "number": "15",
+          "section": "164.1 CAT BREEDS",
+          "visual_context": "Pointer to an orange-and-white cat at right.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to meow",
+          "number": "16",
+          "section": "164.1 CAT BREEDS",
+          "visual_context": "Illustration of a cat vocalizing, shown with red sound lines.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to purr",
+          "number": "17",
+          "section": "164.1 CAT BREEDS",
+          "visual_context": "Illustration of a resting cat with vibration lines.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to hide",
+          "number": "18",
+          "section": "164.1 CAT BREEDS",
+          "visual_context": "Illustration of a cat hiding in a cardboard box.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to molt (US) to moult (UK)",
+          "number": "19",
+          "section": "164.1 CAT BREEDS",
+          "visual_context": "Illustration of a cat shedding fur in a chair.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "kitten",
+          "number": "20",
+          "section": "164.1 CAT BREEDS",
+          "visual_context": "Pointer to a small black-and-white young cat playing with a ball.",
+          "semantic_meaning": "young cat"
+        },
+        {
+          "source_text": "hamster",
+          "number": "1",
+          "section": "164.3 OTHER PETS",
+          "visual_context": "Illustration of a hamster holding food.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "gerbil",
+          "number": "2",
+          "section": "164.3 OTHER PETS",
+          "visual_context": "Illustration of a small tan rodent with a long tail.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "mouse",
+          "number": "3",
+          "section": "164.3 OTHER PETS",
+          "visual_context": "Illustration of a gray mouse.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to squeak",
+          "number": "4",
+          "section": "164.3 OTHER PETS",
+          "visual_context": "Pointer to a mouse making a sound.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "guinea pig",
+          "number": "5",
+          "section": "164.3 OTHER PETS",
+          "visual_context": "Illustration of a brown-and-white guinea pig.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rabbit",
+          "number": "6",
+          "section": "164.3 OTHER PETS",
+          "visual_context": "Illustration of a black rabbit.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to hop",
+          "number": "7",
+          "section": "164.3 OTHER PETS",
+          "visual_context": "Illustration of a rabbit jumping.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "ferret",
+          "number": "8",
+          "section": "164.3 OTHER PETS",
+          "visual_context": "Illustration of a ferret.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fish",
+          "number": "9",
+          "section": "164.3 OTHER PETS",
+          "visual_context": "Illustration of a goldfish in a bowl.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "lizard",
+          "number": "10",
+          "section": "164.3 OTHER PETS",
+          "visual_context": "Illustration of a blue-and-green lizard.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "stick insect",
+          "number": "11",
+          "section": "164.3 OTHER PETS",
+          "visual_context": "Illustration of a stick insect.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "tortoise",
+          "number": "12",
+          "section": "164.3 OTHER PETS",
+          "visual_context": "Illustration of a tortoise.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "budgerigar / budgie",
+          "number": "13",
+          "section": "164.3 OTHER PETS",
+          "visual_context": "Illustration of a small blue-and-yellow parakeet.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cockatiel",
+          "number": "14",
+          "section": "164.3 OTHER PETS",
+          "visual_context": "Illustration of a gray cockatiel with a yellow crest.",
+          "semantic_meaning": null
+        }
+      ]
+    },
+    {
+      "page": 339,
+      "title": "Pets",
+      "context": null,
+      "entries": [
+        {
+          "source_text": "pug",
+          "number": "1",
+          "section": "164.2 DOG BREEDS",
+          "visual_context": "Pointer to a small fawn dog at left.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "German shepherd",
+          "number": "2",
+          "section": "164.2 DOG BREEDS",
+          "visual_context": "Pointer to a tan-and-black shepherd dog.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "shih tzu",
+          "number": "3",
+          "section": "164.2 DOG BREEDS",
+          "visual_context": "Pointer to a small white long-haired dog.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "basset hound",
+          "number": "4",
+          "section": "164.2 DOG BREEDS",
+          "visual_context": "Pointer to a long-eared hound standing on the table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Pomeranian",
+          "number": "5",
+          "section": "164.2 DOG BREEDS",
+          "visual_context": "Pointer to a small fluffy orange dog on the table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "chihuahua",
+          "number": "6",
+          "section": "164.2 DOG BREEDS",
+          "visual_context": "Pointer to a small tan dog on the table.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Dalmatian",
+          "number": "7",
+          "section": "164.2 DOG BREEDS",
+          "visual_context": "Pointer to a white dog with black spots.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "labrador",
+          "number": "8",
+          "section": "164.2 DOG BREEDS",
+          "visual_context": "Pointer to a pale yellow dog.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "beagle",
+          "number": "9",
+          "section": "164.2 DOG BREEDS",
+          "visual_context": "Pointer to a small tricolor hound.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "poodle",
+          "number": "10",
+          "section": "164.2 DOG BREEDS",
+          "visual_context": "Pointer to a white curly-coated dog.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Great Dane",
+          "number": "11",
+          "section": "164.2 DOG BREEDS",
+          "visual_context": "Pointer to a very large gray dog.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "boxer",
+          "number": "12",
+          "section": "164.2 DOG BREEDS",
+          "visual_context": "Pointer to a brown dog at right.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "retriever",
+          "number": "13",
+          "section": "164.2 DOG BREEDS",
+          "visual_context": "Pointer to a golden dog.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "border collie",
+          "number": "14",
+          "section": "164.2 DOG BREEDS",
+          "visual_context": "Pointer to a black-and-white herding dog.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "puppy",
+          "number": "15",
+          "section": "164.2 DOG BREEDS",
+          "visual_context": "Pointer to a small black-and-white young dog.",
+          "semantic_meaning": "young dog"
+        },
+        {
+          "source_text": "dachshund",
+          "number": "16",
+          "section": "164.2 DOG BREEDS",
+          "visual_context": "Pointer to a long-bodied short-legged dog.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Doberman",
+          "number": "17",
+          "section": "164.2 DOG BREEDS",
+          "visual_context": "Pointer to a black-and-tan dog.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "Siberian husky",
+          "number": "18",
+          "section": "164.2 DOG BREEDS",
+          "visual_context": "Pointer to a gray-and-white dog in the foreground.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to scratch",
+          "number": "19",
+          "section": "164.2 DOG BREEDS",
+          "visual_context": "Illustration of a dog scratching itself.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to beg",
+          "number": "20",
+          "section": "164.2 DOG BREEDS",
+          "visual_context": "Illustration of a dog standing on its hind legs for food.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to sniff",
+          "number": "21",
+          "section": "164.2 DOG BREEDS",
+          "visual_context": "Illustration of two dogs smelling each other.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "to bark",
+          "number": "22",
+          "section": "164.2 DOG BREEDS",
+          "visual_context": "Illustration of a dog vocalizing, shown with red sound lines.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "setter",
+          "number": "23",
+          "section": "164.2 DOG BREEDS",
+          "visual_context": "Pointer to a long-haired brown hunting dog.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "fish tank / aquarium",
+          "number": "1",
+          "section": "164.4 PET SUPPLIES",
+          "visual_context": "Illustration of a rectangular fish tank.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "basket",
+          "number": "2",
+          "section": "164.4 PET SUPPLIES",
+          "visual_context": "Illustration of a pet basket bed.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "doghouse (US) kennel (UK)",
+          "number": "3",
+          "section": "164.4 PET SUPPLIES",
+          "visual_context": "Illustration of a small wooden dog shelter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "cage",
+          "number": "4",
+          "section": "164.4 PET SUPPLIES",
+          "visual_context": "Illustration of a wire animal cage.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "rabbit hutch",
+          "number": "5",
+          "section": "164.4 PET SUPPLIES",
+          "visual_context": "Illustration of a wooden rabbit enclosure.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "litterbox (US) litter tray (UK)",
+          "number": "6",
+          "section": "164.4 PET SUPPLIES",
+          "visual_context": "Illustration of a shallow tray filled with litter.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "leash / lead (UK)",
+          "number": "7",
+          "section": "164.4 PET SUPPLIES",
+          "visual_context": "Illustration of a dog on a leash.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "vivarium",
+          "number": "8",
+          "section": "164.4 PET SUPPLIES",
+          "visual_context": "Illustration of a glass habitat with plants and a reptile.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "birdseed",
+          "number": "9",
+          "section": "164.4 PET SUPPLIES",
+          "visual_context": "Illustration of scattered mixed bird seed.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "treats",
+          "number": "10",
+          "section": "164.4 PET SUPPLIES",
+          "visual_context": "Illustration of assorted pet biscuits and snacks.",
+          "semantic_meaning": null
+        },
+        {
+          "source_text": "toys",
+          "number": "11",
+          "section": "164.4 PET SUPPLIES",
+          "visual_context": "Illustration of pet balls, yarn, bones, and other playthings.",
+          "semantic_meaning": null
+        }
+      ]
+    }
+  ]
+}
