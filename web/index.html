@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light" />
+    <title>Illustrated Dictionary Reader</title>
+    <link rel="stylesheet" href="/styles.css?v=20260818-2" />
+  </head>
+  <body>
+    <header class="toolbar">
+      <div class="brand">
+        <span class="brand-mark">ID</span>
+        <div>
+          <p class="eyebrow">Illustrated dictionary</p>
+          <h1 id="page-title">正在载入词典…</h1>
+        </div>
+      </div>
+
+      <div class="toolbar-actions">
+        <label class="field language-field">
+          <span>语言</span>
+          <select id="language" aria-label="选择翻译语言"></select>
+        </label>
+
+        <div class="page-nav" aria-label="翻页">
+          <button id="previous" class="icon-button" type="button" aria-label="上一页">←</button>
+          <label class="page-field">
+            <span class="sr-only">页码</span>
+            <input id="page-number" type="number" inputmode="numeric" />
+            <span id="page-total">/ —</span>
+          </label>
+          <button id="next" class="icon-button" type="button" aria-label="下一页">→</button>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <div class="reader-shell">
+        <aside class="reader-note">
+          <span class="status-dot"></span>
+          <span id="status">加载 PDF 页面</span>
+        </aside>
+        <section id="page-stage" class="page-stage" aria-live="polite">
+          <div id="spread" class="spread">
+            <div id="pdf-page-left" class="pdf-page pdf-page-left">
+              <img id="pdf-image-left" alt="词典左页" />
+              <div id="overlays-left" class="overlays"></div>
+            </div>
+            <div id="pdf-page-right" class="pdf-page pdf-page-right">
+              <img id="pdf-image-right" alt="词典右页" />
+              <div id="overlays-right" class="overlays"></div>
+            </div>
+          </div>
+        </section>
+        <div class="zoom-controls" aria-label="缩放">
+          <button id="zoom-out" type="button" aria-label="缩小">−</button>
+          <output id="zoom-value">100%</output>
+          <button id="zoom-in" type="button" aria-label="放大">＋</button>
+        </div>
+      </div>
+    </main>
+
+    <template id="entry-template">
+      <div class="entry-overlay">
+        <button class="source-audio-hit" type="button" aria-label="播放英文发音"></button>
+        <button class="translation-tag" type="button" aria-label="播放翻译发音">
+          <span class="translation-text"></span>
+        </button>
+      </div>
+    </template>
+
+    <template id="title-template">
+      <div class="title-overlay">
+        <span class="title-translation"></span>
+      </div>
+    </template>
+
+    <script type="module" src="/app.js?v=20260818-4"></script>
+  </body>
+</html>

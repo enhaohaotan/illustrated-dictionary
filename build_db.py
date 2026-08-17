@@ -110,19 +110,27 @@ def build_database(pages: list[dict], database: Path, schema: Path) -> None:
                         section_id,
                         number,
                         source_text,
-                        forms,
                         visual_context,
-                        semantic_meaning
-                    ) VALUES (?, ?, ?, ?, ?, ?, ?)
+                        semantic_meaning,
+                        bbox_left,
+                        bbox_top,
+                        bbox_right,
+                        bbox_bottom,
+                        audio_url
+                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                     """,
                     (
                         entry_id,
                         page_sections[section],
                         entry.get("number"),
                         entry["source_text"],
-                        None,
                         entry.get("visual_context"),
                         entry.get("semantic_meaning"),
+                        None,
+                        None,
+                        None,
+                        None,
+                        None,
                     ),
                 )
 

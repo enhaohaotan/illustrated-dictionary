@@ -12,7 +12,7 @@ import sys
 import tempfile
 import time
 from pathlib import Path
-from typing import Any, Optional
+from typing import Any
 
 from dotenv import load_dotenv
 from openai import OpenAI
@@ -27,7 +27,6 @@ TERMINAL_BATCH_STATUSES = {"completed", "failed", "expired", "cancelled"}
 class TranslationItem(BaseModel):
     key: str
     text: str
-    forms: Optional[str]
 
 
 class TranslationResult(BaseModel):
@@ -156,27 +155,24 @@ def load_source(source: Path) -> list[dict[str, Any]]:
 def instructions(language: str) -> str:
     return f"""Translate English dictionary content into {language}.
 
-Return only translations and dictionary-form inflection notation in the supplied
-schema. Translate every item exactly once and copy each key unchanged.
+Return only translations in the supplied schema. Translate every item exactly once
+and copy each key unchanged.
 
 For page and section titles:
 - Translate the title naturally and concisely.
-- Always set forms to null.
 
 For page titles, preserve any leading printed unit number exactly, such as "01".
 
 For vocabulary entries:
 - Use the supplied context to select the intended sense.
 - text must contain only the target-language dictionary headword or concise
-  equivalent. Do not include explanations, alternatives, grammatical labels,
-  pronunciation, or inflection in text.
-- Put irregular or conventional dictionary-form morphology only in forms. Follow
-  the notation normally used by dictionaries of {language}; do not spell out an
-  explanation. Do not repeat the headword in forms.
-- For example, Danish may use text "hus" with forms "-et, -e, -ene";
-  "stor" with "-t, -e; større, størst"; and "gå" with "-r, gik, -et".
-- If the target language does not conventionally inflect the translated headword,
-  or if no useful dictionary forms apply, set forms to null.
+  equivalent. Do not include explanations, alternatives, pronunciation, or
+  inflection paradigms.
+- For a noun headword, include its grammatical-gender article directly before the
+  noun when that is the normal dictionary convention in {language}. In Danish,
+  use exactly "en " or "et " before noun headwords (for example "en bil" and
+  "et hus"). Do not add those articles to verbs, adjectives, adverbs, sentences,
+  or non-noun phrases.
 
 Use one consistent dictionary convention throughout the entire language database.
 Do not add facts or fields that were not requested."""
@@ -287,8 +283,6 @@ def parse_batch_output(
                 item.text = item.text.strip()
                 if not item.text:
                     raise ValueError(f"empty translation for {item.key}")
-                if item.forms is not None:
-                    item.forms = item.forms.strip() or None
                 if item.key in translations:
                     raise ValueError(f"duplicate translation for {item.key}")
                 translations[item.key] = item
@@ -380,10 +374,14 @@ def create_translation_database(
                 section_id,
                 number,
                 source_text,
-                forms,
                 visual_context,
-                semantic_meaning
-            ) VALUES (?, ?, ?, ?, ?, ?, ?)
+                semantic_meaning,
+                bbox_left,
+                bbox_top,
+                bbox_right,
+                bbox_bottom,
+                audio_url
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
             """,
             (
                 (
@@ -391,9 +389,13 @@ def create_translation_database(
                     section_id,
                     number,
                     translations[f"entry:{item_id}"].text,
-                    translations[f"entry:{item_id}"].forms,
                     visual_context,
                     semantic_meaning,
+                    bbox_left,
+                    bbox_top,
+                    bbox_right,
+                    bbox_bottom,
+                    None,
                 )
                 for (
                     item_id,
@@ -401,9 +403,22 @@ def create_translation_database(
                     number,
                     visual_context,
                     semantic_meaning,
+                    bbox_left,
+                    bbox_top,
+                    bbox_right,
+                    bbox_bottom,
                 ) in source_connection.execute(
                     """
-                    SELECT id, section_id, number, visual_context, semantic_meaning
+                    SELECT
+                        id,
+                        section_id,
+                        number,
+                        visual_context,
+                        semantic_meaning,
+                        bbox_left,
+                        bbox_top,
+                        bbox_right,
+                        bbox_bottom
                     FROM entries
                     """
                 )

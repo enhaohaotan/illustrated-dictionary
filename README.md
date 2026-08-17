@@ -68,7 +68,7 @@ python build_db.py
 The database contains the `pages`, `sections`, and `entries` tables defined in
 `schema.sql`. Sections that span two PDF pages are stored once per physical page,
 so every entry remains associated with the page on which it is printed. English
-entries have `NULL` in the `forms` column.
+entries keep their exact printed headwords in `source_text`.
 
 ## Translate the database
 
@@ -88,7 +88,46 @@ self-contained. Page titles, section titles, and all 10,359 entry `source_text`
 values are translated. Page relationships, printed numbers, See also references,
 visual context, and semantic meaning are copied unchanged into the language database.
 
-Dictionary-style inflection notation is stored separately in `forms`. For example,
-Danish stores `hus` in `source_text` and `-et, -e, -ene` in `forms`. Chinese stores
-only the translated word in `source_text`, leaving `forms` as `NULL`. Text-to-speech
-can therefore read `source_text` directly without parsing dictionary notation.
+For languages whose dictionary convention marks noun gender with an article, the
+article is stored directly in `source_text`. For example, Danish stores `et hus`
+and `en bil`. No inflection paradigms are stored.
+
+## Locate entries in the PDF
+
+The included databases already contain normalized bounding boxes for the printed
+English vocabulary labels. To regenerate them after rebuilding the databases, run:
+
+```bash
+python locate_entries.py EnglishforEveryoneIllustratedEnglishDictionary.pdf
+```
+
+The PDF contains an embedded text layer, so the script reads its exact text geometry
+instead of applying lower-accuracy image OCR. Coordinates are stored as `bbox_left`,
+`bbox_top`, `bbox_right`, and `bbox_bottom`, each in the range `0` to `1`. The same
+coordinates are copied to `en.sqlite3`, `da.sqlite3`, and `zh.sqlite3`, so they remain
+aligned at every display size. `audio_url` is language-specific and initially `NULL`.
+
+When a spread-crossing illustration places a label on the adjacent physical page,
+the locator also corrects that entry's page association without changing its ID.
+
+## Run the web reader
+
+Start the local backend from the project directory:
+
+```bash
+python server.py
+```
+
+Then open [http://127.0.0.1:8000](http://127.0.0.1:8000). The reader displays each
+two-page spread together (`14+15`, `16+17`, and so on), supports spread navigation,
+direct page-number jumps, zooming, and switching between every `*.sqlite3` language
+database in the project. Entering either page in a spread opens that complete pair.
+It requests only the two visible PDF pages and their translations. Translation labels
+automatically move to a nearby free position when they would overlap source text or
+another translation, and the layout is recalculated after zooming or resizing.
+
+Every located English label and translation is itself an audio click target. Clicking
+the printed source position plays English audio; clicking the translated text plays
+the selected language. Clicks remain inactive while `audio_url` is `NULL`. Later, an
+`audio_url` may be an HTTP(S) URL or a path relative to the local `audio/` directory;
+`/api/audio/{language}/{entry_id}` serves it on demand.
