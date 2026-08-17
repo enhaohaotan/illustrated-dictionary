@@ -56,3 +56,39 @@ split across Batch input files. The command waits for the batches to finish; Ope
 documents a completion window of up to 24 hours.
 
 Run `python extract.py --help` for all options.
+
+## Build the English database
+
+Build `en.sqlite3` from the completed files in `output/`:
+
+```bash
+python build_db.py
+```
+
+The database contains the `pages`, `sections`, and `entries` tables defined in
+`schema.sql`. Sections that span two PDF pages are stored once per physical page,
+so every entry remains associated with the page on which it is printed. English
+entries have `NULL` in the `forms` column.
+
+## Translate the database
+
+Create one complete SQLite database per target language with the OpenAI Batch API:
+
+```bash
+python translate.py Danish --code da
+python translate.py Chinese --code zh
+```
+
+The default model is `gpt-5.6-terra`; use `--model` to select another compatible
+model. Existing databases are not replaced unless `--force` is supplied. The API
+key is loaded from the same `.env` file used by `extract.py`.
+
+Every language database uses the same `schema.sql` as `en.sqlite3` and is fully
+self-contained. Page titles, section titles, and all 10,359 entry `source_text`
+values are translated. Page relationships, printed numbers, See also references,
+visual context, and semantic meaning are copied unchanged into the language database.
+
+Dictionary-style inflection notation is stored separately in `forms`. For example,
+Danish stores `hus` in `source_text` and `-et, -e, -ene` in `forms`. Chinese stores
+only the translated word in `source_text`, leaving `forms` as `NULL`. Text-to-speech
+can therefore read `source_text` directly without parsing dictionary notation.
