@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 348,
-      "title": "Plants and trees continued",
-      "context": "169.1 PLANTS AND TREES",
+      "title": "169 Plants and trees continued",
+      "see_also": [],
       "entries": [
         {
           "source_text": "oak",
@@ -163,8 +163,29 @@
     },
     {
       "page": 349,
-      "title": null,
-      "context": "169.1 PLANTS AND TREES",
+      "title": "169 Plants and trees continued",
+      "see_also": [
+        {
+          "source_text": "Garden plants and houseplants",
+          "number": "38"
+        },
+        {
+          "source_text": "Fruit",
+          "number": "57"
+        },
+        {
+          "source_text": "Fruit and nuts",
+          "number": "58"
+        },
+        {
+          "source_text": "Natural history",
+          "number": "157"
+        },
+        {
+          "source_text": "Fungi",
+          "number": "170"
+        }
+      ],
       "entries": [
         {
           "source_text": "cotoneaster",

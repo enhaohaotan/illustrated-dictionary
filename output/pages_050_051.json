@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 50,
-      "title": "Illness and injury",
-      "context": "19.1 ILLNESS",
+      "title": "19 Illness and injury",
+      "see_also": [],
       "entries": [
         {
           "source_text": "flu",
@@ -261,8 +261,29 @@
     },
     {
       "page": 51,
-      "title": "Illness and injury",
-      "context": "19.2 INJURY",
+      "title": "19 Illness and injury",
+      "see_also": [
+        {
+          "source_text": "Parts of the body",
+          "number": "01"
+        },
+        {
+          "source_text": "Muscles and skeleton",
+          "number": "03"
+        },
+        {
+          "source_text": "Internal organs",
+          "number": "04"
+        },
+        {
+          "source_text": "Visiting the doctor",
+          "number": "20"
+        },
+        {
+          "source_text": "The hospital",
+          "number": "21"
+        }
+      ],
       "entries": [
         {
           "source_text": "Your X-ray shows\nthat you have broken\nyour ankle.",

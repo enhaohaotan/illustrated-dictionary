@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 34,
-      "title": "Abilities and actions",
-      "context": "11.1 DESCRIBING ABILITIES AND ACTIONS",
+      "title": "11 Abilities and actions",
+      "see_also": [],
       "entries": [
         {
           "source_text": "to see",
@@ -254,30 +254,22 @@
     },
     {
       "page": 35,
-      "title": null,
-      "context": "11.1 DESCRIBING ABILITIES AND ACTIONS",
-      "entries": [
+      "title": "11 Abilities and actions",
+      "see_also": [
         {
           "source_text": "Daily routines",
-          "number": "09",
-          "section": "See also:",
-          "visual_context": "Cross-reference topic in the See also box.",
-          "semantic_meaning": null
+          "number": "09"
         },
         {
           "source_text": "Workplace skills",
-          "number": "93",
-          "section": "See also:",
-          "visual_context": "Cross-reference topic in the See also box.",
-          "semantic_meaning": null
+          "number": "93"
         },
         {
           "source_text": "Common phrasal verbs",
-          "number": "178",
-          "section": "See also:",
-          "visual_context": "Cross-reference topic in the See also box.",
-          "semantic_meaning": null
-        },
+          "number": "178"
+        }
+      ],
+      "entries": [
         {
           "source_text": "to listen",
           "number": "36",

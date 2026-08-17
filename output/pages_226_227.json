@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 226,
-      "title": "Rugby",
-      "context": "108.1 RUGBY",
+      "title": "108 Rugby",
+      "see_also": [],
       "entries": [
         {
           "source_text": "loosehead prop",
@@ -184,37 +184,26 @@
     },
     {
       "page": 227,
-      "title": "Rugby",
-      "context": "108.1 RUGBY",
-      "entries": [
+      "title": "108 Rugby",
+      "see_also": [
         {
           "source_text": "American football",
-          "number": "107",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the See also box.",
-          "semantic_meaning": "Related vocabulary topic."
+          "number": "107"
         },
         {
           "source_text": "Soccer / Football",
-          "number": "109",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the See also box.",
-          "semantic_meaning": "Related vocabulary topic."
+          "number": "109"
         },
         {
           "source_text": "Hockey and lacrosse",
-          "number": "110",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the See also box.",
-          "semantic_meaning": "Related vocabulary topic."
+          "number": "110"
         },
         {
           "source_text": "Basketball and volleyball",
-          "number": "112",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the See also box.",
-          "semantic_meaning": "Related vocabulary topic."
-        },
+          "number": "112"
+        }
+      ],
+      "entries": [
         {
           "source_text": "5-meter line (US)\n5-metre line (UK)",
           "number": "25",

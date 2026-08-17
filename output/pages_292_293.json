@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 292,
-      "title": "Arts and crafts",
-      "context": "141.1 PAINTING",
+      "title": "141 Arts and crafts",
+      "see_also": [],
       "entries": [
         {
           "source_text": "brush",
@@ -205,8 +205,21 @@
     },
     {
       "page": 293,
-      "title": "Arts and crafts",
-      "context": "141.2 OTHER ARTS AND CRAFTS",
+      "title": "141 Arts and crafts",
+      "see_also": [
+        {
+          "source_text": "Decorating",
+          "number": "37"
+        },
+        {
+          "source_text": "Museums and galleries",
+          "number": "130"
+        },
+        {
+          "source_text": "Arts and crafts (continued)",
+          "number": "142"
+        }
+      ],
       "entries": [
         {
           "source_text": "sculpture",

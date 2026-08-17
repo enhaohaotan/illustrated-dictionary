@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 116,
-      "title": "Drinking and eating",
-      "context": null,
+      "title": "52 Drinking and eating",
+      "see_also": [],
       "entries": [
         {
           "source_text": "coffee",
@@ -219,8 +219,25 @@
     },
     {
       "page": 117,
-      "title": "Drinking and eating",
-      "context": null,
+      "title": "52 Drinking and eating",
+      "see_also": [
+        {
+          "source_text": "Kitchen and tableware",
+          "number": "27"
+        },
+        {
+          "source_text": "Kitchenware",
+          "number": "28"
+        },
+        {
+          "source_text": "Cooking",
+          "number": "29"
+        },
+        {
+          "source_text": "Food",
+          "number": "52-72"
+        }
+      ],
       "entries": [
         {
           "source_text": "sweet",

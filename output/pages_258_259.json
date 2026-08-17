@@ -2,20 +2,20 @@
   "pages": [
     {
       "page": 258,
-      "title": "At the gym",
-      "context": "124.1 WORKING OUT",
+      "title": "124 At the gym",
+      "see_also": [],
       "entries": [
         {
           "source_text": "At the gym",
           "number": null,
-          "section": null,
+          "section": "124.1 WORKING OUT",
           "visual_context": "Page title.",
           "semantic_meaning": null
         },
         {
           "source_text": "WORKING OUT",
           "number": "124.1",
-          "section": "At the gym",
+          "section": "124.1 WORKING OUT",
           "visual_context": "Section heading above the gym illustration.",
           "semantic_meaning": null
         },
@@ -247,44 +247,30 @@
     },
     {
       "page": 259,
-      "title": "At the gym",
-      "context": "124.1 WORKING OUT",
-      "entries": [
+      "title": "124 At the gym",
+      "see_also": [
         {
           "source_text": "Athletics",
-          "number": "116",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the See also box.",
-          "semantic_meaning": null
+          "number": "116"
         },
         {
           "source_text": "Combat sports",
-          "number": "117",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the See also box.",
-          "semantic_meaning": null
+          "number": "117"
         },
         {
           "source_text": "Swimming",
-          "number": "118",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the See also box.",
-          "semantic_meaning": null
+          "number": "118"
         },
         {
           "source_text": "Winter sports",
-          "number": "122",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the See also box.",
-          "semantic_meaning": null
+          "number": "122"
         },
         {
           "source_text": "Other sports",
-          "number": "125",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the See also box.",
-          "semantic_meaning": null
-        },
+          "number": "125"
+        }
+      ],
+      "entries": [
         {
           "source_text": "weight\ntraining",
           "number": "7",

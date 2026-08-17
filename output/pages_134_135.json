@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 134,
-      "title": "Dairy produce",
-      "context": null,
+      "title": "61 Dairy produce",
+      "see_also": [],
       "entries": [
         {
           "source_text": "hard cheese",
@@ -226,44 +226,30 @@
     },
     {
       "page": 135,
-      "title": "Dairy produce",
-      "context": "See also: 29 Cooking; 52 Drinking and eating; 65-66 At the café; 69 At the restaurant; 71 Breakfast.",
-      "entries": [
+      "title": "61 Dairy produce",
+      "see_also": [
         {
           "source_text": "Cooking",
-          "number": "29",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the see-also box.",
-          "semantic_meaning": null
+          "number": "29"
         },
         {
           "source_text": "Drinking and eating",
-          "number": "52",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the see-also box.",
-          "semantic_meaning": null
+          "number": "52"
         },
         {
           "source_text": "At the café",
-          "number": "65-66",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the see-also box.",
-          "semantic_meaning": null
+          "number": "65-66"
         },
         {
           "source_text": "At the restaurant",
-          "number": "69",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the see-also box.",
-          "semantic_meaning": null
+          "number": "69"
         },
         {
           "source_text": "Breakfast",
-          "number": "71",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the see-also box.",
-          "semantic_meaning": null
-        },
+          "number": "71"
+        }
+      ],
+      "entries": [
         {
           "source_text": "milk carton",
           "number": "1",

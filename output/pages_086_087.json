@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 86,
-      "title": "Decorating",
-      "context": "37.1 HOUSEHOLD RENOVATION",
+      "title": "37 Decorating",
+      "see_also": [],
       "entries": [
         {
           "source_text": "roller",
@@ -226,37 +226,26 @@
     },
     {
       "page": 87,
-      "title": null,
-      "context": "37.1 HOUSEHOLD RENOVATION; 37.2 VERBS FOR DECORATING",
-      "entries": [
+      "title": "37 Decorating",
+      "see_also": [
         {
           "source_text": "House and home",
-          "number": "32",
-          "section": "See also:",
-          "visual_context": "Cross-reference list; no illustration.",
-          "semantic_meaning": null
+          "number": "32"
         },
         {
           "source_text": "Electrics and plumbing",
-          "number": "33",
-          "section": "See also:",
-          "visual_context": "Cross-reference list; no illustration.",
-          "semantic_meaning": null
+          "number": "33"
         },
         {
           "source_text": "Household chores",
-          "number": "34",
-          "section": "See also:",
-          "visual_context": "Cross-reference list; no illustration.",
-          "semantic_meaning": null
+          "number": "34"
         },
         {
           "source_text": "Home improvements",
-          "number": "35",
-          "section": "See also:",
-          "visual_context": "Cross-reference list; no illustration.",
-          "semantic_meaning": null
-        },
+          "number": "35"
+        }
+      ],
+      "entries": [
         {
           "source_text": "scissors",
           "number": "32",

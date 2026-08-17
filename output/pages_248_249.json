@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 248,
-      "title": "Sailing and watersports",
-      "context": "119.1 SAILING",
+      "title": "119 Sailing and watersports",
+      "see_also": [],
       "entries": [
         {
           "source_text": "crew",
@@ -226,8 +226,29 @@
     },
     {
       "page": 249,
-      "title": "Sailing and watersports",
-      "context": "119.2 WATERSPORTS",
+      "title": "119 Sailing and watersports",
+      "see_also": [
+        {
+          "source_text": "Sea vessels",
+          "number": "105"
+        },
+        {
+          "source_text": "The port",
+          "number": "106"
+        },
+        {
+          "source_text": "Swimming",
+          "number": "118"
+        },
+        {
+          "source_text": "Fishing",
+          "number": "121"
+        },
+        {
+          "source_text": "On the beach",
+          "number": "134"
+        }
+      ],
       "entries": [
         {
           "source_text": "rower",

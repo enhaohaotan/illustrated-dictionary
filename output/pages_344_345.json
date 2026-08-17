@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 344,
-      "title": "Plants and trees",
-      "context": "167.1 PLANTS AND TREES",
+      "title": "167 Plants and trees",
+      "see_also": [],
       "entries": [
         {
           "source_text": "liverwort",
@@ -198,8 +198,33 @@
     },
     {
       "page": 345,
-      "title": null,
-      "context": "Plants and trees (continued)",
+      "title": "167 Plants and trees",
+      "see_also": [
+        {
+          "source_text": "Garden plants and houseplants",
+          "number": "38"
+        },
+        {
+          "source_text": "Fruit",
+          "number": "57"
+        },
+        {
+          "source_text": "Fruit and nuts",
+          "number": "58"
+        },
+        {
+          "source_text": "Natural history",
+          "number": "157"
+        },
+        {
+          "source_text": "Plants and trees (continued)",
+          "number": "168-169"
+        },
+        {
+          "source_text": "Fungi",
+          "number": "170"
+        }
+      ],
       "entries": [
         {
           "source_text": "freesia",

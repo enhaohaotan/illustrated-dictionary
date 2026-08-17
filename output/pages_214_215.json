@@ -2,167 +2,167 @@
   "pages": [
     {
       "page": 214,
-      "title": "Trains",
-      "context": "102.1 TRAIN STATION",
+      "title": "102 Trains",
+      "see_also": [],
       "entries": [
         {
           "source_text": "train",
           "number": "1",
-          "section": "TRAIN STATION",
+          "section": "102.1 TRAIN STATION",
           "visual_context": "Front of a train at the station.",
           "semantic_meaning": null
         },
         {
           "source_text": "platform number",
           "number": "2",
-          "section": "TRAIN STATION",
+          "section": "102.1 TRAIN STATION",
           "visual_context": "Blue platform-number sign marked 10.",
           "semantic_meaning": null
         },
         {
           "source_text": "waiting room",
           "number": "3",
-          "section": "TRAIN STATION",
+          "section": "102.1 TRAIN STATION",
           "visual_context": "Glass-fronted room with seated people.",
           "semantic_meaning": null
         },
         {
           "source_text": "ticket office",
           "number": "4",
-          "section": "TRAIN STATION",
+          "section": "102.1 TRAIN STATION",
           "visual_context": "Ticket-sales counter with clerk and customer.",
           "semantic_meaning": null
         },
         {
           "source_text": "Can I have a ticket to Dublin, please?",
           "number": "5",
-          "section": "TRAIN STATION",
+          "section": "102.1 TRAIN STATION",
           "visual_context": "Speech bubble at the ticket office.",
           "semantic_meaning": "A request for a train ticket."
         },
         {
           "source_text": "platform",
           "number": "6",
-          "section": "TRAIN STATION",
+          "section": "102.1 TRAIN STATION",
           "visual_context": "Raised boarding area beside the train.",
           "semantic_meaning": null
         },
         {
           "source_text": "passengers",
           "number": "7",
-          "section": "TRAIN STATION",
+          "section": "102.1 TRAIN STATION",
           "visual_context": "People waiting beside the train.",
           "semantic_meaning": null
         },
         {
           "source_text": "cart (US)\ntrolley (UK)",
           "number": "8",
-          "section": "TRAIN STATION",
+          "section": "102.1 TRAIN STATION",
           "visual_context": "Wheeled luggage cart.",
           "semantic_meaning": null
         },
         {
           "source_text": "luggage\nstorage",
           "number": "9",
-          "section": "TRAIN STATION",
+          "section": "102.1 TRAIN STATION",
           "visual_context": "Bank of luggage lockers.",
           "semantic_meaning": null
         },
         {
           "source_text": "lost property\noffice",
           "number": "10",
-          "section": "TRAIN STATION",
+          "section": "102.1 TRAIN STATION",
           "visual_context": "Counter for reporting or collecting lost items.",
           "semantic_meaning": null
         },
         {
           "source_text": "ticket",
           "number": "11",
-          "section": "TRAIN STATION",
+          "section": "102.1 TRAIN STATION",
           "visual_context": "Printed rail ticket.",
           "semantic_meaning": null
         },
         {
           "source_text": "fare",
           "number": "12",
-          "section": "TRAIN STATION",
+          "section": "102.1 TRAIN STATION",
           "visual_context": "Money exchanged for a ticket.",
           "semantic_meaning": "The price of a journey."
         },
         {
           "source_text": "ticket barrier",
           "number": "13",
-          "section": "TRAIN STATION",
+          "section": "102.1 TRAIN STATION",
           "visual_context": "Automatic entry gates.",
           "semantic_meaning": null
         },
         {
           "source_text": "concourse",
           "number": "14",
-          "section": "TRAIN STATION",
+          "section": "102.1 TRAIN STATION",
           "visual_context": "Main station hall with barriers and travellers.",
           "semantic_meaning": null
         },
         {
           "source_text": "departures board",
           "number": "15",
-          "section": "TRAIN STATION",
+          "section": "102.1 TRAIN STATION",
           "visual_context": "Electronic board listing departures.",
           "semantic_meaning": null
         },
         {
           "source_text": "public\naddress system",
           "number": "16",
-          "section": "TRAIN STATION",
+          "section": "102.1 TRAIN STATION",
           "visual_context": "Station loudspeaker.",
           "semantic_meaning": null
         },
         {
           "source_text": "rail network",
           "number": "17",
-          "section": "TRAIN STATION",
+          "section": "102.1 TRAIN STATION",
           "visual_context": "Diagram of connected rail lines.",
           "semantic_meaning": null
         },
         {
           "source_text": "subway map (US)\nunderground map (UK)",
           "number": "18",
-          "section": "TRAIN STATION",
+          "section": "102.1 TRAIN STATION",
           "visual_context": "Map of urban rail routes.",
           "semantic_meaning": null
         },
         {
           "source_text": "intercity train",
           "number": "19",
-          "section": "TRAIN STATION",
+          "section": "102.1 TRAIN STATION",
           "visual_context": "Map showing a train between towns.",
           "semantic_meaning": "A train linking cities or towns."
         },
         {
           "source_text": "delay",
           "number": "20",
-          "section": "TRAIN STATION",
+          "section": "102.1 TRAIN STATION",
           "visual_context": "Station employee announcing a disruption.",
           "semantic_meaning": "A late train or postponed service."
         },
         {
           "source_text": "rush hour",
           "number": "21",
-          "section": "TRAIN STATION",
+          "section": "102.1 TRAIN STATION",
           "visual_context": "Crowded train interior.",
           "semantic_meaning": "The busiest travel period."
         },
         {
           "source_text": "commuters",
           "number": "22",
-          "section": "TRAIN STATION",
+          "section": "102.1 TRAIN STATION",
           "visual_context": "People travelling to or from work.",
           "semantic_meaning": null
         },
         {
           "source_text": "to catch a train",
           "number": "23",
-          "section": "TRAIN STATION",
+          "section": "102.1 TRAIN STATION",
           "visual_context": "People boarding a train.",
           "semantic_meaning": "To get onto a train before it leaves."
         }
@@ -170,251 +170,260 @@
     },
     {
       "page": 215,
-      "title": "Trains",
-      "context": "102.1 TRAIN STATION; 102.2 TYPES OF TRAINS",
+      "title": "102 Trains",
+      "see_also": [
+        {
+          "source_text": "In town",
+          "number": "42-43"
+        },
+        {
+          "source_text": "Travel and accommodation",
+          "number": "131"
+        }
+      ],
       "entries": [
         {
           "source_text": "to miss a train",
           "number": "24",
-          "section": "TRAIN STATION",
+          "section": "102.1 TRAIN STATION",
           "visual_context": "Person arriving as a train leaves.",
           "semantic_meaning": "To arrive too late to board a train."
         },
         {
           "source_text": "to change\ntrains",
           "number": "25",
-          "section": "TRAIN STATION",
+          "section": "102.1 TRAIN STATION",
           "visual_context": "Passenger transferring between trains.",
           "semantic_meaning": "To transfer from one train to another."
         },
         {
           "source_text": "track",
           "number": "26",
-          "section": "TRAIN STATION",
+          "section": "102.1 TRAIN STATION",
           "visual_context": "Railway rails and sleepers.",
           "semantic_meaning": null
         },
         {
           "source_text": "live rail",
           "number": "27",
-          "section": "TRAIN STATION",
+          "section": "102.1 TRAIN STATION",
           "visual_context": "Electrified rail marked with lightning bolts.",
           "semantic_meaning": "A rail carrying electric power."
         },
         {
           "source_text": "electric lines",
           "number": "28",
-          "section": "TRAIN STATION",
+          "section": "102.1 TRAIN STATION",
           "visual_context": "Overhead electrical wires above a train.",
           "semantic_meaning": null
         },
         {
           "source_text": "underpass",
           "number": "29",
-          "section": "TRAIN STATION",
+          "section": "102.1 TRAIN STATION",
           "visual_context": "Pedestrian passage beneath railway tracks.",
           "semantic_meaning": null
         },
         {
           "source_text": "overpass",
           "number": "30",
-          "section": "TRAIN STATION",
+          "section": "102.1 TRAIN STATION",
           "visual_context": "Pedestrian bridge above railway tracks.",
           "semantic_meaning": null
         },
         {
           "source_text": "signal",
           "number": "31",
-          "section": "TRAIN STATION",
+          "section": "102.1 TRAIN STATION",
           "visual_context": "Railway signal beside the track.",
           "semantic_meaning": null
         },
         {
           "source_text": "compartment",
           "number": "32",
-          "section": "TRAIN STATION",
+          "section": "102.1 TRAIN STATION",
           "visual_context": "Enclosed section inside a train carriage.",
           "semantic_meaning": null
         },
         {
           "source_text": "luggage rack",
           "number": "33",
-          "section": "TRAIN STATION",
+          "section": "102.1 TRAIN STATION",
           "visual_context": "Rack above a train seat.",
           "semantic_meaning": null
         },
         {
           "source_text": "window",
           "number": "34",
-          "section": "TRAIN STATION",
+          "section": "102.1 TRAIN STATION",
           "visual_context": "Train-compartment window.",
           "semantic_meaning": null
         },
         {
           "source_text": "door",
           "number": "35",
-          "section": "TRAIN STATION",
+          "section": "102.1 TRAIN STATION",
           "visual_context": "Train-compartment door.",
           "semantic_meaning": null
         },
         {
           "source_text": "carriage",
           "number": "36",
-          "section": "TRAIN STATION",
+          "section": "102.1 TRAIN STATION",
           "visual_context": "Individual passenger rail car.",
           "semantic_meaning": null
         },
         {
           "source_text": "dining car",
           "number": "37",
-          "section": "TRAIN STATION",
+          "section": "102.1 TRAIN STATION",
           "visual_context": "Train car with dining table and passenger.",
           "semantic_meaning": null
         },
         {
           "source_text": "seat",
           "number": "38",
-          "section": "TRAIN STATION",
+          "section": "102.1 TRAIN STATION",
           "visual_context": "Pair of passenger seats.",
           "semantic_meaning": null
         },
         {
           "source_text": "sleeping\ncompartment",
           "number": "39",
-          "section": "TRAIN STATION",
+          "section": "102.1 TRAIN STATION",
           "visual_context": "Train compartment with berths.",
           "semantic_meaning": null
         },
         {
           "source_text": "ticket\ninspector",
           "number": "40",
-          "section": "TRAIN STATION",
+          "section": "102.1 TRAIN STATION",
           "visual_context": "Uniformed employee checking a passenger's ticket.",
           "semantic_meaning": null
         },
         {
           "source_text": "emergency\nlever",
           "number": "41",
-          "section": "TRAIN STATION",
+          "section": "102.1 TRAIN STATION",
           "visual_context": "Red emergency lever in a wall panel.",
           "semantic_meaning": null
         },
         {
           "source_text": "steam dome",
           "number": "1",
-          "section": "TYPES OF TRAINS",
+          "section": "102.2 TYPES OF TRAINS",
           "visual_context": "Dome on top of the steam locomotive boiler.",
           "semantic_meaning": null
         },
         {
           "source_text": "buffer",
           "number": "2",
-          "section": "TYPES OF TRAINS",
+          "section": "102.2 TYPES OF TRAINS",
           "visual_context": "Buffer at the front of the steam locomotive.",
           "semantic_meaning": null
         },
         {
           "source_text": "coupling rod",
           "number": "3",
-          "section": "TYPES OF TRAINS",
+          "section": "102.2 TYPES OF TRAINS",
           "visual_context": "Rod connecting the locomotive wheels.",
           "semantic_meaning": null
         },
         {
           "source_text": "steam train",
           "number": "4",
-          "section": "TYPES OF TRAINS",
+          "section": "102.2 TYPES OF TRAINS",
           "visual_context": "Steam locomotive.",
           "semantic_meaning": null
         },
         {
           "source_text": "cowcatcher",
           "number": "5",
-          "section": "TYPES OF TRAINS",
+          "section": "102.2 TYPES OF TRAINS",
           "visual_context": "Wedge-shaped guard at the locomotive front.",
           "semantic_meaning": null
         },
         {
           "source_text": "pantograph",
           "number": "6",
-          "section": "TYPES OF TRAINS",
+          "section": "102.2 TYPES OF TRAINS",
           "visual_context": "Roof-mounted electrical collector on an electric train.",
           "semantic_meaning": null
         },
         {
           "source_text": "electric train",
           "number": "7",
-          "section": "TYPES OF TRAINS",
+          "section": "102.2 TYPES OF TRAINS",
           "visual_context": "Train powered by overhead electric lines.",
           "semantic_meaning": null
         },
         {
           "source_text": "driver’s cab",
           "number": "8",
-          "section": "TYPES OF TRAINS",
+          "section": "102.2 TYPES OF TRAINS",
           "visual_context": "Front driving compartment of a bullet train.",
           "semantic_meaning": null
         },
         {
           "source_text": "bullet train",
           "number": "9",
-          "section": "TYPES OF TRAINS",
+          "section": "102.2 TYPES OF TRAINS",
           "visual_context": "Streamlined high-speed train.",
           "semantic_meaning": null
         },
         {
           "source_text": "high-speed train",
           "number": "10",
-          "section": "TYPES OF TRAINS",
+          "section": "102.2 TYPES OF TRAINS",
           "visual_context": "Long streamlined fast train.",
           "semantic_meaning": null
         },
         {
           "source_text": "diesel train",
           "number": "11",
-          "section": "TYPES OF TRAINS",
+          "section": "102.2 TYPES OF TRAINS",
           "visual_context": "Blue diesel-powered locomotive.",
           "semantic_meaning": null
         },
         {
           "source_text": "cargo",
           "number": "12",
-          "section": "TYPES OF TRAINS",
+          "section": "102.2 TYPES OF TRAINS",
           "visual_context": "Freight containers on rail wagons.",
           "semantic_meaning": "Goods carried by train."
         },
         {
           "source_text": "freight train",
           "number": "13",
-          "section": "TYPES OF TRAINS",
+          "section": "102.2 TYPES OF TRAINS",
           "visual_context": "Train hauling cargo containers.",
           "semantic_meaning": null
         },
         {
           "source_text": "maglev",
           "number": "14",
-          "section": "TYPES OF TRAINS",
+          "section": "102.2 TYPES OF TRAINS",
           "visual_context": "Magnetic-levitation train on its guideway.",
           "semantic_meaning": "A magnetically levitated train."
         },
         {
           "source_text": "monorail",
           "number": "15",
-          "section": "TYPES OF TRAINS",
+          "section": "102.2 TYPES OF TRAINS",
           "visual_context": "Train running on a single elevated rail.",
           "semantic_meaning": null
         },
         {
           "source_text": "subway train (US)\nunderground train (UK)",
           "number": "16",
-          "section": "TYPES OF TRAINS",
+          "section": "102.2 TYPES OF TRAINS",
           "visual_context": "Train arriving at an underground station.",
           "semantic_meaning": null
         },
         {
           "source_text": "tram",
           "number": "17",
-          "section": "TYPES OF TRAINS",
+          "section": "102.2 TYPES OF TRAINS",
           "visual_context": "Street-running electric rail vehicle.",
           "semantic_meaning": null
         }

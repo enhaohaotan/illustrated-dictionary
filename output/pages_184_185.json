@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 184,
-      "title": "Construction",
-      "context": "87.1 CONSTRUCTION SITE (US) / BUILDING SITE (UK)",
+      "title": "87 Construction",
+      "see_also": [],
       "entries": [
         {
           "source_text": "chimney",
@@ -184,8 +184,33 @@
     },
     {
       "page": 185,
-      "title": "Construction",
-      "context": "87.2 MACHINERY; 87.3 TOOLS AND ROADWORKS",
+      "title": "87 Construction",
+      "see_also": [
+        {
+          "source_text": "A place to live",
+          "number": "25"
+        },
+        {
+          "source_text": "House and home",
+          "number": "32"
+        },
+        {
+          "source_text": "Electrics and plumbing",
+          "number": "33"
+        },
+        {
+          "source_text": "Home improvements",
+          "number": "35"
+        },
+        {
+          "source_text": "Tools",
+          "number": "36"
+        },
+        {
+          "source_text": "Decorating",
+          "number": "37"
+        }
+      ],
       "entries": [
         {
           "source_text": "jib",

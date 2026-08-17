@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 58,
-      "title": "Diet and nutrition",
-      "context": "23.1 HEALTHY LIVING",
+      "title": "23 Diet and nutrition",
+      "see_also": [],
       "entries": [
         {
           "source_text": "protein",
@@ -170,8 +170,33 @@
     },
     {
       "page": 59,
-      "title": null,
-      "context": "Continuation of 23.1 HEALTHY LIVING at left; 23.2 FOOD ALLERGIES at right.",
+      "title": "23 Diet and nutrition",
+      "see_also": [
+        {
+          "source_text": "Muscles and skeleton",
+          "number": "03"
+        },
+        {
+          "source_text": "Illness and injury",
+          "number": "19"
+        },
+        {
+          "source_text": "Healthy body, healthy mind",
+          "number": "24"
+        },
+        {
+          "source_text": "Cooking",
+          "number": "29"
+        },
+        {
+          "source_text": "The supermarket",
+          "number": "48"
+        },
+        {
+          "source_text": "Food",
+          "number": "52-72"
+        }
+      ],
       "entries": [
         {
           "source_text": "processed food",

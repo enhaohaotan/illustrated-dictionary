@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 158,
-      "title": "Mathematics",
-      "context": null,
+      "title": "74 Mathematics",
+      "see_also": [],
       "entries": [
         {
           "source_text": "oval",
@@ -233,8 +233,25 @@
     },
     {
       "page": 159,
-      "title": "Mathematics",
-      "context": null,
+      "title": "74 Mathematics",
+      "see_also": [
+        {
+          "source_text": "At school",
+          "number": "73"
+        },
+        {
+          "source_text": "Money and finance",
+          "number": "94"
+        },
+        {
+          "source_text": "Numbers",
+          "number": "173"
+        },
+        {
+          "source_text": "Weights and measures",
+          "number": "174"
+        }
+      ],
       "entries": [
         {
           "source_text": "volume",

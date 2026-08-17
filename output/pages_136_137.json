@@ -2,202 +2,202 @@
   "pages": [
     {
       "page": 136,
-      "title": "The bakery",
-      "context": "62.1 BREADS AND FLOURS",
+      "title": "62 The bakery",
+      "see_also": [],
       "entries": [
         {
           "source_text": "bakery",
           "number": "1",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "The bakery shop scene.",
           "semantic_meaning": null
         },
         {
           "source_text": "matzo",
           "number": "2",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Stacked flat crackers in a basket.",
           "semantic_meaning": null
         },
         {
           "source_text": "shaobing",
           "number": "3",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Seeded round flatbreads in a basket.",
           "semantic_meaning": null
         },
         {
           "source_text": "pretzel",
           "number": "4",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Basket of salted twisted pretzels.",
           "semantic_meaning": null
         },
         {
           "source_text": "pain au chocolat",
           "number": "5",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Bread sign on the wall.",
           "semantic_meaning": "A chocolate-filled pastry."
         },
         {
           "source_text": "baker",
           "number": "6",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Person in a chef's hat holding bread.",
           "semantic_meaning": null
         },
         {
           "source_text": "bagel",
           "number": "14",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Ring-shaped breads in the upper-left display compartment.",
           "semantic_meaning": null
         },
         {
           "source_text": "challah",
           "number": "15",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Braided loaf in the upper-middle display compartment.",
           "semantic_meaning": null
         },
         {
           "source_text": "injera",
           "number": "16",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Large spongy flatbreads in the middle-left display compartment.",
           "semantic_meaning": null
         },
         {
           "source_text": "brioche",
           "number": "17",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Small yellow loaves in the middle display compartment.",
           "semantic_meaning": null
         },
         {
           "source_text": "fruit bread",
           "number": "18",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Sliced loaf containing fruit in the lower-left display compartment.",
           "semantic_meaning": null
         },
         {
           "source_text": "pita (US) / pitta bread (UK)",
           "number": "24",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Pale folded flatbreads in the lower display compartment.",
           "semantic_meaning": null
         },
         {
           "source_text": "chapati",
           "number": "25",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Stack of speckled round flatbreads.",
           "semantic_meaning": null
         },
         {
           "source_text": "croissant",
           "number": "26",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Pile of crescent-shaped pastries.",
           "semantic_meaning": null
         },
         {
           "source_text": "tortilla",
           "number": "27",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Stack of yellow round flatbreads.",
           "semantic_meaning": null
         },
         {
           "source_text": "slicer",
           "number": "28",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Bread-slicing machine beside the baker.",
           "semantic_meaning": null
         },
         {
           "source_text": "bread flour (US)\nstrong flour (UK)",
           "number": "33",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Bag of flour with a wheat illustration.",
           "semantic_meaning": null
         },
         {
           "source_text": "plain\nflour",
           "number": "34",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Bag of plain flour.",
           "semantic_meaning": null
         },
         {
           "source_text": "self-rising flour (US)\nself-raising flour (UK)",
           "number": "35",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Bag of self-rising flour.",
           "semantic_meaning": null
         },
         {
           "source_text": "brown\nflour",
           "number": "36",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Bag of brown flour.",
           "semantic_meaning": null
         },
         {
           "source_text": "whole-wheat (US)\nwholemeal (UK) flour",
           "number": "37",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Bag of whole-wheat flour.",
           "semantic_meaning": null
         },
         {
           "source_text": "white flour",
           "number": "38",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Bag of white flour.",
           "semantic_meaning": null
         },
         {
           "source_text": "gluten-free\nflour",
           "number": "39",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Bag marked with a crossed-out wheat symbol.",
           "semantic_meaning": null
         },
         {
           "source_text": "buckwheat\nflour",
           "number": "40",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Bag of buckwheat flour.",
           "semantic_meaning": null
         },
         {
           "source_text": "dried yeast",
           "number": "41",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Spilled packet of dried yeast granules.",
           "semantic_meaning": null
         },
         {
           "source_text": "fresh yeast",
           "number": "42",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Cube of fresh yeast.",
           "semantic_meaning": null
         },
         {
           "source_text": "sourdough\nstarter",
           "number": "43",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Jar of bubbling sourdough starter.",
           "semantic_meaning": null
         },
         {
           "source_text": "CO₂ bubbles",
           "number": "44",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Bubbles inside the jar of sourdough starter.",
           "semantic_meaning": "Carbon-dioxide bubbles."
         }
@@ -205,188 +205,213 @@
     },
     {
       "page": 137,
-      "title": null,
-      "context": "BREADS AND FLOURS",
+      "title": "62 The bakery",
+      "see_also": [
+        {
+          "source_text": "Cooking",
+          "number": "29"
+        },
+        {
+          "source_text": "Drinking and eating",
+          "number": "52"
+        },
+        {
+          "source_text": "The bakery (continued)",
+          "number": "63"
+        },
+        {
+          "source_text": "At the café",
+          "number": "65-66"
+        },
+        {
+          "source_text": "At the restaurant",
+          "number": "69"
+        },
+        {
+          "source_text": "Breakfast",
+          "number": "71"
+        }
+      ],
       "entries": [
         {
           "source_text": "sliced bread",
           "number": "7",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Packaged sliced loaf on the upper-left counter.",
           "semantic_meaning": null
         },
         {
           "source_text": "crispbread",
           "number": "8",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Basket of thin crispbread crackers.",
           "semantic_meaning": null
         },
         {
           "source_text": "white bread",
           "number": "9",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Light-coloured loaf on the counter.",
           "semantic_meaning": null
         },
         {
           "source_text": "crust",
           "number": "10",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Outer brown surface of the cut white loaf.",
           "semantic_meaning": "The outer layer of bread."
         },
         {
           "source_text": "rye bread",
           "number": "11",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Dark loaf on the counter.",
           "semantic_meaning": null
         },
         {
           "source_text": "brown\nbread",
           "number": "12",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Brown loaf in the upper-right display.",
           "semantic_meaning": null
         },
         {
           "source_text": "loaf",
           "number": "13",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "One whole brown bread loaf in the upper-right display.",
           "semantic_meaning": null
         },
         {
           "source_text": "granary bread",
           "number": "19",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Seeded brown loaves in the upper-right display.",
           "semantic_meaning": null
         },
         {
           "source_text": "roll",
           "number": "20",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Small individual bread rolls in the upper display compartment.",
           "semantic_meaning": null
         },
         {
           "source_text": "corn bread",
           "number": "21",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Yellow corn-bread loaves in the middle-left display compartment.",
           "semantic_meaning": null
         },
         {
           "source_text": "soda bread",
           "number": "22",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Round brown loaves in the middle-right display compartment.",
           "semantic_meaning": null
         },
         {
           "source_text": "sourdough\nbread",
           "number": "23",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Rustic loaves in the lower-right display compartment.",
           "semantic_meaning": null
         },
         {
           "source_text": "baguette",
           "number": "29",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Long thin bread in the central basket.",
           "semantic_meaning": null
         },
         {
           "source_text": "flute",
           "number": "30",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Long narrow loaf in the right-hand basket.",
           "semantic_meaning": "A long thin bread loaf."
         },
         {
           "source_text": "seeded bread",
           "number": "31",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Seed-topped loaf in the lower-left display compartment.",
           "semantic_meaning": null
         },
         {
           "source_text": "flatbread",
           "number": "32",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Flat folded breads in the lower-middle display compartment.",
           "semantic_meaning": null
         },
         {
           "source_text": "to sift",
           "number": "45",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Person shaking flour through a sieve into a bowl.",
           "semantic_meaning": null
         },
         {
           "source_text": "to mix",
           "number": "46",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Person mixing ingredients in a bowl.",
           "semantic_meaning": null
         },
         {
           "source_text": "to rise",
           "number": "47",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Covered bowl of dough expanding.",
           "semantic_meaning": null
         },
         {
           "source_text": "to proof (US)\nto prove (UK)",
           "number": "48",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Two covered bowls showing dough at different stages.",
           "semantic_meaning": "To let dough rise before baking."
         },
         {
           "source_text": "dough",
           "number": "49",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Ball of unbaked dough.",
           "semantic_meaning": null
         },
         {
           "source_text": "to glaze",
           "number": "50",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Brush applying glaze to bread.",
           "semantic_meaning": null
         },
         {
           "source_text": "to bake",
           "number": "51",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Oven with bread baking inside.",
           "semantic_meaning": null
         },
         {
           "source_text": "to slice",
           "number": "52",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Knife cutting a loaf into slices.",
           "semantic_meaning": null
         },
         {
           "source_text": "to knead",
           "number": "53",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Person pressing and working dough by hand.",
           "semantic_meaning": null
         },
         {
           "source_text": "I like to bake\nmy own bread.",
           "number": "54",
-          "section": "BREADS AND FLOURS",
+          "section": "62.1 BREADS AND FLOURS",
           "visual_context": "Speech bubble from the person kneading dough.",
           "semantic_meaning": null
         }

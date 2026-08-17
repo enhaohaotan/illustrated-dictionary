@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 26,
-      "title": "Life events",
-      "context": null,
+      "title": "07 Life events",
+      "see_also": [],
       "entries": [
         {
           "source_text": "neighbor (US) neighbour (UK)",
@@ -191,58 +191,38 @@
     },
     {
       "page": 27,
-      "title": "Life events",
-      "context": null,
-      "entries": [
+      "title": "07 Life events",
+      "see_also": [
         {
           "source_text": "Family",
-          "number": "05",
-          "section": "See also:",
-          "visual_context": "Cross-reference list only; no associated illustration.",
-          "semantic_meaning": null
+          "number": "05"
         },
         {
           "source_text": "Pregnancy and childhood",
-          "number": "08",
-          "section": "See also:",
-          "visual_context": "Cross-reference list only; no associated illustration.",
-          "semantic_meaning": null
+          "number": "08"
         },
         {
           "source_text": "Illness and injury",
-          "number": "19",
-          "section": "See also:",
-          "visual_context": "Cross-reference list only; no associated illustration.",
-          "semantic_meaning": null
+          "number": "19"
         },
         {
           "source_text": "At school",
-          "number": "73",
-          "section": "See also:",
-          "visual_context": "Cross-reference list only; no associated illustration.",
-          "semantic_meaning": null
+          "number": "73"
         },
         {
           "source_text": "At college",
-          "number": "80",
-          "section": "See also:",
-          "visual_context": "Cross-reference list only; no associated illustration.",
-          "semantic_meaning": null
+          "number": "80"
         },
         {
           "source_text": "Applying for a job",
-          "number": "92",
-          "section": "See also:",
-          "visual_context": "Cross-reference list only; no associated illustration.",
-          "semantic_meaning": null
+          "number": "92"
         },
         {
           "source_text": "Travel and accommodation",
-          "number": "131",
-          "section": "See also:",
-          "visual_context": "Cross-reference list only; no associated illustration.",
-          "semantic_meaning": null
-        },
+          "number": "131"
+        }
+      ],
+      "entries": [
         {
           "source_text": "birthday",
           "number": "1",

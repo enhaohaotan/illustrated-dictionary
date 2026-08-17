@@ -2,223 +2,223 @@
   "pages": [
     {
       "page": 154,
-      "title": "Lunch and dinner",
-      "context": "72.1 MEALS AND DISHES",
+      "title": "72 Lunch and dinner",
+      "see_also": [],
       "entries": [
         {
           "source_text": "omelet (US) omelette (UK)",
           "number": "1",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "Folded egg dish on a plate.",
           "semantic_meaning": null
         },
         {
           "source_text": "noodle soup",
           "number": "2",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "Bowl of soup with noodles and herbs.",
           "semantic_meaning": null
         },
         {
           "source_text": "dosa",
           "number": "3",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "Rolled Indian crepe on a plate with dips.",
           "semantic_meaning": null
         },
         {
           "source_text": "chutney",
           "number": "4",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "Small bowl of orange dip beside the dosa.",
           "semantic_meaning": null
         },
         {
           "source_text": "pie",
           "number": "5",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "Round savory pie served with salad.",
           "semantic_meaning": null
         },
         {
           "source_text": "Greek salad",
           "number": "6",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "Plate of tomato, cucumber, olives, and cheese salad.",
           "semantic_meaning": null
         },
         {
           "source_text": "soufflé",
           "number": "7",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "Baked soufflé in a ramekin.",
           "semantic_meaning": null
         },
         {
           "source_text": "sandwich",
           "number": "8",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "Layered triangular sandwich on a plate.",
           "semantic_meaning": null
         },
         {
           "source_text": "ramen",
           "number": "9",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "Bowl of Japanese noodle soup with egg and spoon.",
           "semantic_meaning": null
         },
         {
           "source_text": "lunch",
           "number": "10",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "The illustrated spread of midday meal dishes.",
           "semantic_meaning": "midday meal"
         },
         {
           "source_text": "soup",
           "number": "11",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "Small bowl of soup.",
           "semantic_meaning": null
         },
         {
           "source_text": "cooked vegetables",
           "number": "12",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "Plate of cooked vegetables with a napkin and cutlery.",
           "semantic_meaning": null
         },
         {
           "source_text": "napkin",
           "number": "13",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "Folded striped napkin beside the vegetables.",
           "semantic_meaning": null
         },
         {
           "source_text": "stir-fry",
           "number": "14",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "Plate of mixed stir-fried vegetables.",
           "semantic_meaning": null
         },
         {
           "source_text": "summer roll",
           "number": "15",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "Fresh rice-paper rolls with dipping sauce.",
           "semantic_meaning": null
         },
         {
           "source_text": "soy sauce dip",
           "number": "16",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "Small bowl of dark soy-sauce dip beside rolls.",
           "semantic_meaning": null
         },
         {
           "source_text": "hummus",
           "number": "17",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "Bowl of hummus with garnish.",
           "semantic_meaning": null
         },
         {
           "source_text": "crudités",
           "number": "18",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "Raw vegetable sticks in a bowl.",
           "semantic_meaning": "raw vegetables served as an appetizer"
         },
         {
           "source_text": "pita bread (US) pitta bread (UK)",
           "number": "19",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "Stacked flatbreads on a plate.",
           "semantic_meaning": null
         },
         {
           "source_text": "rice",
           "number": "20",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "Bowl of cooked rice.",
           "semantic_meaning": null
         },
         {
           "source_text": "risotto",
           "number": "21",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "Shallow bowl of creamy rice dish.",
           "semantic_meaning": null
         },
         {
           "source_text": "paella",
           "number": "22",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "Plate of Spanish rice with vegetables.",
           "semantic_meaning": null
         },
         {
           "source_text": "pasta",
           "number": "23",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "Plate of pasta in sauce.",
           "semantic_meaning": null
         },
         {
           "source_text": "meatballs",
           "number": "24",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "Spaghetti with meatballs.",
           "semantic_meaning": null
         },
         {
           "source_text": "noodles",
           "number": "25",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "Bowl of noodles with chopsticks.",
           "semantic_meaning": null
         },
         {
           "source_text": "side dishes",
           "number": "26",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "Several small plates of accompanying foods.",
           "semantic_meaning": null
         },
         {
           "source_text": "spring roll",
           "number": "27",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "Tray of rolled spring rolls.",
           "semantic_meaning": null
         },
         {
           "source_text": "chopped salad",
           "number": "28",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "Bowl of chopped mixed salad.",
           "semantic_meaning": null
         },
         {
           "source_text": "dressing",
           "number": "29",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "Bottle and bowl of salad dressing.",
           "semantic_meaning": null
         },
         {
           "source_text": "pickles",
           "number": "30",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "Jar and plate of pickled vegetables.",
           "semantic_meaning": null
         },
         {
           "source_text": "condiments",
           "number": "31",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "Assorted sauce bottles and a jar.",
           "semantic_meaning": null
         }
@@ -226,209 +226,238 @@
     },
     {
       "page": 155,
-      "title": null,
-      "context": "72.1 MEALS AND DISHES; 72.2 FOOD PREPARATION",
+      "title": "72 Lunch and dinner",
+      "see_also": [
+        {
+          "source_text": "Kitchen and tableware",
+          "number": "27"
+        },
+        {
+          "source_text": "Cooking",
+          "number": "29"
+        },
+        {
+          "source_text": "Drinking and eating",
+          "number": "52"
+        },
+        {
+          "source_text": "Meat",
+          "number": "53"
+        },
+        {
+          "source_text": "Vegetables",
+          "number": "55-56"
+        },
+        {
+          "source_text": "At the café",
+          "number": "65-66"
+        },
+        {
+          "source_text": "At the restaurant",
+          "number": "69"
+        }
+      ],
       "entries": [
         {
           "source_text": "garden salad (US) mixed salad (UK)",
           "number": "32",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "Large bowl of leafy salad with tomatoes.",
           "semantic_meaning": null
         },
         {
           "source_text": "kebab",
           "number": "33",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "Skewers of grilled meat and vegetables.",
           "semantic_meaning": null
         },
         {
           "source_text": "broth",
           "number": "34",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "Steaming bowl of clear soup.",
           "semantic_meaning": null
         },
         {
           "source_text": "dumplings",
           "number": "35",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "Steamed dumplings in a bamboo basket.",
           "semantic_meaning": null
         },
         {
           "source_text": "Chinese hotpot",
           "number": "36",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "Communal simmering pot with chopsticks and ingredients.",
           "semantic_meaning": null
         },
         {
           "source_text": "roast chicken",
           "number": "37",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "Whole roasted chicken in a roasting pan.",
           "semantic_meaning": null
         },
         {
           "source_text": "curry",
           "number": "38",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "Pan of curry.",
           "semantic_meaning": null
         },
         {
           "source_text": "lasagna",
           "number": "39",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "Baked layered pasta dish.",
           "semantic_meaning": null
         },
         {
           "source_text": "spaghetti",
           "number": "40",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "Plate of spaghetti.",
           "semantic_meaning": null
         },
         {
           "source_text": "stew",
           "number": "41",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "Pot of thick stew.",
           "semantic_meaning": null
         },
         {
           "source_text": "dinner",
           "number": "42",
-          "section": "MEALS AND DISHES",
+          "section": "72.1 MEALS AND DISHES",
           "visual_context": "The illustrated spread of evening meal dishes.",
           "semantic_meaning": "evening meal"
         },
         {
           "source_text": "stuffed",
           "number": "1",
-          "section": "FOOD PREPARATION",
+          "section": "72.2 FOOD PREPARATION",
           "visual_context": "Poultry being filled with stuffing.",
           "semantic_meaning": "filled with another food"
         },
         {
           "source_text": "grilled",
           "number": "2",
-          "section": "FOOD PREPARATION",
+          "section": "72.2 FOOD PREPARATION",
           "visual_context": "Food cooking on a grill.",
           "semantic_meaning": null
         },
         {
           "source_text": "marinated",
           "number": "3",
-          "section": "FOOD PREPARATION",
+          "section": "72.2 FOOD PREPARATION",
           "visual_context": "Meat soaking in a marinade container.",
           "semantic_meaning": null
         },
         {
           "source_text": "in sauce",
           "number": "4",
-          "section": "FOOD PREPARATION",
+          "section": "72.2 FOOD PREPARATION",
           "visual_context": "Food being stirred in a pan of sauce.",
           "semantic_meaning": null
         },
         {
           "source_text": "poached",
           "number": "5",
-          "section": "FOOD PREPARATION",
+          "section": "72.2 FOOD PREPARATION",
           "visual_context": "Eggs cooking gently in liquid in a pan.",
           "semantic_meaning": null
         },
         {
           "source_text": "boiled",
           "number": "6",
-          "section": "FOOD PREPARATION",
+          "section": "72.2 FOOD PREPARATION",
           "visual_context": "Pot of boiling water.",
           "semantic_meaning": null
         },
         {
           "source_text": "baked",
           "number": "7",
-          "section": "FOOD PREPARATION",
+          "section": "72.2 FOOD PREPARATION",
           "visual_context": "Baked goods in an oven.",
           "semantic_meaning": null
         },
         {
           "source_text": "stir-fried",
           "number": "8",
-          "section": "FOOD PREPARATION",
+          "section": "72.2 FOOD PREPARATION",
           "visual_context": "Vegetables being cooked in a wok.",
           "semantic_meaning": null
         },
         {
           "source_text": "fried",
           "number": "9",
-          "section": "FOOD PREPARATION",
+          "section": "72.2 FOOD PREPARATION",
           "visual_context": "Egg frying in a pan.",
           "semantic_meaning": null
         },
         {
           "source_text": "deep-fried",
           "number": "10",
-          "section": "FOOD PREPARATION",
+          "section": "72.2 FOOD PREPARATION",
           "visual_context": "Food frying in a deep fryer.",
           "semantic_meaning": null
         },
         {
           "source_text": "smoked",
           "number": "11",
-          "section": "FOOD PREPARATION",
+          "section": "72.2 FOOD PREPARATION",
           "visual_context": "Fish being smoked over a smoking rack.",
           "semantic_meaning": null
         },
         {
           "source_text": "steamed",
           "number": "12",
-          "section": "FOOD PREPARATION",
+          "section": "72.2 FOOD PREPARATION",
           "visual_context": "Lidded pot steaming over heat.",
           "semantic_meaning": null
         },
         {
           "source_text": "mashed",
           "number": "13",
-          "section": "FOOD PREPARATION",
+          "section": "72.2 FOOD PREPARATION",
           "visual_context": "Potatoes being mashed.",
           "semantic_meaning": null
         },
         {
           "source_text": "dressed",
           "number": "14",
-          "section": "FOOD PREPARATION",
+          "section": "72.2 FOOD PREPARATION",
           "visual_context": "Salad with dressing being poured on it.",
           "semantic_meaning": "mixed with dressing"
         },
         {
           "source_text": "cured",
           "number": "15",
-          "section": "FOOD PREPARATION",
+          "section": "72.2 FOOD PREPARATION",
           "visual_context": "Meat being salted or cured on a board.",
           "semantic_meaning": null
         },
         {
           "source_text": "pickled",
           "number": "16",
-          "section": "FOOD PREPARATION",
+          "section": "72.2 FOOD PREPARATION",
           "visual_context": "Jars of pickled vegetables.",
           "semantic_meaning": null
         },
         {
           "source_text": "kosher",
           "number": "17",
-          "section": "FOOD PREPARATION",
+          "section": "72.2 FOOD PREPARATION",
           "visual_context": "Package bearing a kosher symbol.",
           "semantic_meaning": "prepared according to Jewish dietary law"
         },
         {
           "source_text": "halal",
           "number": "18",
-          "section": "FOOD PREPARATION",
+          "section": "72.2 FOOD PREPARATION",
           "visual_context": "Package bearing a halal symbol.",
           "semantic_meaning": "permitted under Islamic dietary law"
         }

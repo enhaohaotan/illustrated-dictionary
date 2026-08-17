@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 150,
-      "title": "Fast food",
-      "context": "70.1 IN A FAST-FOOD RESTAURANT",
+      "title": "70 Fast food",
+      "see_also": [],
       "entries": [
         {
           "source_text": "price list",
@@ -198,37 +198,26 @@
     },
     {
       "page": 151,
-      "title": null,
-      "context": "70.1 IN A FAST-FOOD RESTAURANT",
-      "entries": [
+      "title": "70 Fast food",
+      "see_also": [
         {
           "source_text": "Drinking and eating",
-          "number": "52",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the See also box.",
-          "semantic_meaning": null
+          "number": "52"
         },
         {
           "source_text": "In the pantry",
-          "number": "60",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the See also box.",
-          "semantic_meaning": null
+          "number": "60"
         },
         {
           "source_text": "At the café",
-          "number": "65",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the See also box.",
-          "semantic_meaning": null
+          "number": "65"
         },
         {
           "source_text": "Candy / Sweets",
-          "number": "67",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the See also box.",
-          "semantic_meaning": null
-        },
+          "number": "67"
+        }
+      ],
+      "entries": [
         {
           "source_text": "veggie burger",
           "number": "28",

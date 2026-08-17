@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 30,
-      "title": "Daily routines",
-      "context": "9.1 MORNING AND AFTERNOON",
+      "title": "09 Daily routines",
+      "see_also": [],
       "entries": [
         {
           "source_text": "alarm goes off",
@@ -233,8 +233,33 @@
     },
     {
       "page": 31,
-      "title": "Daily routines",
-      "context": "9.2 EVENING; 9.3 OTHER ACTIVITIES",
+      "title": "09 Daily routines",
+      "see_also": [
+        {
+          "source_text": "Abilities and actions",
+          "number": "11"
+        },
+        {
+          "source_text": "Cooking",
+          "number": "29"
+        },
+        {
+          "source_text": "At work",
+          "number": "81"
+        },
+        {
+          "source_text": "In the office",
+          "number": "82"
+        },
+        {
+          "source_text": "Time",
+          "number": "171"
+        },
+        {
+          "source_text": "Common phrasal verbs",
+          "number": "178"
+        }
+      ],
       "entries": [
         {
           "source_text": "to finish work",

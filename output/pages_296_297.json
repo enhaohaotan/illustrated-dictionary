@@ -2,202 +2,202 @@
   "pages": [
     {
       "page": 296,
-      "title": "Space",
-      "context": "143.1 THE SOLAR SYSTEM",
+      "title": "143 Space",
+      "see_also": [],
       "entries": [
         {
           "source_text": "planets",
           "number": "1",
-          "section": "THE SOLAR SYSTEM",
+          "section": "143.1 THE SOLAR SYSTEM",
           "visual_context": "Solar-system diagram showing the orbiting bodies.",
           "semantic_meaning": null
         },
         {
           "source_text": "direction of revolution",
           "number": "2",
-          "section": "THE SOLAR SYSTEM",
+          "section": "143.1 THE SOLAR SYSTEM",
           "visual_context": "Arrows on the dashed orbital paths.",
           "semantic_meaning": null
         },
         {
           "source_text": "Earth",
           "number": "3",
-          "section": "THE SOLAR SYSTEM",
+          "section": "143.1 THE SOLAR SYSTEM",
           "visual_context": "Earth in the solar-system diagram.",
           "semantic_meaning": null
         },
         {
           "source_text": "Moon",
           "number": "4",
-          "section": "THE SOLAR SYSTEM",
+          "section": "143.1 THE SOLAR SYSTEM",
           "visual_context": "Small moon beside Earth.",
           "semantic_meaning": null
         },
         {
           "source_text": "Jupiter",
           "number": "5",
-          "section": "THE SOLAR SYSTEM",
+          "section": "143.1 THE SOLAR SYSTEM",
           "visual_context": "Large striped planet.",
           "semantic_meaning": null
         },
         {
           "source_text": "rings",
           "number": "6",
-          "section": "THE SOLAR SYSTEM",
+          "section": "143.1 THE SOLAR SYSTEM",
           "visual_context": "Rings around Saturn.",
           "semantic_meaning": null
         },
         {
           "source_text": "Saturn",
           "number": "7",
-          "section": "THE SOLAR SYSTEM",
+          "section": "143.1 THE SOLAR SYSTEM",
           "visual_context": "Ringed planet.",
           "semantic_meaning": null
         },
         {
           "source_text": "Uranus",
           "number": "8",
-          "section": "THE SOLAR SYSTEM",
+          "section": "143.1 THE SOLAR SYSTEM",
           "visual_context": "Light-blue outer planet.",
           "semantic_meaning": null
         },
         {
           "source_text": "Sun",
           "number": "9",
-          "section": "THE SOLAR SYSTEM",
+          "section": "143.1 THE SOLAR SYSTEM",
           "visual_context": "Yellow central star.",
           "semantic_meaning": null
         },
         {
           "source_text": "Mercury",
           "number": "10",
-          "section": "THE SOLAR SYSTEM",
+          "section": "143.1 THE SOLAR SYSTEM",
           "visual_context": "Small innermost planet.",
           "semantic_meaning": null
         },
         {
           "source_text": "Venus",
           "number": "11",
-          "section": "THE SOLAR SYSTEM",
+          "section": "143.1 THE SOLAR SYSTEM",
           "visual_context": "Planet between Mercury and Earth.",
           "semantic_meaning": null
         },
         {
           "source_text": "Mars",
           "number": "12",
-          "section": "THE SOLAR SYSTEM",
+          "section": "143.1 THE SOLAR SYSTEM",
           "visual_context": "Red planet beyond Earth.",
           "semantic_meaning": null
         },
         {
           "source_text": "gas giants",
           "number": "13",
-          "section": "THE SOLAR SYSTEM",
+          "section": "143.1 THE SOLAR SYSTEM",
           "visual_context": "Group of the large outer planets.",
           "semantic_meaning": null
         },
         {
           "source_text": "Neptune",
           "number": "14",
-          "section": "THE SOLAR SYSTEM",
+          "section": "143.1 THE SOLAR SYSTEM",
           "visual_context": "Blue outermost planet.",
           "semantic_meaning": null
         },
         {
           "source_text": "atmosphere",
           "number": "15",
-          "section": "THE SOLAR SYSTEM",
+          "section": "143.1 THE SOLAR SYSTEM",
           "visual_context": "Blue layer surrounding a cross-section of Earth.",
           "semantic_meaning": null
         },
         {
           "source_text": "surface",
           "number": "16",
-          "section": "THE SOLAR SYSTEM",
+          "section": "143.1 THE SOLAR SYSTEM",
           "visual_context": "Outer ground layer in an Earth cross-section.",
           "semantic_meaning": null
         },
         {
           "source_text": "orbit",
           "number": "17",
-          "section": "THE SOLAR SYSTEM",
+          "section": "143.1 THE SOLAR SYSTEM",
           "visual_context": "Dashed path of Earth around the Sun.",
           "semantic_meaning": null
         },
         {
           "source_text": "dwarf planets",
           "number": "18",
-          "section": "THE SOLAR SYSTEM",
+          "section": "143.1 THE SOLAR SYSTEM",
           "visual_context": "Small bodies including Ceres and Pluto.",
           "semantic_meaning": null
         },
         {
           "source_text": "Ceres",
           "number": "19",
-          "section": "THE SOLAR SYSTEM",
+          "section": "143.1 THE SOLAR SYSTEM",
           "visual_context": "Small dwarf planet beside Pluto.",
           "semantic_meaning": null
         },
         {
           "source_text": "Pluto",
           "number": "20",
-          "section": "THE SOLAR SYSTEM",
+          "section": "143.1 THE SOLAR SYSTEM",
           "visual_context": "Dwarf planet illustration.",
           "semantic_meaning": null
         },
         {
           "source_text": "asteroid",
           "number": "21",
-          "section": "THE SOLAR SYSTEM",
+          "section": "143.1 THE SOLAR SYSTEM",
           "visual_context": "Irregular gray rocky body.",
           "semantic_meaning": null
         },
         {
           "source_text": "comet",
           "number": "22",
-          "section": "THE SOLAR SYSTEM",
+          "section": "143.1 THE SOLAR SYSTEM",
           "visual_context": "Small body with a glowing tail.",
           "semantic_meaning": null
         },
         {
           "source_text": "tail",
           "number": "23",
-          "section": "THE SOLAR SYSTEM",
+          "section": "143.1 THE SOLAR SYSTEM",
           "visual_context": "Trailing blue stream behind the comet.",
           "semantic_meaning": null
         },
         {
           "source_text": "crater",
           "number": "24",
-          "section": "THE SOLAR SYSTEM",
+          "section": "143.1 THE SOLAR SYSTEM",
           "visual_context": "Depression in a rocky surface.",
           "semantic_meaning": null
         },
         {
           "source_text": "full moon",
           "number": "25",
-          "section": "THE SOLAR SYSTEM",
+          "section": "143.1 THE SOLAR SYSTEM",
           "visual_context": "Fully illuminated Moon.",
           "semantic_meaning": null
         },
         {
           "source_text": "new moon",
           "number": "26",
-          "section": "THE SOLAR SYSTEM",
+          "section": "143.1 THE SOLAR SYSTEM",
           "visual_context": "Nearly dark Moon with a thin lit edge.",
           "semantic_meaning": null
         },
         {
           "source_text": "crescent moon",
           "number": "27",
-          "section": "THE SOLAR SYSTEM",
+          "section": "143.1 THE SOLAR SYSTEM",
           "visual_context": "Moon with a bright crescent.",
           "semantic_meaning": null
         },
         {
           "source_text": "lunar eclipse",
           "number": "28",
-          "section": "THE SOLAR SYSTEM",
+          "section": "143.1 THE SOLAR SYSTEM",
           "visual_context": "Dark Moon outlined in red.",
           "semantic_meaning": null
         }
@@ -205,174 +205,199 @@
     },
     {
       "page": 297,
-      "title": "Space",
-      "context": "143.2 SPACE EXPLORATION",
+      "title": "143 Space",
+      "see_also": [
+        {
+          "source_text": "Mathematics",
+          "number": "74"
+        },
+        {
+          "source_text": "Physics",
+          "number": "75"
+        },
+        {
+          "source_text": "Computers and technology",
+          "number": "83"
+        },
+        {
+          "source_text": "Space (continued)",
+          "number": "144"
+        },
+        {
+          "source_text": "Planet Earth",
+          "number": "145"
+        },
+        {
+          "source_text": "Rocks and minerals",
+          "number": "156"
+        }
+      ],
       "entries": [
         {
           "source_text": "mission control",
           "number": "1",
-          "section": "SPACE EXPLORATION",
+          "section": "143.2 SPACE EXPLORATION",
           "visual_context": "Banks of monitoring screens and consoles.",
           "semantic_meaning": null
         },
         {
           "source_text": "lunar buggy",
           "number": "2",
-          "section": "SPACE EXPLORATION",
+          "section": "143.2 SPACE EXPLORATION",
           "visual_context": "Small wheeled Moon vehicle with a dish antenna.",
           "semantic_meaning": null
         },
         {
           "source_text": "rover",
           "number": "3",
-          "section": "SPACE EXPLORATION",
+          "section": "143.2 SPACE EXPLORATION",
           "visual_context": "Wheeled robotic exploration vehicle.",
           "semantic_meaning": null
         },
         {
           "source_text": "booster",
           "number": "4",
-          "section": "SPACE EXPLORATION",
+          "section": "143.2 SPACE EXPLORATION",
           "visual_context": "Rocket booster attached to the space shuttle.",
           "semantic_meaning": null
         },
         {
           "source_text": "space shuttle",
           "number": "5",
-          "section": "SPACE EXPLORATION",
+          "section": "143.2 SPACE EXPLORATION",
           "visual_context": "Orbiter vehicle mounted on the launch stack.",
           "semantic_meaning": null
         },
         {
           "source_text": "launch",
           "number": "6",
-          "section": "SPACE EXPLORATION",
+          "section": "143.2 SPACE EXPLORATION",
           "visual_context": "Shuttle lifting off with exhaust and smoke.",
           "semantic_meaning": null
         },
         {
           "source_text": "launch pad",
           "number": "7",
-          "section": "SPACE EXPLORATION",
+          "section": "143.2 SPACE EXPLORATION",
           "visual_context": "Structure supporting the shuttle before liftoff.",
           "semantic_meaning": null
         },
         {
           "source_text": "space shuttle launch",
           "number": "8",
-          "section": "SPACE EXPLORATION",
+          "section": "143.2 SPACE EXPLORATION",
           "visual_context": "Complete shuttle liftoff scene.",
           "semantic_meaning": null
         },
         {
           "source_text": "rocket",
           "number": "9",
-          "section": "SPACE EXPLORATION",
+          "section": "143.2 SPACE EXPLORATION",
           "visual_context": "Rocket with flame exhaust.",
           "semantic_meaning": null
         },
         {
           "source_text": "satellite",
           "number": "10",
-          "section": "SPACE EXPLORATION",
+          "section": "143.2 SPACE EXPLORATION",
           "visual_context": "Orbiting device with solar panels and dish.",
           "semantic_meaning": null
         },
         {
           "source_text": "space probe",
           "number": "11",
-          "section": "SPACE EXPLORATION",
+          "section": "143.2 SPACE EXPLORATION",
           "visual_context": "Uncrewed probe with antenna and extended boom.",
           "semantic_meaning": null
         },
         {
           "source_text": "space station",
           "number": "12",
-          "section": "SPACE EXPLORATION",
+          "section": "143.2 SPACE EXPLORATION",
           "visual_context": "Large orbital station above Earth.",
           "semantic_meaning": null
         },
         {
           "source_text": "spacecraft",
           "number": "13",
-          "section": "SPACE EXPLORATION",
+          "section": "143.2 SPACE EXPLORATION",
           "visual_context": "Craft with solar panels.",
           "semantic_meaning": null
         },
         {
           "source_text": "descent module",
           "number": "14",
-          "section": "SPACE EXPLORATION",
+          "section": "143.2 SPACE EXPLORATION",
           "visual_context": "Capsule descending through the atmosphere.",
           "semantic_meaning": null
         },
         {
           "source_text": "life-support backpack",
           "number": "15",
-          "section": "SPACE EXPLORATION",
+          "section": "143.2 SPACE EXPLORATION",
           "visual_context": "Backpack unit on the astronaut's suit.",
           "semantic_meaning": null
         },
         {
           "source_text": "lights",
           "number": "16",
-          "section": "SPACE EXPLORATION",
+          "section": "143.2 SPACE EXPLORATION",
           "visual_context": "Controls or lights on the astronaut's chest panel.",
           "semantic_meaning": null
         },
         {
           "source_text": "space suit",
           "number": "17",
-          "section": "SPACE EXPLORATION",
+          "section": "143.2 SPACE EXPLORATION",
           "visual_context": "Astronaut's protective clothing.",
           "semantic_meaning": null
         },
         {
           "source_text": "helmet",
           "number": "18",
-          "section": "SPACE EXPLORATION",
+          "section": "143.2 SPACE EXPLORATION",
           "visual_context": "Astronaut's head covering.",
           "semantic_meaning": null
         },
         {
           "source_text": "gold-plated visor",
           "number": "19",
-          "section": "SPACE EXPLORATION",
+          "section": "143.2 SPACE EXPLORATION",
           "visual_context": "Gold-colored face visor on the helmet.",
           "semantic_meaning": null
         },
         {
           "source_text": "insulated gloves",
           "number": "20",
-          "section": "SPACE EXPLORATION",
+          "section": "143.2 SPACE EXPLORATION",
           "visual_context": "Protective gloves on the astronaut's hands.",
           "semantic_meaning": null
         },
         {
           "source_text": "astronaut",
           "number": "21",
-          "section": "SPACE EXPLORATION",
+          "section": "143.2 SPACE EXPLORATION",
           "visual_context": "Person wearing a space suit.",
           "semantic_meaning": null
         },
         {
           "source_text": "crew hatch",
           "number": "22",
-          "section": "SPACE EXPLORATION",
+          "section": "143.2 SPACE EXPLORATION",
           "visual_context": "Hatch on the lunar module.",
           "semantic_meaning": null
         },
         {
           "source_text": "thruster",
           "number": "23",
-          "section": "SPACE EXPLORATION",
+          "section": "143.2 SPACE EXPLORATION",
           "visual_context": "Small propulsion nozzle beneath the lunar module.",
           "semantic_meaning": null
         },
         {
           "source_text": "lunar module",
           "number": "24",
-          "section": "SPACE EXPLORATION",
+          "section": "143.2 SPACE EXPLORATION",
           "visual_context": "Legged Moon-landing spacecraft.",
           "semantic_meaning": null
         }

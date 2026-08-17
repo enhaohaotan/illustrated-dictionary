@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 94,
-      "title": "Garden features",
-      "context": "41.1 GARDEN TYPES AND FEATURES; 41.2 TYPES OF PLANTS",
+      "title": "41 Garden features",
+      "see_also": [],
       "entries": [
         {
           "source_text": "tree",
@@ -219,8 +219,25 @@
     },
     {
       "page": 95,
-      "title": null,
-      "context": "Continuation of 41.1 GARDEN TYPES AND FEATURES and 41.2 TYPES OF PLANTS",
+      "title": "41 Garden features",
+      "see_also": [
+        {
+          "source_text": "Garden plants and houseplants",
+          "number": "38"
+        },
+        {
+          "source_text": "Practical gardening",
+          "number": "39"
+        },
+        {
+          "source_text": "Garden tools",
+          "number": "40"
+        },
+        {
+          "source_text": "Plants and trees",
+          "number": "167-169"
+        }
+      ],
       "entries": [
         {
           "source_text": "creeper",

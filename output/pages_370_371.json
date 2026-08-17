@@ -2,90 +2,90 @@
   "pages": [
     {
       "page": 370,
-      "title": "Useful expressions continued",
-      "context": "180.1 DIRECTIONS",
+      "title": "180 Useful expressions continued",
+      "see_also": [],
       "entries": [
         {
           "source_text": "Can you help me, please?",
           "number": "1",
-          "section": "DIRECTIONS",
+          "section": "180.1 DIRECTIONS",
           "visual_context": "Speech bubble from a woman asking another woman for assistance.",
           "semantic_meaning": null
         },
         {
           "source_text": "Yes, of course.",
           "number": "2",
-          "section": "DIRECTIONS",
+          "section": "180.1 DIRECTIONS",
           "visual_context": "Reply speech bubble from the second woman.",
           "semantic_meaning": null
         },
         {
           "source_text": "Where is the train station?",
           "number": "3",
-          "section": "DIRECTIONS",
+          "section": "180.1 DIRECTIONS",
           "visual_context": "Speech bubble from the woman seeking directions.",
           "semantic_meaning": null
         },
         {
           "source_text": "It's a 15-minute walk. Turn left at the supermarket.",
           "number": "4",
-          "section": "DIRECTIONS",
+          "section": "180.1 DIRECTIONS",
           "visual_context": "Speech bubble giving walking directions.",
           "semantic_meaning": null
         },
         {
           "source_text": "How far is it to the hotel?",
           "number": "5",
-          "section": "DIRECTIONS",
+          "section": "180.1 DIRECTIONS",
           "visual_context": "A traveller asks at an information desk.",
           "semantic_meaning": null
         },
         {
           "source_text": "We've lost our way!",
           "number": "6",
-          "section": "DIRECTIONS",
+          "section": "180.1 DIRECTIONS",
           "visual_context": "Two confused travellers holding a map or guidebooks.",
           "semantic_meaning": null
         },
         {
           "source_text": "We should ask for help.",
           "number": "7",
-          "section": "DIRECTIONS",
+          "section": "180.1 DIRECTIONS",
           "visual_context": "The confused travellers decide what to do.",
           "semantic_meaning": null
         },
         {
           "source_text": "Can you show us the way to the lake?",
           "number": "8",
-          "section": "DIRECTIONS",
+          "section": "180.1 DIRECTIONS",
           "visual_context": "Hikers with a map ask another hiker near trees.",
           "semantic_meaning": null
         },
         {
           "source_text": "How do we get to the beach?",
           "number": "9",
-          "section": "DIRECTIONS",
+          "section": "180.1 DIRECTIONS",
           "visual_context": "People beside a car with a canoe ask for directions.",
           "semantic_meaning": null
         },
         {
           "source_text": "It's straight ahead!",
           "number": "10",
-          "section": "DIRECTIONS",
+          "section": "180.1 DIRECTIONS",
           "visual_context": "Reply directed toward the people asking about the beach.",
           "semantic_meaning": null
         },
         {
           "source_text": "Where can I find a good place to eat?",
           "number": "11",
-          "section": "DIRECTIONS",
+          "section": "180.1 DIRECTIONS",
           "visual_context": "A person asks on a street lined with shops and a café.",
           "semantic_meaning": null
         },
         {
           "source_text": "Try the café next to the post office.",
           "number": "12",
-          "section": "DIRECTIONS",
+          "section": "180.1 DIRECTIONS",
           "visual_context": "Reply points out the café beside the post office on the street.",
           "semantic_meaning": null
         }
@@ -93,104 +93,99 @@
     },
     {
       "page": 371,
-      "title": null,
-      "context": "180.2 PREPOSITIONS",
-      "entries": [
+      "title": "180 Useful expressions continued",
+      "see_also": [
         {
           "source_text": "In town",
-          "number": "42-43",
-          "section": "See also",
-          "visual_context": "Cross-reference listed in the upper-right See also box.",
-          "semantic_meaning": null
+          "number": "42-43"
         },
         {
           "source_text": "Maps and directions",
-          "number": "148",
-          "section": "See also",
-          "visual_context": "Cross-reference listed in the upper-right See also box.",
-          "semantic_meaning": null
-        },
+          "number": "148"
+        }
+      ],
+      "entries": [
         {
           "source_text": "in",
           "number": "1",
-          "section": "PREPOSITIONS",
+          "section": "180.2 PREPOSITIONS",
           "visual_context": "A cat is in an open box.",
           "semantic_meaning": null
         },
         {
           "source_text": "out",
           "number": "2",
-          "section": "PREPOSITIONS",
+          "section": "180.2 PREPOSITIONS",
           "visual_context": "A cat is out of a box.",
           "semantic_meaning": null
         },
         {
           "source_text": "inside",
           "number": "3",
-          "section": "PREPOSITIONS",
+          "section": "180.2 PREPOSITIONS",
           "visual_context": "A cat is inside a box with only its head visible.",
           "semantic_meaning": null
         },
         {
           "source_text": "outside",
           "number": "4",
-          "section": "PREPOSITIONS",
+          "section": "180.2 PREPOSITIONS",
           "visual_context": "A cat stands outside, on top of a box.",
           "semantic_meaning": null
         },
         {
           "source_text": "between",
           "number": "5",
-          "section": "PREPOSITIONS",
+          "section": "180.2 PREPOSITIONS",
           "visual_context": "A cat sits between two boxes.",
           "semantic_meaning": null
         },
         {
           "source_text": "under",
           "number": "6",
-          "section": "PREPOSITIONS",
+          "section": "180.2 PREPOSITIONS",
           "visual_context": "Cats are under an overturned box.",
           "semantic_meaning": null
         },
         {
           "source_text": "on",
           "number": "7",
-          "section": "PREPOSITIONS",
+          "section": "180.2 PREPOSITIONS",
           "visual_context": "Cats sit on a box.",
           "semantic_meaning": null
         },
         {
           "source_text": "next to / beside",
           "number": "8",
-          "section": "PREPOSITIONS",
+          "section": "180.2 PREPOSITIONS",
           "visual_context": "A cat lies next to a box.",
           "semantic_meaning": null
         },
         {
           "source_text": "in front of",
           "number": "9",
-          "section": "PREPOSITIONS",
+          "section": "180.2 PREPOSITIONS",
           "visual_context": "A cat sits in front of a box.",
           "semantic_meaning": null
         },
         {
           "source_text": "behind",
           "number": "10",
-          "section": "PREPOSITIONS",
+          "section": "180.2 PREPOSITIONS",
           "visual_context": "A cat is behind a box, with its head and tail visible.",
           "semantic_meaning": null
         },
         {
           "source_text": "Where is the cat?",
           "number": "11",
-          "section": "PREPOSITIONS",
+          "section": "180.2 PREPOSITIONS",
           "visual_context": "A person looks under a sofa; a cat is implied beneath it.",
           "semantic_meaning": null
         },
         {
           "source_text": "She's on the shelf!",
           "number": "12",
-          "section": "PREPOSITIONS",
+          "section": "180.2 PREPOSITIONS",
           "visual_context": "A cat lies on the top shelf of a bookcase.",
           "semantic_meaning": null
         }

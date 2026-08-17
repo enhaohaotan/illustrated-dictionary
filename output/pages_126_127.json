@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 126,
-      "title": "Fruit",
-      "context": "57.1 CITRUS FRUIT; 57.2 DESCRIBING FRUIT",
+      "title": "57 Fruit",
+      "see_also": [],
       "entries": [
         {
           "source_text": "orange",
@@ -212,8 +212,41 @@
     },
     {
       "page": 127,
-      "title": "Fruit",
-      "context": "57.3 BERRIES AND STONE FRUIT",
+      "title": "57 Fruit",
+      "see_also": [
+        {
+          "source_text": "Cooking",
+          "number": "29"
+        },
+        {
+          "source_text": "Drinking and eating",
+          "number": "52"
+        },
+        {
+          "source_text": "Vegetables",
+          "number": "55-56"
+        },
+        {
+          "source_text": "Fruit and nuts",
+          "number": "58"
+        },
+        {
+          "source_text": "At the café",
+          "number": "65-66"
+        },
+        {
+          "source_text": "At the restaurant",
+          "number": "69"
+        },
+        {
+          "source_text": "Breakfast",
+          "number": "71"
+        },
+        {
+          "source_text": "Lunch and dinner",
+          "number": "72"
+        }
+      ],
       "entries": [
         {
           "source_text": "raspberry",

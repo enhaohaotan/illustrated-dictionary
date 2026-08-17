@@ -2,146 +2,146 @@
   "pages": [
     {
       "page": 278,
-      "title": "On the beach",
-      "context": "134.1 THE BEACH",
+      "title": "134 On the beach",
+      "see_also": [],
       "entries": [
         {
           "source_text": "bodyboarding",
           "number": "1",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Person riding a bodyboard on a wave.",
           "semantic_meaning": null
         },
         {
           "source_text": "surfing",
           "number": "2",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Person standing on a surfboard riding a wave.",
           "semantic_meaning": null
         },
         {
           "source_text": "windbreak",
           "number": "3",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Striped fabric screen on the sand.",
           "semantic_meaning": null
         },
         {
           "source_text": "wave",
           "number": "4",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Breaking wave in the sea.",
           "semantic_meaning": null
         },
         {
           "source_text": "snorkel and mask",
           "number": "5",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Swimmer wearing a snorkel mask.",
           "semantic_meaning": null
         },
         {
           "source_text": "swimsuit",
           "number": "6",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Black one-piece suit worn by the standing swimmer.",
           "semantic_meaning": null
         },
         {
           "source_text": "Jet Ski",
           "number": "7",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Personal watercraft being ridden on the sea.",
           "semantic_meaning": null
         },
         {
           "source_text": "sea",
           "number": "11",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Blue water behind the beach.",
           "semantic_meaning": null
         },
         {
           "source_text": "picnic basket / hamper (UK)",
           "number": "12",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Brown basket on the beach blanket.",
           "semantic_meaning": null
         },
         {
           "source_text": "life preserver (US) / life ring (UK)",
           "number": "13",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Red-and-white flotation ring mounted on a post.",
           "semantic_meaning": null
         },
         {
           "source_text": "sand",
           "number": "14",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Beach ground surface.",
           "semantic_meaning": null
         },
         {
           "source_text": "beach ball",
           "number": "15",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Multicolored ball on the sand.",
           "semantic_meaning": null
         },
         {
           "source_text": "inflatable boat",
           "number": "21",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Large yellow inflatable boat on the sand.",
           "semantic_meaning": null
         },
         {
           "source_text": "deck chair",
           "number": "22",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Red-and-white folding beach chair.",
           "semantic_meaning": null
         },
         {
           "source_text": "fins / flippers",
           "number": "23",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Yellow swimming fins worn by the standing swimmer.",
           "semantic_meaning": null
         },
         {
           "source_text": "sail",
           "number": "25",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Colored sail on the small yacht illustration.",
           "semantic_meaning": null
         },
         {
           "source_text": "yacht",
           "number": "26",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Small sailing yacht on the water.",
           "semantic_meaning": null
         },
         {
           "source_text": "boardwalk",
           "number": "27",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Wooden walkway with palm trees.",
           "semantic_meaning": null
         },
         {
           "source_text": "promenade",
           "number": "28",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Seafront pedestrian walkway with people walking.",
           "semantic_meaning": null
         },
         {
           "source_text": "beach hut",
           "number": "29",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Small striped hut on stilts.",
           "semantic_meaning": null
         }
@@ -149,272 +149,255 @@
     },
     {
       "page": 279,
-      "title": "On the beach",
-      "context": "Continuation of 134.1 THE BEACH",
-      "entries": [
+      "title": "134 On the beach",
+      "see_also": [
         {
           "source_text": "Sea vessels",
-          "number": "105",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the See also box.",
-          "semantic_meaning": null
+          "number": "105"
         },
         {
           "source_text": "Swimming",
-          "number": "118",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the See also box.",
-          "semantic_meaning": null
+          "number": "118"
         },
         {
           "source_text": "Sailing and watersports",
-          "number": "119",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the See also box.",
-          "semantic_meaning": null
+          "number": "119"
         },
         {
           "source_text": "Fishing",
-          "number": "121",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the See also box.",
-          "semantic_meaning": null
+          "number": "121"
         },
         {
           "source_text": "Outdoor activities",
-          "number": "133",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the See also box.",
-          "semantic_meaning": null
+          "number": "133"
         },
         {
           "source_text": "Ocean life",
-          "number": "166",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the See also box.",
-          "semantic_meaning": null
-        },
+          "number": "166"
+        }
+      ],
+      "entries": [
         {
           "source_text": "lifeguard",
           "number": "8",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Person seated on the lifeguard tower.",
           "semantic_meaning": null
         },
         {
           "source_text": "windsurfing",
           "number": "9",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Person riding a board with a sail.",
           "semantic_meaning": null
         },
         {
           "source_text": "wet suit",
           "number": "10",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Dark protective suit worn by the windsurfer.",
           "semantic_meaning": null
         },
         {
           "source_text": "lifeguard tower",
           "number": "16",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Tall chair-and-ladder tower on the beach.",
           "semantic_meaning": null
         },
         {
           "source_text": "crab",
           "number": "17",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Small crab on the sand.",
           "semantic_meaning": null
         },
         {
           "source_text": "sandcastle",
           "number": "18",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Sandcastle with a red flag.",
           "semantic_meaning": null
         },
         {
           "source_text": "flip-flops",
           "number": "19",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Pair of blue open-toed sandals on the sand.",
           "semantic_meaning": null
         },
         {
           "source_text": "sunbathing",
           "number": "20",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Person lying on a towel in the sun.",
           "semantic_meaning": null
         },
         {
           "source_text": "swim trunks (US) swimming trunks (UK)",
           "number": "24",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Red swim shorts worn by the sunbather.",
           "semantic_meaning": null
         },
         {
           "source_text": "hermit crab",
           "number": "30",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Crab carrying a shell in the tidal pool.",
           "semantic_meaning": null
         },
         {
           "source_text": "tidal pool (US) rock pool (UK)",
           "number": "31",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Shallow water pool among seashore rocks.",
           "semantic_meaning": null
         },
         {
           "source_text": "starfish",
           "number": "32",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Yellow starfish in the lower rocky pool.",
           "semantic_meaning": null
         },
         {
           "source_text": "barnacle",
           "number": "33",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Cluster of small white shell creatures attached to a rock.",
           "semantic_meaning": null
         },
         {
           "source_text": "seaweed",
           "number": "34",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Green sea plants growing in the pool.",
           "semantic_meaning": null
         },
         {
           "source_text": "limpet",
           "number": "35",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "White conical shell attached to a rock.",
           "semantic_meaning": null
         },
         {
           "source_text": "anemone",
           "number": "36",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Red tentacled sea anemone in the rocky pool.",
           "semantic_meaning": null
         },
         {
           "source_text": "dune buggy (US) beach buggy (UK)",
           "number": "37",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Small red open-top off-road vehicle.",
           "semantic_meaning": null
         },
         {
           "source_text": "pail and shovel (US) bucket and spade (UK)",
           "number": "38",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Blue pail and yellow shovel.",
           "semantic_meaning": null
         },
         {
           "source_text": "beach umbrella",
           "number": "39",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Folded red-and-white beach umbrella.",
           "semantic_meaning": null
         },
         {
           "source_text": "rubber ring",
           "number": "40",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Multicolored inflatable swim ring.",
           "semantic_meaning": null
         },
         {
           "source_text": "gull",
           "number": "41",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Seagull standing beside the swim ring.",
           "semantic_meaning": null
         },
         {
           "source_text": "ice cream",
           "number": "42",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Ice-cream cone.",
           "semantic_meaning": null
         },
         {
           "source_text": "buoy",
           "number": "43",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Small floating marker.",
           "semantic_meaning": null
         },
         {
           "source_text": "surfboard",
           "number": "44",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Blue patterned surfboard.",
           "semantic_meaning": null
         },
         {
           "source_text": "palm tree",
           "number": "45",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Palm tree illustration.",
           "semantic_meaning": null
         },
         {
           "source_text": "bikini",
           "number": "46",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Two-piece swimsuit.",
           "semantic_meaning": null
         },
         {
           "source_text": "beach bag",
           "number": "47",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Striped tote bag.",
           "semantic_meaning": null
         },
         {
           "source_text": "sun hat",
           "number": "48",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Wide-brimmed yellow hat.",
           "semantic_meaning": null
         },
         {
           "source_text": "sunglasses",
           "number": "49",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Purple-framed dark glasses.",
           "semantic_meaning": null
         },
         {
           "source_text": "sunblock",
           "number": "50",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Tube of sun-protection lotion.",
           "semantic_meaning": null
         },
         {
           "source_text": "sunscreen (US) sun cream (UK)",
           "number": "51",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Bottle of sun-protection lotion on sand.",
           "semantic_meaning": null
         },
         {
           "source_text": "sunburn",
           "number": "52",
-          "section": "THE BEACH",
+          "section": "134.1 THE BEACH",
           "visual_context": "Person with reddened skin from sun exposure.",
           "semantic_meaning": null
         }

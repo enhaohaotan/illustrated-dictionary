@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 138,
-      "title": "The bakery continued",
-      "context": null,
+      "title": "63 The bakery continued",
+      "see_also": [],
       "entries": [
         {
           "source_text": "choux pastry",
@@ -219,8 +219,25 @@
     },
     {
       "page": 139,
-      "title": null,
-      "context": "See also: 29 Cooking; 52 Drinking and eating; 67 Candy / Sweets; 71 Breakfast.",
+      "title": "63 The bakery continued",
+      "see_also": [
+        {
+          "source_text": "Cooking",
+          "number": "29"
+        },
+        {
+          "source_text": "Drinking and eating",
+          "number": "52"
+        },
+        {
+          "source_text": "Candy / Sweets",
+          "number": "67"
+        },
+        {
+          "source_text": "Breakfast",
+          "number": "71"
+        }
+      ],
       "entries": [
         {
           "source_text": "chocolate chip\ncookie",

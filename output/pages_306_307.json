@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 306,
-      "title": "Maps and directions",
-      "context": "148.1 READING A MAP",
+      "title": "148 Maps and directions",
+      "see_also": [],
       "entries": [
         {
           "source_text": "map",
@@ -226,8 +226,29 @@
     },
     {
       "page": 307,
-      "title": "Maps and directions",
-      "context": "148.2 PREPOSITIONS OF PLACE; 148.3 DIRECTION VERBS",
+      "title": "148 Maps and directions",
+      "see_also": [
+        {
+          "source_text": "Roads",
+          "number": "96"
+        },
+        {
+          "source_text": "Outdoor activities",
+          "number": "133"
+        },
+        {
+          "source_text": "Planet Earth",
+          "number": "145"
+        },
+        {
+          "source_text": "Geography",
+          "number": "146-147"
+        },
+        {
+          "source_text": "Countries",
+          "number": "150-153"
+        }
+      ],
       "entries": [
         {
           "source_text": "clockwise",

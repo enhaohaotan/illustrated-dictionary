@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 62,
-      "title": "A place to live",
-      "context": "25.1 HOUSES",
+      "title": "25 A place to live",
+      "see_also": [],
       "entries": [
         {
           "source_text": "gutter",
@@ -226,44 +226,30 @@
     },
     {
       "page": 63,
-      "title": null,
-      "context": "25.1 HOUSES; 25.2 HALLWAY",
-      "entries": [
+      "title": "25 A place to live",
+      "see_also": [
         {
           "source_text": "House and home",
-          "number": "32",
-          "section": "See also:",
-          "visual_context": "Reference listed in the See also box.",
-          "semantic_meaning": null
+          "number": "32"
         },
         {
           "source_text": "Household chores",
-          "number": "34",
-          "section": "See also:",
-          "visual_context": "Reference listed in the See also box.",
-          "semantic_meaning": null
+          "number": "34"
         },
         {
           "source_text": "Decorating",
-          "number": "37",
-          "section": "See also:",
-          "visual_context": "Reference listed in the See also box.",
-          "semantic_meaning": null
+          "number": "37"
         },
         {
           "source_text": "In town",
-          "number": "42-43",
-          "section": "See also:",
-          "visual_context": "Reference listed in the See also box.",
-          "semantic_meaning": null
+          "number": "42-43"
         },
         {
           "source_text": "Buildings and architecture",
-          "number": "44",
-          "section": "See also:",
-          "visual_context": "Reference listed in the See also box.",
-          "semantic_meaning": null
-        },
+          "number": "44"
+        }
+      ],
+      "entries": [
         {
           "source_text": "apartment block (US)\nblock of flats (UK)",
           "number": "9",

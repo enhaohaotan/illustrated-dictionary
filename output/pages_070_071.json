@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 70,
-      "title": "Cooking",
-      "context": "29.1 COOKING VERBS",
+      "title": "29 Cooking",
+      "see_also": [],
       "entries": [
         {
           "source_text": "to sprinkle",
@@ -219,58 +219,38 @@
     },
     {
       "page": 71,
-      "title": null,
-      "context": "29.1 COOKING VERBS; 29.2 BAKING",
-      "entries": [
+      "title": "29 Cooking",
+      "see_also": [
         {
           "source_text": "Kitchen and tableware",
-          "number": "27",
-          "section": "See also:",
-          "visual_context": "Cross-reference listing.",
-          "semantic_meaning": null
+          "number": "27"
         },
         {
           "source_text": "Kitchenware",
-          "number": "28",
-          "section": "See also:",
-          "visual_context": "Cross-reference listing.",
-          "semantic_meaning": null
+          "number": "28"
         },
         {
           "source_text": "Herbs and spices",
-          "number": "59",
-          "section": "See also:",
-          "visual_context": "Cross-reference listing.",
-          "semantic_meaning": null
+          "number": "59"
         },
         {
           "source_text": "In the pantry",
-          "number": "60",
-          "section": "See also:",
-          "visual_context": "Cross-reference listing.",
-          "semantic_meaning": null
+          "number": "60"
         },
         {
           "source_text": "The bakery",
-          "number": "62-63",
-          "section": "See also:",
-          "visual_context": "Cross-reference listing.",
-          "semantic_meaning": null
+          "number": "62-63"
         },
         {
           "source_text": "Breakfast",
-          "number": "71",
-          "section": "See also:",
-          "visual_context": "Cross-reference listing.",
-          "semantic_meaning": null
+          "number": "71"
         },
         {
           "source_text": "Lunch and dinner",
-          "number": "72",
-          "section": "See also:",
-          "visual_context": "Cross-reference listing.",
-          "semantic_meaning": null
-        },
+          "number": "72"
+        }
+      ],
+      "entries": [
         {
           "source_text": "to steam",
           "number": "7",

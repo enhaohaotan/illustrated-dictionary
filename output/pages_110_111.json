@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 110,
-      "title": "The pharmacy",
-      "context": "49.1 PHARMACY",
+      "title": "49 The pharmacy",
+      "see_also": [],
       "entries": [
         {
           "source_text": "painkillers",
@@ -226,8 +226,25 @@
     },
     {
       "page": 111,
-      "title": "The pharmacy",
-      "context": "49.1 PHARMACY",
+      "title": "49 The pharmacy",
+      "see_also": [
+        {
+          "source_text": "Illness and injury",
+          "number": "19"
+        },
+        {
+          "source_text": "Visiting the doctor",
+          "number": "20"
+        },
+        {
+          "source_text": "The hospital",
+          "number": "21"
+        },
+        {
+          "source_text": "Shopping",
+          "number": "46"
+        }
+      ],
       "entries": [
         {
           "source_text": "sanitary pad (US) / sanitary towel (UK)",

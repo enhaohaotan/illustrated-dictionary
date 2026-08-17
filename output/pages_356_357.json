@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 356,
-      "title": "Numbers",
-      "context": null,
+      "title": "173 Numbers",
+      "see_also": [],
       "entries": [
         {
           "source_text": "one",
@@ -310,8 +310,25 @@
     },
     {
       "page": 357,
-      "title": "Numbers",
-      "context": "See also: 74 Mathematics; 171 Time; 172 The calendar; 174 Weights and measures.",
+      "title": "173 Numbers",
+      "see_also": [
+        {
+          "source_text": "Mathematics",
+          "number": "74"
+        },
+        {
+          "source_text": "Time",
+          "number": "171"
+        },
+        {
+          "source_text": "The calendar",
+          "number": "172"
+        },
+        {
+          "source_text": "Weights and measures",
+          "number": "174"
+        }
+      ],
       "entries": [
         {
           "source_text": "two hundred",

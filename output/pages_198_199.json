@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 198,
-      "title": "Money and finance",
-      "context": "94.1 MONEY",
+      "title": "94 Money and finance",
+      "see_also": [],
       "entries": [
         {
           "source_text": "denomination",
@@ -177,8 +177,17 @@
     },
     {
       "page": 199,
-      "title": "Money and finance",
-      "context": "94.2 FINANCE",
+      "title": "94 Money and finance",
+      "see_also": [
+        {
+          "source_text": "The bank and post office",
+          "number": "45"
+        },
+        {
+          "source_text": "Industries and departments",
+          "number": "91"
+        }
+      ],
       "entries": [
         {
           "source_text": "stockbroker",

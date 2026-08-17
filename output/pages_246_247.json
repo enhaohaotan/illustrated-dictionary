@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 246,
-      "title": "Swimming",
-      "context": "118.1 SWIMMING",
+      "title": "118 Swimming",
+      "see_also": [],
       "entries": [
         {
           "source_text": "water",
@@ -233,8 +233,21 @@
     },
     {
       "page": 247,
-      "title": "Diving / Underwater diving",
-      "context": "118.2 DIVING; 118.3 UNDERWATER DIVING",
+      "title": "118 Swimming",
+      "see_also": [
+        {
+          "source_text": "Sailing and watersports",
+          "number": "119"
+        },
+        {
+          "source_text": "On the beach",
+          "number": "134"
+        },
+        {
+          "source_text": "Ocean life",
+          "number": "166"
+        }
+      ],
       "entries": [
         {
           "source_text": "diving board",

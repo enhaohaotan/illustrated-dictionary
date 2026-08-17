@@ -2,195 +2,195 @@
   "pages": [
     {
       "page": 254,
-      "title": "Winter sports",
-      "context": "122.1 SKIING",
+      "title": "122 Winter sports",
+      "see_also": [],
       "entries": [
         {
           "source_text": "skier",
           "number": "1",
-          "section": "SKIING",
+          "section": "122.1 SKIING",
           "visual_context": "Person skiing downhill in the foreground.",
           "semantic_meaning": null
         },
         {
           "source_text": "goggles",
           "number": "2",
-          "section": "SKIING",
+          "section": "122.1 SKIING",
           "visual_context": "Protective eyewear worn by the foreground skier.",
           "semantic_meaning": null
         },
         {
           "source_text": "ski jacket",
           "number": "3",
-          "section": "SKIING",
+          "section": "122.1 SKIING",
           "visual_context": "Red jacket worn by the foreground skier.",
           "semantic_meaning": null
         },
         {
           "source_text": "glove",
           "number": "4",
-          "section": "SKIING",
+          "section": "122.1 SKIING",
           "visual_context": "Gloved hand holding a ski pole.",
           "semantic_meaning": null
         },
         {
           "source_text": "cable car",
           "number": "5",
-          "section": "SKIING",
+          "section": "122.1 SKIING",
           "visual_context": "Enclosed cabin travelling on the overhead cable.",
           "semantic_meaning": null
         },
         {
           "source_text": "ski lodge",
           "number": "6",
-          "section": "SKIING",
+          "section": "122.1 SKIING",
           "visual_context": "Large building at the ski area.",
           "semantic_meaning": null
         },
         {
           "source_text": "safety barrier",
           "number": "7",
-          "section": "SKIING",
+          "section": "122.1 SKIING",
           "visual_context": "Red mesh fence separating the ski area.",
           "semantic_meaning": null
         },
         {
           "source_text": "ski run",
           "number": "8",
-          "section": "SKIING",
+          "section": "122.1 SKIING",
           "visual_context": "Marked downhill route through the resort.",
           "semantic_meaning": null
         },
         {
           "source_text": "chairlift",
           "number": "9",
-          "section": "SKIING",
+          "section": "122.1 SKIING",
           "visual_context": "Open suspended seats carrying skiers uphill.",
           "semantic_meaning": null
         },
         {
           "source_text": "ski pole",
           "number": "10",
-          "section": "SKIING",
+          "section": "122.1 SKIING",
           "visual_context": "Pole held by the foreground skier.",
           "semantic_meaning": null
         },
         {
           "source_text": "ski boot",
           "number": "11",
-          "section": "SKIING",
+          "section": "122.1 SKIING",
           "visual_context": "Boot fastened to the skier's ski.",
           "semantic_meaning": null
         },
         {
           "source_text": "ski",
           "number": "12",
-          "section": "SKIING",
+          "section": "122.1 SKIING",
           "visual_context": "Long ski beneath the foreground skier's boot.",
           "semantic_meaning": null
         },
         {
           "source_text": "ski slope",
           "number": "13",
-          "section": "SKIING",
+          "section": "122.1 SKIING",
           "visual_context": "Snow-covered inclined skiing ground.",
           "semantic_meaning": null
         },
         {
           "source_text": "tip",
           "number": "14",
-          "section": "SKIING",
+          "section": "122.1 SKIING",
           "visual_context": "Upturned front end of a ski.",
           "semantic_meaning": null
         },
         {
           "source_text": "ski resort",
           "number": "15",
-          "section": "SKIING",
+          "section": "122.1 SKIING",
           "visual_context": "The overall snowy recreation area with lifts, lodge, and runs.",
           "semantic_meaning": null
         },
         {
           "source_text": "to ski",
           "number": "16",
-          "section": "SKIING",
+          "section": "122.1 SKIING",
           "visual_context": "Icon of a person moving on skis.",
           "semantic_meaning": null
         },
         {
           "source_text": "downhill skiing",
           "number": "17",
-          "section": "SKIING",
+          "section": "122.1 SKIING",
           "visual_context": "Icon of skiing down a steep slope.",
           "semantic_meaning": null
         },
         {
           "source_text": "slalom",
           "number": "18",
-          "section": "SKIING",
+          "section": "122.1 SKIING",
           "visual_context": "Icon of a skier weaving between closely spaced poles.",
           "semantic_meaning": null
         },
         {
           "source_text": "giant slalom",
           "number": "19",
-          "section": "SKIING",
+          "section": "122.1 SKIING",
           "visual_context": "Icon of a skier racing between widely spaced gates.",
           "semantic_meaning": null
         },
         {
           "source_text": "cross-country\nskiing",
           "number": "20",
-          "section": "SKIING",
+          "section": "122.1 SKIING",
           "visual_context": "Icon of a skier travelling across level snowy terrain.",
           "semantic_meaning": null
         },
         {
           "source_text": "off-piste",
           "number": "21",
-          "section": "SKIING",
+          "section": "122.1 SKIING",
           "visual_context": "Icon of skiing away from marked pistes in mountainous terrain.",
           "semantic_meaning": null
         },
         {
           "source_text": "biathlon",
           "number": "22",
-          "section": "SKIING",
+          "section": "122.1 SKIING",
           "visual_context": "Icon of a skier carrying a rifle.",
           "semantic_meaning": null
         },
         {
           "source_text": "avalanche",
           "number": "23",
-          "section": "SKIING",
+          "section": "122.1 SKIING",
           "visual_context": "Icon of snow cascading down a mountain.",
           "semantic_meaning": null
         },
         {
           "source_text": "landing hill",
           "number": "24",
-          "section": "SKIING",
+          "section": "122.1 SKIING",
           "visual_context": "Curved downhill landing surface for ski jumping.",
           "semantic_meaning": null
         },
         {
           "source_text": "gate",
           "number": "25",
-          "section": "SKIING",
+          "section": "122.1 SKIING",
           "visual_context": "Pair of upright poles with a banner between them.",
           "semantic_meaning": null
         },
         {
           "source_text": "ski jump",
           "number": "26",
-          "section": "SKIING",
+          "section": "122.1 SKIING",
           "visual_context": "Icon of a skier airborne from a jump.",
           "semantic_meaning": null
         },
         {
           "source_text": "jumping ramp",
           "number": "27",
-          "section": "SKIING",
+          "section": "122.1 SKIING",
           "visual_context": "Large elevated ramp used for ski jumping.",
           "semantic_meaning": null
         }
@@ -198,181 +198,194 @@
     },
     {
       "page": 255,
-      "title": "Winter sports",
-      "context": "122.2 OTHER WINTER SPORTS",
+      "title": "122 Winter sports",
+      "see_also": [
+        {
+          "source_text": "Athletics",
+          "number": "116"
+        },
+        {
+          "source_text": "At the gym",
+          "number": "124"
+        },
+        {
+          "source_text": "Other sports",
+          "number": "125"
+        }
+      ],
       "entries": [
         {
           "source_text": "winter sports",
           "number": "1",
-          "section": "OTHER WINTER SPORTS",
+          "section": "122.2 OTHER WINTER SPORTS",
           "visual_context": "Icons representing winter sporting activities.",
           "semantic_meaning": null
         },
         {
           "source_text": "skate",
           "number": "2",
-          "section": "OTHER WINTER SPORTS",
+          "section": "122.2 OTHER WINTER SPORTS",
           "visual_context": "Ice skate boot with blade.",
           "semantic_meaning": null
         },
         {
           "source_text": "ice-skating",
           "number": "3",
-          "section": "OTHER WINTER SPORTS",
+          "section": "122.2 OTHER WINTER SPORTS",
           "visual_context": "Person skating on ice.",
           "semantic_meaning": null
         },
         {
           "source_text": "speed skating",
           "number": "4",
-          "section": "OTHER WINTER SPORTS",
+          "section": "122.2 OTHER WINTER SPORTS",
           "visual_context": "Two skaters racing on ice.",
           "semantic_meaning": null
         },
         {
           "source_text": "figure skating",
           "number": "5",
-          "section": "OTHER WINTER SPORTS",
+          "section": "122.2 OTHER WINTER SPORTS",
           "visual_context": "Skater performing a raised-leg figure-skating move.",
           "semantic_meaning": null
         },
         {
           "source_text": "snowboarding",
           "number": "6",
-          "section": "OTHER WINTER SPORTS",
+          "section": "122.2 OTHER WINTER SPORTS",
           "visual_context": "Person riding a snowboard downhill.",
           "semantic_meaning": null
         },
         {
           "source_text": "luge",
           "number": "7",
-          "section": "OTHER WINTER SPORTS",
+          "section": "122.2 OTHER WINTER SPORTS",
           "visual_context": "Rider lying feet-first on a small sled.",
           "semantic_meaning": null
         },
         {
           "source_text": "skeleton",
           "number": "8",
-          "section": "OTHER WINTER SPORTS",
+          "section": "122.2 OTHER WINTER SPORTS",
           "visual_context": "Rider lying head-first on a small sled.",
           "semantic_meaning": null
         },
         {
           "source_text": "sledding (US)\nsledging (UK)",
           "number": "9",
-          "section": "OTHER WINTER SPORTS",
+          "section": "122.2 OTHER WINTER SPORTS",
           "visual_context": "Person riding a sled.",
           "semantic_meaning": "US and UK terms for travelling on a sled."
         },
         {
           "source_text": "bobsled (US) / bobsleigh (UK)",
           "number": "10",
-          "section": "OTHER WINTER SPORTS",
+          "section": "122.2 OTHER WINTER SPORTS",
           "visual_context": "Team pushing a long racing sled.",
           "semantic_meaning": "US and UK terms for the racing sled."
         },
         {
           "source_text": "runners",
           "number": "11",
-          "section": "OTHER WINTER SPORTS",
+          "section": "122.2 OTHER WINTER SPORTS",
           "visual_context": "The long blades underneath the bobsled.",
           "semantic_meaning": "Blades on the underside of a sled."
         },
         {
           "source_text": "sled (US)\nsleigh (UK)",
           "number": "12",
-          "section": "OTHER WINTER SPORTS",
+          "section": "122.2 OTHER WINTER SPORTS",
           "visual_context": "The long vehicle being pushed by the bobsled team.",
           "semantic_meaning": "US and UK terms for a sled."
         },
         {
           "source_text": "ice climbing",
           "number": "13",
-          "section": "OTHER WINTER SPORTS",
+          "section": "122.2 OTHER WINTER SPORTS",
           "visual_context": "Person climbing a vertical ice wall.",
           "semantic_meaning": null
         },
         {
           "source_text": "snowmobile",
           "number": "14",
-          "section": "OTHER WINTER SPORTS",
+          "section": "122.2 OTHER WINTER SPORTS",
           "visual_context": "Motorized snow vehicle.",
           "semantic_meaning": null
         },
         {
           "source_text": "para ice hockey",
           "number": "15",
-          "section": "OTHER WINTER SPORTS",
+          "section": "122.2 OTHER WINTER SPORTS",
           "visual_context": "Ice hockey player seated on a sled.",
           "semantic_meaning": null
         },
         {
           "source_text": "wheelchair curling",
           "number": "16",
-          "section": "OTHER WINTER SPORTS",
+          "section": "122.2 OTHER WINTER SPORTS",
           "visual_context": "Wheelchair users playing curling.",
           "semantic_meaning": null
         },
         {
           "source_text": "curling",
           "number": "17",
-          "section": "OTHER WINTER SPORTS",
+          "section": "122.2 OTHER WINTER SPORTS",
           "visual_context": "Player sliding a stone on ice.",
           "semantic_meaning": null
         },
         {
           "source_text": "curling\nstone",
           "number": "18",
-          "section": "OTHER WINTER SPORTS",
+          "section": "122.2 OTHER WINTER SPORTS",
           "visual_context": "Stone being slid by the curling player.",
           "semantic_meaning": null
         },
         {
           "source_text": "curling\nbrush",
           "number": "19",
-          "section": "OTHER WINTER SPORTS",
+          "section": "122.2 OTHER WINTER SPORTS",
           "visual_context": "Brush held by the player sweeping the ice.",
           "semantic_meaning": null
         },
         {
           "source_text": "musher",
           "number": "20",
-          "section": "OTHER WINTER SPORTS",
+          "section": "122.2 OTHER WINTER SPORTS",
           "visual_context": "Person standing behind and steering the dogsled.",
           "semantic_meaning": "Person who drives a dogsled."
         },
         {
           "source_text": "harness",
           "number": "21",
-          "section": "OTHER WINTER SPORTS",
+          "section": "122.2 OTHER WINTER SPORTS",
           "visual_context": "Straps fitted around a sled dog.",
           "semantic_meaning": null
         },
         {
           "source_text": "dogsled",
           "number": "22",
-          "section": "OTHER WINTER SPORTS",
+          "section": "122.2 OTHER WINTER SPORTS",
           "visual_context": "Sled pulled by the team of dogs.",
           "semantic_meaning": null
         },
         {
           "source_text": "dog",
           "number": "23",
-          "section": "OTHER WINTER SPORTS",
+          "section": "122.2 OTHER WINTER SPORTS",
           "visual_context": "One of the dogs pulling the sled.",
           "semantic_meaning": null
         },
         {
           "source_text": "dog sledding",
           "number": "24",
-          "section": "OTHER WINTER SPORTS",
+          "section": "122.2 OTHER WINTER SPORTS",
           "visual_context": "Dogs pulling a sled driven by a musher.",
           "semantic_meaning": null
         },
         {
           "source_text": "Winter Olympics",
           "number": "25",
-          "section": "OTHER WINTER SPORTS",
+          "section": "122.2 OTHER WINTER SPORTS",
           "visual_context": "Cluster of coloured icons for Olympic winter sports.",
           "semantic_meaning": null
         }

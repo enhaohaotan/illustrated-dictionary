@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 200,
-      "title": "Meeting and presenting",
-      "context": "95.1 MEETING",
+      "title": "95 Meeting and presenting",
+      "see_also": [],
       "entries": [
         {
           "source_text": "to attend a meeting",
@@ -156,37 +156,26 @@
     },
     {
       "page": 201,
-      "title": "Meeting and presenting",
-      "context": "95.2 PRESENTING",
-      "entries": [
+      "title": "95 Meeting and presenting",
+      "see_also": [
         {
           "source_text": "At work",
-          "number": "81",
-          "section": "See also:",
-          "visual_context": "Cross-reference list.",
-          "semantic_meaning": null
+          "number": "81"
         },
         {
           "source_text": "In the office",
-          "number": "82",
-          "section": "See also:",
-          "visual_context": "Cross-reference list.",
-          "semantic_meaning": null
+          "number": "82"
         },
         {
           "source_text": "Computers and technology",
-          "number": "83",
-          "section": "See also:",
-          "visual_context": "Cross-reference list.",
-          "semantic_meaning": null
+          "number": "83"
         },
         {
           "source_text": "Media",
-          "number": "84",
-          "section": "See also:",
-          "visual_context": "Cross-reference list.",
-          "semantic_meaning": null
-        },
+          "number": "84"
+        }
+      ],
+      "entries": [
         {
           "source_text": "to commence",
           "number": "1",

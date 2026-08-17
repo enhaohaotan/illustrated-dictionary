@@ -2,230 +2,230 @@
   "pages": [
     {
       "page": 92,
-      "title": "Garden tools",
-      "context": "40.1 GARDENING EQUIPMENT",
+      "title": "40 Garden tools",
+      "see_also": [],
       "entries": [
         {
           "source_text": "lawnmower",
           "number": "1",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Red walk-behind lawnmower.",
           "semantic_meaning": null
         },
         {
           "source_text": "grass collector",
           "number": "2",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Collection box attached behind the lawnmower.",
           "semantic_meaning": null
         },
         {
           "source_text": "fork",
           "number": "3",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Handheld four-tined garden fork.",
           "semantic_meaning": null
         },
         {
           "source_text": "soil tiller",
           "number": "4",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Long-handled green cultivator with tines.",
           "semantic_meaning": null
         },
         {
           "source_text": "potato fork",
           "number": "5",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Long-handled fork with broad red tines.",
           "semantic_meaning": null
         },
         {
           "source_text": "long-handled shears",
           "number": "6",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Long-handled cutting shears.",
           "semantic_meaning": null
         },
         {
           "source_text": "hoe",
           "number": "7",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Long wooden-handled hoe.",
           "semantic_meaning": null
         },
         {
           "source_text": "spade",
           "number": "8",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Square-bladed digging spade.",
           "semantic_meaning": null
         },
         {
           "source_text": "shovel",
           "number": "9",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Rounded-bladed digging shovel.",
           "semantic_meaning": null
         },
         {
           "source_text": "trimmer",
           "number": "10",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Powered string trimmer.",
           "semantic_meaning": null
         },
         {
           "source_text": "shield",
           "number": "11",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Transparent face shield with yellow headband.",
           "semantic_meaning": "Protective face covering."
         },
         {
           "source_text": "composter",
           "number": "12",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Wooden composting container.",
           "semantic_meaning": null
         },
         {
           "source_text": "compost",
           "number": "13",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Organic material inside the wooden composter.",
           "semantic_meaning": null
         },
         {
           "source_text": "compost bin",
           "number": "14",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Black plastic compost bin.",
           "semantic_meaning": null
         },
         {
           "source_text": "seeds",
           "number": "15",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Packet of seeds.",
           "semantic_meaning": null
         },
         {
           "source_text": "gardening basket / trug (UK)",
           "number": "16",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Shallow handled garden basket.",
           "semantic_meaning": null
         },
         {
           "source_text": "gravel",
           "number": "17",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Pile of small stones.",
           "semantic_meaning": null
         },
         {
           "source_text": "wheelbarrow",
           "number": "18",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Green one-wheeled wheelbarrow.",
           "semantic_meaning": null
         },
         {
           "source_text": "handle",
           "number": "19",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Red grip at the end of the wheelbarrow handle.",
           "semantic_meaning": null
         },
         {
           "source_text": "stand",
           "number": "20",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Supporting leg of the wheelbarrow.",
           "semantic_meaning": null
         },
         {
           "source_text": "leaf blower",
           "number": "21",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Yellow handheld blower blowing leaves.",
           "semantic_meaning": null
         },
         {
           "source_text": "lawn rake",
           "number": "22",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Fan-shaped rake with flexible tines.",
           "semantic_meaning": null
         },
         {
           "source_text": "rake",
           "number": "23",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Straight-headed garden rake.",
           "semantic_meaning": null
         },
         {
           "source_text": "trowel",
           "number": "24",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Small hand trowel.",
           "semantic_meaning": null
         },
         {
           "source_text": "loppers",
           "number": "25",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Long-handled branch-cutting loppers.",
           "semantic_meaning": null
         },
         {
           "source_text": "tree pruner",
           "number": "26",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Long pole pruner with cutting head.",
           "semantic_meaning": null
         },
         {
           "source_text": "canes",
           "number": "27",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Bundle of bamboo garden canes.",
           "semantic_meaning": null
         },
         {
           "source_text": "seed tray",
           "number": "28",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Black compartmented seed tray.",
           "semantic_meaning": null
         },
         {
           "source_text": "kneeler",
           "number": "29",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Person kneeling on a green gardening kneeler.",
           "semantic_meaning": "Cushioned support for kneeling."
         },
         {
           "source_text": "twine",
           "number": "30",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Spool of garden string.",
           "semantic_meaning": null
         },
         {
           "source_text": "labels",
           "number": "31",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "White plant labels.",
           "semantic_meaning": "Markers for identifying plants."
         },
         {
           "source_text": "twist ties",
           "number": "32",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Green ties fastening a plant to a cane.",
           "semantic_meaning": null
         }
@@ -233,153 +233,170 @@
     },
     {
       "page": 93,
-      "title": "Garden tools",
-      "context": "40.1 GARDENING EQUIPMENT; 40.2 WATERING",
+      "title": "40 Garden tools",
+      "see_also": [
+        {
+          "source_text": "Garden plants and houseplants",
+          "number": "38"
+        },
+        {
+          "source_text": "Practical gardening",
+          "number": "39"
+        },
+        {
+          "source_text": "Garden features",
+          "number": "41"
+        },
+        {
+          "source_text": "Plants and trees",
+          "number": "167-169"
+        }
+      ],
       "entries": [
         {
           "source_text": "pesticide",
           "number": "33",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Yellow container with pest-warning symbol.",
           "semantic_meaning": "Chemical used to kill or control pests."
         },
         {
           "source_text": "plant pot",
           "number": "34",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Terracotta flowerpot.",
           "semantic_meaning": null
         },
         {
           "source_text": "backpack sprayer",
           "number": "35",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Tank sprayer with shoulder straps and hose.",
           "semantic_meaning": null
         },
         {
           "source_text": "broom",
           "number": "36",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Long-handled broom with wide bristle head.",
           "semantic_meaning": null
         },
         {
           "source_text": "bucket",
           "number": "37",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Grey handled bucket.",
           "semantic_meaning": null
         },
         {
           "source_text": "garden gloves",
           "number": "38",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Pair of blue gardening gloves.",
           "semantic_meaning": null
         },
         {
           "source_text": "rubber boots (US) wellies (UK)",
           "number": "39",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Pair of orange rubber boots.",
           "semantic_meaning": null
         },
         {
           "source_text": "sprayer",
           "number": "40",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Handheld spray wand at lower left.",
           "semantic_meaning": null
         },
         {
           "source_text": "hand fork",
           "number": "41",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Small three-tined hand fork.",
           "semantic_meaning": null
         },
         {
           "source_text": "pruners (US) secateurs (UK)",
           "number": "42",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Red-handled pruning cutters.",
           "semantic_meaning": null
         },
         {
           "source_text": "blade",
           "number": "43",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Cutting blade of the shears.",
           "semantic_meaning": null
         },
         {
           "source_text": "shears",
           "number": "44",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Large orange-handled cutting shears.",
           "semantic_meaning": null
         },
         {
           "source_text": "pruning knife",
           "number": "45",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Small curved-blade pruning knife.",
           "semantic_meaning": null
         },
         {
           "source_text": "pruning saw",
           "number": "46",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Hand saw with serrated blade.",
           "semantic_meaning": null
         },
         {
           "source_text": "ring ties",
           "number": "47",
-          "section": "GARDENING EQUIPMENT",
+          "section": "40.1 GARDENING EQUIPMENT",
           "visual_context": "Green circular plant ties.",
           "semantic_meaning": null
         },
         {
           "source_text": "watering can",
           "number": "1",
-          "section": "WATERING",
+          "section": "40.2 WATERING",
           "visual_context": "Blue watering can.",
           "semantic_meaning": null
         },
         {
           "source_text": "spray nozzle",
           "number": "2",
-          "section": "WATERING",
+          "section": "40.2 WATERING",
           "visual_context": "Trigger spray nozzle spraying water.",
           "semantic_meaning": null
         },
         {
           "source_text": "sprinkler",
           "number": "3",
-          "section": "WATERING",
+          "section": "40.2 WATERING",
           "visual_context": "Garden sprinkler spraying water over grass.",
           "semantic_meaning": null
         },
         {
           "source_text": "hose reel",
           "number": "4",
-          "section": "WATERING",
+          "section": "40.2 WATERING",
           "visual_context": "Reel holding a coiled hose.",
           "semantic_meaning": null
         },
         {
           "source_text": "nozzle",
           "number": "5",
-          "section": "WATERING",
+          "section": "40.2 WATERING",
           "visual_context": "Trigger nozzle attached to a hose.",
           "semantic_meaning": null
         },
         {
           "source_text": "garden hose",
           "number": "6",
-          "section": "WATERING",
+          "section": "40.2 WATERING",
           "visual_context": "Coiled hose spraying water.",
           "semantic_meaning": null
         }

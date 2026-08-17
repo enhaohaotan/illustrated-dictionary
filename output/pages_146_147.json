@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 146,
-      "title": "At the bar",
-      "context": null,
+      "title": "68 At the bar",
+      "see_also": [],
       "entries": [
         {
           "source_text": "coffee\nmachine",
@@ -219,8 +219,21 @@
     },
     {
       "page": 147,
-      "title": null,
-      "context": null,
+      "title": "68 At the bar",
+      "see_also": [
+        {
+          "source_text": "Drinking and eating",
+          "number": "52"
+        },
+        {
+          "source_text": "At the restaurant",
+          "number": "69"
+        },
+        {
+          "source_text": "Lunch and dinner",
+          "number": "72"
+        }
+      ],
       "entries": [
         {
           "source_text": "mineral water",

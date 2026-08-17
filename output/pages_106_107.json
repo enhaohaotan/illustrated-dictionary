@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 106,
-      "title": "The shopping mall",
-      "context": null,
+      "title": "47 The shopping mall",
+      "see_also": [],
       "entries": [
         {
           "source_text": "upper level",
@@ -170,8 +170,33 @@
     },
     {
       "page": 107,
-      "title": "The shopping mall",
-      "context": "See also: 13-15 Clothes  16 Accessories  17 Shoes  18 Beauty  42-43 In town  46 Shopping",
+      "title": "47 The shopping mall",
+      "see_also": [
+        {
+          "source_text": "Clothes",
+          "number": "13-15"
+        },
+        {
+          "source_text": "Accessories",
+          "number": "16"
+        },
+        {
+          "source_text": "Shoes",
+          "number": "17"
+        },
+        {
+          "source_text": "Beauty",
+          "number": "18"
+        },
+        {
+          "source_text": "In town",
+          "number": "42-43"
+        },
+        {
+          "source_text": "Shopping",
+          "number": "46"
+        }
+      ],
       "entries": [
         {
           "source_text": "changing\nrooms",

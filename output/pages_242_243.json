@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 242,
-      "title": "Athletics",
-      "context": null,
+      "title": "116 Athletics",
+      "see_also": [],
       "entries": [
         {
           "source_text": "starting line",
@@ -121,58 +121,38 @@
     },
     {
       "page": 243,
-      "title": "Athletics",
-      "context": "See also: 117 Combat sports; 118 Swimming; 119 Sailing and watersports; 120 Horse riding; 122 Winter sports; 124 At the gym; 125 Other sports.",
-      "entries": [
+      "title": "116 Athletics",
+      "see_also": [
         {
           "source_text": "Combat sports",
-          "number": "117",
-          "section": "See also",
-          "visual_context": "Cross-reference text only; no associated illustration.",
-          "semantic_meaning": null
+          "number": "117"
         },
         {
           "source_text": "Swimming",
-          "number": "118",
-          "section": "See also",
-          "visual_context": "Cross-reference text only; no associated illustration.",
-          "semantic_meaning": null
+          "number": "118"
         },
         {
           "source_text": "Sailing and watersports",
-          "number": "119",
-          "section": "See also",
-          "visual_context": "Cross-reference text only; no associated illustration.",
-          "semantic_meaning": null
+          "number": "119"
         },
         {
           "source_text": "Horse riding",
-          "number": "120",
-          "section": "See also",
-          "visual_context": "Cross-reference text only; no associated illustration.",
-          "semantic_meaning": null
+          "number": "120"
         },
         {
           "source_text": "Winter sports",
-          "number": "122",
-          "section": "See also",
-          "visual_context": "Cross-reference text only; no associated illustration.",
-          "semantic_meaning": null
+          "number": "122"
         },
         {
           "source_text": "At the gym",
-          "number": "124",
-          "section": "See also",
-          "visual_context": "Cross-reference text only; no associated illustration.",
-          "semantic_meaning": null
+          "number": "124"
         },
         {
           "source_text": "Other sports",
-          "number": "125",
-          "section": "See also",
-          "visual_context": "Cross-reference text only; no associated illustration.",
-          "semantic_meaning": null
-        },
+          "number": "125"
+        }
+      ],
+      "entries": [
         {
           "source_text": "discus",
           "number": "1",

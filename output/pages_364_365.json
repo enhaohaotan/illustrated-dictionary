@@ -2,167 +2,167 @@
   "pages": [
     {
       "page": 364,
-      "title": "Describing things continued",
-      "context": "177.1 OPINIONS",
+      "title": "177 Describing things continued",
+      "see_also": [],
       "entries": [
         {
           "source_text": "breathtaking",
           "number": "1",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "A person looks out over a mountain-and-lake landscape.",
           "semantic_meaning": "Extremely impressive or beautiful."
         },
         {
           "source_text": "The view here is absolutely breathtaking.",
           "number": "2",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "Speech bubble pointing to the mountain-and-lake view.",
           "semantic_meaning": "An example opinion about the view."
         },
         {
           "source_text": "exciting",
           "number": "3",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "A player scores during a ball game as spectators cheer.",
           "semantic_meaning": "Causing eager enthusiasm."
         },
         {
           "source_text": "beautiful",
           "number": "4",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "People visit a grand domed monument.",
           "semantic_meaning": "Very attractive."
         },
         {
           "source_text": "thrilling",
           "number": "5",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "People ride a fast roller coaster.",
           "semantic_meaning": "Very exciting."
         },
         {
           "source_text": "fun",
           "number": "6",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "Two people dance, one holding balloons.",
           "semantic_meaning": "Enjoyable."
         },
         {
           "source_text": "romantic",
           "number": "7",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "A couple walk together beneath a sun.",
           "semantic_meaning": "Connected with love."
         },
         {
           "source_text": "stunning",
           "number": "8",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "A person admires a decorative vase.",
           "semantic_meaning": "Extremely impressive or attractive."
         },
         {
           "source_text": "great",
           "number": "9",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "An artist presents a painting to a group.",
           "semantic_meaning": "Very good."
         },
         {
           "source_text": "incredible",
           "number": "10",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "An audience watches an acrobat or performer.",
           "semantic_meaning": "Extremely good or surprising."
         },
         {
           "source_text": "important",
           "number": "11",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "A person speaks at a podium to others.",
           "semantic_meaning": "Significant."
         },
         {
           "source_text": "cute",
           "number": "12",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "An adult kneels affectionately beside a small child.",
           "semantic_meaning": "Attractive in a charming way."
         },
         {
           "source_text": "respectful",
           "number": "13",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "A younger person helps an elderly person using a cane.",
           "semantic_meaning": "Showing respect."
         },
         {
           "source_text": "special",
           "number": "14",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "A dancer performs on a stage with curtains.",
           "semantic_meaning": "Not ordinary; exceptional."
         },
         {
           "source_text": "graceful",
           "number": "15",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "A figure performs an elegant skating or dance move.",
           "semantic_meaning": "Moving elegantly."
         },
         {
           "source_text": "remarkable",
           "number": "16",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "Two people admire an elaborate display.",
           "semantic_meaning": "Worthy of attention; unusual."
         },
         {
           "source_text": "outstanding",
           "number": "17",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "A graduate holds up a marked certificate.",
           "semantic_meaning": "Exceptionally good."
         },
         {
           "source_text": "hilarious",
           "number": "18",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "Several people laugh and dance.",
           "semantic_meaning": "Extremely funny."
         },
         {
           "source_text": "funny",
           "number": "19",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "One person tells another something amusing, shown by a smiling speech bubble.",
           "semantic_meaning": "Causing laughter."
         },
         {
           "source_text": "extraordinary",
           "number": "20",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "People react to a long line of identical objects.",
           "semantic_meaning": "Very unusual or remarkable."
         },
         {
           "source_text": "wonderful",
           "number": "21",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "People admire a framed picture.",
           "semantic_meaning": "Extremely good."
         },
         {
           "source_text": "harmless",
           "number": "22",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "An adult and child stand near small animals.",
           "semantic_meaning": "Not able to cause harm."
         },
         {
           "source_text": "old-fashioned",
           "number": "23",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "A person dressed in historical clothing holds a cane.",
           "semantic_meaning": "Belonging to an earlier style or time."
         }
@@ -170,286 +170,275 @@
     },
     {
       "page": 365,
-      "title": "Describing things continued",
-      "context": "177.1 OPINIONS",
-      "entries": [
+      "title": "177 Describing things continued",
+      "see_also": [
         {
           "source_text": "Feelings and moods",
-          "number": "06",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the top-right box.",
-          "semantic_meaning": "Related vocabulary section."
+          "number": "06"
         },
         {
           "source_text": "Personality traits",
-          "number": "10",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the top-right box.",
-          "semantic_meaning": "Related vocabulary section."
+          "number": "10"
         },
         {
           "source_text": "Abilities and actions",
-          "number": "11",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the top-right box.",
-          "semantic_meaning": "Related vocabulary section."
+          "number": "11"
         },
         {
           "source_text": "Workplace skills",
-          "number": "93",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the top-right box.",
-          "semantic_meaning": "Related vocabulary section."
-        },
+          "number": "93"
+        }
+      ],
+      "entries": [
         {
           "source_text": "good",
           "number": "24",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "An audience applauds a piano performance.",
           "semantic_meaning": "Of high quality."
         },
         {
           "source_text": "bad",
           "number": "25",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "Audience members make disapproving gestures at a piano performance.",
           "semantic_meaning": "Of poor quality."
         },
         {
           "source_text": "fantastic",
           "number": "26",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "People play and listen to lively music.",
           "semantic_meaning": "Extremely good."
         },
         {
           "source_text": "terrible",
           "number": "27",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "A musician plays while a listener covers their ears.",
           "semantic_meaning": "Extremely bad."
         },
         {
           "source_text": "pleasant",
           "number": "28",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "A person holds a flower.",
           "semantic_meaning": "Enjoyable or agreeable."
         },
         {
           "source_text": "unpleasant",
           "number": "29",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "A person reacts to a bad smell from a dog.",
           "semantic_meaning": "Not enjoyable or agreeable."
         },
         {
           "source_text": "brilliant",
           "number": "30",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "A photographer records a trophy winner.",
           "semantic_meaning": "Exceptionally clever or good."
         },
         {
           "source_text": "dreadful",
           "number": "31",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "People react negatively to a painting.",
           "semantic_meaning": "Very bad."
         },
         {
           "source_text": "useful",
           "number": "32",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "A robot helps stack or move boxes.",
           "semantic_meaning": "Helping to achieve a purpose."
         },
         {
           "source_text": "useless",
           "number": "33",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "A person reads a book while a chair is tipped over.",
           "semantic_meaning": "Not useful."
         },
         {
           "source_text": "delicious",
           "number": "34",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "A chef serves food from a counter.",
           "semantic_meaning": "Very pleasant to taste."
         },
         {
           "source_text": "disgusting",
           "number": "35",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "A chef reacts with disgust beside a food counter.",
           "semantic_meaning": "Extremely unpleasant."
         },
         {
           "source_text": "pretty",
           "number": "36",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "A person admires a dress on a mannequin.",
           "semantic_meaning": "Attractive."
         },
         {
           "source_text": "ugly",
           "number": "37",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "An unattractive blocky cityscape.",
           "semantic_meaning": "Unpleasant to look at."
         },
         {
           "source_text": "interesting",
           "number": "38",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "Museum visitors look at a large artwork.",
           "semantic_meaning": "Arousing curiosity."
         },
         {
           "source_text": "boring",
           "number": "39",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "A person sits at a desk looking tired, with a clock overhead.",
           "semantic_meaning": "Not interesting."
         },
         {
           "source_text": "relaxing",
           "number": "40",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "A person rests on a sun lounger under an umbrella.",
           "semantic_meaning": "Making someone feel calm."
         },
         {
           "source_text": "exhausting",
           "number": "41",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "A person works at a desk late at night.",
           "semantic_meaning": "Making someone very tired."
         },
         {
           "source_text": "superb",
           "number": "42",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "A golfer celebrates beside the hole.",
           "semantic_meaning": "Excellent."
         },
         {
           "source_text": "awful",
           "number": "43",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "A golfer reacts unhappily to a poor shot.",
           "semantic_meaning": "Very bad."
         },
         {
           "source_text": "nice",
           "number": "44",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "A person gives another person a present.",
           "semantic_meaning": "Pleasant or kind."
         },
         {
           "source_text": "nasty",
           "number": "45",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "A person reacts to something unpleasant on the ground.",
           "semantic_meaning": "Very unpleasant or offensive."
         },
         {
           "source_text": "amazing",
           "number": "46",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "A performer gives flowers to a person in a wheelchair.",
           "semantic_meaning": "Very surprising or impressive."
         },
         {
           "source_text": "mediocre",
           "number": "47",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "People watch an ordinary-looking high-jump result marked 5 and 4.",
           "semantic_meaning": "Only average quality."
         },
         {
           "source_text": "frightening",
           "number": "48",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "Children watch a scary monster on a screen.",
           "semantic_meaning": "Making someone afraid."
         },
         {
           "source_text": "terrifying",
           "number": "49",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "A person recoils in fear from a ghost-like figure.",
           "semantic_meaning": "Extremely frightening."
         },
         {
           "source_text": "strange / odd",
           "number": "50",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "A robot walks a dog.",
           "semantic_meaning": "Unusual or unexpected."
         },
         {
           "source_text": "shocking",
           "number": "51",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "A person sprays another person, causing a startled reaction.",
           "semantic_meaning": "Causing surprise or dismay."
         },
         {
           "source_text": "annoying",
           "number": "52",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "A person stands impatiently by a messy food counter.",
           "semantic_meaning": "Causing irritation."
         },
         {
           "source_text": "horrible",
           "number": "53",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "A person is hurt by a prickly plant while another reacts.",
           "semantic_meaning": "Very unpleasant or bad."
         },
         {
           "source_text": "disastrous",
           "number": "54",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "A smoking pot boils over in a kitchen.",
           "semantic_meaning": "Extremely bad, causing great damage or failure."
         },
         {
           "source_text": "confusing",
           "number": "55",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "A person sits at a desk surrounded by question marks.",
           "semantic_meaning": "Difficult to understand."
         },
         {
           "source_text": "tiring",
           "number": "56",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "A person struggles with stacked boxes and a luggage trolley.",
           "semantic_meaning": "Making someone tired."
         },
         {
           "source_text": "irritating",
           "number": "57",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "A person is bothered by buzzing insects.",
           "semantic_meaning": "Causing annoyance."
         },
         {
           "source_text": "dire",
           "number": "58",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "A waiter serves a distressed diner at a table.",
           "semantic_meaning": "Extremely serious or bad."
         },
         {
           "source_text": "disappointing",
           "number": "59",
-          "section": "OPINIONS",
+          "section": "177.1 OPINIONS",
           "visual_context": "A server presents a covered dish to an unhappy diner.",
           "semantic_meaning": "Not as good as expected."
         }

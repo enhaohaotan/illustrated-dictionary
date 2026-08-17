@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 80,
-      "title": "Household chores",
-      "context": "34.1 HOUSEHOLD TASKS",
+      "title": "34 Household chores",
+      "see_also": [],
       "entries": [
         {
           "source_text": "to change the sheets",
@@ -212,8 +212,33 @@
     },
     {
       "page": 81,
-      "title": "Laundry and cleaning",
-      "context": "34.2 LAUNDRY AND CLEANING",
+      "title": "34 Household chores",
+      "see_also": [
+        {
+          "source_text": "Daily routines",
+          "number": "09"
+        },
+        {
+          "source_text": "A place to live",
+          "number": "25"
+        },
+        {
+          "source_text": "Electrics and plumbing",
+          "number": "33"
+        },
+        {
+          "source_text": "Home improvements",
+          "number": "35"
+        },
+        {
+          "source_text": "Decorating",
+          "number": "37"
+        },
+        {
+          "source_text": "Practical gardening",
+          "number": "39"
+        }
+      ],
       "entries": [
         {
           "source_text": "scouring pad",

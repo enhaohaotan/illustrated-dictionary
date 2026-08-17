@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 188,
-      "title": "Jobs",
-      "context": "89.1 OCCUPATIONS",
+      "title": "89 Jobs",
+      "see_also": [],
       "entries": [
         {
           "source_text": "actor",
@@ -247,8 +247,37 @@
     },
     {
       "page": 189,
-      "title": "Jobs",
-      "context": "89.1 OCCUPATIONS",
+      "title": "89 Jobs",
+      "see_also": [
+        {
+          "source_text": "At work",
+          "number": "81"
+        },
+        {
+          "source_text": "In the office",
+          "number": "82"
+        },
+        {
+          "source_text": "Jobs (continued)",
+          "number": "90"
+        },
+        {
+          "source_text": "Industries and departments",
+          "number": "91"
+        },
+        {
+          "source_text": "Applying for a job",
+          "number": "92"
+        },
+        {
+          "source_text": "Workplace skills",
+          "number": "93"
+        },
+        {
+          "source_text": "Meeting and presenting",
+          "number": "95"
+        }
+      ],
       "entries": [
         {
           "source_text": "maid / housekeeper",

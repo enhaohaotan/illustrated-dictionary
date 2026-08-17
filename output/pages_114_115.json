@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 114,
-      "title": "Energy and power supply",
-      "context": "51.1 NUCLEAR ENERGY AND FOSSIL FUELS",
+      "title": "51 Energy and power supply",
+      "see_also": [],
       "entries": [
         {
           "source_text": "water vapor (US) water vapour (UK)",
@@ -226,37 +226,26 @@
     },
     {
       "page": 115,
-      "title": "Energy and power supply",
-      "context": "51.2 RENEWABLE ENERGY",
-      "entries": [
+      "title": "51 Energy and power supply",
+      "see_also": [
         {
           "source_text": "Electrics and plumbing",
-          "number": "33",
-          "section": "See also:",
-          "visual_context": "Cross-reference topic listed in the top-right box.",
-          "semantic_meaning": null
+          "number": "33"
         },
         {
           "source_text": "In town",
-          "number": "42-43",
-          "section": "See also:",
-          "visual_context": "Cross-reference topic listed in the top-right box.",
-          "semantic_meaning": null
+          "number": "42-43"
         },
         {
           "source_text": "Planet Earth",
-          "number": "145",
-          "section": "See also:",
-          "visual_context": "Cross-reference topic listed in the top-right box.",
-          "semantic_meaning": null
+          "number": "145"
         },
         {
           "source_text": "Climate and the environment",
-          "number": "155",
-          "section": "See also:",
-          "visual_context": "Cross-reference topic listed in the top-right box.",
-          "semantic_meaning": null
-        },
+          "number": "155"
+        }
+      ],
+      "entries": [
         {
           "source_text": "solar farm",
           "number": "1",

@@ -2,181 +2,181 @@
   "pages": [
     {
       "page": 148,
-      "title": "At the restaurant",
-      "context": "69.1 RESTAURANT",
+      "title": "69 At the restaurant",
+      "see_also": [],
       "entries": [
         {
           "source_text": "What are today’s specials?",
           "number": "1",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Speech bubble in the restaurant scene.",
           "semantic_meaning": null
         },
         {
           "source_text": "wine list",
           "number": "2",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Pointer to the black wine menu board above the bar.",
           "semantic_meaning": null
         },
         {
           "source_text": "bartender",
           "number": "3",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Pointer to the person serving drinks behind the bar.",
           "semantic_meaning": null
         },
         {
           "source_text": "customers",
           "number": "4",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Pointer to two people standing near the entrance.",
           "semantic_meaning": null
         },
         {
           "source_text": "server (US) / waitress (UK)",
           "number": "11",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Pointer to the female restaurant worker serving a table.",
           "semantic_meaning": null
         },
         {
           "source_text": "restaurant manager",
           "number": "12",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Pointer to the woman standing in the dining area.",
           "semantic_meaning": null
         },
         {
           "source_text": "table setting",
           "number": "13",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Pointer to the arranged plates, glasses, and cutlery on a table.",
           "semantic_meaning": null
         },
         {
           "source_text": "May we have a table for two, please?",
           "number": "14",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Speech bubble beside an empty table for two.",
           "semantic_meaning": null
         },
         {
           "source_text": "fixed menu (US) / set menu (UK)",
           "number": "18",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Illustration of a menu with pictured dishes and a fixed price.",
           "semantic_meaning": null
         },
         {
           "source_text": "brunch",
           "number": "19",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Icon of people eating at a table with bags.",
           "semantic_meaning": null
         },
         {
           "source_text": "lunch menu",
           "number": "20",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Icon of diners seated at a table.",
           "semantic_meaning": null
         },
         {
           "source_text": "à la carte menu",
           "number": "21",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Illustration of a standing menu card.",
           "semantic_meaning": null
         },
         {
           "source_text": "specials",
           "number": "22",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Icon of a server presenting a menu to diners.",
           "semantic_meaning": null
         },
         {
           "source_text": "kids meal (US) / child’s meal (UK)",
           "number": "23",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Illustration of children dining with an adult.",
           "semantic_meaning": null
         },
         {
           "source_text": "buffet",
           "number": "24",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Illustration of a self-service food table.",
           "semantic_meaning": null
         },
         {
           "source_text": "three-course meal",
           "number": "25",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Illustration of chefs and multiple courses.",
           "semantic_meaning": null
         },
         {
           "source_text": "soup",
           "number": "26",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Illustration of a bowl of soup with a spoon.",
           "semantic_meaning": null
         },
         {
           "source_text": "appetizer (US) / starter (UK)",
           "number": "27",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Illustration of a seated diner with a menu and a drink.",
           "semantic_meaning": null
         },
         {
           "source_text": "entrée (US) / main course (UK)",
           "number": "28",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Illustration of a server carrying main dishes.",
           "semantic_meaning": null
         },
         {
           "source_text": "side / side order",
           "number": "29",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Illustration of side dishes beside a main dish.",
           "semantic_meaning": null
         },
         {
           "source_text": "cheese platter",
           "number": "30",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Illustration of a person serving cheeses.",
           "semantic_meaning": null
         },
         {
           "source_text": "dessert / pudding (UK)",
           "number": "31",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Illustration of a server carrying a dessert.",
           "semantic_meaning": null
         },
         {
           "source_text": "beverage",
           "number": "32",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Illustration of drinking vessels and a cocktail.",
           "semantic_meaning": null
         },
         {
           "source_text": "coffee",
           "number": "33",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Illustration of a steaming cup of coffee.",
           "semantic_meaning": null
         },
         {
           "source_text": "digestif",
           "number": "34",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Illustration of a cocktail glass.",
           "semantic_meaning": "An alcoholic drink served after a meal."
         }
@@ -184,167 +184,192 @@
     },
     {
       "page": 149,
-      "title": "At the restaurant",
-      "context": "69.1 RESTAURANT",
+      "title": "69 At the restaurant",
+      "see_also": [
+        {
+          "source_text": "Kitchen and tableware",
+          "number": "27"
+        },
+        {
+          "source_text": "Drinking and eating",
+          "number": "52"
+        },
+        {
+          "source_text": "Meat",
+          "number": "53"
+        },
+        {
+          "source_text": "Fish and seafood",
+          "number": "54"
+        },
+        {
+          "source_text": "Vegetables",
+          "number": "55-56"
+        },
+        {
+          "source_text": "Lunch and dinner",
+          "number": "72"
+        }
+      ],
       "entries": [
         {
           "source_text": "price",
           "number": "5",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Pointer to prices written on a menu board.",
           "semantic_meaning": null
         },
         {
           "source_text": "tray",
           "number": "6",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Pointer to the tray carried by a server.",
           "semantic_meaning": null
         },
         {
           "source_text": "Enjoy your meal!",
           "number": "7",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Speech bubble in the dining area.",
           "semantic_meaning": null
         },
         {
           "source_text": "kitchen",
           "number": "8",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Pointer to the restaurant kitchen behind the serving counter.",
           "semantic_meaning": null
         },
         {
           "source_text": "chef",
           "number": "9",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Pointer to a chef preparing food in the kitchen.",
           "semantic_meaning": null
         },
         {
           "source_text": "commis chef",
           "number": "10",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Pointer to an assistant chef in the kitchen.",
           "semantic_meaning": "A junior chef."
         },
         {
           "source_text": "dinner menu (US) / evening menu (UK)",
           "number": "15",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Pointer to the menu board used by diners.",
           "semantic_meaning": null
         },
         {
           "source_text": "server (US) / waiter (UK)",
           "number": "16",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Pointer to the male server carrying a tray.",
           "semantic_meaning": null
         },
         {
           "source_text": "dessert cart (US) / sweet trolley (UK)",
           "number": "17",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Pointer to the wheeled cart displaying cakes and desserts.",
           "semantic_meaning": null
         },
         {
           "source_text": "sommelier",
           "number": "35",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Icon of a wine specialist serving wine.",
           "semantic_meaning": "A wine specialist in a restaurant."
         },
         {
           "source_text": "to eat out",
           "number": "36",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Icon of people eating at a restaurant table.",
           "semantic_meaning": "To eat a meal at a restaurant rather than at home."
         },
         {
           "source_text": "to make a reservation",
           "number": "37",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Icon of people discussing a table reservation.",
           "semantic_meaning": "To book a table in advance."
         },
         {
           "source_text": "to cancel",
           "number": "38",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Icon of a reservation/table symbol crossed out.",
           "semantic_meaning": "To withdraw a reservation."
         },
         {
           "source_text": "to order",
           "number": "39",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Icon of a customer speaking to a server.",
           "semantic_meaning": "To ask for food or drink."
         },
         {
           "source_text": "check (US) / bill (UK)",
           "number": "40",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Illustration of a restaurant bill.",
           "semantic_meaning": null
         },
         {
           "source_text": "to pay separately",
           "number": "41",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Icon of two diners with a bill and separate payment amounts.",
           "semantic_meaning": null
         },
         {
           "source_text": "to split the check (US) / to split the bill (UK)",
           "number": "42",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Icon of two diners sharing a bill amount.",
           "semantic_meaning": null
         },
         {
           "source_text": "service charge",
           "number": "43",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Illustration of a bill and a server holding a tray.",
           "semantic_meaning": "An added charge for restaurant service."
         },
         {
           "source_text": "service included",
           "number": "44",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Icon of a server with a check mark.",
           "semantic_meaning": "Service charge is already included in the price."
         },
         {
           "source_text": "service not included",
           "number": "45",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Icon of a server with a red cross.",
           "semantic_meaning": "Service charge is not included in the price."
         },
         {
           "source_text": "tip",
           "number": "46",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Pointer to money and coins beside a receipt.",
           "semantic_meaning": "Extra money given for service."
         },
         {
           "source_text": "receipt",
           "number": "47",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Illustration of a printed receipt with cash and coins.",
           "semantic_meaning": null
         },
         {
           "source_text": "bistro",
           "number": "48",
-          "section": "RESTAURANT",
+          "section": "69.1 RESTAURANT",
           "visual_context": "Illustration of a small restaurant storefront with outdoor tables.",
           "semantic_meaning": null
         }

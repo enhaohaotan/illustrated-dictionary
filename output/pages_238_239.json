@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 238,
-      "title": "Tennis",
-      "context": "114.1 TENNIS MATCH",
+      "title": "114 Tennis",
+      "see_also": [],
       "entries": [
         {
           "source_text": "umpire",
@@ -191,37 +191,26 @@
     },
     {
       "page": 239,
-      "title": "Tennis / RACKET GAMES",
-      "context": "Continuation of 114.1 TENNIS MATCH; 114.2 RACKET GAMES",
-      "entries": [
+      "title": "114 Tennis",
+      "see_also": [
         {
           "source_text": "Cricket",
-          "number": "111",
-          "section": "See also",
-          "visual_context": "Printed in the See also cross-reference box.",
-          "semantic_meaning": null
+          "number": "111"
         },
         {
           "source_text": "Baseball",
-          "number": "113",
-          "section": "See also",
-          "visual_context": "Printed in the See also cross-reference box.",
-          "semantic_meaning": null
+          "number": "113"
         },
         {
           "source_text": "Golf",
-          "number": "115",
-          "section": "See also",
-          "visual_context": "Printed in the See also cross-reference box.",
-          "semantic_meaning": null
+          "number": "115"
         },
         {
           "source_text": "Athletics",
-          "number": "116",
-          "section": "See also",
-          "visual_context": "Printed in the See also cross-reference box.",
-          "semantic_meaning": null
-        },
+          "number": "116"
+        }
+      ],
+      "entries": [
         {
           "source_text": "game",
           "number": "27",

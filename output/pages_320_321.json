@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 320,
-      "title": "Climate and the environment",
-      "context": null,
+      "title": "155 Climate and the environment",
+      "see_also": [],
       "entries": [
         {
           "source_text": "exosphere",
@@ -191,8 +191,21 @@
     },
     {
       "page": 321,
-      "title": "Climate and the environment",
-      "context": null,
+      "title": "155 Climate and the environment",
+      "see_also": [
+        {
+          "source_text": "Planet Earth",
+          "number": "145"
+        },
+        {
+          "source_text": "Geography",
+          "number": "146-147"
+        },
+        {
+          "source_text": "Weather",
+          "number": "154"
+        }
+      ],
       "entries": [
         {
           "source_text": "greenhouse effect",

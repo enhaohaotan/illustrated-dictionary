@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 162,
-      "title": "Chemistry",
-      "context": "76.1 IN THE LABORATORY",
+      "title": "76 Chemistry",
+      "see_also": [],
       "entries": [
         {
           "source_text": "glass bottle",
@@ -198,8 +198,29 @@
     },
     {
       "page": 163,
-      "title": null,
-      "context": "Chemistry — 76.1 IN THE LABORATORY",
+      "title": "76 Chemistry",
+      "see_also": [
+        {
+          "source_text": "At school",
+          "number": "73"
+        },
+        {
+          "source_text": "Mathematics",
+          "number": "74"
+        },
+        {
+          "source_text": "Physics",
+          "number": "75"
+        },
+        {
+          "source_text": "Biology",
+          "number": "77"
+        },
+        {
+          "source_text": "The periodic table",
+          "number": "78"
+        }
+      ],
       "entries": [
         {
           "source_text": "chemical equation",

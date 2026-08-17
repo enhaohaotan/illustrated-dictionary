@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 38,
-      "title": "Clothes",
-      "context": null,
+      "title": "13 Clothes",
+      "see_also": [],
       "entries": [
         {
           "source_text": "leather",
@@ -184,8 +184,25 @@
     },
     {
       "page": 39,
-      "title": null,
-      "context": "13.3 KIDS’ AND BABIES’ CLOTHES; continuation of 13.2 WORK CLOTHES AND UNIFORMS",
+      "title": "13 Clothes",
+      "see_also": [
+        {
+          "source_text": "Appearance and hair",
+          "number": "12"
+        },
+        {
+          "source_text": "Clothes (continued)",
+          "number": "14-15"
+        },
+        {
+          "source_text": "Accessories",
+          "number": "16"
+        },
+        {
+          "source_text": "Shoes",
+          "number": "17"
+        }
+      ],
       "entries": [
         {
           "source_text": "hood",

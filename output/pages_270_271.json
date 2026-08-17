@@ -2,167 +2,167 @@
   "pages": [
     {
       "page": 270,
-      "title": "Museums and galleries",
-      "context": "130.1 AT THE MUSEUM AND ART GALLERY",
+      "title": "130 Museums and galleries",
+      "see_also": [],
       "entries": [
         {
           "source_text": "gallery",
           "number": "1",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "Museum gallery building entrance.",
           "semantic_meaning": null
         },
         {
           "source_text": "entrance",
           "number": "2",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "Main entrance of the museum building.",
           "semantic_meaning": null
         },
         {
           "source_text": "wheelchair ramp",
           "number": "3",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "Sloped ramp leading to the museum entrance.",
           "semantic_meaning": null
         },
         {
           "source_text": "museum",
           "number": "4",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "Large columned museum building.",
           "semantic_meaning": null
         },
         {
           "source_text": "restrooms (US) / toilets (UK)",
           "number": "5",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "Restroom sign with male and female symbols.",
           "semantic_meaning": null
         },
         {
           "source_text": "cloakroom",
           "number": "6",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "Counter where a visitor checks a coat.",
           "semantic_meaning": null
         },
         {
           "source_text": "admission fee",
           "number": "7",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "Fee list displayed at the reception desk.",
           "semantic_meaning": null
         },
         {
           "source_text": "ticket",
           "number": "8",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "Ticket held by a visitor at the desk.",
           "semantic_meaning": null
         },
         {
           "source_text": "ticket office",
           "number": "9",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "Museum ticket-sales counter.",
           "semantic_meaning": null
         },
         {
           "source_text": "donation",
           "number": "10",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "Donation box beside the ticket office.",
           "semantic_meaning": null
         },
         {
           "source_text": "floor plan",
           "number": "11",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "Colored map of museum rooms and levels.",
           "semantic_meaning": null
         },
         {
           "source_text": "curator",
           "number": "12",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "Person explaining sculptures in a gallery.",
           "semantic_meaning": null
         },
         {
           "source_text": "exhibition",
           "number": "13",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "Display of paintings behind rope barriers.",
           "semantic_meaning": null
         },
         {
           "source_text": "exhibit",
           "number": "14",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "A single painting in the exhibition.",
           "semantic_meaning": "an individual item displayed in a museum"
         },
         {
           "source_text": "permanent exhibition",
           "number": "15",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "Dinosaur-skeleton display.",
           "semantic_meaning": null
         },
         {
           "source_text": "temporary exhibition",
           "number": "16",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "Special space-themed display marked “UNTIL MAY 14”.",
           "semantic_meaning": null
         },
         {
           "source_text": "installation",
           "number": "17",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "Large space-themed artistic display.",
           "semantic_meaning": "an artwork arranged in a space"
         },
         {
           "source_text": "collection",
           "number": "18",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "Shelves of grouped pottery.",
           "semantic_meaning": null
         },
         {
           "source_text": "conservation",
           "number": "19",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "Worker restoring or preserving a painting.",
           "semantic_meaning": "preservation and repair of artworks"
         },
         {
           "source_text": "tour guide",
           "number": "20",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "Guide leading a group through sculpture displays.",
           "semantic_meaning": null
         },
         {
           "source_text": "audio guide",
           "number": "21",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "Visitor listening with headphones.",
           "semantic_meaning": null
         },
         {
           "source_text": "no photography",
           "number": "22",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "Camera symbol crossed out in red.",
           "semantic_meaning": null
         },
         {
           "source_text": "gift shop",
           "number": "23",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "Museum shop counter and souvenirs.",
           "semantic_meaning": null
         }
@@ -170,146 +170,159 @@
     },
     {
       "page": 271,
-      "title": "Museums and galleries",
-      "context": "130.1 AT THE MUSEUM AND ART GALLERY",
+      "title": "130 Museums and galleries",
+      "see_also": [
+        {
+          "source_text": "In town",
+          "number": "42-43"
+        },
+        {
+          "source_text": "Sightseeing",
+          "number": "132"
+        },
+        {
+          "source_text": "Arts and crafts",
+          "number": "141-142"
+        }
+      ],
       "entries": [
         {
           "source_text": "sculpture",
           "number": "24",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "Large horse-and-dog sculpture on a pedestal.",
           "semantic_meaning": null
         },
         {
           "source_text": "surveillance camera",
           "number": "25",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "Security camera above the sculpture.",
           "semantic_meaning": null
         },
         {
           "source_text": "label",
           "number": "26",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "Information placard beside the sculpture.",
           "semantic_meaning": null
         },
         {
           "source_text": "masterpiece",
           "number": "27",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "The prominent horse sculpture.",
           "semantic_meaning": "an outstanding work of art"
         },
         {
           "source_text": "security guard",
           "number": "28",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "Uniformed guard beside the sculpture.",
           "semantic_meaning": null
         },
         {
           "source_text": "This masterpiece is priceless!",
           "number": "29",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "Speech bubble spoken by the security guard.",
           "semantic_meaning": null
         },
         {
           "source_text": "frame",
           "number": "30",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "Gold border around a landscape painting.",
           "semantic_meaning": null
         },
         {
           "source_text": "painting",
           "number": "31",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "Framed landscape artwork.",
           "semantic_meaning": null
         },
         {
           "source_text": "oil painting",
           "number": "32",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "Framed seascape painted in oils.",
           "semantic_meaning": null
         },
         {
           "source_text": "watercolor (US) / watercolour (UK)",
           "number": "33",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "Framed pale watercolor landscape with a swan.",
           "semantic_meaning": null
         },
         {
           "source_text": "Classicism",
           "number": "34",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "Painting of two figures in a classical landscape.",
           "semantic_meaning": "artistic style"
         },
         {
           "source_text": "Impressionism",
           "number": "35",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "Painting of water lilies.",
           "semantic_meaning": "artistic style"
         },
         {
           "source_text": "Post-Impressionism",
           "number": "36",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "Painting of a wheat field under a night sky.",
           "semantic_meaning": "artistic style"
         },
         {
           "source_text": "Cubism",
           "number": "37",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "Geometric fragmented portrait painting.",
           "semantic_meaning": "artistic style"
         },
         {
           "source_text": "Surrealism",
           "number": "38",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "Painting of a melting clock-like object.",
           "semantic_meaning": "artistic style"
         },
         {
           "source_text": "Bauhaus",
           "number": "39",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "Abstract geometric composition.",
           "semantic_meaning": "art and design movement"
         },
         {
           "source_text": "Pop Art",
           "number": "40",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "Bright comic-style image with red dots.",
           "semantic_meaning": "artistic style"
         },
         {
           "source_text": "Art Deco",
           "number": "41",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "Decorative geometric architectural design.",
           "semantic_meaning": "art and design style"
         },
         {
           "source_text": "Art Nouveau",
           "number": "42",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "Ornate floral decorative frame.",
           "semantic_meaning": "art and design style"
         },
         {
           "source_text": "conceptual art",
           "number": "43",
-          "section": "AT THE MUSEUM AND ART GALLERY",
+          "section": "130.1 AT THE MUSEUM AND ART GALLERY",
           "visual_context": "Two framed panels containing sheep.",
           "semantic_meaning": "art in which the idea is central"
         }

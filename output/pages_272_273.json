@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 272,
-      "title": "Travel and accommodation",
-      "context": "131.1 TRAVEL; 131.2 ACCOMMODATION; 131.3 SERVICES",
+      "title": "131 Travel and accommodation",
+      "see_also": [],
       "entries": [
         {
           "source_text": "guidebook",
@@ -212,37 +212,26 @@
     },
     {
       "page": 273,
-      "title": null,
-      "context": "Continuation of 131.2 ACCOMMODATION and 131.3 SERVICES",
-      "entries": [
+      "title": "131 Travel and accommodation",
+      "see_also": [
         {
           "source_text": "At the airport",
-          "number": "104",
-          "section": "See also:",
-          "visual_context": "Cross-reference entry in the “See also:” box.",
-          "semantic_meaning": null
+          "number": "104"
         },
         {
           "source_text": "Sightseeing",
-          "number": "132",
-          "section": "See also:",
-          "visual_context": "Cross-reference entry in the “See also:” box.",
-          "semantic_meaning": null
+          "number": "132"
         },
         {
           "source_text": "Outdoor activities",
-          "number": "133",
-          "section": "See also:",
-          "visual_context": "Cross-reference entry in the “See also:” box.",
-          "semantic_meaning": null
+          "number": "133"
         },
         {
           "source_text": "On the beach",
-          "number": "134",
-          "section": "See also:",
-          "visual_context": "Cross-reference entry in the “See also:” box.",
-          "semantic_meaning": null
-        },
+          "number": "134"
+        }
+      ],
+      "entries": [
         {
           "source_text": "chalet",
           "number": "4",

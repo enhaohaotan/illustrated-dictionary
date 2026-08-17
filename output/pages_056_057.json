@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 56,
-      "title": "The dentist and optician",
-      "context": "22.1 DENTIST’S OFFICE (US) / DENTAL SURGERY (UK)",
+      "title": "22 The dentist and optician",
+      "see_also": [],
       "entries": [
         {
           "source_text": "You should floss your teeth every day.",
@@ -198,44 +198,30 @@
     },
     {
       "page": 57,
-      "title": "OPTICIAN",
-      "context": "22.2 OPTICIAN",
-      "entries": [
+      "title": "22 The dentist and optician",
+      "see_also": [
         {
           "source_text": "Parts of the body",
-          "number": "01",
-          "section": "See also:",
-          "visual_context": "Cross-reference list entry.",
-          "semantic_meaning": null
+          "number": "01"
         },
         {
           "source_text": "Muscles and skeleton",
-          "number": "03",
-          "section": "See also:",
-          "visual_context": "Cross-reference list entry.",
-          "semantic_meaning": null
+          "number": "03"
         },
         {
           "source_text": "Visiting the doctor",
-          "number": "20",
-          "section": "See also:",
-          "visual_context": "Cross-reference list entry.",
-          "semantic_meaning": null
+          "number": "20"
         },
         {
           "source_text": "The hospital",
-          "number": "21",
-          "section": "See also:",
-          "visual_context": "Cross-reference list entry.",
-          "semantic_meaning": null
+          "number": "21"
         },
         {
           "source_text": "Bathroom",
-          "number": "31",
-          "section": "See also:",
-          "visual_context": "Cross-reference list entry.",
-          "semantic_meaning": null
-        },
+          "number": "31"
+        }
+      ],
+      "entries": [
         {
           "source_text": "retina",
           "number": "1",

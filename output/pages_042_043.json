@@ -2,202 +2,202 @@
   "pages": [
     {
       "page": 42,
-      "title": "Clothes continued",
-      "context": "15.1 FORMAL WEAR",
+      "title": "15 Clothes continued",
+      "see_also": [],
       "entries": [
         {
           "source_text": "off the shoulder",
           "number": "1",
-          "section": "FORMAL WEAR",
+          "section": "15.1 FORMAL WEAR",
           "visual_context": "Red evening dress with neckline below the shoulders.",
           "semantic_meaning": null
         },
         {
           "source_text": "cap sleeve",
           "number": "2",
-          "section": "FORMAL WEAR",
+          "section": "15.1 FORMAL WEAR",
           "visual_context": "Short sleeve on the red dress.",
           "semantic_meaning": null
         },
         {
           "source_text": "slit skirt",
           "number": "3",
-          "section": "FORMAL WEAR",
+          "section": "15.1 FORMAL WEAR",
           "visual_context": "Split in the lower skirt of the red dress.",
           "semantic_meaning": null
         },
         {
           "source_text": "floor length",
           "number": "4",
-          "section": "FORMAL WEAR",
+          "section": "15.1 FORMAL WEAR",
           "visual_context": "Hem of the red dress reaching the floor.",
           "semantic_meaning": null
         },
         {
           "source_text": "evening dress",
           "number": "5",
-          "section": "FORMAL WEAR",
+          "section": "15.1 FORMAL WEAR",
           "visual_context": "Long red formal dress.",
           "semantic_meaning": null
         },
         {
           "source_text": "collar",
           "number": "6",
-          "section": "FORMAL WEAR",
+          "section": "15.1 FORMAL WEAR",
           "visual_context": "Neck collar of the man's shirt.",
           "semantic_meaning": null
         },
         {
           "source_text": "tie",
           "number": "7",
-          "section": "FORMAL WEAR",
+          "section": "15.1 FORMAL WEAR",
           "visual_context": "Blue necktie on the man's outfit.",
           "semantic_meaning": null
         },
         {
           "source_text": "jacket",
           "number": "8",
-          "section": "FORMAL WEAR",
+          "section": "15.1 FORMAL WEAR",
           "visual_context": "Dark suit jacket.",
           "semantic_meaning": null
         },
         {
           "source_text": "cuff",
           "number": "9",
-          "section": "FORMAL WEAR",
+          "section": "15.1 FORMAL WEAR",
           "visual_context": "White shirt cuff at the jacket sleeve.",
           "semantic_meaning": null
         },
         {
           "source_text": "pants (US) trousers (UK)",
           "number": "10",
-          "section": "FORMAL WEAR",
+          "section": "15.1 FORMAL WEAR",
           "visual_context": "Dark lower garment of the man's suit.",
           "semantic_meaning": "US/UK alternative terms."
         },
         {
           "source_text": "shoulder pad",
           "number": "11",
-          "section": "FORMAL WEAR",
+          "section": "15.1 FORMAL WEAR",
           "visual_context": "Padded shoulder area of the man's jacket.",
           "semantic_meaning": null
         },
         {
           "source_text": "shirt",
           "number": "12",
-          "section": "FORMAL WEAR",
+          "section": "15.1 FORMAL WEAR",
           "visual_context": "White shirt beneath the jacket.",
           "semantic_meaning": null
         },
         {
           "source_text": "sleeve",
           "number": "13",
-          "section": "FORMAL WEAR",
+          "section": "15.1 FORMAL WEAR",
           "visual_context": "Arm section of the jacket.",
           "semantic_meaning": null
         },
         {
           "source_text": "button",
           "number": "14",
-          "section": "FORMAL WEAR",
+          "section": "15.1 FORMAL WEAR",
           "visual_context": "Front fastening button on the jacket.",
           "semantic_meaning": null
         },
         {
           "source_text": "tailored",
           "number": "15",
-          "section": "FORMAL WEAR",
+          "section": "15.1 FORMAL WEAR",
           "visual_context": "Fitted, shaped cut of the suit trousers.",
           "semantic_meaning": "Fitted or made to measure."
         },
         {
           "source_text": "suit",
           "number": "16",
-          "section": "FORMAL WEAR",
+          "section": "15.1 FORMAL WEAR",
           "visual_context": "Man's complete jacket-and-trousers outfit.",
           "semantic_meaning": null
         },
         {
           "source_text": "sleeveless",
           "number": "17",
-          "section": "FORMAL WEAR",
+          "section": "15.1 FORMAL WEAR",
           "visual_context": "Bridesmaid's purple dress without sleeves.",
           "semantic_meaning": null
         },
         {
           "source_text": "bridesmaid’s dress",
           "number": "18",
-          "section": "FORMAL WEAR",
+          "section": "15.1 FORMAL WEAR",
           "visual_context": "Purple dress worn by the bridesmaid.",
           "semantic_meaning": null
         },
         {
           "source_text": "bouquet",
           "number": "19",
-          "section": "FORMAL WEAR",
+          "section": "15.1 FORMAL WEAR",
           "visual_context": "Flowers held by the bridesmaid.",
           "semantic_meaning": null
         },
         {
           "source_text": "veil",
           "number": "20",
-          "section": "FORMAL WEAR",
+          "section": "15.1 FORMAL WEAR",
           "visual_context": "Long white bridal head covering.",
           "semantic_meaning": null
         },
         {
           "source_text": "strapless",
           "number": "21",
-          "section": "FORMAL WEAR",
+          "section": "15.1 FORMAL WEAR",
           "visual_context": "Wedding dress with no shoulder straps.",
           "semantic_meaning": null
         },
         {
           "source_text": "train",
           "number": "22",
-          "section": "FORMAL WEAR",
+          "section": "15.1 FORMAL WEAR",
           "visual_context": "Long trailing rear portion of the wedding dress.",
           "semantic_meaning": null
         },
         {
           "source_text": "wedding dress",
           "number": "23",
-          "section": "FORMAL WEAR",
+          "section": "15.1 FORMAL WEAR",
           "visual_context": "White bridal gown.",
           "semantic_meaning": null
         },
         {
           "source_text": "tuxedo",
           "number": "24",
-          "section": "FORMAL WEAR",
+          "section": "15.1 FORMAL WEAR",
           "visual_context": "Black formal dinner suit with bow tie.",
           "semantic_meaning": null
         },
         {
           "source_text": "sports jacket",
           "number": "25",
-          "section": "FORMAL WEAR",
+          "section": "15.1 FORMAL WEAR",
           "visual_context": "Green jacket.",
           "semantic_meaning": null
         },
         {
           "source_text": "halter neck",
           "number": "26",
-          "section": "FORMAL WEAR",
+          "section": "15.1 FORMAL WEAR",
           "visual_context": "Purple dress whose neckline fastens behind the neck.",
           "semantic_meaning": null
         },
         {
           "source_text": "waistband",
           "number": "27",
-          "section": "FORMAL WEAR",
+          "section": "15.1 FORMAL WEAR",
           "visual_context": "Top band of the gray trousers.",
           "semantic_meaning": null
         },
         {
           "source_text": "vest (US) waistcoat (UK)",
           "number": "28",
-          "section": "FORMAL WEAR",
+          "section": "15.1 FORMAL WEAR",
           "visual_context": "Brown sleeveless buttoned garment.",
           "semantic_meaning": "US/UK alternative terms."
         }
@@ -205,244 +205,257 @@
     },
     {
       "page": 43,
-      "title": null,
-      "context": "Clothes continued",
+      "title": "15 Clothes continued",
+      "see_also": [
+        {
+          "source_text": "Appearance and hair",
+          "number": "12"
+        },
+        {
+          "source_text": "Accessories",
+          "number": "16"
+        },
+        {
+          "source_text": "Shoes",
+          "number": "17"
+        }
+      ],
       "entries": [
         {
           "source_text": "raincoat",
           "number": "1",
-          "section": "COATS",
+          "section": "15.2 COATS",
           "visual_context": "Yellow hooded rain coat.",
           "semantic_meaning": null
         },
         {
           "source_text": "hood",
           "number": "2",
-          "section": "COATS",
+          "section": "15.2 COATS",
           "visual_context": "Head covering attached to the yellow raincoat.",
           "semantic_meaning": null
         },
         {
           "source_text": "anorak",
           "number": "3",
-          "section": "COATS",
+          "section": "15.2 COATS",
           "visual_context": "Orange hooded pullover jacket.",
           "semantic_meaning": null
         },
         {
           "source_text": "duffle coat",
           "number": "4",
-          "section": "COATS",
+          "section": "15.2 COATS",
           "visual_context": "Brown coat with toggle fastenings.",
           "semantic_meaning": null
         },
         {
           "source_text": "poncho",
           "number": "5",
-          "section": "COATS",
+          "section": "15.2 COATS",
           "visual_context": "Blue loose hooded outer garment.",
           "semantic_meaning": null
         },
         {
           "source_text": "denim jacket",
           "number": "6",
-          "section": "COATS",
+          "section": "15.2 COATS",
           "visual_context": "Blue denim jacket.",
           "semantic_meaning": null
         },
         {
           "source_text": "quilted jacket",
           "number": "7",
-          "section": "COATS",
+          "section": "15.2 COATS",
           "visual_context": "Green diamond-patterned padded jacket.",
           "semantic_meaning": null
         },
         {
           "source_text": "bomber jacket",
           "number": "8",
-          "section": "COATS",
+          "section": "15.2 COATS",
           "visual_context": "Blue short ribbed jacket.",
           "semantic_meaning": null
         },
         {
           "source_text": "cloak",
           "number": "9",
-          "section": "COATS",
+          "section": "15.2 COATS",
           "visual_context": "Gray hooded cloak.",
           "semantic_meaning": null
         },
         {
           "source_text": "trench coat",
           "number": "10",
-          "section": "COATS",
+          "section": "15.2 COATS",
           "visual_context": "Brown double-breasted belted coat on a hanger.",
           "semantic_meaning": null
         },
         {
           "source_text": "lining",
           "number": "11",
-          "section": "COATS",
+          "section": "15.2 COATS",
           "visual_context": "Red inner fabric visible inside the trench coat.",
           "semantic_meaning": null
         },
         {
           "source_text": "lapel",
           "number": "12",
-          "section": "COATS",
+          "section": "15.2 COATS",
           "visual_context": "Folded front collar of the trench coat.",
           "semantic_meaning": null
         },
         {
           "source_text": "buttonhole",
           "number": "13",
-          "section": "COATS",
+          "section": "15.2 COATS",
           "visual_context": "Opening for a button on the trench coat.",
           "semantic_meaning": null
         },
         {
           "source_text": "belt",
           "number": "14",
-          "section": "COATS",
+          "section": "15.2 COATS",
           "visual_context": "Waist belt around the trench coat.",
           "semantic_meaning": null
         },
         {
           "source_text": "pocket",
           "number": "15",
-          "section": "COATS",
+          "section": "15.2 COATS",
           "visual_context": "Front pocket on the trench coat.",
           "semantic_meaning": null
         },
         {
           "source_text": "tracksuit",
           "number": "1",
-          "section": "SPORTSWEAR",
+          "section": "15.3 SPORTSWEAR",
           "visual_context": "Red matching sports jacket and pants.",
           "semantic_meaning": null
         },
         {
           "source_text": "sports bra",
           "number": "2",
-          "section": "SPORTSWEAR",
+          "section": "15.3 SPORTSWEAR",
           "visual_context": "Orange athletic bra top.",
           "semantic_meaning": null
         },
         {
           "source_text": "sweatpants",
           "number": "3",
-          "section": "SPORTSWEAR",
+          "section": "15.3 SPORTSWEAR",
           "visual_context": "Turquoise casual athletic pants.",
           "semantic_meaning": null
         },
         {
           "source_text": "leotard",
           "number": "4",
-          "section": "SPORTSWEAR",
+          "section": "15.3 SPORTSWEAR",
           "visual_context": "Blue one-piece close-fitting garment.",
           "semantic_meaning": null
         },
         {
           "source_text": "football jersey (US) football shirt (UK)",
           "number": "5",
-          "section": "SPORTSWEAR",
+          "section": "15.3 SPORTSWEAR",
           "visual_context": "White-and-blue football top.",
           "semantic_meaning": "US/UK alternative terms."
         },
         {
           "source_text": "snorkel and mask",
           "number": "6",
-          "section": "SPORTSWEAR",
+          "section": "15.3 SPORTSWEAR",
           "visual_context": "Diver's breathing tube and face mask.",
           "semantic_meaning": null
         },
         {
           "source_text": "fins / flippers",
           "number": "7",
-          "section": "SPORTSWEAR",
+          "section": "15.3 SPORTSWEAR",
           "visual_context": "Yellow foot fins worn by the swimmer.",
           "semantic_meaning": "Alternative names for swimming foot gear."
         },
         {
           "source_text": "swimsuit",
           "number": "8",
-          "section": "SPORTSWEAR",
+          "section": "15.3 SPORTSWEAR",
           "visual_context": "Red one-piece swimming costume.",
           "semantic_meaning": null
         },
         {
           "source_text": "goggles",
           "number": "9",
-          "section": "SPORTSWEAR",
+          "section": "15.3 SPORTSWEAR",
           "visual_context": "Yellow eyewear worn by the swimmer.",
           "semantic_meaning": null
         },
         {
           "source_text": "swim trunks (US) swimming trunks (UK)",
           "number": "10",
-          "section": "SPORTSWEAR",
+          "section": "15.3 SPORTSWEAR",
           "visual_context": "Yellow men's swimming shorts.",
           "semantic_meaning": "US/UK alternative terms."
         },
         {
           "source_text": "agbada",
           "number": "1",
-          "section": "TRADITIONAL CLOTHES",
+          "section": "15.4 TRADITIONAL CLOTHES",
           "visual_context": "Green flowing traditional robe.",
           "semantic_meaning": null
         },
         {
           "source_text": "flamenco dress",
           "number": "2",
-          "section": "TRADITIONAL CLOTHES",
+          "section": "15.4 TRADITIONAL CLOTHES",
           "visual_context": "Red ruffled dress.",
           "semantic_meaning": null
         },
         {
           "source_text": "lederhosen",
           "number": "3",
-          "section": "TRADITIONAL CLOTHES",
+          "section": "15.4 TRADITIONAL CLOTHES",
           "visual_context": "Brown traditional short trousers with suspenders.",
           "semantic_meaning": null
         },
         {
           "source_text": "kimono",
           "number": "4",
-          "section": "TRADITIONAL CLOTHES",
+          "section": "15.4 TRADITIONAL CLOTHES",
           "visual_context": "Yellow floral wrapped robe.",
           "semantic_meaning": null
         },
         {
           "source_text": "thawb",
           "number": "5",
-          "section": "TRADITIONAL CLOTHES",
+          "section": "15.4 TRADITIONAL CLOTHES",
           "visual_context": "White long robe.",
           "semantic_meaning": null
         },
         {
           "source_text": "sari",
           "number": "6",
-          "section": "TRADITIONAL CLOTHES",
+          "section": "15.4 TRADITIONAL CLOTHES",
           "visual_context": "Green and orange draped garment.",
           "semantic_meaning": null
         },
         {
           "source_text": "kilt",
           "number": "7",
-          "section": "TRADITIONAL CLOTHES",
+          "section": "15.4 TRADITIONAL CLOTHES",
           "visual_context": "Red-and-blue tartan skirt.",
           "semantic_meaning": null
         },
         {
           "source_text": "sarong",
           "number": "8",
-          "section": "TRADITIONAL CLOTHES",
+          "section": "15.4 TRADITIONAL CLOTHES",
           "visual_context": "Patterned wrapped skirt garment.",
           "semantic_meaning": null
         },
         {
           "source_text": "folk blouse",
           "number": "9",
-          "section": "TRADITIONAL CLOTHES",
+          "section": "15.4 TRADITIONAL CLOTHES",
           "visual_context": "White blouse with red embroidered sleeves.",
           "semantic_meaning": null
         }

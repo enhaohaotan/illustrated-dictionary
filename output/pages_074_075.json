@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 74,
-      "title": "Bathroom",
-      "context": "31.1 IN THE BATHROOM",
+      "title": "31 Bathroom",
+      "see_also": [],
       "entries": [
         {
           "source_text": "hand towel",
@@ -191,8 +191,25 @@
     },
     {
       "page": 75,
-      "title": null,
-      "context": "31.1 IN THE BATHROOM",
+      "title": "31 Bathroom",
+      "see_also": [
+        {
+          "source_text": "Beauty",
+          "number": "18"
+        },
+        {
+          "source_text": "A place to live",
+          "number": "25"
+        },
+        {
+          "source_text": "House and home",
+          "number": "32"
+        },
+        {
+          "source_text": "Electrics and plumbing",
+          "number": "33"
+        }
+      ],
       "entries": [
         {
           "source_text": "towels",

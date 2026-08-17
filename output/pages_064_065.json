@@ -2,209 +2,209 @@
   "pages": [
     {
       "page": 64,
-      "title": "Living room and dining room",
-      "context": "26.1 LIVING ROOM",
+      "title": "26 Living room and dining room",
+      "see_also": [],
       "entries": [
         {
           "source_text": "lamp",
           "number": "1",
-          "section": "LIVING ROOM",
+          "section": "26.1 LIVING ROOM",
           "visual_context": "Pointer to the tall floor lamp beside the armchair.",
           "semantic_meaning": null
         },
         {
           "source_text": "lampshade",
           "number": "2",
-          "section": "LIVING ROOM",
+          "section": "26.1 LIVING ROOM",
           "visual_context": "Pointer to the pale shade on the floor lamp.",
           "semantic_meaning": null
         },
         {
           "source_text": "couch (US)\nsofa (UK)",
           "number": "3",
-          "section": "LIVING ROOM",
+          "section": "26.1 LIVING ROOM",
           "visual_context": "Pointer to the blue seating furniture behind the person.",
           "semantic_meaning": "Regional names for a long upholstered seat."
         },
         {
           "source_text": "I enjoy\nrelaxing with\na good book.",
           "number": "4",
-          "section": "LIVING ROOM",
+          "section": "26.1 LIVING ROOM",
           "visual_context": "Speech bubble from the person sitting on the couch and reading.",
           "semantic_meaning": "A statement about relaxing while reading."
         },
         {
           "source_text": "pillow (US)\ncushion (UK)",
           "number": "5",
-          "section": "LIVING ROOM",
+          "section": "26.1 LIVING ROOM",
           "visual_context": "Pointer to the red square soft furnishing on the couch.",
           "semantic_meaning": "Regional names for a soft padded support."
         },
         {
           "source_text": "frame",
           "number": "6",
-          "section": "LIVING ROOM",
+          "section": "26.1 LIVING ROOM",
           "visual_context": "Pointer to the border around the wall-hung picture.",
           "semantic_meaning": null
         },
         {
           "source_text": "painting",
           "number": "7",
-          "section": "LIVING ROOM",
+          "section": "26.1 LIVING ROOM",
           "visual_context": "Pointer to the landscape artwork inside the frame.",
           "semantic_meaning": null
         },
         {
           "source_text": "ceiling",
           "number": "8",
-          "section": "LIVING ROOM",
+          "section": "26.1 LIVING ROOM",
           "visual_context": "Pointer to the upper interior surface of the room.",
           "semantic_meaning": null
         },
         {
           "source_text": "bookcase",
           "number": "9",
-          "section": "LIVING ROOM",
+          "section": "26.1 LIVING ROOM",
           "visual_context": "Pointer to the tall shelving unit at the right.",
           "semantic_meaning": null
         },
         {
           "source_text": "shelf",
           "number": "10",
-          "section": "LIVING ROOM",
+          "section": "26.1 LIVING ROOM",
           "visual_context": "Pointer to one horizontal level of the bookcase.",
           "semantic_meaning": null
         },
         {
           "source_text": "books",
           "number": "11",
-          "section": "LIVING ROOM",
+          "section": "26.1 LIVING ROOM",
           "visual_context": "Pointer to a stack of books on a bookcase shelf.",
           "semantic_meaning": null
         },
         {
           "source_text": "throw",
           "number": "12",
-          "section": "LIVING ROOM",
+          "section": "26.1 LIVING ROOM",
           "visual_context": "Pointer to the pink cover draped over the armchair.",
           "semantic_meaning": "A small blanket used as a furnishing."
         },
         {
           "source_text": "armchair",
           "number": "13",
-          "section": "LIVING ROOM",
+          "section": "26.1 LIVING ROOM",
           "visual_context": "Pointer to the purple single-seat chair.",
           "semantic_meaning": null
         },
         {
           "source_text": "coffee table",
           "number": "14",
-          "section": "LIVING ROOM",
+          "section": "26.1 LIVING ROOM",
           "visual_context": "Pointer to the low table in front of the couch.",
           "semantic_meaning": null
         },
         {
           "source_text": "rug",
           "number": "15",
-          "section": "LIVING ROOM",
+          "section": "26.1 LIVING ROOM",
           "visual_context": "Pointer to the rectangular floor rug under the coffee table.",
           "semantic_meaning": null
         },
         {
           "source_text": "remote\ncontrol",
           "number": "16",
-          "section": "LIVING ROOM",
+          "section": "26.1 LIVING ROOM",
           "visual_context": "Pointer to the handheld remote on the coffee table.",
           "semantic_meaning": null
         },
         {
           "source_text": "television /\nTV",
           "number": "17",
-          "section": "LIVING ROOM",
+          "section": "26.1 LIVING ROOM",
           "visual_context": "Pointer to the television screen on the cabinet.",
           "semantic_meaning": "A television, also called a TV."
         },
         {
           "source_text": "vase",
           "number": "18",
-          "section": "LIVING ROOM",
+          "section": "26.1 LIVING ROOM",
           "visual_context": "Pointer to the blue flower vase beside the television.",
           "semantic_meaning": null
         },
         {
           "source_text": "fireplace",
           "number": "19",
-          "section": "LIVING ROOM",
+          "section": "26.1 LIVING ROOM",
           "visual_context": "Icon of a fireplace with a fire.",
           "semantic_meaning": null
         },
         {
           "source_text": "mantelpiece",
           "number": "20",
-          "section": "LIVING ROOM",
+          "section": "26.1 LIVING ROOM",
           "visual_context": "Icon of the shelf or structure above a fireplace.",
           "semantic_meaning": null
         },
         {
           "source_text": "Venetian\nblinds",
           "number": "21",
-          "section": "LIVING ROOM",
+          "section": "26.1 LIVING ROOM",
           "visual_context": "Icon of horizontal slatted window blinds.",
           "semantic_meaning": null
         },
         {
           "source_text": "roller shade (US)\nroller blind (UK)",
           "number": "22",
-          "section": "LIVING ROOM",
+          "section": "26.1 LIVING ROOM",
           "visual_context": "Icon of a window with a pull-down roller covering.",
           "semantic_meaning": "Regional names for a roll-up window covering."
         },
         {
           "source_text": "curtains",
           "number": "23",
-          "section": "LIVING ROOM",
+          "section": "26.1 LIVING ROOM",
           "visual_context": "Icon of paired fabric window hangings.",
           "semantic_meaning": null
         },
         {
           "source_text": "net curtain",
           "number": "24",
-          "section": "LIVING ROOM",
+          "section": "26.1 LIVING ROOM",
           "visual_context": "Icon of a sheer curtain covering a window.",
           "semantic_meaning": null
         },
         {
           "source_text": "sofa bed",
           "number": "25",
-          "section": "LIVING ROOM",
+          "section": "26.1 LIVING ROOM",
           "visual_context": "Icon of a sofa converted into a bed.",
           "semantic_meaning": null
         },
         {
           "source_text": "rocking chair",
           "number": "26",
-          "section": "LIVING ROOM",
+          "section": "26.1 LIVING ROOM",
           "visual_context": "Icon of a chair with curved rocking runners.",
           "semantic_meaning": null
         },
         {
           "source_text": "foot stool",
           "number": "27",
-          "section": "LIVING ROOM",
+          "section": "26.1 LIVING ROOM",
           "visual_context": "Icon of a small stool in front of a seated person’s feet.",
           "semantic_meaning": null
         },
         {
           "source_text": "sconce (US)\nwall light (UK)",
           "number": "28",
-          "section": "LIVING ROOM",
+          "section": "26.1 LIVING ROOM",
           "visual_context": "Icon of a wall-mounted light fixture.",
           "semantic_meaning": "Regional names for a wall-mounted lamp."
         },
         {
           "source_text": "den (US) / study (UK)",
           "number": "29",
-          "section": "LIVING ROOM",
+          "section": "26.1 LIVING ROOM",
           "visual_context": "Icon of a room with bookcase, desk, and computer.",
           "semantic_meaning": "Regional names for a private room used for work or study."
         }
@@ -212,202 +212,227 @@
     },
     {
       "page": 65,
-      "title": "Living room and dining room",
-      "context": "26.2 DINING ROOM",
+      "title": "26 Living room and dining room",
+      "see_also": [
+        {
+          "source_text": "A place to live",
+          "number": "25"
+        },
+        {
+          "source_text": "Kitchen and tableware",
+          "number": "27"
+        },
+        {
+          "source_text": "Household chores",
+          "number": "34"
+        },
+        {
+          "source_text": "Breakfast",
+          "number": "71"
+        },
+        {
+          "source_text": "Lunch and dinner",
+          "number": "72"
+        },
+        {
+          "source_text": "Home entertainment",
+          "number": "136"
+        }
+      ],
       "entries": [
         {
           "source_text": "back",
           "number": "1",
-          "section": "DINING ROOM",
+          "section": "26.2 DINING ROOM",
           "visual_context": "Pointer to the upright back of the left chair.",
           "semantic_meaning": "The backrest of a chair."
         },
         {
           "source_text": "chair",
           "number": "2",
-          "section": "DINING ROOM",
+          "section": "26.2 DINING ROOM",
           "visual_context": "Pointer to the left dining chair.",
           "semantic_meaning": null
         },
         {
           "source_text": "leg",
           "number": "3",
-          "section": "DINING ROOM",
+          "section": "26.2 DINING ROOM",
           "visual_context": "Pointer to a chair leg.",
           "semantic_meaning": "A supporting leg of the chair."
         },
         {
           "source_text": "candle",
           "number": "4",
-          "section": "DINING ROOM",
+          "section": "26.2 DINING ROOM",
           "visual_context": "Pointer to the white candle in the candlestick.",
           "semantic_meaning": null
         },
         {
           "source_text": "candlestick",
           "number": "5",
-          "section": "DINING ROOM",
+          "section": "26.2 DINING ROOM",
           "visual_context": "Pointer to the red holder supporting the candle.",
           "semantic_meaning": null
         },
         {
           "source_text": "molding (US)\nmoulding (UK)",
           "number": "6",
-          "section": "DINING ROOM",
+          "section": "26.2 DINING ROOM",
           "visual_context": "Pointer to the decorative strip at the top of the wall.",
           "semantic_meaning": "Regional spellings for decorative interior trim."
         },
         {
           "source_text": "silverware (US)\ncutlery (UK)",
           "number": "7",
-          "section": "DINING ROOM",
+          "section": "26.2 DINING ROOM",
           "visual_context": "Pointer to the fork and other eating utensils on the table.",
           "semantic_meaning": "Regional names for knives, forks, and spoons."
         },
         {
           "source_text": "salt",
           "number": "8",
-          "section": "DINING ROOM",
+          "section": "26.2 DINING ROOM",
           "visual_context": "Pointer to one of the small seasoning shakers on the sideboard.",
           "semantic_meaning": null
         },
         {
           "source_text": "pepper",
           "number": "9",
-          "section": "DINING ROOM",
+          "section": "26.2 DINING ROOM",
           "visual_context": "Pointer to the other small seasoning shaker on the sideboard.",
           "semantic_meaning": null
         },
         {
           "source_text": "It’s dinner\ntime!",
           "number": "10",
-          "section": "DINING ROOM",
+          "section": "26.2 DINING ROOM",
           "visual_context": "Speech bubble from the woman walking beside the sideboard.",
           "semantic_meaning": "An announcement that dinner is ready."
         },
         {
           "source_text": "fruit\nbowl",
           "number": "11",
-          "section": "DINING ROOM",
+          "section": "26.2 DINING ROOM",
           "visual_context": "Pointer to the bowl of fruit on the sideboard.",
           "semantic_meaning": null
         },
         {
           "source_text": "seat",
           "number": "12",
-          "section": "DINING ROOM",
+          "section": "26.2 DINING ROOM",
           "visual_context": "Pointer to the horizontal sitting part of the chair.",
           "semantic_meaning": "The part of a chair that a person sits on."
         },
         {
           "source_text": "floorboards",
           "number": "13",
-          "section": "DINING ROOM",
+          "section": "26.2 DINING ROOM",
           "visual_context": "Pointer to the wooden boards forming the floor.",
           "semantic_meaning": null
         },
         {
           "source_text": "table",
           "number": "14",
-          "section": "DINING ROOM",
+          "section": "26.2 DINING ROOM",
           "visual_context": "Pointer to the dining table.",
           "semantic_meaning": null
         },
         {
           "source_text": "food bowl",
           "number": "15",
-          "section": "DINING ROOM",
+          "section": "26.2 DINING ROOM",
           "visual_context": "Pointer to the red bowl from which the cat is eating.",
           "semantic_meaning": "A bowl for a pet’s food."
         },
         {
           "source_text": "sideboard",
           "number": "16",
-          "section": "DINING ROOM",
+          "section": "26.2 DINING ROOM",
           "visual_context": "Pointer to the long storage cabinet behind the woman.",
           "semantic_meaning": null
         },
         {
           "source_text": "to set the table",
           "number": "17",
-          "section": "DINING ROOM",
+          "section": "26.2 DINING ROOM",
           "visual_context": "Icon of a person arranging dishes and utensils on a table.",
           "semantic_meaning": "To prepare a table for a meal."
         },
         {
           "source_text": "tablecloth",
           "number": "18",
-          "section": "DINING ROOM",
+          "section": "26.2 DINING ROOM",
           "visual_context": "Icon of a cloth covering a dining table.",
           "semantic_meaning": null
         },
         {
           "source_text": "place mat",
           "number": "19",
-          "section": "DINING ROOM",
+          "section": "26.2 DINING ROOM",
           "visual_context": "Icon of an individual mat beneath a plate and cutlery.",
           "semantic_meaning": null
         },
         {
           "source_text": "breakfast",
           "number": "20",
-          "section": "DINING ROOM",
+          "section": "26.2 DINING ROOM",
           "visual_context": "Icon of breakfast foods with a clock.",
           "semantic_meaning": null
         },
         {
           "source_text": "lunch",
           "number": "21",
-          "section": "DINING ROOM",
+          "section": "26.2 DINING ROOM",
           "visual_context": "Icon of lunch foods with a clock.",
           "semantic_meaning": null
         },
         {
           "source_text": "dinner",
           "number": "22",
-          "section": "DINING ROOM",
+          "section": "26.2 DINING ROOM",
           "visual_context": "Icon of a dinner meal with a clock.",
           "semantic_meaning": null
         },
         {
           "source_text": "host / hostess",
           "number": "23",
-          "section": "DINING ROOM",
+          "section": "26.2 DINING ROOM",
           "visual_context": "Icon of a person serving food to diners.",
           "semantic_meaning": "A male or female person who receives and entertains guests."
         },
         {
           "source_text": "hungry",
           "number": "24",
-          "section": "DINING ROOM",
+          "section": "26.2 DINING ROOM",
           "visual_context": "Icon of a person holding their stomach.",
           "semantic_meaning": "Wanting or needing food."
         },
         {
           "source_text": "full",
           "number": "25",
-          "section": "DINING ROOM",
+          "section": "26.2 DINING ROOM",
           "visual_context": "Icon of a person holding their stomach after eating.",
           "semantic_meaning": "Having eaten enough food."
         },
         {
           "source_text": "portion",
           "number": "26",
-          "section": "DINING ROOM",
+          "section": "26.2 DINING ROOM",
           "visual_context": "Icon of a slice or serving of food on a plate.",
           "semantic_meaning": "An amount of food served to one person."
         },
         {
           "source_text": "dinner party",
           "number": "27",
-          "section": "DINING ROOM",
+          "section": "26.2 DINING ROOM",
           "visual_context": "Icon of several people seated together at a meal.",
           "semantic_meaning": null
         },
         {
           "source_text": "guest",
           "number": "28",
-          "section": "DINING ROOM",
+          "section": "26.2 DINING ROOM",
           "visual_context": "Pointer to the person arriving through the doorway at the dinner party.",
           "semantic_meaning": "A person invited to visit or attend a meal."
         }

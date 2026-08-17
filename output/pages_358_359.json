@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 358,
-      "title": "Weights and measures",
-      "context": "174.1 WEIGHT; 174.2 DISTANCE , AREA, AND LENGTH",
+      "title": "174 Weights and measures",
+      "see_also": [],
       "entries": [
         {
           "source_text": "pan",
@@ -128,8 +128,25 @@
     },
     {
       "page": 359,
-      "title": "Weights and measures",
-      "context": "174.3 LIQUID MEASUREMENTS / VOLUME; continuation of 174.2 DISTANCE , AREA, AND LENGTH",
+      "title": "174 Weights and measures",
+      "see_also": [
+        {
+          "source_text": "Cooking",
+          "number": "29"
+        },
+        {
+          "source_text": "Home improvements",
+          "number": "35"
+        },
+        {
+          "source_text": "Mathematics",
+          "number": "74"
+        },
+        {
+          "source_text": "Numbers",
+          "number": "173"
+        }
+      ],
       "entries": [
         {
           "source_text": "half-liter (US) half-litre (UK)",

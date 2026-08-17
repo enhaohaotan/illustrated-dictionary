@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 186,
-      "title": "Military",
-      "context": null,
+      "title": "88 Military",
+      "see_also": [],
       "entries": [
         {
           "source_text": "army",
@@ -205,8 +205,21 @@
     },
     {
       "page": 187,
-      "title": "Military",
-      "context": "See also: 79 History; 148 Maps and directions; 149-151 Countries",
+      "title": "88 Military",
+      "see_also": [
+        {
+          "source_text": "History",
+          "number": "79"
+        },
+        {
+          "source_text": "Maps and directions",
+          "number": "148"
+        },
+        {
+          "source_text": "Countries",
+          "number": "149-151"
+        }
+      ],
       "entries": [
         {
           "source_text": "military transport aircraft",

@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 18,
-      "title": "Muscles and skeleton",
-      "context": "03",
+      "title": "03 Muscles and skeleton",
+      "see_also": [],
       "entries": [
         {
           "source_text": "frontal",
@@ -205,51 +205,34 @@
     },
     {
       "page": 19,
-      "title": "Muscles and skeleton",
-      "context": "03",
-      "entries": [
+      "title": "03 Muscles and skeleton",
+      "see_also": [
         {
           "source_text": "Parts of the body",
-          "number": "01",
-          "section": "See also:",
-          "visual_context": "Cross-reference list entry.",
-          "semantic_meaning": null
+          "number": "01"
         },
         {
           "source_text": "Hands and feet",
-          "number": "02",
-          "section": "See also:",
-          "visual_context": "Cross-reference list entry.",
-          "semantic_meaning": null
+          "number": "02"
         },
         {
           "source_text": "Internal organs",
-          "number": "04",
-          "section": "See also:",
-          "visual_context": "Cross-reference list entry.",
-          "semantic_meaning": null
+          "number": "04"
         },
         {
           "source_text": "Illness and injury",
-          "number": "19",
-          "section": "See also:",
-          "visual_context": "Cross-reference list entry.",
-          "semantic_meaning": null
+          "number": "19"
         },
         {
           "source_text": "Visiting the doctor",
-          "number": "20",
-          "section": "See also:",
-          "visual_context": "Cross-reference list entry.",
-          "semantic_meaning": null
+          "number": "20"
         },
         {
           "source_text": "The hospital",
-          "number": "21",
-          "section": "See also:",
-          "visual_context": "Cross-reference list entry.",
-          "semantic_meaning": null
-        },
+          "number": "21"
+        }
+      ],
+      "entries": [
         {
           "source_text": "skull",
           "number": "1",

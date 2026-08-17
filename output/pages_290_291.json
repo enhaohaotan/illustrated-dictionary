@@ -2,174 +2,174 @@
   "pages": [
     {
       "page": 290,
-      "title": "Games",
-      "context": "140.1 CHESS; 140.3 GAMES",
+      "title": "140 Games",
+      "see_also": [],
       "entries": [
         {
           "source_text": "I’m going to\nmove my knight.",
           "number": "1",
-          "section": "CHESS",
+          "section": "140.1 CHESS",
           "visual_context": "Speech bubble beside a hand moving a black knight on the chessboard.",
           "semantic_meaning": null
         },
         {
           "source_text": "chessboard",
           "number": "2",
-          "section": "CHESS",
+          "section": "140.1 CHESS",
           "visual_context": "Pointer to the chequered chess playing board.",
           "semantic_meaning": null
         },
         {
           "source_text": "pieces",
           "number": "3",
-          "section": "CHESS",
+          "section": "140.1 CHESS",
           "visual_context": "Group of black chess pieces.",
           "semantic_meaning": "the individual playing figures in chess"
         },
         {
           "source_text": "king",
           "number": "4",
-          "section": "CHESS",
+          "section": "140.1 CHESS",
           "visual_context": "Pointer to a white king chess piece.",
           "semantic_meaning": null
         },
         {
           "source_text": "bishop",
           "number": "5",
-          "section": "CHESS",
+          "section": "140.1 CHESS",
           "visual_context": "Pointer to a white bishop chess piece.",
           "semantic_meaning": null
         },
         {
           "source_text": "knight",
           "number": "6",
-          "section": "CHESS",
+          "section": "140.1 CHESS",
           "visual_context": "Pointer to a white horse-shaped chess piece.",
           "semantic_meaning": null
         },
         {
           "source_text": "square",
           "number": "7",
-          "section": "CHESS",
+          "section": "140.1 CHESS",
           "visual_context": "Pointer to one coloured square of the chessboard.",
           "semantic_meaning": null
         },
         {
           "source_text": "white",
           "number": "8",
-          "section": "CHESS",
+          "section": "140.1 CHESS",
           "visual_context": "White side of the chess pieces.",
           "semantic_meaning": "the white player’s chess pieces"
         },
         {
           "source_text": "rook",
           "number": "9",
-          "section": "CHESS",
+          "section": "140.1 CHESS",
           "visual_context": "Pointer to a white castle-shaped chess piece.",
           "semantic_meaning": null
         },
         {
           "source_text": "pawn",
           "number": "10",
-          "section": "CHESS",
+          "section": "140.1 CHESS",
           "visual_context": "Pointer to a black pawn.",
           "semantic_meaning": null
         },
         {
           "source_text": "queen",
           "number": "11",
-          "section": "CHESS",
+          "section": "140.1 CHESS",
           "visual_context": "Pointer to a black queen chess piece.",
           "semantic_meaning": null
         },
         {
           "source_text": "black",
           "number": "12",
-          "section": "CHESS",
+          "section": "140.1 CHESS",
           "visual_context": "Black side of the chess pieces.",
           "semantic_meaning": "the black player’s chess pieces"
         },
         {
           "source_text": "board games",
           "number": "1",
-          "section": "GAMES",
+          "section": "140.3 GAMES",
           "visual_context": "Several tabletop game boards, including a backgammon board.",
           "semantic_meaning": null
         },
         {
           "source_text": "points",
           "number": "2",
-          "section": "GAMES",
+          "section": "140.3 GAMES",
           "visual_context": "A score sheet with tally marks and numbers.",
           "semantic_meaning": "units scored in a game"
         },
         {
           "source_text": "score",
           "number": "3",
-          "section": "GAMES",
+          "section": "140.3 GAMES",
           "visual_context": "A score sheet showing recorded totals.",
           "semantic_meaning": "the recorded number of points in a game"
         },
         {
           "source_text": "tic-tac-toe (US)\nnoughts and crosses (UK)",
           "number": "4",
-          "section": "GAMES",
+          "section": "140.3 GAMES",
           "visual_context": "A three-by-three grid with an X and an O.",
           "semantic_meaning": null
         },
         {
           "source_text": "dice",
           "number": "5",
-          "section": "GAMES",
+          "section": "140.3 GAMES",
           "visual_context": "Two blue numbered cubes.",
           "semantic_meaning": null
         },
         {
           "source_text": "solitaire",
           "number": "6",
-          "section": "GAMES",
+          "section": "140.3 GAMES",
           "visual_context": "A round peg solitaire board with marbles.",
           "semantic_meaning": null
         },
         {
           "source_text": "pieces",
           "number": "7",
-          "section": "GAMES",
+          "section": "140.3 GAMES",
           "visual_context": "Coloured game counters.",
           "semantic_meaning": "individual counters used in a board game"
         },
         {
           "source_text": "jigsaw puzzle",
           "number": "8",
-          "section": "GAMES",
+          "section": "140.3 GAMES",
           "visual_context": "Interlocking coloured jigsaw pieces.",
           "semantic_meaning": null
         },
         {
           "source_text": "dominoes",
           "number": "9",
-          "section": "GAMES",
+          "section": "140.3 GAMES",
           "visual_context": "A set of spotted rectangular domino tiles.",
           "semantic_meaning": null
         },
         {
           "source_text": "darts",
           "number": "10",
-          "section": "GAMES",
+          "section": "140.3 GAMES",
           "visual_context": "Three darts.",
           "semantic_meaning": null
         },
         {
           "source_text": "dartboard",
           "number": "11",
-          "section": "GAMES",
+          "section": "140.3 GAMES",
           "visual_context": "Pointer to the circular dart target.",
           "semantic_meaning": null
         },
         {
           "source_text": "bull’s-eye (US)\nbullseye (UK)",
           "number": "12",
-          "section": "GAMES",
+          "section": "140.3 GAMES",
           "visual_context": "Pointer to the centre circle of a dartboard.",
           "semantic_meaning": null
         }
@@ -177,195 +177,208 @@
     },
     {
       "page": 291,
-      "title": "Games",
-      "context": "140.2 PLAYING CARDS; GAMES (continued)",
+      "title": "140 Games",
+      "see_also": [
+        {
+          "source_text": "Home entertainment",
+          "number": "136"
+        },
+        {
+          "source_text": "Books and reading",
+          "number": "138"
+        },
+        {
+          "source_text": "Arts and crafts",
+          "number": "141-142"
+        }
+      ],
       "entries": [
         {
           "source_text": "jack",
           "number": "1",
-          "section": "PLAYING CARDS",
+          "section": "140.2 PLAYING CARDS",
           "visual_context": "Pointer to a jack playing card.",
           "semantic_meaning": "a court card in a pack of playing cards"
         },
         {
           "source_text": "queen",
           "number": "2",
-          "section": "PLAYING CARDS",
+          "section": "140.2 PLAYING CARDS",
           "visual_context": "Pointer to a queen playing card.",
           "semantic_meaning": "a court card in a pack of playing cards"
         },
         {
           "source_text": "king",
           "number": "3",
-          "section": "PLAYING CARDS",
+          "section": "140.2 PLAYING CARDS",
           "visual_context": "Pointer to a king playing card.",
           "semantic_meaning": "a court card in a pack of playing cards"
         },
         {
           "source_text": "ace",
           "number": "4",
-          "section": "PLAYING CARDS",
+          "section": "140.2 PLAYING CARDS",
           "visual_context": "Pointer to an ace playing card.",
           "semantic_meaning": "a playing card with one suit symbol"
         },
         {
           "source_text": "joker",
           "number": "5",
-          "section": "PLAYING CARDS",
+          "section": "140.2 PLAYING CARDS",
           "visual_context": "Pointer to a joker card.",
           "semantic_meaning": "an extra card in some packs of playing cards"
         },
         {
           "source_text": "heart",
           "number": "6",
-          "section": "PLAYING CARDS",
+          "section": "140.2 PLAYING CARDS",
           "visual_context": "Pointer to the heart suit symbol.",
           "semantic_meaning": "a red playing-card suit"
         },
         {
           "source_text": "diamond",
           "number": "7",
-          "section": "PLAYING CARDS",
+          "section": "140.2 PLAYING CARDS",
           "visual_context": "Pointer to the diamond suit symbol.",
           "semantic_meaning": "a red playing-card suit"
         },
         {
           "source_text": "club",
           "number": "8",
-          "section": "PLAYING CARDS",
+          "section": "140.2 PLAYING CARDS",
           "visual_context": "Pointer to the club suit symbol.",
           "semantic_meaning": "a black playing-card suit"
         },
         {
           "source_text": "spade",
           "number": "9",
-          "section": "PLAYING CARDS",
+          "section": "140.2 PLAYING CARDS",
           "visual_context": "Pointer to the spade suit symbol.",
           "semantic_meaning": "a black playing-card suit"
         },
         {
           "source_text": "to shuffle",
           "number": "10",
-          "section": "PLAYING CARDS",
+          "section": "140.2 PLAYING CARDS",
           "visual_context": "Hands mixing a pack of cards.",
           "semantic_meaning": "to randomize the order of cards"
         },
         {
           "source_text": "to deal",
           "number": "11",
-          "section": "PLAYING CARDS",
+          "section": "140.2 PLAYING CARDS",
           "visual_context": "Hands giving out cards.",
           "semantic_meaning": "to distribute cards to players"
         },
         {
           "source_text": "deck of cards /\npack of cards",
           "number": "12",
-          "section": "PLAYING CARDS",
+          "section": "140.2 PLAYING CARDS",
           "visual_context": "A stacked pile of playing cards.",
           "semantic_meaning": null
         },
         {
           "source_text": "solitaire (US)\npatience (UK)",
           "number": "13",
-          "section": "PLAYING CARDS",
+          "section": "140.2 PLAYING CARDS",
           "visual_context": "Cards laid out for a one-player card game.",
           "semantic_meaning": null
         },
         {
           "source_text": "bridge",
           "number": "14",
-          "section": "PLAYING CARDS",
+          "section": "140.2 PLAYING CARDS",
           "visual_context": "A bridge card-game layout with hands of cards.",
           "semantic_meaning": null
         },
         {
           "source_text": "snap",
           "number": "15",
-          "section": "PLAYING CARDS",
+          "section": "140.2 PLAYING CARDS",
           "visual_context": "Hands rapidly placing cards in a card game.",
           "semantic_meaning": null
         },
         {
           "source_text": "It’s your turn!",
           "number": "15",
-          "section": "PLAYING CARDS",
+          "section": "140.2 PLAYING CARDS",
           "visual_context": "Speech bubble above two people playing a board game.",
           "semantic_meaning": null
         },
         {
           "source_text": "player",
           "number": "13",
-          "section": "GAMES",
+          "section": "140.3 GAMES",
           "visual_context": "Pointer to a child playing a board game.",
           "semantic_meaning": "a person taking part in a game"
         },
         {
           "source_text": "to play",
           "number": "14",
-          "section": "GAMES",
+          "section": "140.3 GAMES",
           "visual_context": "Two people playing a board game.",
           "semantic_meaning": null
         },
         {
           "source_text": "to win",
           "number": "16",
-          "section": "GAMES",
+          "section": "140.3 GAMES",
           "visual_context": "A player celebrating at a board game.",
           "semantic_meaning": null
         },
         {
           "source_text": "to lose",
           "number": "17",
-          "section": "GAMES",
+          "section": "140.3 GAMES",
           "visual_context": "A disappointed player at a board game.",
           "semantic_meaning": null
         },
         {
           "source_text": "ludo",
           "number": "18",
-          "section": "GAMES",
+          "section": "140.3 GAMES",
           "visual_context": "A four-colour ludo board.",
           "semantic_meaning": null
         },
         {
           "source_text": "to take",
           "number": "19",
-          "section": "GAMES",
+          "section": "140.3 GAMES",
           "visual_context": "A hand lifting a game piece from a board.",
           "semantic_meaning": "to capture or remove an opponent’s piece"
         },
         {
           "source_text": "to move",
           "number": "20",
-          "section": "GAMES",
+          "section": "140.3 GAMES",
           "visual_context": "A hand moving a game piece across a board.",
           "semantic_meaning": null
         },
         {
           "source_text": "checkers (US)\ndraughts (UK)",
           "number": "21",
-          "section": "GAMES",
+          "section": "140.3 GAMES",
           "visual_context": "A chequered board with round playing counters.",
           "semantic_meaning": null
         },
         {
           "source_text": "chutes (US)\nsnakes (UK) and ladders",
           "number": "22",
-          "section": "GAMES",
+          "section": "140.3 GAMES",
           "visual_context": "A board game with snakes and ladders.",
           "semantic_meaning": null
         },
         {
           "source_text": "go",
           "number": "23",
-          "section": "GAMES",
+          "section": "140.3 GAMES",
           "visual_context": "A Go board with black and white stones.",
           "semantic_meaning": null
         },
         {
           "source_text": "backgammon",
           "number": "24",
-          "section": "GAMES",
+          "section": "140.3 GAMES",
           "visual_context": "A backgammon board with black and white counters.",
           "semantic_meaning": null
         }

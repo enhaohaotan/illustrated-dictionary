@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 120,
-      "title": "Fish and seafood",
-      "context": "54.1 FISH",
+      "title": "54 Fish and seafood",
+      "see_also": [],
       "entries": [
         {
           "source_text": "salmon fillet",
@@ -191,51 +191,34 @@
     },
     {
       "page": 121,
-      "title": "Fish and seafood",
-      "context": "54.2 SEAFOOD; 54.3 PREPARATION",
-      "entries": [
+      "title": "54 Fish and seafood",
+      "see_also": [
         {
           "source_text": "Cooking",
-          "number": "29",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the “See also:” box.",
-          "semantic_meaning": null
+          "number": "29"
         },
         {
           "source_text": "Drinking and eating",
-          "number": "52",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the “See also:” box.",
-          "semantic_meaning": null
+          "number": "52"
         },
         {
           "source_text": "Vegetables",
-          "number": "55-56",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the “See also:” box.",
-          "semantic_meaning": null
+          "number": "55-56"
         },
         {
           "source_text": "At the restaurant",
-          "number": "69",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the “See also:” box.",
-          "semantic_meaning": null
+          "number": "69"
         },
         {
           "source_text": "Lunch and dinner",
-          "number": "72",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the “See also:” box.",
-          "semantic_meaning": null
+          "number": "72"
         },
         {
           "source_text": "Ocean life",
-          "number": "166",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the “See also:” box.",
-          "semantic_meaning": null
-        },
+          "number": "166"
+        }
+      ],
+      "entries": [
         {
           "source_text": "whiting",
           "number": "7",

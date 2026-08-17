@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 82,
-      "title": "Home improvements",
-      "context": "35.1 TOOLS AND DIY EQUIPMENT; 35.2 DIY VERBS",
+      "title": "35 Home improvements",
+      "see_also": [],
       "entries": [
         {
           "source_text": "jigsaw",
@@ -205,8 +205,25 @@
     },
     {
       "page": 83,
-      "title": "Home improvements",
-      "context": "35.3 MATERIALS; continuation of 35.2 DIY VERBS",
+      "title": "35 Home improvements",
+      "see_also": [
+        {
+          "source_text": "Electrics and plumbing",
+          "number": "33"
+        },
+        {
+          "source_text": "Tools",
+          "number": "36"
+        },
+        {
+          "source_text": "Decorating",
+          "number": "37"
+        },
+        {
+          "source_text": "Construction",
+          "number": "87"
+        }
+      ],
       "entries": [
         {
           "source_text": "wood",

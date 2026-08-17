@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 336,
-      "title": "Amphibians and reptiles",
-      "context": "163.1 AMPHIBIANS; 163.2 REPTILES",
+      "title": "163 Amphibians and reptiles",
+      "see_also": [],
       "entries": [
         {
           "source_text": "European common frog",
@@ -205,8 +205,29 @@
     },
     {
       "page": 337,
-      "title": null,
-      "context": "163.2 REPTILES",
+      "title": "163 Amphibians and reptiles",
+      "see_also": [
+        {
+          "source_text": "Biology",
+          "number": "77"
+        },
+        {
+          "source_text": "Natural history",
+          "number": "157"
+        },
+        {
+          "source_text": "Mammals",
+          "number": "158-159"
+        },
+        {
+          "source_text": "Birds",
+          "number": "160-161"
+        },
+        {
+          "source_text": "Bugs and insects",
+          "number": "162"
+        }
+      ],
       "entries": [
         {
           "source_text": "Indian cobra",

@@ -2,251 +2,251 @@
   "pages": [
     {
       "page": 342,
-      "title": "Ocean life",
-      "context": "166.1 MARINE SPECIES; 166.2 CORAL REEF",
+      "title": "166 Ocean life",
+      "see_also": [],
       "entries": [
         {
           "source_text": "barnacle",
           "number": "1",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Attached shell-like marine animal illustration",
           "semantic_meaning": null
         },
         {
           "source_text": "limpet",
           "number": "2",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Conical shell illustration",
           "semantic_meaning": null
         },
         {
           "source_text": "anemone",
           "number": "3",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Red tentacled sea anemone illustration",
           "semantic_meaning": null
         },
         {
           "source_text": "sea urchin",
           "number": "4",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Black spiny round sea urchin illustration",
           "semantic_meaning": null
         },
         {
           "source_text": "starfish",
           "number": "5",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Yellow five-armed starfish illustration",
           "semantic_meaning": null
         },
         {
           "source_text": "needlefish",
           "number": "6",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Long, slender fish illustration",
           "semantic_meaning": null
         },
         {
           "source_text": "sea slug",
           "number": "7",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Spotted sea slug illustration",
           "semantic_meaning": null
         },
         {
           "source_text": "hermit crab",
           "number": "8",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Crab emerging from a shell illustration",
           "semantic_meaning": null
         },
         {
           "source_text": "horseshoe crab",
           "number": "9",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Brown horseshoe crab with long tail spine",
           "semantic_meaning": null
         },
         {
           "source_text": "coconut crab",
           "number": "10",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Red and blue crab illustration",
           "semantic_meaning": null
         },
         {
           "source_text": "fiddler crab",
           "number": "11",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Crab with one enlarged claw",
           "semantic_meaning": null
         },
         {
           "source_text": "beluga",
           "number": "12",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "White beluga whale illustration",
           "semantic_meaning": null
         },
         {
           "source_text": "plankton",
           "number": "13",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Small microscopic drifting organisms illustration",
           "semantic_meaning": null
         },
         {
           "source_text": "blue whale",
           "number": "14",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Large blue-gray whale illustration",
           "semantic_meaning": null
         },
         {
           "source_text": "blow hole",
           "number": "15",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Pointer to the opening atop the blue whale",
           "semantic_meaning": "Breathing opening of a whale"
         },
         {
           "source_text": "humpback whale",
           "number": "16",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Dark whale with long flippers",
           "semantic_meaning": null
         },
         {
           "source_text": "sperm whale",
           "number": "17",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Gray whale with large square head",
           "semantic_meaning": null
         },
         {
           "source_text": "narwhal",
           "number": "18",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Whale with a long tusk",
           "semantic_meaning": null
         },
         {
           "source_text": "killer whale",
           "number": "19",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Black-and-white orca illustration",
           "semantic_meaning": null
         },
         {
           "source_text": "porpoise",
           "number": "20",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Small dark marine mammal illustration",
           "semantic_meaning": null
         },
         {
           "source_text": "dolphin",
           "number": "21",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Leaping gray dolphin illustration",
           "semantic_meaning": null
         },
         {
           "source_text": "seal",
           "number": "22",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Pale seal lying down",
           "semantic_meaning": null
         },
         {
           "source_text": "sea lion",
           "number": "23",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Upright sea lion illustration",
           "semantic_meaning": null
         },
         {
           "source_text": "walrus",
           "number": "24",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Walrus with tusks illustration",
           "semantic_meaning": null
         },
         {
           "source_text": "coral trout",
           "number": "1",
-          "section": "CORAL REEF",
+          "section": "166.2 CORAL REEF",
           "visual_context": "Pointer to the red, blue-spotted fish",
           "semantic_meaning": null
         },
         {
           "source_text": "trumpetfish",
           "number": "2",
-          "section": "CORAL REEF",
+          "section": "166.2 CORAL REEF",
           "visual_context": "Pointer to the long orange fish",
           "semantic_meaning": null
         },
         {
           "source_text": "yellow trump",
           "number": "3",
-          "section": "CORAL REEF",
+          "section": "166.2 CORAL REEF",
           "visual_context": "Pointer to the small yellow fish group",
           "semantic_meaning": null
         },
         {
           "source_text": "blue crab",
           "number": "4",
-          "section": "CORAL REEF",
+          "section": "166.2 CORAL REEF",
           "visual_context": "Pointer to the blue crab on the seabed",
           "semantic_meaning": null
         },
         {
           "source_text": "hawkfish",
           "number": "5",
-          "section": "CORAL REEF",
+          "section": "166.2 CORAL REEF",
           "visual_context": "Pointer to the red-and-white striped fish",
           "semantic_meaning": null
         },
         {
           "source_text": "submersible",
           "number": "6",
-          "section": "CORAL REEF",
+          "section": "166.2 CORAL REEF",
           "visual_context": "Pointer to the yellow underwater vehicle",
           "semantic_meaning": "Underwater vessel"
         },
         {
           "source_text": "yellow box fish",
           "number": "7",
-          "section": "CORAL REEF",
+          "section": "166.2 CORAL REEF",
           "visual_context": "Pointer to the yellow spotted box-shaped fish",
           "semantic_meaning": null
         },
         {
           "source_text": "mantis shrimp",
           "number": "8",
-          "section": "CORAL REEF",
+          "section": "166.2 CORAL REEF",
           "visual_context": "Pointer to the colorful shrimp-like crustacean",
           "semantic_meaning": null
         },
         {
           "source_text": "blue tang",
           "number": "9",
-          "section": "CORAL REEF",
+          "section": "166.2 CORAL REEF",
           "visual_context": "Pointer to the blue fish with yellow tail",
           "semantic_meaning": null
         },
         {
           "source_text": "pufferfish",
           "number": "10",
-          "section": "CORAL REEF",
+          "section": "166.2 CORAL REEF",
           "visual_context": "Pointer to the inflated spotted fish",
           "semantic_meaning": null
         },
         {
           "source_text": "hawksbill turtle",
           "number": "11",
-          "section": "CORAL REEF",
+          "section": "166.2 CORAL REEF",
           "visual_context": "Pointer to the sea turtle near the surface",
           "semantic_meaning": null
         }
@@ -254,230 +254,251 @@
     },
     {
       "page": 343,
-      "title": null,
-      "context": "Continuation of 166.1 MARINE SPECIES and 166.2 CORAL REEF",
+      "title": "166 Ocean life",
+      "see_also": [
+        {
+          "source_text": "Fish and seafood",
+          "number": "54"
+        },
+        {
+          "source_text": "Fishing",
+          "number": "121"
+        },
+        {
+          "source_text": "On the beach",
+          "number": "134"
+        },
+        {
+          "source_text": "Geography",
+          "number": "146-147"
+        },
+        {
+          "source_text": "Natural history",
+          "number": "157"
+        }
+      ],
       "entries": [
         {
           "source_text": "nautilus",
           "number": "25",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Coiled chambered shell with tentacles",
           "semantic_meaning": null
         },
         {
           "source_text": "jellyfish",
           "number": "26",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Orange jellyfish illustration",
           "semantic_meaning": null
         },
         {
           "source_text": "Portuguese man-of-war",
           "number": "27",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Floating blue-and-pink tentacled organism",
           "semantic_meaning": null
         },
         {
           "source_text": "giant squid",
           "number": "28",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Large orange squid with long tentacles",
           "semantic_meaning": null
         },
         {
           "source_text": "ray",
           "number": "29",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Flat gray ray with long tail",
           "semantic_meaning": null
         },
         {
           "source_text": "pipefish",
           "number": "30",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Thin green fish illustration",
           "semantic_meaning": null
         },
         {
           "source_text": "Atlantic salmon",
           "number": "31",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Silver salmon illustration",
           "semantic_meaning": null
         },
         {
           "source_text": "cod",
           "number": "32",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Brownish cod illustration",
           "semantic_meaning": null
         },
         {
           "source_text": "barracuda",
           "number": "33",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Long gray predatory fish illustration",
           "semantic_meaning": null
         },
         {
           "source_text": "sawfish",
           "number": "34",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Fish with toothed saw-like snout",
           "semantic_meaning": null
         },
         {
           "source_text": "flying fish",
           "number": "35",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Fish with wing-like fins",
           "semantic_meaning": null
         },
         {
           "source_text": "sail fish",
           "number": "36",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Fish with large blue dorsal sail",
           "semantic_meaning": null
         },
         {
           "source_text": "great white shark",
           "number": "37",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Large gray-and-white shark illustration",
           "semantic_meaning": null
         },
         {
           "source_text": "hammerhead shark",
           "number": "38",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Blue shark with hammer-shaped head",
           "semantic_meaning": null
         },
         {
           "source_text": "basking shark",
           "number": "39",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Gray shark illustration",
           "semantic_meaning": null
         },
         {
           "source_text": "angler fish",
           "number": "40",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Deep-sea fish with a glowing lure",
           "semantic_meaning": null
         },
         {
           "source_text": "gulper eel",
           "number": "41",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Long wavy eel illustration",
           "semantic_meaning": null
         },
         {
           "source_text": "mudskipper",
           "number": "42",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Brown fish with raised fins",
           "semantic_meaning": null
         },
         {
           "source_text": "seaweed",
           "number": "43",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Green branching marine plant illustration",
           "semantic_meaning": null
         },
         {
           "source_text": "kelp",
           "number": "44",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Brown branching sea plant illustration",
           "semantic_meaning": null
         },
         {
           "source_text": "sunlit zone",
           "number": "45",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Top highlighted band in an ocean-depth diagram",
           "semantic_meaning": "Upper ocean layer reached by sunlight"
         },
         {
           "source_text": "twilight zone",
           "number": "46",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Second highlighted band in an ocean-depth diagram",
           "semantic_meaning": "Dim middle ocean layer"
         },
         {
           "source_text": "midnight zone",
           "number": "47",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Deep highlighted band in an ocean-depth diagram",
           "semantic_meaning": "Dark deep-ocean layer"
         },
         {
           "source_text": "hadal zone",
           "number": "48",
-          "section": "MARINE SPECIES",
+          "section": "166.1 MARINE SPECIES",
           "visual_context": "Lowest highlighted band in an ocean-depth diagram",
           "semantic_meaning": "Deepest ocean zone"
         },
         {
           "source_text": "moorish idol",
           "number": "12",
-          "section": "CORAL REEF",
+          "section": "166.2 CORAL REEF",
           "visual_context": "Pointer to the black, white, and yellow striped fish",
           "semantic_meaning": null
         },
         {
           "source_text": "yellow surgeonfish",
           "number": "13",
-          "section": "CORAL REEF",
+          "section": "166.2 CORAL REEF",
           "visual_context": "Pointer to the yellow fish group",
           "semantic_meaning": null
         },
         {
           "source_text": "clownfish",
           "number": "14",
-          "section": "CORAL REEF",
+          "section": "166.2 CORAL REEF",
           "visual_context": "Pointer to the orange-and-white striped fish",
           "semantic_meaning": null
         },
         {
           "source_text": "banded sea krait",
           "number": "15",
-          "section": "CORAL REEF",
+          "section": "166.2 CORAL REEF",
           "visual_context": "Pointer to the black-and-white banded sea snake",
           "semantic_meaning": null
         },
         {
           "source_text": "seahorse",
           "number": "16",
-          "section": "CORAL REEF",
+          "section": "166.2 CORAL REEF",
           "visual_context": "Pointer to the yellow seahorse",
           "semantic_meaning": null
         },
         {
           "source_text": "porcupine fish",
           "number": "17",
-          "section": "CORAL REEF",
+          "section": "166.2 CORAL REEF",
           "visual_context": "Pointer to the spiny yellow inflated fish",
           "semantic_meaning": null
         },
         {
           "source_text": "octopus",
           "number": "18",
-          "section": "CORAL REEF",
+          "section": "166.2 CORAL REEF",
           "visual_context": "Pointer to the orange octopus",
           "semantic_meaning": null
         },
         {
           "source_text": "coral",
           "number": "19",
-          "section": "CORAL REEF",
+          "section": "166.2 CORAL REEF",
           "visual_context": "Pointer to the branching coral at right",
           "semantic_meaning": null
         }

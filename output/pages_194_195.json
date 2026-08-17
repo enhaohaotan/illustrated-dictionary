@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 194,
-      "title": "Applying for a job",
-      "context": "92.1 JOB APPLICATIONS; 92.2 APPLYING FOR A JOB",
+      "title": "92 Applying for a job",
+      "see_also": [],
       "entries": [
         {
           "source_text": "job advert",
@@ -100,8 +100,29 @@
     },
     {
       "page": 195,
-      "title": "TEAMWORK",
-      "context": "92.3 TEAMWORK; continuation of 92.2 APPLYING FOR A JOB",
+      "title": "92 Applying for a job",
+      "see_also": [
+        {
+          "source_text": "At work",
+          "number": "81"
+        },
+        {
+          "source_text": "Jobs",
+          "number": "89-90"
+        },
+        {
+          "source_text": "Industries and departments",
+          "number": "91"
+        },
+        {
+          "source_text": "Workplace skills",
+          "number": "93"
+        },
+        {
+          "source_text": "Meeting and presenting",
+          "number": "95"
+        }
+      ],
       "entries": [
         {
           "source_text": "to collaborate",

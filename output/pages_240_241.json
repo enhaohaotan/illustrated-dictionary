@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 240,
-      "title": "Golf",
-      "context": "115.1 ON THE GOLF COURSE",
+      "title": "115 Golf",
+      "see_also": [],
       "entries": [
         {
           "source_text": "hole",
@@ -184,8 +184,21 @@
     },
     {
       "page": 241,
-      "title": "Golf",
-      "context": "115.2 GOLF EQUIPMENT; 115.3 GOLF CLUBS; 115.4 GOLF VERBS",
+      "title": "115 Golf",
+      "see_also": [
+        {
+          "source_text": "Cricket",
+          "number": "111"
+        },
+        {
+          "source_text": "Baseball",
+          "number": "113"
+        },
+        {
+          "source_text": "Tennis",
+          "number": "114"
+        }
+      ],
       "entries": [
         {
           "source_text": "golf cap",

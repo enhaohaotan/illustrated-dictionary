@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 100,
-      "title": "Buildings and architecture",
-      "context": "44.1 TYPES OF BUILDINGS",
+      "title": "44 Buildings and architecture",
+      "see_also": [],
       "entries": [
         {
           "source_text": "castle",
@@ -261,37 +261,26 @@
     },
     {
       "page": 101,
-      "title": "Buildings and architecture",
-      "context": "44.2 FAMOUS BUILDINGS AND MONUMENTS",
-      "entries": [
+      "title": "44 Buildings and architecture",
+      "see_also": [
         {
           "source_text": "A place to live",
-          "number": "25",
-          "section": "See also:",
-          "visual_context": null,
-          "semantic_meaning": null
+          "number": "25"
         },
         {
           "source_text": "House and home",
-          "number": "32",
-          "section": "See also:",
-          "visual_context": null,
-          "semantic_meaning": null
+          "number": "32"
         },
         {
           "source_text": "In town",
-          "number": "42-43",
-          "section": "See also:",
-          "visual_context": null,
-          "semantic_meaning": null
+          "number": "42-43"
         },
         {
           "source_text": "Sightseeing",
-          "number": "132",
-          "section": "See also:",
-          "visual_context": null,
-          "semantic_meaning": null
-        },
+          "number": "132"
+        }
+      ],
+      "entries": [
         {
           "source_text": "the Colosseum",
           "number": "1",

@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 44,
-      "title": "Accessories",
-      "context": null,
+      "title": "16 Accessories",
+      "see_also": [],
       "entries": [
         {
           "source_text": "gloves",
@@ -233,8 +233,21 @@
     },
     {
       "page": 45,
-      "title": "Accessories",
-      "context": "See also: 12 Appearance and hair; 13-15 Clothes; 17 Shoes",
+      "title": "16 Accessories",
+      "see_also": [
+        {
+          "source_text": "Appearance and hair",
+          "number": "12"
+        },
+        {
+          "source_text": "Clothes",
+          "number": "13-15"
+        },
+        {
+          "source_text": "Shoes",
+          "number": "17"
+        }
+      ],
       "entries": [
         {
           "source_text": "flat cap",

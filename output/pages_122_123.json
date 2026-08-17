@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 122,
-      "title": "Vegetables",
-      "context": "55.1 VEGETABLES",
+      "title": "55 Vegetables",
+      "see_also": [],
       "entries": [
         {
           "source_text": "fava beans (US)\nbroad beans (UK)",
@@ -233,65 +233,42 @@
     },
     {
       "page": 123,
-      "title": "SALAD VEGETABLES",
-      "context": "Continuation of 55.1 VEGETABLES and 55.2 SALAD VEGETABLES",
-      "entries": [
+      "title": "55 Vegetables",
+      "see_also": [
         {
           "source_text": "Cooking",
-          "number": "29",
-          "section": "See also:",
-          "visual_context": "Reference listed in the boxed “See also:” panel.",
-          "semantic_meaning": null
+          "number": "29"
         },
         {
           "source_text": "Drinking and eating",
-          "number": "52",
-          "section": "See also:",
-          "visual_context": "Reference listed in the boxed “See also:” panel.",
-          "semantic_meaning": null
+          "number": "52"
         },
         {
           "source_text": "Vegetables (continued)",
-          "number": "56",
-          "section": "See also:",
-          "visual_context": "Reference listed in the boxed “See also:” panel.",
-          "semantic_meaning": null
+          "number": "56"
         },
         {
           "source_text": "Fruit",
-          "number": "57",
-          "section": "See also:",
-          "visual_context": "Reference listed in the boxed “See also:” panel.",
-          "semantic_meaning": null
+          "number": "57"
         },
         {
           "source_text": "Fruit and nuts",
-          "number": "58",
-          "section": "See also:",
-          "visual_context": "Reference listed in the boxed “See also:” panel.",
-          "semantic_meaning": null
+          "number": "58"
         },
         {
           "source_text": "Herbs and spices",
-          "number": "59",
-          "section": "See also:",
-          "visual_context": "Reference listed in the boxed “See also:” panel.",
-          "semantic_meaning": null
+          "number": "59"
         },
         {
           "source_text": "At the restaurant",
-          "number": "69",
-          "section": "See also:",
-          "visual_context": "Reference listed in the boxed “See also:” panel.",
-          "semantic_meaning": null
+          "number": "69"
         },
         {
           "source_text": "Lunch and dinner",
-          "number": "72",
-          "section": "See also:",
-          "visual_context": "Reference listed in the boxed “See also:” panel.",
-          "semantic_meaning": null
-        },
+          "number": "72"
+        }
+      ],
+      "entries": [
         {
           "source_text": "collards",
           "number": "6",

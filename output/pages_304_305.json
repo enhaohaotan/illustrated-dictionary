@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 304,
-      "title": "Geography continued",
-      "context": "147.1 COASTAL FEATURES",
+      "title": "147 Geography continued",
+      "see_also": [],
       "entries": [
         {
           "source_text": "ocean",
@@ -149,8 +149,25 @@
     },
     {
       "page": 305,
-      "title": null,
-      "context": "147.1 COASTAL FEATURES; 147.2 RIVER FEATURES",
+      "title": "147 Geography continued",
+      "see_also": [
+        {
+          "source_text": "Outdoor activities",
+          "number": "133"
+        },
+        {
+          "source_text": "Planet Earth",
+          "number": "145"
+        },
+        {
+          "source_text": "Maps and directions",
+          "number": "148"
+        },
+        {
+          "source_text": "Countries",
+          "number": "149-151"
+        }
+      ],
       "entries": [
         {
           "source_text": "marsh",

@@ -2,272 +2,272 @@
   "pages": [
     {
       "page": 224,
-      "title": "American football",
-      "context": "107.1 AMERICAN FOOTBALL",
+      "title": "107 American football",
+      "see_also": [],
       "entries": [
         {
           "source_text": "left cornerback",
           "number": "1",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Blue X position in the defensive formation diagram.",
           "semantic_meaning": "Defensive back position."
         },
         {
           "source_text": "outside linebacker",
           "number": "2",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Blue X position in the defensive formation diagram.",
           "semantic_meaning": "Defensive position."
         },
         {
           "source_text": "left defensive end",
           "number": "3",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Blue X position in the defensive formation diagram.",
           "semantic_meaning": "Defensive line position."
         },
         {
           "source_text": "left safety",
           "number": "4",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Blue X position in the defensive formation diagram.",
           "semantic_meaning": "Defensive back position."
         },
         {
           "source_text": "left defensive tackle",
           "number": "5",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Blue X position in the defensive formation diagram.",
           "semantic_meaning": "Defensive line position."
         },
         {
           "source_text": "middle linebacker",
           "number": "6",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Blue X position in the defensive formation diagram.",
           "semantic_meaning": "Defensive position."
         },
         {
           "source_text": "right defensive tackle",
           "number": "7",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Blue X position in the defensive formation diagram.",
           "semantic_meaning": "Defensive line position."
         },
         {
           "source_text": "right safety",
           "number": "8",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Blue X position in the defensive formation diagram.",
           "semantic_meaning": "Defensive back position."
         },
         {
           "source_text": "right defensive end",
           "number": "9",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Blue X position in the defensive formation diagram.",
           "semantic_meaning": "Defensive line position."
         },
         {
           "source_text": "outside linebacker",
           "number": "10",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Blue X position in the defensive formation diagram.",
           "semantic_meaning": "Defensive position."
         },
         {
           "source_text": "right cornerback",
           "number": "11",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Blue X position in the defensive formation diagram.",
           "semantic_meaning": "Defensive back position."
         },
         {
           "source_text": "wide receiver",
           "number": "12",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Red O position in the offensive formation diagram.",
           "semantic_meaning": "Offensive pass-catching position."
         },
         {
           "source_text": "right tackle",
           "number": "13",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Red O position in the offensive formation diagram.",
           "semantic_meaning": "Offensive line position."
         },
         {
           "source_text": "right guard",
           "number": "14",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Red O position in the offensive formation diagram.",
           "semantic_meaning": "Offensive line position."
         },
         {
           "source_text": "running back / halfback",
           "number": "15",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Red O position behind the offensive line.",
           "semantic_meaning": "Offensive backfield position."
         },
         {
           "source_text": "fullback",
           "number": "16",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Red O position in the offensive backfield.",
           "semantic_meaning": "Offensive backfield position."
         },
         {
           "source_text": "quarterback",
           "number": "17",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Red O position behind the offensive line.",
           "semantic_meaning": "Player who directs the offense."
         },
         {
           "source_text": "center (US)\ncentre (UK)",
           "number": "18",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Red O at the middle of the offensive line.",
           "semantic_meaning": "Player who snaps the ball."
         },
         {
           "source_text": "left guard",
           "number": "19",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Red O position in the offensive line.",
           "semantic_meaning": "Offensive line position."
         },
         {
           "source_text": "left tackle",
           "number": "20",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Red O position in the offensive line.",
           "semantic_meaning": "Offensive line position."
         },
         {
           "source_text": "wide receiver",
           "number": "21",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Red O position in the offensive formation.",
           "semantic_meaning": "Offensive pass-catching position."
         },
         {
           "source_text": "wide receiver",
           "number": "22",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Red O position in the offensive formation.",
           "semantic_meaning": "Offensive pass-catching position."
         },
         {
           "source_text": "American\nfootball\npositions",
           "number": "23",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Key for the formation diagram.",
           "semantic_meaning": "Diagram of player positions."
         },
         {
           "source_text": "defense (US)\ndefence (UK)",
           "number": "24",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Blue X symbol in the formation key.",
           "semantic_meaning": "Team attempting to stop the opposing team from scoring."
         },
         {
           "source_text": "offense (US)\noffence (UK)",
           "number": "25",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Red O symbol in the formation key.",
           "semantic_meaning": "Team attempting to score."
         },
         {
           "source_text": "fans",
           "number": "26",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Crowd in the stadium stands.",
           "semantic_meaning": "Spectators."
         },
         {
           "source_text": "end zone",
           "number": "27",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Scoring area at the end of the field.",
           "semantic_meaning": "Area where a touchdown is scored."
         },
         {
           "source_text": "neutral\nzone",
           "number": "28",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Orange strip between the teams at the line of scrimmage.",
           "semantic_meaning": "Area between the opposing lines before a play."
         },
         {
           "source_text": "referee",
           "number": "29",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Striped official standing on the field.",
           "semantic_meaning": "Game official."
         },
         {
           "source_text": "end line",
           "number": "30",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Boundary line at the back of the end zone.",
           "semantic_meaning": "End boundary of the field."
         },
         {
           "source_text": "yard line",
           "number": "31",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "White transverse line across the field.",
           "semantic_meaning": "Line marking field distance in yards."
         },
         {
           "source_text": "field / pitch",
           "number": "32",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "The playing surface in the stadium illustration.",
           "semantic_meaning": "Playing area."
         },
         {
           "source_text": "fifty-yard line",
           "number": "33",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Central line of the field.",
           "semantic_meaning": "Midfield line."
         },
         {
           "source_text": "hash marks",
           "number": "34",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Short white marks inside the field near a yard line.",
           "semantic_meaning": "Marks indicating where the ball may be placed."
         },
         {
           "source_text": "goal line",
           "number": "35",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "White line at the front of the end zone.",
           "semantic_meaning": "Line a ball must cross to score."
         },
         {
           "source_text": "sideline",
           "number": "36",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Long boundary line along the side of the field.",
           "semantic_meaning": "Side boundary of the field."
         },
         {
           "source_text": "goalpost",
           "number": "37",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "White H-shaped structure at the end of the field.",
           "semantic_meaning": "Structure used for kicking goals."
         },
         {
           "source_text": "players’\nbench",
           "number": "38",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Bench area beside the field, behind the sideline.",
           "semantic_meaning": "Area where non-playing team members sit."
         }
@@ -275,279 +275,271 @@
     },
     {
       "page": 225,
-      "title": null,
-      "context": "AMERICAN FOOTBALL",
-      "entries": [
+      "title": "107 American football",
+      "see_also": [
         {
           "source_text": "Rugby",
-          "number": "108",
-          "section": "See also:",
-          "visual_context": "Cross-reference in the see-also box.",
-          "semantic_meaning": "Related sports topic."
+          "number": "108"
         },
         {
           "source_text": "Soccer / Football",
-          "number": "109",
-          "section": "See also:",
-          "visual_context": "Cross-reference in the see-also box.",
-          "semantic_meaning": "Related sports topic."
+          "number": "109"
         },
         {
           "source_text": "Hockey and lacrosse",
-          "number": "110",
-          "section": "See also:",
-          "visual_context": "Cross-reference in the see-also box.",
-          "semantic_meaning": "Related sports topic."
-        },
+          "number": "110"
+        }
+      ],
+      "entries": [
         {
           "source_text": "chin strap",
           "number": "39",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Strap below the helmet on the player.",
           "semantic_meaning": "Helmet strap securing under the chin."
         },
         {
           "source_text": "helmet",
           "number": "40",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Protective headgear worn by the player.",
           "semantic_meaning": "Protective headgear."
         },
         {
           "source_text": "neck pad",
           "number": "41",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Red pad at the base of the helmet.",
           "semantic_meaning": "Protective padding for the neck."
         },
         {
           "source_text": "face mask",
           "number": "42",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Metal grille across the player’s face.",
           "semantic_meaning": "Protective helmet grille."
         },
         {
           "source_text": "shoulder\npad",
           "number": "43",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Padding at the player’s shoulder.",
           "semantic_meaning": "Protective shoulder equipment."
         },
         {
           "source_text": "team\njersey",
           "number": "44",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Orange numbered shirt worn by the player.",
           "semantic_meaning": "Team uniform shirt."
         },
         {
           "source_text": "player’s\nnumber",
           "number": "45",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Number 96 printed on the jersey.",
           "semantic_meaning": "Identifying uniform number."
         },
         {
           "source_text": "elbow\npads",
           "number": "46",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Protective pads around the player’s elbows.",
           "semantic_meaning": "Protective elbow equipment."
         },
         {
           "source_text": "wrist\nband",
           "number": "47",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "White band around the player’s wrist.",
           "semantic_meaning": "Band worn on the wrist."
         },
         {
           "source_text": "gloves",
           "number": "48",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Gloves on the player’s hands.",
           "semantic_meaning": "Handwear."
         },
         {
           "source_text": "hip, thigh, and\nknee pads",
           "number": "49",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Protective pads beneath the player’s pants.",
           "semantic_meaning": "Lower-body protective padding."
         },
         {
           "source_text": "pants",
           "number": "50",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Dark uniform pants worn by the player.",
           "semantic_meaning": "Uniform leg garment."
         },
         {
           "source_text": "soccer cleats (US)\nfootball boots (UK)",
           "number": "51",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Studded footwear on the player.",
           "semantic_meaning": "Studded sports shoes."
         },
         {
           "source_text": "sock",
           "number": "52",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Orange leg covering above the shoe.",
           "semantic_meaning": "Foot and lower-leg garment."
         },
         {
           "source_text": "football player",
           "number": "53",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Full illustrated player in uniform.",
           "semantic_meaning": "Person who plays American football."
         },
         {
           "source_text": "mouth guard",
           "number": "54",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Small protective device shown above the action icons.",
           "semantic_meaning": "Protective device worn in the mouth."
         },
         {
           "source_text": "chest\nprotector",
           "number": "55",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Protective chest equipment icon.",
           "semantic_meaning": "Protective padding for the chest."
         },
         {
           "source_text": "team",
           "number": "56",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Group of football players.",
           "semantic_meaning": "Group of players playing together."
         },
         {
           "source_text": "to tackle",
           "number": "57",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "One player bringing another player down.",
           "semantic_meaning": "To stop an opponent by taking them to the ground."
         },
         {
           "source_text": "to pass",
           "number": "58",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Player throwing the ball to another player.",
           "semantic_meaning": "To throw the ball to a teammate."
         },
         {
           "source_text": "to catch",
           "number": "59",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Player reaching for a thrown ball.",
           "semantic_meaning": "To receive a thrown ball."
         },
         {
           "source_text": "time out",
           "number": "60",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Official making a time-out signal beside a clock.",
           "semantic_meaning": "Temporary stoppage of play."
         },
         {
           "source_text": "to gain yards",
           "number": "61",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Player running forward after evading a tackle.",
           "semantic_meaning": "To advance the ball downfield."
         },
         {
           "source_text": "to fumble",
           "number": "62",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Player dropping the ball.",
           "semantic_meaning": "To lose possession by dropping the ball."
         },
         {
           "source_text": "to throw",
           "number": "63",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Player throwing a football.",
           "semantic_meaning": "To propel the ball with the arm."
         },
         {
           "source_text": "to kick",
           "number": "64",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Player kicking a football.",
           "semantic_meaning": "To strike the ball with the foot."
         },
         {
           "source_text": "touchdown",
           "number": "65",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Player landing with the ball over a goal line.",
           "semantic_meaning": "Score made by carrying or catching the ball in the end zone."
         },
         {
           "source_text": "to chase",
           "number": "66",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "One player running after another.",
           "semantic_meaning": "To run after someone."
         },
         {
           "source_text": "cheerleader",
           "number": "67",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Person holding pom-poms.",
           "semantic_meaning": "Performer who leads crowd support."
         },
         {
           "source_text": "football",
           "number": "68",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Brown oval ball illustration.",
           "semantic_meaning": "Ball used in American football."
         },
         {
           "source_text": "leather",
           "number": "69",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Pointer to the outer material of the football.",
           "semantic_meaning": "Animal hide material."
         },
         {
           "source_text": "lace",
           "number": "70",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Pointer to the white laces on the football.",
           "semantic_meaning": "Cord used to stitch or fasten the ball."
         },
         {
           "source_text": "time",
           "number": "71",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Pointer to the game clock on the scoreboard.",
           "semantic_meaning": "Time remaining or displayed in a game."
         },
         {
           "source_text": "home",
           "number": "72",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Pointer to the home-team score area on the scoreboard.",
           "semantic_meaning": "The hosting team."
         },
         {
           "source_text": "visitor",
           "number": "73",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Pointer to the visiting-team score area on the scoreboard.",
           "semantic_meaning": "The away team."
         },
         {
           "source_text": "scoreboard",
           "number": "74",
-          "section": "AMERICAN FOOTBALL",
+          "section": "107.1 AMERICAN FOOTBALL",
           "visual_context": "Electronic board showing scores, time, and game information.",
           "semantic_meaning": "Board displaying game scores and information."
         }

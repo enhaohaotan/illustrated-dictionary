@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 274,
-      "title": "Sightseeing",
-      "context": "Chapter 132: Sightseeing",
+      "title": "132 Sightseeing",
+      "see_also": [],
       "entries": [
         {
           "source_text": "tour bus (US)\ntourist bus (UK)",
@@ -121,8 +121,25 @@
     },
     {
       "page": 275,
-      "title": "Sightseeing",
-      "context": "Chapter 132: Sightseeing",
+      "title": "132 Sightseeing",
+      "see_also": [
+        {
+          "source_text": "Cars and buses",
+          "number": "99"
+        },
+        {
+          "source_text": "Museums and galleries",
+          "number": "130"
+        },
+        {
+          "source_text": "Travel and accommodation",
+          "number": "131"
+        },
+        {
+          "source_text": "Countries",
+          "number": "149-151"
+        }
+      ],
       "entries": [
         {
           "source_text": "archeological site (US)\narchaeological site (UK)",
@@ -211,56 +228,56 @@
         {
           "source_text": "waterfront",
           "number": "10",
-          "section": null,
+          "section": "132.1 TOURIST ATTRACTION",
           "visual_context": "Illustration of a city shoreline with water and a ferry.",
           "semantic_meaning": null
         },
         {
           "source_text": "craft market",
           "number": "11",
-          "section": null,
+          "section": "132.1 TOURIST ATTRACTION",
           "visual_context": "Illustration of stalls selling handmade goods.",
           "semantic_meaning": null
         },
         {
           "source_text": "tourist office (US)\ntourist information (UK)",
           "number": "12",
-          "section": null,
+          "section": "132.1 TOURIST ATTRACTION",
           "visual_context": "Illustration of a visitor speaking to staff at an information counter.",
           "semantic_meaning": null
         },
         {
           "source_text": "Can I have some information\non the local sights?",
           "number": "13",
-          "section": null,
+          "section": "132.1 TOURIST ATTRACTION",
           "visual_context": "Speech bubble at the tourist-information counter.",
           "semantic_meaning": null
         },
         {
           "source_text": "floor plan",
           "number": "14",
-          "section": null,
+          "section": "132.1 TOURIST ATTRACTION",
           "visual_context": "Illustration of a building layout diagram.",
           "semantic_meaning": null
         },
         {
           "source_text": "map",
           "number": "15",
-          "section": null,
+          "section": "132.1 TOURIST ATTRACTION",
           "visual_context": "Illustration of two people unfolding and reading a map.",
           "semantic_meaning": null
         },
         {
           "source_text": "timetable",
           "number": "16",
-          "section": null,
+          "section": "132.1 TOURIST ATTRACTION",
           "visual_context": "Illustration of a schedule board.",
           "semantic_meaning": null
         },
         {
           "source_text": "opening\ntimes",
           "number": "17",
-          "section": null,
+          "section": "132.1 TOURIST ATTRACTION",
           "visual_context": "Pointer to the times shown on the timetable.",
           "semantic_meaning": null
         }

@@ -2,223 +2,223 @@
   "pages": [
     {
       "page": 330,
-      "title": "Birds",
-      "context": "160.1 SPECIES OF BIRDS",
+      "title": "160 Birds",
+      "see_also": [],
       "entries": [
         {
           "source_text": "green woodpecker",
           "number": "1",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Green-and-red woodpecker clinging to a tree trunk.",
           "semantic_meaning": null
         },
         {
           "source_text": "black woodpecker",
           "number": "2",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Black woodpecker on a tree trunk.",
           "semantic_meaning": null
         },
         {
           "source_text": "hummingbird",
           "number": "3",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Small colourful bird hovering beside a flower.",
           "semantic_meaning": null
         },
         {
           "source_text": "house martin",
           "number": "4",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Black-and-white bird in flight.",
           "semantic_meaning": null
         },
         {
           "source_text": "seagull",
           "number": "5",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Flying gull at the top of the page.",
           "semantic_meaning": null
         },
         {
           "source_text": "swift",
           "number": "6",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Brown bird in flight.",
           "semantic_meaning": null
         },
         {
           "source_text": "sand martin",
           "number": "7",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Small pale-and-brown bird in flight.",
           "semantic_meaning": null
         },
         {
           "source_text": "Arctic tern",
           "number": "8",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Pale grey seabird in flight.",
           "semantic_meaning": null
         },
         {
           "source_text": "pileated woodpecker",
           "number": "9",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Black woodpecker with red crest on a trunk.",
           "semantic_meaning": null
         },
         {
           "source_text": "greater spotted woodpecker",
           "number": "10",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Black-and-white, red-marked woodpecker on a trunk.",
           "semantic_meaning": null
         },
         {
           "source_text": "tail",
           "number": "11",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Pointer indicates the long forked tail of the swallow.",
           "semantic_meaning": "rear feathers of a bird"
         },
         {
           "source_text": "swallow",
           "number": "12",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Blue-and-white bird with red throat in flight.",
           "semantic_meaning": null
         },
         {
           "source_text": "canary",
           "number": "13",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Small yellow perched bird.",
           "semantic_meaning": null
         },
         {
           "source_text": "budgerigar",
           "number": "14",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Green-and-yellow parakeet-like bird.",
           "semantic_meaning": null
         },
         {
           "source_text": "starling",
           "number": "15",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Dark speckled standing bird.",
           "semantic_meaning": null
         },
         {
           "source_text": "nightingale",
           "number": "16",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Small brown singing bird.",
           "semantic_meaning": null
         },
         {
           "source_text": "weaverbird",
           "number": "17",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Small yellow-and-grey bird.",
           "semantic_meaning": null
         },
         {
           "source_text": "vermilion flycatcher",
           "number": "18",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Orange-and-brown bird with a red crest.",
           "semantic_meaning": null
         },
         {
           "source_text": "albatross",
           "number": "19",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Large white seabird with long dark-edged wings in flight.",
           "semantic_meaning": null
         },
         {
           "source_text": "frigate",
           "number": "20",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Large black long-winged seabird with red throat pouch.",
           "semantic_meaning": null
         },
         {
           "source_text": "golden eagle",
           "number": "21",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Brown eagle flying with spread wings.",
           "semantic_meaning": null
         },
         {
           "source_text": "bald eagle",
           "number": "22",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Dark eagle with white head and tail.",
           "semantic_meaning": null
         },
         {
           "source_text": "osprey",
           "number": "23",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Brown-and-white raptor perched on a branch.",
           "semantic_meaning": null
         },
         {
           "source_text": "cormorant",
           "number": "24",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Black waterbird standing with wings spread.",
           "semantic_meaning": null
         },
         {
           "source_text": "gannet",
           "number": "25",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "White seabird with pale yellow head.",
           "semantic_meaning": null
         },
         {
           "source_text": "Andean condor",
           "number": "26",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Large black-and-white condor in flight.",
           "semantic_meaning": null
         },
         {
           "source_text": "peregrine falcon",
           "number": "27",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Pale-and-blue falcon in flight.",
           "semantic_meaning": null
         },
         {
           "source_text": "vulture",
           "number": "28",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Large brown scavenging bird.",
           "semantic_meaning": null
         },
         {
           "source_text": "harpy eagle",
           "number": "29",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Grey crested eagle perched on a branch.",
           "semantic_meaning": null
         },
         {
           "source_text": "guillemot",
           "number": "30",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Black-and-white seabird with red feet.",
           "semantic_meaning": null
         },
         {
           "source_text": "Atlantic puffin",
           "number": "31",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Black-and-white seabird with a colourful beak.",
           "semantic_meaning": null
         }
@@ -226,223 +226,236 @@
     },
     {
       "page": 331,
-      "title": "Birds",
-      "context": "160.1 SPECIES OF BIRDS (continued)",
+      "title": "160 Birds",
+      "see_also": [
+        {
+          "source_text": "Natural history",
+          "number": "157"
+        },
+        {
+          "source_text": "Birds (continued)",
+          "number": "161"
+        },
+        {
+          "source_text": "Farm animals",
+          "number": "165"
+        }
+      ],
       "entries": [
         {
           "source_text": "emerald toucan",
           "number": "32",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Green toucan perched on a branch.",
           "semantic_meaning": null
         },
         {
           "source_text": "toco toucan",
           "number": "33",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Large black toucan with oversized orange bill.",
           "semantic_meaning": null
         },
         {
           "source_text": "European robin",
           "number": "34",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Small brown bird with orange breast.",
           "semantic_meaning": null
         },
         {
           "source_text": "wren",
           "number": "35",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Small brown bird in flight.",
           "semantic_meaning": null
         },
         {
           "source_text": "sparrow",
           "number": "36",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Small brown-and-grey bird beside a nest.",
           "semantic_meaning": null
         },
         {
           "source_text": "nest",
           "number": "37",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Woven nest containing eggs beside the sparrow.",
           "semantic_meaning": "bird's structure for laying and incubating eggs"
         },
         {
           "source_text": "scarlet ibis",
           "number": "38",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Bright red long-billed wading bird.",
           "semantic_meaning": null
         },
         {
           "source_text": "sacred ibis",
           "number": "39",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "White wading bird with black head, bill, and legs.",
           "semantic_meaning": null
         },
         {
           "source_text": "finch",
           "number": "40",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Several small finches perched on a leafy branch.",
           "semantic_meaning": null
         },
         {
           "source_text": "pigeon",
           "number": "41",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Grey pigeon standing.",
           "semantic_meaning": null
         },
         {
           "source_text": "blackbird",
           "number": "42",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Black bird with yellow bill and legs.",
           "semantic_meaning": null
         },
         {
           "source_text": "rook",
           "number": "43",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Large black corvid standing.",
           "semantic_meaning": null
         },
         {
           "source_text": "crow",
           "number": "44",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Dark crow with smaller flying silhouettes above it.",
           "semantic_meaning": null
         },
         {
           "source_text": "thrush",
           "number": "45",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Small grey bird in flight.",
           "semantic_meaning": null
         },
         {
           "source_text": "raven",
           "number": "46",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Large dark raven standing.",
           "semantic_meaning": null
         },
         {
           "source_text": "bird of paradise",
           "number": "47",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Colourful bird with long yellow-and-white display plumes.",
           "semantic_meaning": null
         },
         {
           "source_text": "pelican",
           "number": "48",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Large white bird with a yellow throat pouch.",
           "semantic_meaning": null
         },
         {
           "source_text": "oystercatcher",
           "number": "49",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Black-and-white shorebird with long orange bill and pink legs.",
           "semantic_meaning": null
         },
         {
           "source_text": "kingfisher",
           "number": "50",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Bright blue bird diving into water with a fish.",
           "semantic_meaning": null
         },
         {
           "source_text": "kookaburra",
           "number": "51",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Stocky multicoloured bird perched with prey.",
           "semantic_meaning": null
         },
         {
           "source_text": "stork",
           "number": "52",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "White-and-black long-legged bird with red bill.",
           "semantic_meaning": null
         },
         {
           "source_text": "heron",
           "number": "53",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Grey long-legged bird flying.",
           "semantic_meaning": null
         },
         {
           "source_text": "Egyptian goose",
           "number": "54",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Brown-and-cream goose standing.",
           "semantic_meaning": null
         },
         {
           "source_text": "Canada goose",
           "number": "55",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Flying goose with black neck and head.",
           "semantic_meaning": null
         },
         {
           "source_text": "snow goose",
           "number": "56",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "White goose with orange feet.",
           "semantic_meaning": null
         },
         {
           "source_text": "crane",
           "number": "57",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Very tall grey long-legged bird.",
           "semantic_meaning": null
         },
         {
           "source_text": "flamingo",
           "number": "58",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Pink bird standing on one leg.",
           "semantic_meaning": null
         },
         {
           "source_text": "ostrich",
           "number": "59",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Large flightless black-and-white bird with long neck and legs.",
           "semantic_meaning": null
         },
         {
           "source_text": "kiwi",
           "number": "60",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Small round brown flightless bird with a long bill.",
           "semantic_meaning": null
         },
         {
           "source_text": "cassowary",
           "number": "61",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Large dark flightless bird with blue neck and casque.",
           "semantic_meaning": null
         },
         {
           "source_text": "emu",
           "number": "62",
-          "section": "SPECIES OF BIRDS",
+          "section": "160.1 SPECIES OF BIRDS",
           "visual_context": "Large shaggy brown flightless bird.",
           "semantic_meaning": null
         }

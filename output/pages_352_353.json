@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 352,
-      "title": "Time",
-      "context": "171.1 TELLING THE TIME; 171.2 PARTS OF THE DAY",
+      "title": "171 Time",
+      "see_also": [],
       "entries": [
         {
           "source_text": "What time is it?",
@@ -170,8 +170,21 @@
     },
     {
       "page": 353,
-      "title": "Time",
-      "context": "171.1 TELLING THE TIME; 171.2 PARTS OF THE DAY",
+      "title": "171 Time",
+      "see_also": [
+        {
+          "source_text": "The calendar",
+          "number": "172"
+        },
+        {
+          "source_text": "Numbers",
+          "number": "173"
+        },
+        {
+          "source_text": "Weights and measures",
+          "number": "174"
+        }
+      ],
       "entries": [
         {
           "source_text": "twenty minutes",

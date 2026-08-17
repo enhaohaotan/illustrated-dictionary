@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 220,
-      "title": "Sea vessels",
-      "context": "105 Sea vessels",
+      "title": "105 Sea vessels",
+      "see_also": [],
       "entries": [
         {
           "source_text": "prow",
@@ -184,8 +184,21 @@
     },
     {
       "page": 221,
-      "title": "Sea vessels",
-      "context": "Continuation of 105.1 SHIP and 105.2 OTHER BOATS AND SHIPS",
+      "title": "105 Sea vessels",
+      "see_also": [
+        {
+          "source_text": "The port",
+          "number": "106"
+        },
+        {
+          "source_text": "Sailing and watersports",
+          "number": "119"
+        },
+        {
+          "source_text": "Travel and accommodation",
+          "number": "131"
+        }
+      ],
       "entries": [
         {
           "source_text": "funnel",

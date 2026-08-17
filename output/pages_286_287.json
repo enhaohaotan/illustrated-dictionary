@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 286,
-      "title": "Books and reading",
-      "context": null,
+      "title": "138 Books and reading",
+      "see_also": [],
       "entries": [
         {
           "source_text": "illustration",
@@ -219,8 +219,25 @@
     },
     {
       "page": 287,
-      "title": "Books and reading",
-      "context": "Continuation of 138.1 BOOKS and 138.2 READING AND GENRES.",
+      "title": "138 Books and reading",
+      "see_also": [
+        {
+          "source_text": "Movies / Films",
+          "number": "127"
+        },
+        {
+          "source_text": "Home entertainment",
+          "number": "136"
+        },
+        {
+          "source_text": "Fantasy and myth",
+          "number": "139"
+        },
+        {
+          "source_text": "Writing",
+          "number": "175"
+        }
+      ],
       "entries": [
         {
           "source_text": "title",

@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 84,
-      "title": "Tools",
-      "context": null,
+      "title": "36 Tools",
+      "see_also": [],
       "entries": [
         {
           "source_text": "monkey wrench",
@@ -114,8 +114,25 @@
     },
     {
       "page": 85,
-      "title": "Tools",
-      "context": null,
+      "title": "36 Tools",
+      "see_also": [
+        {
+          "source_text": "Electrics and plumbing",
+          "number": "33"
+        },
+        {
+          "source_text": "Home improvements",
+          "number": "35"
+        },
+        {
+          "source_text": "Decorating",
+          "number": "37"
+        },
+        {
+          "source_text": "Construction",
+          "number": "87"
+        }
+      ],
       "entries": [
         {
           "source_text": "tool belt",

@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 112,
-      "title": "Emergency services",
-      "context": null,
+      "title": "50 Emergency services",
+      "see_also": [],
       "entries": [
         {
           "source_text": "paramedic",
@@ -233,30 +233,22 @@
     },
     {
       "page": 113,
-      "title": "Emergency services",
-      "context": null,
-      "entries": [
+      "title": "50 Emergency services",
+      "see_also": [
         {
           "source_text": "Illness and injury",
-          "number": "19",
-          "section": "See also:",
-          "visual_context": "Cross-reference in the See also box.",
-          "semantic_meaning": null
+          "number": "19"
         },
         {
           "source_text": "The hospital",
-          "number": "21",
-          "section": "See also:",
-          "visual_context": "Cross-reference in the See also box.",
-          "semantic_meaning": null
+          "number": "21"
         },
         {
           "source_text": "Law",
-          "number": "85",
-          "section": "See also:",
-          "visual_context": "Cross-reference in the See also box.",
-          "semantic_meaning": null
-        },
+          "number": "85"
+        }
+      ],
+      "entries": [
         {
           "source_text": "radar speed gun",
           "number": "1",

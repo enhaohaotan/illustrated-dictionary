@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 190,
-      "title": "Jobs continued",
-      "context": "90.1 OCCUPATIONS",
+      "title": "90 Jobs continued",
+      "see_also": [],
       "entries": [
         {
           "source_text": "security guard",
@@ -212,8 +212,33 @@
     },
     {
       "page": 191,
-      "title": "Jobs continued",
-      "context": "90.1 OCCUPATIONS; see also: 81 At work, 82 In the office, 91 Industries and departments, 92 Applying for a job, 93 Workplace skills, 95 Meeting and presenting",
+      "title": "90 Jobs continued",
+      "see_also": [
+        {
+          "source_text": "At work",
+          "number": "81"
+        },
+        {
+          "source_text": "In the office",
+          "number": "82"
+        },
+        {
+          "source_text": "Industries and departments",
+          "number": "91"
+        },
+        {
+          "source_text": "Applying for a job",
+          "number": "92"
+        },
+        {
+          "source_text": "Workplace skills",
+          "number": "93"
+        },
+        {
+          "source_text": "Meeting and presenting",
+          "number": "95"
+        }
+      ],
       "entries": [
         {
           "source_text": "anesthesiologist (US) / anaesthetist (UK)",

@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 72,
-      "title": "Bedroom",
-      "context": "30.1 BEDROOM",
+      "title": "30 Bedroom",
+      "see_also": [],
       "entries": [
         {
           "source_text": "coat hanger",
@@ -184,8 +184,25 @@
     },
     {
       "page": 73,
-      "title": "Bedroom; Nursery",
-      "context": "30.1 BEDROOM; 30.2 NURSERY",
+      "title": "30 Bedroom",
+      "see_also": [
+        {
+          "source_text": "Pregnancy and childhood",
+          "number": "08"
+        },
+        {
+          "source_text": "Clothes",
+          "number": "13-15"
+        },
+        {
+          "source_text": "A place to live",
+          "number": "25"
+        },
+        {
+          "source_text": "House and home",
+          "number": "32"
+        }
+      ],
       "entries": [
         {
           "source_text": "mattress",

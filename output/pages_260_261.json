@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 260,
-      "title": "Other sports",
-      "context": "Sections 125.1 GYMNASTICS and 125.2 OTHER SPORTS.",
+      "title": "125 Other sports",
+      "see_also": [],
       "entries": [
         {
           "source_text": "floor mat",
@@ -212,8 +212,33 @@
     },
     {
       "page": 261,
-      "title": null,
-      "context": "Section 125.3 PARASPORTS, followed by the continuation of 125.2 OTHER SPORTS.",
+      "title": "125 Other sports",
+      "see_also": [
+        {
+          "source_text": "Athletics",
+          "number": "116"
+        },
+        {
+          "source_text": "Combat sports",
+          "number": "117"
+        },
+        {
+          "source_text": "Swimming",
+          "number": "118"
+        },
+        {
+          "source_text": "Horse riding",
+          "number": "120"
+        },
+        {
+          "source_text": "Winter sports",
+          "number": "122"
+        },
+        {
+          "source_text": "At the gym",
+          "number": "124"
+        }
+      ],
       "entries": [
         {
           "source_text": "wheelchair basketball",
@@ -409,48 +434,6 @@
           "number": "38",
           "section": "125.2 OTHER SPORTS",
           "visual_context": "Pointer to the parachute canopy above the person.",
-          "semantic_meaning": null
-        },
-        {
-          "source_text": "Athletics",
-          "number": "116",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the See also box.",
-          "semantic_meaning": null
-        },
-        {
-          "source_text": "Combat sports",
-          "number": "117",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the See also box.",
-          "semantic_meaning": null
-        },
-        {
-          "source_text": "Swimming",
-          "number": "118",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the See also box.",
-          "semantic_meaning": null
-        },
-        {
-          "source_text": "Horse riding",
-          "number": "120",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the See also box.",
-          "semantic_meaning": null
-        },
-        {
-          "source_text": "Winter sports",
-          "number": "122",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the See also box.",
-          "semantic_meaning": null
-        },
-        {
-          "source_text": "At the gym",
-          "number": "124",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the See also box.",
           "semantic_meaning": null
         }
       ]

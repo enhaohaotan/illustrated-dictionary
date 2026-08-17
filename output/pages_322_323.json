@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 322,
-      "title": "Rocks and minerals",
-      "context": null,
+      "title": "156 Rocks and minerals",
+      "see_also": [],
       "entries": [
         {
           "source_text": "sedimentary",
@@ -219,8 +219,25 @@
     },
     {
       "page": 323,
-      "title": "Rocks and minerals",
-      "context": "See also: 76 Chemistry; 78 The periodic table; 145 Planet Earth; 146-147 Geography",
+      "title": "156 Rocks and minerals",
+      "see_also": [
+        {
+          "source_text": "Chemistry",
+          "number": "76"
+        },
+        {
+          "source_text": "The periodic table",
+          "number": "78"
+        },
+        {
+          "source_text": "Planet Earth",
+          "number": "145"
+        },
+        {
+          "source_text": "Geography",
+          "number": "146-147"
+        }
+      ],
       "entries": [
         {
           "source_text": "diamond",

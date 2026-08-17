@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 360,
-      "title": "Writing",
-      "context": "175.1 WRITING AND WRITING EQUIPMENT",
+      "title": "175 Writing",
+      "see_also": [],
       "entries": [
         {
           "source_text": "highlighter pen",
@@ -184,8 +184,17 @@
     },
     {
       "page": 361,
-      "title": "Writing",
-      "context": "175.1 WRITING AND WRITING EQUIPMENT",
+      "title": "175 Writing",
+      "see_also": [
+        {
+          "source_text": "At school",
+          "number": "73"
+        },
+        {
+          "source_text": "Books and reading",
+          "number": "138"
+        }
+      ],
       "entries": [
         {
           "source_text": "semicolon",

@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 332,
-      "title": "Birds continued",
-      "context": "161.1 SPECIES OF BIRDS",
+      "title": "161 Birds continued",
+      "see_also": [],
       "entries": [
         {
           "source_text": "galah",
@@ -191,8 +191,17 @@
     },
     {
       "page": 333,
-      "title": null,
-      "context": "161.1 SPECIES OF BIRDS; 161.2 VERBS",
+      "title": "161 Birds continued",
+      "see_also": [
+        {
+          "source_text": "Natural history",
+          "number": "157"
+        },
+        {
+          "source_text": "Farm animals",
+          "number": "165"
+        }
+      ],
       "entries": [
         {
           "source_text": "cockatoo",

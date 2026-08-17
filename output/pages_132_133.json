@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 132,
-      "title": "In the pantry",
-      "context": null,
+      "title": "60 In the pantry",
+      "see_also": [],
       "entries": [
         {
           "source_text": "oil",
@@ -233,8 +233,37 @@
     },
     {
       "page": 133,
-      "title": "In the pantry",
-      "context": null,
+      "title": "60 In the pantry",
+      "see_also": [
+        {
+          "source_text": "Kitchen and tableware",
+          "number": "27"
+        },
+        {
+          "source_text": "Cooking",
+          "number": "29"
+        },
+        {
+          "source_text": "Drinking and eating",
+          "number": "52"
+        },
+        {
+          "source_text": "Meat",
+          "number": "53"
+        },
+        {
+          "source_text": "Vegetables",
+          "number": "55-56"
+        },
+        {
+          "source_text": "At the café",
+          "number": "65-66"
+        },
+        {
+          "source_text": "At the restaurant",
+          "number": "69"
+        }
+      ],
       "entries": [
         {
           "source_text": "chutney",

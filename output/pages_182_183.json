@@ -2,174 +2,174 @@
   "pages": [
     {
       "page": 182,
-      "title": "Farming",
-      "context": null,
+      "title": "86 Farming",
+      "see_also": [],
       "entries": [
         {
           "source_text": "hedge",
           "number": "1",
-          "section": "ON THE FARM",
+          "section": "86.1 ON THE FARM",
           "visual_context": "Pointer to the line of bushes beside the field.",
           "semantic_meaning": null
         },
         {
           "source_text": "barn",
           "number": "2",
-          "section": "ON THE FARM",
+          "section": "86.1 ON THE FARM",
           "visual_context": "Pointer to the red farm building.",
           "semantic_meaning": null
         },
         {
           "source_text": "tractor",
           "number": "3",
-          "section": "ON THE FARM",
+          "section": "86.1 ON THE FARM",
           "visual_context": "Pointer to the tractor working in the field.",
           "semantic_meaning": null
         },
         {
           "source_text": "farmland",
           "number": "4",
-          "section": "ON THE FARM",
+          "section": "86.1 ON THE FARM",
           "visual_context": "Pointer to the cultivated fields.",
           "semantic_meaning": null
         },
         {
           "source_text": "silo",
           "number": "5",
-          "section": "ON THE FARM",
+          "section": "86.1 ON THE FARM",
           "visual_context": "Pointer to the tall cylindrical grain-storage buildings.",
           "semantic_meaning": null
         },
         {
           "source_text": "scarecrow",
           "number": "6",
-          "section": "ON THE FARM",
+          "section": "86.1 ON THE FARM",
           "visual_context": "Pointer to the figure standing in the field.",
           "semantic_meaning": null
         },
         {
           "source_text": "combine harvester",
           "number": "7",
-          "section": "ON THE FARM",
+          "section": "86.1 ON THE FARM",
           "visual_context": "Pointer to the red harvesting machine.",
           "semantic_meaning": null
         },
         {
           "source_text": "farmhouse",
           "number": "8",
-          "section": "ON THE FARM",
+          "section": "86.1 ON THE FARM",
           "visual_context": "Pointer to the white house.",
           "semantic_meaning": null
         },
         {
           "source_text": "stable",
           "number": "9",
-          "section": "ON THE FARM",
+          "section": "86.1 ON THE FARM",
           "visual_context": "Pointer to the horse shelter at lower right.",
           "semantic_meaning": null
         },
         {
           "source_text": "pond",
           "number": "10",
-          "section": "ON THE FARM",
+          "section": "86.1 ON THE FARM",
           "visual_context": "Pointer to the small body of water with ducks.",
           "semantic_meaning": null
         },
         {
           "source_text": "fence",
           "number": "11",
-          "section": "ON THE FARM",
+          "section": "86.1 ON THE FARM",
           "visual_context": "Pointer to the wooden field boundary.",
           "semantic_meaning": null
         },
         {
           "source_text": "chicken coop",
           "number": "12",
-          "section": "ON THE FARM",
+          "section": "86.1 ON THE FARM",
           "visual_context": "Pointer to the small chicken house.",
           "semantic_meaning": null
         },
         {
           "source_text": "pasture",
           "number": "13",
-          "section": "ON THE FARM",
+          "section": "86.1 ON THE FARM",
           "visual_context": "Pointer to the grazing field.",
           "semantic_meaning": null
         },
         {
           "source_text": "farmyard",
           "number": "14",
-          "section": "ON THE FARM",
+          "section": "86.1 ON THE FARM",
           "visual_context": "Pointer to the open farm area around the buildings.",
           "semantic_meaning": null
         },
         {
           "source_text": "beehive",
           "number": "15",
-          "section": "ON THE FARM",
+          "section": "86.1 ON THE FARM",
           "visual_context": "Pointer to the white hive with bees.",
           "semantic_meaning": null
         },
         {
           "source_text": "pigpen",
           "number": "16",
-          "section": "ON THE FARM",
+          "section": "86.1 ON THE FARM",
           "visual_context": "Pointer to the fenced enclosure containing pigs.",
           "semantic_meaning": null
         },
         {
           "source_text": "farmer",
           "number": "17",
-          "section": "ON THE FARM",
+          "section": "86.1 ON THE FARM",
           "visual_context": "Pointer to the person carrying hay.",
           "semantic_meaning": null
         },
         {
           "source_text": "gate",
           "number": "18",
-          "section": "ON THE FARM",
+          "section": "86.1 ON THE FARM",
           "visual_context": "Pointer to the wooden field gate.",
           "semantic_meaning": null
         },
         {
           "source_text": "to plow (US) to plough (UK)",
           "number": "1",
-          "section": "FARMING VERBS",
+          "section": "86.2 FARMING VERBS",
           "visual_context": "Illustration of a tractor turning over soil.",
           "semantic_meaning": "US and UK alternatives for preparing soil with a plow."
         },
         {
           "source_text": "to sow",
           "number": "2",
-          "section": "FARMING VERBS",
+          "section": "86.2 FARMING VERBS",
           "visual_context": "Illustration of a person scattering seeds in rows.",
           "semantic_meaning": null
         },
         {
           "source_text": "to milk",
           "number": "3",
-          "section": "FARMING VERBS",
+          "section": "86.2 FARMING VERBS",
           "visual_context": "Illustration of a person milking a cow.",
           "semantic_meaning": null
         },
         {
           "source_text": "to feed",
           "number": "4",
-          "section": "FARMING VERBS",
+          "section": "86.2 FARMING VERBS",
           "visual_context": "Illustration of a person feeding a cow.",
           "semantic_meaning": null
         },
         {
           "source_text": "to plant",
           "number": "5",
-          "section": "FARMING VERBS",
+          "section": "86.2 FARMING VERBS",
           "visual_context": "Illustration of a person placing a young plant in soil.",
           "semantic_meaning": null
         },
         {
           "source_text": "to harvest",
           "number": "6",
-          "section": "FARMING VERBS",
+          "section": "86.2 FARMING VERBS",
           "visual_context": "Illustration of a person gathering mature crops.",
           "semantic_meaning": null
         }
@@ -177,216 +177,241 @@
     },
     {
       "page": 183,
-      "title": null,
-      "context": null,
+      "title": "86 Farming",
+      "see_also": [
+        {
+          "source_text": "Meat",
+          "number": "53"
+        },
+        {
+          "source_text": "Vegetables",
+          "number": "55-56"
+        },
+        {
+          "source_text": "Fruit",
+          "number": "57"
+        },
+        {
+          "source_text": "Fruit and nuts",
+          "number": "58"
+        },
+        {
+          "source_text": "Dairy produce",
+          "number": "61"
+        },
+        {
+          "source_text": "Farm animals",
+          "number": "165"
+        }
+      ],
       "entries": [
         {
           "source_text": "arable farm",
           "number": "1",
-          "section": "FARMING TERMS",
+          "section": "86.3 FARMING TERMS",
           "visual_context": "Illustration of a tractor in a cultivated field.",
           "semantic_meaning": "A farm for growing crops."
         },
         {
           "source_text": "dairy farm",
           "number": "2",
-          "section": "FARMING TERMS",
+          "section": "86.3 FARMING TERMS",
           "visual_context": "Illustration of cows in a field.",
           "semantic_meaning": "A farm producing milk."
         },
         {
           "source_text": "sheep farm",
           "number": "3",
-          "section": "FARMING TERMS",
+          "section": "86.3 FARMING TERMS",
           "visual_context": "Illustration of sheep grazing on hills.",
           "semantic_meaning": null
         },
         {
           "source_text": "poultry farm",
           "number": "4",
-          "section": "FARMING TERMS",
+          "section": "86.3 FARMING TERMS",
           "visual_context": "Illustration of chickens and a chicken coop.",
           "semantic_meaning": null
         },
         {
           "source_text": "pig farm",
           "number": "5",
-          "section": "FARMING TERMS",
+          "section": "86.3 FARMING TERMS",
           "visual_context": "Illustration of pigs in pens.",
           "semantic_meaning": null
         },
         {
           "source_text": "fish farm",
           "number": "6",
-          "section": "FARMING TERMS",
+          "section": "86.3 FARMING TERMS",
           "visual_context": "Illustration of fish in rectangular water tanks.",
           "semantic_meaning": null
         },
         {
           "source_text": "herd",
           "number": "7",
-          "section": "FARMING TERMS",
+          "section": "86.3 FARMING TERMS",
           "visual_context": "Illustration of a group of grazing livestock.",
           "semantic_meaning": "A group of animals kept or moving together."
         },
         {
           "source_text": "fruit farm",
           "number": "8",
-          "section": "FARMING TERMS",
+          "section": "86.3 FARMING TERMS",
           "visual_context": "Illustration of apple trees laden with fruit.",
           "semantic_meaning": null
         },
         {
           "source_text": "vineyard",
           "number": "9",
-          "section": "FARMING TERMS",
+          "section": "86.3 FARMING TERMS",
           "visual_context": "Illustration of rows of grapevines.",
           "semantic_meaning": "Land where grapes are grown."
         },
         {
           "source_text": "vegetable garden / vegetable plot (UK)",
           "number": "10",
-          "section": "FARMING TERMS",
+          "section": "86.3 FARMING TERMS",
           "visual_context": "Illustration of rows of vegetables growing in soil.",
           "semantic_meaning": "A garden or plot for growing vegetables."
         },
         {
           "source_text": "herbicide",
           "number": "11",
-          "section": "FARMING TERMS",
+          "section": "86.3 FARMING TERMS",
           "visual_context": "Illustration of spray being applied to weeds.",
           "semantic_meaning": "A chemical used to kill weeds."
         },
         {
           "source_text": "pesticide",
           "number": "12",
-          "section": "FARMING TERMS",
+          "section": "86.3 FARMING TERMS",
           "visual_context": "Illustration of spray being applied to crop plants with insects.",
           "semantic_meaning": "A chemical used to kill pests."
         },
         {
           "source_text": "wheat",
           "number": "1",
-          "section": "CROPS",
+          "section": "86.4 CROPS",
           "visual_context": "Illustration of wheat stalks.",
           "semantic_meaning": null
         },
         {
           "source_text": "corn / maize (UK)",
           "number": "2",
-          "section": "CROPS",
+          "section": "86.4 CROPS",
           "visual_context": "Illustration of ears of corn.",
           "semantic_meaning": "Corn is also called maize in UK usage."
         },
         {
           "source_text": "barley",
           "number": "3",
-          "section": "CROPS",
+          "section": "86.4 CROPS",
           "visual_context": "Illustration of a barley ear.",
           "semantic_meaning": null
         },
         {
           "source_text": "rapeseed",
           "number": "4",
-          "section": "CROPS",
+          "section": "86.4 CROPS",
           "visual_context": "Illustration of yellow rapeseed flowers and seeds.",
           "semantic_meaning": null
         },
         {
           "source_text": "sunflowers",
           "number": "5",
-          "section": "CROPS",
+          "section": "86.4 CROPS",
           "visual_context": "Illustration of large yellow sunflower plants.",
           "semantic_meaning": null
         },
         {
           "source_text": "hay",
           "number": "6",
-          "section": "CROPS",
+          "section": "86.4 CROPS",
           "visual_context": "Illustration of a bale of dried grass.",
           "semantic_meaning": null
         },
         {
           "source_text": "alfalfa",
           "number": "7",
-          "section": "CROPS",
+          "section": "86.4 CROPS",
           "visual_context": "Illustration of a tied bale of alfalfa.",
           "semantic_meaning": null
         },
         {
           "source_text": "tobacco",
           "number": "8",
-          "section": "CROPS",
+          "section": "86.4 CROPS",
           "visual_context": "Illustration of tobacco leaves.",
           "semantic_meaning": null
         },
         {
           "source_text": "rice",
           "number": "9",
-          "section": "CROPS",
+          "section": "86.4 CROPS",
           "visual_context": "Illustration of rice stalks and grains.",
           "semantic_meaning": null
         },
         {
           "source_text": "tea",
           "number": "10",
-          "section": "CROPS",
+          "section": "86.4 CROPS",
           "visual_context": "Illustration of tea leaves and loose tea.",
           "semantic_meaning": null
         },
         {
           "source_text": "coffee",
           "number": "11",
-          "section": "CROPS",
+          "section": "86.4 CROPS",
           "visual_context": "Illustration of coffee beans.",
           "semantic_meaning": null
         },
         {
           "source_text": "sugar cane",
           "number": "12",
-          "section": "CROPS",
+          "section": "86.4 CROPS",
           "visual_context": "Illustration of sugar-cane stalks.",
           "semantic_meaning": null
         },
         {
           "source_text": "flax",
           "number": "13",
-          "section": "CROPS",
+          "section": "86.4 CROPS",
           "visual_context": "Illustration of flax flowers and seeds.",
           "semantic_meaning": null
         },
         {
           "source_text": "cotton",
           "number": "14",
-          "section": "CROPS",
+          "section": "86.4 CROPS",
           "visual_context": "Illustration of cotton bolls on branches.",
           "semantic_meaning": null
         },
         {
           "source_text": "potatoes",
           "number": "15",
-          "section": "CROPS",
+          "section": "86.4 CROPS",
           "visual_context": "Illustration of potatoes.",
           "semantic_meaning": null
         },
         {
           "source_text": "yams",
           "number": "16",
-          "section": "CROPS",
+          "section": "86.4 CROPS",
           "visual_context": "Illustration of yams.",
           "semantic_meaning": null
         },
         {
           "source_text": "millet",
           "number": "17",
-          "section": "CROPS",
+          "section": "86.4 CROPS",
           "visual_context": "Illustration of millet stalks and grain.",
           "semantic_meaning": null
         },
         {
           "source_text": "plantains",
           "number": "18",
-          "section": "CROPS",
+          "section": "86.4 CROPS",
           "visual_context": "Illustration of plantain stalks and green plantains.",
           "semantic_meaning": null
         }

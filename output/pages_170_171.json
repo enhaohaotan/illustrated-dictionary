@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 170,
-      "title": "At college",
-      "context": "80.1 COLLEGE (US) / UNIVERSITY (UK); 80.2 DEPARTMENTS AND SCHOOLS",
+      "title": "80 At college",
+      "see_also": [],
       "entries": [
         {
           "source_text": "campus",
@@ -233,65 +233,42 @@
     },
     {
       "page": 171,
-      "title": "Library",
-      "context": "80.3 LIBRARY; continuation of 80.2 DEPARTMENTS AND SCHOOLS",
-      "entries": [
+      "title": "80 At college",
+      "see_also": [
         {
           "source_text": "At school",
-          "number": "73",
-          "section": "See also:",
-          "visual_context": "Cross-reference in the boxed See also list.",
-          "semantic_meaning": null
+          "number": "73"
         },
         {
           "source_text": "Mathematics",
-          "number": "74",
-          "section": "See also:",
-          "visual_context": "Cross-reference in the boxed See also list.",
-          "semantic_meaning": null
+          "number": "74"
         },
         {
           "source_text": "Physics",
-          "number": "75",
-          "section": "See also:",
-          "visual_context": "Cross-reference in the boxed See also list.",
-          "semantic_meaning": null
+          "number": "75"
         },
         {
           "source_text": "Chemistry",
-          "number": "76",
-          "section": "See also:",
-          "visual_context": "Cross-reference in the boxed See also list.",
-          "semantic_meaning": null
+          "number": "76"
         },
         {
           "source_text": "Biology",
-          "number": "77",
-          "section": "See also:",
-          "visual_context": "Cross-reference in the boxed See also list.",
-          "semantic_meaning": null
+          "number": "77"
         },
         {
           "source_text": "History",
-          "number": "79",
-          "section": "See also:",
-          "visual_context": "Cross-reference in the boxed See also list.",
-          "semantic_meaning": null
+          "number": "79"
         },
         {
           "source_text": "Law",
-          "number": "85",
-          "section": "See also:",
-          "visual_context": "Cross-reference in the boxed See also list.",
-          "semantic_meaning": null
+          "number": "85"
         },
         {
           "source_text": "Books and reading",
-          "number": "138",
-          "section": "See also:",
-          "visual_context": "Cross-reference in the boxed See also list.",
-          "semantic_meaning": null
-        },
+          "number": "138"
+        }
+      ],
+      "entries": [
         {
           "source_text": "reading room",
           "number": "1",
@@ -393,7 +370,7 @@
         {
           "source_text": "I received a grant to do scientific research.",
           "number": "14",
-          "section": null,
+          "section": "80.2 DEPARTMENTS AND SCHOOLS",
           "visual_context": "Speech bubble above a scientist working with laboratory equipment.",
           "semantic_meaning": null
         },

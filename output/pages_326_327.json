@@ -2,209 +2,209 @@
   "pages": [
     {
       "page": 326,
-      "title": "Mammals",
-      "context": "158.1 SPECIES OF MAMMALS",
+      "title": "158 Mammals",
+      "see_also": [],
       "entries": [
         {
           "source_text": "impala",
           "number": "1",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Pointer to an impala in the savannah scene.",
           "semantic_meaning": null
         },
         {
           "source_text": "baboon",
           "number": "2",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Pointer to a baboon sitting in a tree.",
           "semantic_meaning": null
         },
         {
           "source_text": "aardvark",
           "number": "3",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Pointer to an aardvark beneath a tree.",
           "semantic_meaning": null
         },
         {
           "source_text": "rhinoceros",
           "number": "4",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Pointer to a rhinoceros in the savannah scene.",
           "semantic_meaning": null
         },
         {
           "source_text": "cheetah",
           "number": "8",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Pointer to the spotted cheetah in grass.",
           "semantic_meaning": null
         },
         {
           "source_text": "lion",
           "number": "9",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Pointer to the male lion.",
           "semantic_meaning": null
         },
         {
           "source_text": "lioness",
           "number": "10",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Pointer to the female lion beside the lion.",
           "semantic_meaning": null
         },
         {
           "source_text": "hyena",
           "number": "11",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Pointer to a hyena in the grass.",
           "semantic_meaning": null
         },
         {
           "source_text": "savannah",
           "number": "12",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Label for the grassy African landscape scene.",
           "semantic_meaning": "A grassy tropical or subtropical plain."
         },
         {
           "source_text": "platypus",
           "number": "17",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Illustration of a platypus.",
           "semantic_meaning": null
         },
         {
           "source_text": "echidna",
           "number": "18",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Illustration of a spiny echidna.",
           "semantic_meaning": null
         },
         {
           "source_text": "Tasmanian devil",
           "number": "19",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Illustration of a Tasmanian devil.",
           "semantic_meaning": null
         },
         {
           "source_text": "wombat",
           "number": "20",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Illustration of a wombat.",
           "semantic_meaning": null
         },
         {
           "source_text": "kangaroo",
           "number": "21",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Illustration of a kangaroo.",
           "semantic_meaning": null
         },
         {
           "source_text": "joey",
           "number": "22",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Pointer to the young kangaroo in the adult kangaroo's pouch.",
           "semantic_meaning": "A young kangaroo."
         },
         {
           "source_text": "pouch",
           "number": "23",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Pointer to the kangaroo's abdominal pouch.",
           "semantic_meaning": "A marsupial's pocket-like fold for carrying young."
         },
         {
           "source_text": "koala",
           "number": "24",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Illustration of a koala.",
           "semantic_meaning": null
         },
         {
           "source_text": "rabbit",
           "number": "25",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Illustration of a rabbit.",
           "semantic_meaning": null
         },
         {
           "source_text": "hamster",
           "number": "26",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Illustration of a hamster.",
           "semantic_meaning": null
         },
         {
           "source_text": "mouse",
           "number": "27",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Illustration of a mouse.",
           "semantic_meaning": null
         },
         {
           "source_text": "whiskers",
           "number": "28",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Pointer to the mouse's facial whiskers.",
           "semantic_meaning": "Long sensory hairs on an animal's face."
         },
         {
           "source_text": "rat",
           "number": "29",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Illustration of a rat.",
           "semantic_meaning": null
         },
         {
           "source_text": "tail",
           "number": "30",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Pointer to the rat's tail.",
           "semantic_meaning": "The rear appendage of an animal."
         },
         {
           "source_text": "porcupine",
           "number": "31",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Illustration of a porcupine.",
           "semantic_meaning": null
         },
         {
           "source_text": "squirrel",
           "number": "32",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Illustration of a squirrel.",
           "semantic_meaning": null
         },
         {
           "source_text": "hedgehog",
           "number": "33",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Illustration of a hedgehog.",
           "semantic_meaning": null
         },
         {
           "source_text": "flying squirrel",
           "number": "34",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Illustration of a gliding flying squirrel.",
           "semantic_meaning": null
         },
         {
           "source_text": "bat",
           "number": "35",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Illustration of a bat in flight.",
           "semantic_meaning": null
         },
         {
           "source_text": "fruit bat",
           "number": "36",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Illustration of a fruit bat in flight.",
           "semantic_meaning": null
         }
@@ -212,195 +212,216 @@
     },
     {
       "page": 327,
-      "title": null,
-      "context": "158.1 SPECIES OF MAMMALS",
+      "title": "158 Mammals",
+      "see_also": [
+        {
+          "source_text": "Natural history",
+          "number": "157"
+        },
+        {
+          "source_text": "Mammals (continued)",
+          "number": "159"
+        },
+        {
+          "source_text": "Pets",
+          "number": "164"
+        },
+        {
+          "source_text": "Farm animals",
+          "number": "165"
+        },
+        {
+          "source_text": "Ocean life",
+          "number": "166"
+        }
+      ],
       "entries": [
         {
           "source_text": "giraffe",
           "number": "5",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Pointer to the large giraffe in the savannah scene.",
           "semantic_meaning": null
         },
         {
           "source_text": "wildebeest",
           "number": "6",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Pointer to the herd of wildebeest.",
           "semantic_meaning": null
         },
         {
           "source_text": "African elephant",
           "number": "7",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Pointer to the elephants in the savannah scene.",
           "semantic_meaning": null
         },
         {
           "source_text": "gazelle",
           "number": "13",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Pointer to gazelles at the left of the scene.",
           "semantic_meaning": null
         },
         {
           "source_text": "hippopotamus",
           "number": "14",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Pointer to the hippopotamus in the water.",
           "semantic_meaning": null
         },
         {
           "source_text": "zebra",
           "number": "15",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Pointer to zebras by the water.",
           "semantic_meaning": null
         },
         {
           "source_text": "African wild dog",
           "number": "16",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Pointer to an African wild dog near the zebras.",
           "semantic_meaning": null
         },
         {
           "source_text": "raccoon",
           "number": "37",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Illustration of a raccoon.",
           "semantic_meaning": null
         },
         {
           "source_text": "skunk",
           "number": "38",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Illustration of a skunk.",
           "semantic_meaning": null
         },
         {
           "source_text": "weasel",
           "number": "39",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Illustration of a weasel.",
           "semantic_meaning": null
         },
         {
           "source_text": "European badger",
           "number": "40",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Illustration of a European badger.",
           "semantic_meaning": null
         },
         {
           "source_text": "honey badger",
           "number": "41",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Illustration of a honey badger.",
           "semantic_meaning": null
         },
         {
           "source_text": "otter",
           "number": "42",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Illustration of an otter.",
           "semantic_meaning": null
         },
         {
           "source_text": "fennec fox",
           "number": "43",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Illustration of a fennec fox.",
           "semantic_meaning": null
         },
         {
           "source_text": "jackal",
           "number": "44",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Illustration of a jackal.",
           "semantic_meaning": null
         },
         {
           "source_text": "roe deer",
           "number": "45",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Illustration of a roe deer.",
           "semantic_meaning": null
         },
         {
           "source_text": "red deer",
           "number": "46",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Illustration of a red deer with antlers.",
           "semantic_meaning": null
         },
         {
           "source_text": "fallow deer",
           "number": "47",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Illustration of a fallow deer.",
           "semantic_meaning": null
         },
         {
           "source_text": "springbok",
           "number": "48",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Illustration of a springbok.",
           "semantic_meaning": null
         },
         {
           "source_text": "ibex",
           "number": "49",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Illustration of an ibex.",
           "semantic_meaning": null
         },
         {
           "source_text": "horns",
           "number": "50",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Pointer to the ibex's curved horns.",
           "semantic_meaning": "Hard pointed head structures of certain animals."
         },
         {
           "source_text": "hoof",
           "number": "51",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Pointer to the ibex's hoof.",
           "semantic_meaning": "The hard foot of a hoofed animal."
         },
         {
           "source_text": "Bactrian camel",
           "number": "52",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Illustration of a two-humped Bactrian camel.",
           "semantic_meaning": null
         },
         {
           "source_text": "dromedary",
           "number": "53",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Illustration of a one-humped camel.",
           "semantic_meaning": "A one-humped camel."
         },
         {
           "source_text": "hump",
           "number": "54",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Pointer to the dromedary's hump.",
           "semantic_meaning": "A rounded raised mass on an animal's back."
         },
         {
           "source_text": "vicuña",
           "number": "55",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Illustration of a vicuña.",
           "semantic_meaning": null
         },
         {
           "source_text": "llama",
           "number": "56",
-          "section": "SPECIES OF MAMMALS",
+          "section": "158.1 SPECIES OF MAMMALS",
           "visual_context": "Illustration of a llama.",
           "semantic_meaning": null
         }

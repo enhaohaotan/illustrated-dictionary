@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 250,
-      "title": "Horse riding",
-      "context": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK)",
+      "title": "120 Horse riding",
+      "see_also": [],
       "entries": [
         {
           "source_text": "jodhpurs",
@@ -198,8 +198,21 @@
     },
     {
       "page": 251,
-      "title": "VERBS",
-      "context": "120.1 HORSEBACK RIDING (US) / HORSE RIDING (UK); 120.2 VERBS",
+      "title": "120 Horse riding",
+      "see_also": [
+        {
+          "source_text": "Athletics",
+          "number": "116"
+        },
+        {
+          "source_text": "Other sports",
+          "number": "125"
+        },
+        {
+          "source_text": "Outdoor activities",
+          "number": "133"
+        }
+      ],
       "entries": [
         {
           "source_text": "side-saddle",

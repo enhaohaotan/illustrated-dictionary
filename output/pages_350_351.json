@@ -2,167 +2,167 @@
   "pages": [
     {
       "page": 350,
-      "title": "Fungi",
-      "context": "170.1 SPECIES OF FUNGI",
+      "title": "170 Fungi",
+      "see_also": [],
       "entries": [
         {
           "source_text": "mushrooms",
           "number": "1",
-          "section": "SPECIES OF FUNGI",
+          "section": "170.1 SPECIES OF FUNGI",
           "visual_context": "Mushroom anatomy illustrations.",
           "semantic_meaning": null
         },
         {
           "source_text": "cap",
           "number": "2",
-          "section": "SPECIES OF FUNGI",
+          "section": "170.1 SPECIES OF FUNGI",
           "visual_context": "The broad upper part of the cutaway mushroom.",
           "semantic_meaning": null
         },
         {
           "source_text": "ring",
           "number": "3",
-          "section": "SPECIES OF FUNGI",
+          "section": "170.1 SPECIES OF FUNGI",
           "visual_context": "The skirt-like ring around the mushroom stem.",
           "semantic_meaning": null
         },
         {
           "source_text": "mycelium",
           "number": "4",
-          "section": "SPECIES OF FUNGI",
+          "section": "170.1 SPECIES OF FUNGI",
           "visual_context": "The branching thread-like network beneath the mushroom.",
           "semantic_meaning": "The vegetative fungal network in the substrate."
         },
         {
           "source_text": "spores",
           "number": "5",
-          "section": "SPECIES OF FUNGI",
+          "section": "170.1 SPECIES OF FUNGI",
           "visual_context": "The cloud of tiny particles released from a mushroom.",
           "semantic_meaning": "Reproductive particles of fungi."
         },
         {
           "source_text": "gills",
           "number": "6",
-          "section": "SPECIES OF FUNGI",
+          "section": "170.1 SPECIES OF FUNGI",
           "visual_context": "The radiating structures on the underside of the cap.",
           "semantic_meaning": null
         },
         {
           "source_text": "stem",
           "number": "7",
-          "section": "SPECIES OF FUNGI",
+          "section": "170.1 SPECIES OF FUNGI",
           "visual_context": "The stalk of the mushroom.",
           "semantic_meaning": null
         },
         {
           "source_text": "shaggy bracket fungus",
           "number": "8",
-          "section": "SPECIES OF FUNGI",
+          "section": "170.1 SPECIES OF FUNGI",
           "visual_context": "Orange layered bracket fungi growing on a tree trunk.",
           "semantic_meaning": null
         },
         {
           "source_text": "to forage / to pick mushrooms",
           "number": "9",
-          "section": "SPECIES OF FUNGI",
+          "section": "170.1 SPECIES OF FUNGI",
           "visual_context": "A person collecting mushrooms in the forest.",
           "semantic_meaning": "To search for and collect wild mushrooms."
         },
         {
           "source_text": "common puffball",
           "number": "13",
-          "section": "SPECIES OF FUNGI",
+          "section": "170.1 SPECIES OF FUNGI",
           "visual_context": "Round white puffball mushrooms at the base of a tree.",
           "semantic_meaning": null
         },
         {
           "source_text": "Some fungi are poisonous. I always check before picking.",
           "number": "14",
-          "section": "SPECIES OF FUNGI",
+          "section": "170.1 SPECIES OF FUNGI",
           "visual_context": "Speech bubble beside the mushroom-foraging scene.",
           "semantic_meaning": "Safety warning about identifying mushrooms before collecting them."
         },
         {
           "source_text": "cultivated mushrooms",
           "number": "21",
-          "section": "SPECIES OF FUNGI",
+          "section": "170.1 SPECIES OF FUNGI",
           "visual_context": "Clusters of brown mushrooms growing in trays.",
           "semantic_meaning": null
         },
         {
           "source_text": "toadstools",
           "number": "22",
-          "section": "SPECIES OF FUNGI",
+          "section": "170.1 SPECIES OF FUNGI",
           "visual_context": "Various illustrated mushrooms, including red spotted ones.",
           "semantic_meaning": null
         },
         {
           "source_text": "fairy ring",
           "number": "23",
-          "section": "SPECIES OF FUNGI",
+          "section": "170.1 SPECIES OF FUNGI",
           "visual_context": "A ring-shaped cluster of mushrooms.",
           "semantic_meaning": "A naturally occurring circular growth of mushrooms."
         },
         {
           "source_text": "oyster mushroom",
           "number": "24",
-          "section": "SPECIES OF FUNGI",
+          "section": "170.1 SPECIES OF FUNGI",
           "visual_context": "A cluster of pale shelf-like mushrooms.",
           "semantic_meaning": null
         },
         {
           "source_text": "orange-cap boletus",
           "number": "25",
-          "section": "SPECIES OF FUNGI",
+          "section": "170.1 SPECIES OF FUNGI",
           "visual_context": "Orange-capped mushrooms with thick pale stems.",
           "semantic_meaning": null
         },
         {
           "source_text": "chicken of the woods",
           "number": "26",
-          "section": "SPECIES OF FUNGI",
+          "section": "170.1 SPECIES OF FUNGI",
           "visual_context": "Bright orange-and-yellow layered bracket fungus.",
           "semantic_meaning": null
         },
         {
           "source_text": "hedgehog mushroom",
           "number": "27",
-          "section": "SPECIES OF FUNGI",
+          "section": "170.1 SPECIES OF FUNGI",
           "visual_context": "A pale mushroom with a textured underside.",
           "semantic_meaning": null
         },
         {
           "source_text": "bear’s head tooth",
           "number": "28",
-          "section": "SPECIES OF FUNGI",
+          "section": "170.1 SPECIES OF FUNGI",
           "visual_context": "A hanging pale, tooth-like fungus cluster.",
           "semantic_meaning": null
         },
         {
           "source_text": "black trumpet",
           "number": "29",
-          "section": "SPECIES OF FUNGI",
+          "section": "170.1 SPECIES OF FUNGI",
           "visual_context": "Dark funnel-shaped mushrooms.",
           "semantic_meaning": null
         },
         {
           "source_text": "shaggy mane mushroom",
           "number": "30",
-          "section": "SPECIES OF FUNGI",
+          "section": "170.1 SPECIES OF FUNGI",
           "visual_context": "Tall pale mushrooms with shaggy speckled caps.",
           "semantic_meaning": null
         },
         {
           "source_text": "hen of the wood",
           "number": "31",
-          "section": "SPECIES OF FUNGI",
+          "section": "170.1 SPECIES OF FUNGI",
           "visual_context": "A layered gray-brown clustered fungus.",
           "semantic_meaning": null
         },
         {
           "source_text": "mold",
           "number": "32",
-          "section": "SPECIES OF FUNGI",
+          "section": "170.1 SPECIES OF FUNGI",
           "visual_context": "A fuzzy gray-and-black mold growth.",
           "semantic_meaning": null
         }
@@ -170,132 +170,145 @@
     },
     {
       "page": 351,
-      "title": null,
-      "context": "170.1 SPECIES OF FUNGI",
+      "title": "170 Fungi",
+      "see_also": [
+        {
+          "source_text": "Vegetables",
+          "number": "55-56"
+        },
+        {
+          "source_text": "Outdoor activities",
+          "number": "133"
+        },
+        {
+          "source_text": "Plants and trees",
+          "number": "167-169"
+        }
+      ],
       "entries": [
         {
           "source_text": "enoki mushroom",
           "number": "10",
-          "section": "SPECIES OF FUNGI",
+          "section": "170.1 SPECIES OF FUNGI",
           "visual_context": "A dense cluster of long thin white mushrooms.",
           "semantic_meaning": null
         },
         {
           "source_text": "shiitake mushroom",
           "number": "11",
-          "section": "SPECIES OF FUNGI",
+          "section": "170.1 SPECIES OF FUNGI",
           "visual_context": "Small pale mushrooms growing on a dark tree stump.",
           "semantic_meaning": null
         },
         {
           "source_text": "waxcap",
           "number": "12",
-          "section": "SPECIES OF FUNGI",
+          "section": "170.1 SPECIES OF FUNGI",
           "visual_context": "A group of orange-red capped mushrooms.",
           "semantic_meaning": null
         },
         {
           "source_text": "morel",
           "number": "15",
-          "section": "SPECIES OF FUNGI",
+          "section": "170.1 SPECIES OF FUNGI",
           "visual_context": "Tall mushrooms with honeycomb-patterned caps.",
           "semantic_meaning": null
         },
         {
           "source_text": "giant puffball",
           "number": "16",
-          "section": "SPECIES OF FUNGI",
+          "section": "170.1 SPECIES OF FUNGI",
           "visual_context": "A very large round white puffball in the foreground.",
           "semantic_meaning": null
         },
         {
           "source_text": "field mushroom",
           "number": "17",
-          "section": "SPECIES OF FUNGI",
+          "section": "170.1 SPECIES OF FUNGI",
           "visual_context": "White capped mushrooms growing on a fallen log.",
           "semantic_meaning": null
         },
         {
           "source_text": "truffle",
           "number": "18",
-          "section": "SPECIES OF FUNGI",
+          "section": "170.1 SPECIES OF FUNGI",
           "visual_context": "Black truffles shown underground in a soil cutaway.",
           "semantic_meaning": null
         },
         {
           "source_text": "porcini",
           "number": "19",
-          "section": "SPECIES OF FUNGI",
+          "section": "170.1 SPECIES OF FUNGI",
           "visual_context": "A cluster of stout brown-capped mushrooms.",
           "semantic_meaning": null
         },
         {
           "source_text": "chanterelle",
           "number": "20",
-          "section": "SPECIES OF FUNGI",
+          "section": "170.1 SPECIES OF FUNGI",
           "visual_context": "Bright yellow funnel-shaped mushrooms.",
           "semantic_meaning": null
         },
         {
           "source_text": "death cap",
           "number": "33",
-          "section": "SPECIES OF FUNGI",
+          "section": "170.1 SPECIES OF FUNGI",
           "visual_context": "A large pale greenish mushroom.",
           "semantic_meaning": null
         },
         {
           "source_text": "death angel",
           "number": "34",
-          "section": "SPECIES OF FUNGI",
+          "section": "170.1 SPECIES OF FUNGI",
           "visual_context": "A pale mushroom with a lightly speckled cap.",
           "semantic_meaning": null
         },
         {
           "source_text": "orange peel fungus",
           "number": "35",
-          "section": "SPECIES OF FUNGI",
+          "section": "170.1 SPECIES OF FUNGI",
           "visual_context": "A cluster of orange cup-shaped fungi.",
           "semantic_meaning": null
         },
         {
           "source_text": "stinkhorn",
           "number": "36",
-          "section": "SPECIES OF FUNGI",
+          "section": "170.1 SPECIES OF FUNGI",
           "visual_context": "A pale upright fungus with a dark red-and-black top.",
           "semantic_meaning": null
         },
         {
           "source_text": "hare’s ear",
           "number": "37",
-          "section": "SPECIES OF FUNGI",
+          "section": "170.1 SPECIES OF FUNGI",
           "visual_context": "Brown ear-shaped fungi.",
           "semantic_meaning": null
         },
         {
           "source_text": "jack-o’-lantern",
           "number": "38",
-          "section": "SPECIES OF FUNGI",
+          "section": "170.1 SPECIES OF FUNGI",
           "visual_context": "A dense orange mushroom cluster.",
           "semantic_meaning": null
         },
         {
           "source_text": "common earthball",
           "number": "39",
-          "section": "SPECIES OF FUNGI",
+          "section": "170.1 SPECIES OF FUNGI",
           "visual_context": "Two round tan, speckled earthball fungi.",
           "semantic_meaning": null
         },
         {
           "source_text": "milky conecap",
           "number": "40",
-          "section": "SPECIES OF FUNGI",
+          "section": "170.1 SPECIES OF FUNGI",
           "visual_context": "A cluster of slender pale conical mushrooms.",
           "semantic_meaning": null
         },
         {
           "source_text": "fly agaric",
           "number": "41",
-          "section": "SPECIES OF FUNGI",
+          "section": "170.1 SPECIES OF FUNGI",
           "visual_context": "A red-orange cap with white spots and a pale stem.",
           "semantic_meaning": null
         }

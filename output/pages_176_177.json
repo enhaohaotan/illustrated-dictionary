@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 176,
-      "title": "Computers and technology",
-      "context": "83.1 GADGETS AND TECHNOLOGY",
+      "title": "83 Computers and technology",
+      "see_also": [],
       "entries": [
         {
           "source_text": "screen",
@@ -247,8 +247,33 @@
     },
     {
       "page": 177,
-      "title": "Computers and technology",
-      "context": "83.2 ONLINE COMMUNICATION",
+      "title": "83 Computers and technology",
+      "see_also": [
+        {
+          "source_text": "At school",
+          "number": "73"
+        },
+        {
+          "source_text": "At college",
+          "number": "80"
+        },
+        {
+          "source_text": "At work",
+          "number": "81"
+        },
+        {
+          "source_text": "In the office",
+          "number": "82"
+        },
+        {
+          "source_text": "Meeting and presenting",
+          "number": "95"
+        },
+        {
+          "source_text": "Games",
+          "number": "140"
+        }
+      ],
       "entries": [
         {
           "source_text": "to turn on",

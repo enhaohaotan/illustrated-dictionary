@@ -2,1161 +2,1161 @@
   "pages": [
     {
       "page": 314,
-      "title": "Nationalities",
-      "context": "152.1 AFRICA. Table columns: Country, Adjective, Demonym (noun).",
+      "title": "152 Nationalities",
+      "see_also": [],
       "entries": [
         {
           "source_text": "Africa",
           "number": "1",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row; no flag shown beside this entry in the table header row area.",
           "semantic_meaning": "country/continent"
         },
         {
           "source_text": "African",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell for Africa",
           "semantic_meaning": "adjective"
         },
         {
           "source_text": "Africans",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell for Africa",
           "semantic_meaning": "people from Africa"
         },
         {
           "source_text": "Morocco",
           "number": "2",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Moroccan flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Moroccan",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Morocco row",
           "semantic_meaning": null
         },
         {
           "source_text": "Moroccans",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Morocco row",
           "semantic_meaning": null
         },
         {
           "source_text": "Mauritania",
           "number": "3",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Mauritanian flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Mauritanian",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Mauritania row",
           "semantic_meaning": null
         },
         {
           "source_text": "Mauritanians",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Mauritania row",
           "semantic_meaning": null
         },
         {
           "source_text": "Cape Verde",
           "number": "4",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Cape Verdean flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Cape Verdean",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Cape Verde row",
           "semantic_meaning": null
         },
         {
           "source_text": "Cape Verdeans",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Cape Verde row",
           "semantic_meaning": null
         },
         {
           "source_text": "Senegal",
           "number": "5",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Senegalese flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Senegalese",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Senegal row",
           "semantic_meaning": null
         },
         {
           "source_text": "Senegalese people",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Senegal row",
           "semantic_meaning": null
         },
         {
           "source_text": "Gambia",
           "number": "6",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Gambian flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Gambian",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Gambia row",
           "semantic_meaning": null
         },
         {
           "source_text": "Gambians",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Gambia row",
           "semantic_meaning": null
         },
         {
           "source_text": "Guinea-Bissau",
           "number": "7",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Guinea-Bissau flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Bissau-Guinean",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Guinea-Bissau row",
           "semantic_meaning": null
         },
         {
           "source_text": "Bissau-Guineans",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Guinea-Bissau row",
           "semantic_meaning": null
         },
         {
           "source_text": "Guinea",
           "number": "8",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Guinean flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Guinean",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Guinea row",
           "semantic_meaning": null
         },
         {
           "source_text": "Guineans",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Guinea row",
           "semantic_meaning": null
         },
         {
           "source_text": "Sierra Leone",
           "number": "9",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Sierra Leone flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Sierra Leonean",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Sierra Leone row",
           "semantic_meaning": null
         },
         {
           "source_text": "Sierra Leoneans",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Sierra Leone row",
           "semantic_meaning": null
         },
         {
           "source_text": "Liberia",
           "number": "10",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Liberian flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Liberian",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Liberia row",
           "semantic_meaning": null
         },
         {
           "source_text": "Liberians",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Liberia row",
           "semantic_meaning": null
         },
         {
           "source_text": "Ivory Coast",
           "number": "11",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Ivorian flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Ivorian",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Ivory Coast row",
           "semantic_meaning": null
         },
         {
           "source_text": "Ivorians",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Ivory Coast row",
           "semantic_meaning": null
         },
         {
           "source_text": "Burkina Faso",
           "number": "12",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Burkina Faso flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Burkinabe",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Burkina Faso row",
           "semantic_meaning": null
         },
         {
           "source_text": "Burkinabes",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Burkina Faso row",
           "semantic_meaning": null
         },
         {
           "source_text": "Mali",
           "number": "13",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Malian flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Malian",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Mali row",
           "semantic_meaning": null
         },
         {
           "source_text": "Malians",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Mali row",
           "semantic_meaning": null
         },
         {
           "source_text": "Algeria",
           "number": "14",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Algerian flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Algerian",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Algeria row",
           "semantic_meaning": null
         },
         {
           "source_text": "Algerians",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Algeria row",
           "semantic_meaning": null
         },
         {
           "source_text": "Tunisia",
           "number": "15",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Tunisian flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Tunisian",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Tunisia row",
           "semantic_meaning": null
         },
         {
           "source_text": "Tunisians",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Tunisia row",
           "semantic_meaning": null
         },
         {
           "source_text": "Libya",
           "number": "16",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Libyan flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Libyan",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Libya row",
           "semantic_meaning": null
         },
         {
           "source_text": "Libyans",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Libya row",
           "semantic_meaning": null
         },
         {
           "source_text": "Niger",
           "number": "17",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Nigerien flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Nigerien",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Niger row",
           "semantic_meaning": null
         },
         {
           "source_text": "Nigeriens",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Niger row",
           "semantic_meaning": null
         },
         {
           "source_text": "Ghana",
           "number": "18",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Ghanaian flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Ghanaian",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Ghana row",
           "semantic_meaning": null
         },
         {
           "source_text": "Ghanaians",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Ghana row",
           "semantic_meaning": null
         },
         {
           "source_text": "Togo",
           "number": "19",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Togolese flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Togolese",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Togo row",
           "semantic_meaning": null
         },
         {
           "source_text": "Togolese people",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Togo row",
           "semantic_meaning": null
         },
         {
           "source_text": "Benin",
           "number": "20",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Beninese flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Beninese",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Benin row",
           "semantic_meaning": null
         },
         {
           "source_text": "Beninese people",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Benin row",
           "semantic_meaning": null
         },
         {
           "source_text": "Nigeria",
           "number": "21",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Nigerian flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Nigerian",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Nigeria row",
           "semantic_meaning": null
         },
         {
           "source_text": "Nigerians",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Nigeria row",
           "semantic_meaning": null
         },
         {
           "source_text": "São Tomé and Príncipe",
           "number": "22",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with São Tomé and Príncipe flag",
           "semantic_meaning": null
         },
         {
           "source_text": "São Toméan",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in São Tomé and Príncipe row",
           "semantic_meaning": null
         },
         {
           "source_text": "São Toméans",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in São Tomé and Príncipe row",
           "semantic_meaning": null
         },
         {
           "source_text": "Equatorial Guinea",
           "number": "23",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Equatorial Guinean flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Equatorial Guinean",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Equatorial Guinea row",
           "semantic_meaning": null
         },
         {
           "source_text": "Equatorial Guineans",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Equatorial Guinea row",
           "semantic_meaning": null
         },
         {
           "source_text": "Cameroon",
           "number": "24",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Cameroonian flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Cameroonian",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Cameroon row",
           "semantic_meaning": null
         },
         {
           "source_text": "Cameroonians",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Cameroon row",
           "semantic_meaning": null
         },
         {
           "source_text": "Chad",
           "number": "25",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Chadian flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Chadian",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Chad row",
           "semantic_meaning": null
         },
         {
           "source_text": "Chadians",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Chad row",
           "semantic_meaning": null
         },
         {
           "source_text": "Egypt",
           "number": "26",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Egyptian flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Egyptian",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Egypt row",
           "semantic_meaning": null
         },
         {
           "source_text": "Egyptians",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Egypt row",
           "semantic_meaning": null
         },
         {
           "source_text": "Sudan",
           "number": "27",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Sudanese flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Sudanese",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Sudan row",
           "semantic_meaning": null
         },
         {
           "source_text": "Sudanese people",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Sudan row",
           "semantic_meaning": null
         },
         {
           "source_text": "South Sudan",
           "number": "28",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with South Sudanese flag",
           "semantic_meaning": null
         },
         {
           "source_text": "South Sudanese",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in South Sudan row",
           "semantic_meaning": null
         },
         {
           "source_text": "South Sudanese people",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in South Sudan row",
           "semantic_meaning": null
         },
         {
           "source_text": "Eritrea",
           "number": "29",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Eritrean flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Eritrean",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Eritrea row",
           "semantic_meaning": null
         },
         {
           "source_text": "Eritreans",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Eritrea row",
           "semantic_meaning": null
         },
         {
           "source_text": "Djibouti",
           "number": "30",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Djiboutian flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Djiboutian",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Djibouti row",
           "semantic_meaning": null
         },
         {
           "source_text": "Djiboutians",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Djibouti row",
           "semantic_meaning": null
         },
         {
           "source_text": "Ethiopia",
           "number": "31",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Ethiopian flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Ethiopian",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Ethiopia row",
           "semantic_meaning": null
         },
         {
           "source_text": "Ethiopians",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Ethiopia row",
           "semantic_meaning": null
         },
         {
           "source_text": "Somalia",
           "number": "32",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Somalian flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Somalian",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Somalia row",
           "semantic_meaning": null
         },
         {
           "source_text": "Somalians",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Somalia row",
           "semantic_meaning": null
         },
         {
           "source_text": "Kenya",
           "number": "33",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Kenyan flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Kenyan",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Kenya row",
           "semantic_meaning": null
         },
         {
           "source_text": "Kenyans",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Kenya row",
           "semantic_meaning": null
         },
         {
           "source_text": "Uganda",
           "number": "34",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Ugandan flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Ugandan",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Uganda row",
           "semantic_meaning": null
         },
         {
           "source_text": "Ugandans",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Uganda row",
           "semantic_meaning": null
         },
         {
           "source_text": "Central African Republic",
           "number": "35",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Central African Republic flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Central African",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Central African Republic row",
           "semantic_meaning": null
         },
         {
           "source_text": "Central Africans",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Central African Republic row",
           "semantic_meaning": null
         },
         {
           "source_text": "Gabon",
           "number": "36",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Gabonese flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Gabonese",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Gabon row",
           "semantic_meaning": null
         },
         {
           "source_text": "Gabonese people",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Gabon row",
           "semantic_meaning": null
         },
         {
           "source_text": "Republic of the Congo",
           "number": "37",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Republic of the Congo flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Congolese",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Republic of the Congo row",
           "semantic_meaning": null
         },
         {
           "source_text": "Congolese people",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Republic of the Congo row",
           "semantic_meaning": null
         },
         {
           "source_text": "Democratic Republic of the Congo",
           "number": "38",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Democratic Republic of the Congo flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Congolese",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Democratic Republic of the Congo row",
           "semantic_meaning": null
         },
         {
           "source_text": "Congolese people",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Democratic Republic of the Congo row",
           "semantic_meaning": null
         },
         {
           "source_text": "Rwanda",
           "number": "39",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Rwandan flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Rwandan",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Rwanda row",
           "semantic_meaning": null
         },
         {
           "source_text": "Rwandans",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Rwanda row",
           "semantic_meaning": null
         },
         {
           "source_text": "Burundi",
           "number": "40",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Burundian flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Burundian",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Burundi row",
           "semantic_meaning": null
         },
         {
           "source_text": "Burundians",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Burundi row",
           "semantic_meaning": null
         },
         {
           "source_text": "Tanzania",
           "number": "41",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Tanzanian flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Tanzanian",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Tanzania row",
           "semantic_meaning": null
         },
         {
           "source_text": "Tanzanians",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Tanzania row",
           "semantic_meaning": null
         },
         {
           "source_text": "Mozambique",
           "number": "42",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Mozambican flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Mozambican",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Mozambique row",
           "semantic_meaning": null
         },
         {
           "source_text": "Mozambicans",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Mozambique row",
           "semantic_meaning": null
         },
         {
           "source_text": "Malawi",
           "number": "43",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Malawian flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Malawian",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Malawi row",
           "semantic_meaning": null
         },
         {
           "source_text": "Malawians",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Malawi row",
           "semantic_meaning": null
         },
         {
           "source_text": "Zambia",
           "number": "44",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Zambian flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Zambian",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Zambia row",
           "semantic_meaning": null
         },
         {
           "source_text": "Zambians",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Zambia row",
           "semantic_meaning": null
         },
         {
           "source_text": "Angola",
           "number": "45",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Angolan flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Angolan",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Angola row",
           "semantic_meaning": null
         },
         {
           "source_text": "Angolans",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Angola row",
           "semantic_meaning": null
         },
         {
           "source_text": "Namibia",
           "number": "46",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Namibian flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Namibian",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Namibia row",
           "semantic_meaning": null
         },
         {
           "source_text": "Namibians",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Namibia row",
           "semantic_meaning": null
         },
         {
           "source_text": "Botswana",
           "number": "47",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Botswanan flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Botswanan",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Botswana row",
           "semantic_meaning": null
         },
         {
           "source_text": "Botswanans",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Botswana row",
           "semantic_meaning": null
         },
         {
           "source_text": "Zimbabwe",
           "number": "48",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Zimbabwean flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Zimbabwean",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Zimbabwe row",
           "semantic_meaning": null
         },
         {
           "source_text": "Zimbabweans",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Zimbabwe row",
           "semantic_meaning": null
         },
         {
           "source_text": "South Africa",
           "number": "49",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with South African flag",
           "semantic_meaning": null
         },
         {
           "source_text": "South African",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in South Africa row",
           "semantic_meaning": null
         },
         {
           "source_text": "South Africans",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in South Africa row",
           "semantic_meaning": null
         },
         {
           "source_text": "Lesotho",
           "number": "50",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Lesotho flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Basotho",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Lesotho row",
           "semantic_meaning": null
         },
         {
           "source_text": "Basothos",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Lesotho row",
           "semantic_meaning": null
         },
         {
           "source_text": "Eswatini",
           "number": "51",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Eswatini flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Swazi",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Eswatini row",
           "semantic_meaning": null
         },
         {
           "source_text": "Swazis",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Eswatini row",
           "semantic_meaning": null
         },
         {
           "source_text": "Comoros",
           "number": "52",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Comoran flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Comoran",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Comoros row",
           "semantic_meaning": null
         },
         {
           "source_text": "Comorans",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Comoros row",
           "semantic_meaning": null
         },
         {
           "source_text": "Madagascar",
           "number": "53",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Madagascan flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Madagascan",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Madagascar row",
           "semantic_meaning": null
         },
         {
           "source_text": "Madagascans",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Madagascar row",
           "semantic_meaning": null
         },
         {
           "source_text": "Seychelles",
           "number": "54",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Seychellois flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Seychellois",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Seychelles row",
           "semantic_meaning": null
         },
         {
           "source_text": "Seychellois",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Seychelles row",
           "semantic_meaning": null
         },
         {
           "source_text": "Mauritius",
           "number": "55",
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "country row with Mauritian flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Mauritian",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "adjective cell in Mauritius row",
           "semantic_meaning": null
         },
         {
           "source_text": "Mauritians",
           "number": null,
-          "section": "AFRICA",
+          "section": "152.1 AFRICA",
           "visual_context": "demonym cell in Mauritius row",
           "semantic_meaning": null
         }
@@ -1164,811 +1164,832 @@
     },
     {
       "page": 315,
-      "title": "Nationalities",
-      "context": "152.2 SOUTH AMERICA and 152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN. Table columns: Country, Adjective, Demonym (noun).",
+      "title": "152 Nationalities",
+      "see_also": [
+        {
+          "source_text": "Planet Earth",
+          "number": "145"
+        },
+        {
+          "source_text": "Geography",
+          "number": "146-147"
+        },
+        {
+          "source_text": "Maps and directions",
+          "number": "148"
+        },
+        {
+          "source_text": "Countries",
+          "number": "149-151"
+        },
+        {
+          "source_text": "Nationalities (continued)",
+          "number": "153"
+        }
+      ],
       "entries": [
         {
           "source_text": "South America",
           "number": "1",
-          "section": "SOUTH AMERICA",
+          "section": "152.2 SOUTH AMERICA",
           "visual_context": "regional row",
           "semantic_meaning": null
         },
         {
           "source_text": "South American",
           "number": null,
-          "section": "SOUTH AMERICA",
+          "section": "152.2 SOUTH AMERICA",
           "visual_context": "adjective cell in South America row",
           "semantic_meaning": null
         },
         {
           "source_text": "South Americans",
           "number": null,
-          "section": "SOUTH AMERICA",
+          "section": "152.2 SOUTH AMERICA",
           "visual_context": "demonym cell in South America row",
           "semantic_meaning": null
         },
         {
           "source_text": "Venezuela",
           "number": "2",
-          "section": "SOUTH AMERICA",
+          "section": "152.2 SOUTH AMERICA",
           "visual_context": "country row with Venezuelan flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Venezuelan",
           "number": null,
-          "section": "SOUTH AMERICA",
+          "section": "152.2 SOUTH AMERICA",
           "visual_context": "adjective cell in Venezuela row",
           "semantic_meaning": null
         },
         {
           "source_text": "Venezuelans",
           "number": null,
-          "section": "SOUTH AMERICA",
+          "section": "152.2 SOUTH AMERICA",
           "visual_context": "demonym cell in Venezuela row",
           "semantic_meaning": null
         },
         {
           "source_text": "Colombia",
           "number": "3",
-          "section": "SOUTH AMERICA",
+          "section": "152.2 SOUTH AMERICA",
           "visual_context": "country row with Colombian flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Colombian",
           "number": null,
-          "section": "SOUTH AMERICA",
+          "section": "152.2 SOUTH AMERICA",
           "visual_context": "adjective cell in Colombia row",
           "semantic_meaning": null
         },
         {
           "source_text": "Colombians",
           "number": null,
-          "section": "SOUTH AMERICA",
+          "section": "152.2 SOUTH AMERICA",
           "visual_context": "demonym cell in Colombia row",
           "semantic_meaning": null
         },
         {
           "source_text": "Ecuador",
           "number": "4",
-          "section": "SOUTH AMERICA",
+          "section": "152.2 SOUTH AMERICA",
           "visual_context": "country row with Ecuadorian flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Ecuadorian",
           "number": null,
-          "section": "SOUTH AMERICA",
+          "section": "152.2 SOUTH AMERICA",
           "visual_context": "adjective cell in Ecuador row",
           "semantic_meaning": null
         },
         {
           "source_text": "Ecuadorians",
           "number": null,
-          "section": "SOUTH AMERICA",
+          "section": "152.2 SOUTH AMERICA",
           "visual_context": "demonym cell in Ecuador row",
           "semantic_meaning": null
         },
         {
           "source_text": "Peru",
           "number": "5",
-          "section": "SOUTH AMERICA",
+          "section": "152.2 SOUTH AMERICA",
           "visual_context": "country row with Peruvian flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Peruvian",
           "number": null,
-          "section": "SOUTH AMERICA",
+          "section": "152.2 SOUTH AMERICA",
           "visual_context": "adjective cell in Peru row",
           "semantic_meaning": null
         },
         {
           "source_text": "Peruvians",
           "number": null,
-          "section": "SOUTH AMERICA",
+          "section": "152.2 SOUTH AMERICA",
           "visual_context": "demonym cell in Peru row",
           "semantic_meaning": null
         },
         {
           "source_text": "Guyana",
           "number": "6",
-          "section": "SOUTH AMERICA",
+          "section": "152.2 SOUTH AMERICA",
           "visual_context": "country row with Guyanese flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Guyanese",
           "number": null,
-          "section": "SOUTH AMERICA",
+          "section": "152.2 SOUTH AMERICA",
           "visual_context": "adjective cell in Guyana row",
           "semantic_meaning": null
         },
         {
           "source_text": "Guyanese people",
           "number": null,
-          "section": "SOUTH AMERICA",
+          "section": "152.2 SOUTH AMERICA",
           "visual_context": "demonym cell in Guyana row",
           "semantic_meaning": null
         },
         {
           "source_text": "Suriname",
           "number": "7",
-          "section": "SOUTH AMERICA",
+          "section": "152.2 SOUTH AMERICA",
           "visual_context": "country row with Surinamese flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Surinamese",
           "number": null,
-          "section": "SOUTH AMERICA",
+          "section": "152.2 SOUTH AMERICA",
           "visual_context": "adjective cell in Suriname row",
           "semantic_meaning": null
         },
         {
           "source_text": "Surinamese people",
           "number": null,
-          "section": "SOUTH AMERICA",
+          "section": "152.2 SOUTH AMERICA",
           "visual_context": "demonym cell in Suriname row",
           "semantic_meaning": null
         },
         {
           "source_text": "Brazil",
           "number": "8",
-          "section": "SOUTH AMERICA",
+          "section": "152.2 SOUTH AMERICA",
           "visual_context": "country row with Brazilian flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Brazilian",
           "number": null,
-          "section": "SOUTH AMERICA",
+          "section": "152.2 SOUTH AMERICA",
           "visual_context": "adjective cell in Brazil row",
           "semantic_meaning": null
         },
         {
           "source_text": "Brazilians",
           "number": null,
-          "section": "SOUTH AMERICA",
+          "section": "152.2 SOUTH AMERICA",
           "visual_context": "demonym cell in Brazil row",
           "semantic_meaning": null
         },
         {
           "source_text": "Bolivia",
           "number": "9",
-          "section": "SOUTH AMERICA",
+          "section": "152.2 SOUTH AMERICA",
           "visual_context": "country row with Bolivian flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Bolivian",
           "number": null,
-          "section": "SOUTH AMERICA",
+          "section": "152.2 SOUTH AMERICA",
           "visual_context": "adjective cell in Bolivia row",
           "semantic_meaning": null
         },
         {
           "source_text": "Bolivians",
           "number": null,
-          "section": "SOUTH AMERICA",
+          "section": "152.2 SOUTH AMERICA",
           "visual_context": "demonym cell in Bolivia row",
           "semantic_meaning": null
         },
         {
           "source_text": "Chile",
           "number": "10",
-          "section": "SOUTH AMERICA",
+          "section": "152.2 SOUTH AMERICA",
           "visual_context": "country row with Chilean flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Chilean",
           "number": null,
-          "section": "SOUTH AMERICA",
+          "section": "152.2 SOUTH AMERICA",
           "visual_context": "adjective cell in Chile row",
           "semantic_meaning": null
         },
         {
           "source_text": "Chileans",
           "number": null,
-          "section": "SOUTH AMERICA",
+          "section": "152.2 SOUTH AMERICA",
           "visual_context": "demonym cell in Chile row",
           "semantic_meaning": null
         },
         {
           "source_text": "Argentina",
           "number": "11",
-          "section": "SOUTH AMERICA",
+          "section": "152.2 SOUTH AMERICA",
           "visual_context": "country row with Argentinian flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Argentinian",
           "number": null,
-          "section": "SOUTH AMERICA",
+          "section": "152.2 SOUTH AMERICA",
           "visual_context": "adjective cell in Argentina row",
           "semantic_meaning": null
         },
         {
           "source_text": "Argentinians",
           "number": null,
-          "section": "SOUTH AMERICA",
+          "section": "152.2 SOUTH AMERICA",
           "visual_context": "demonym cell in Argentina row",
           "semantic_meaning": null
         },
         {
           "source_text": "Paraguay",
           "number": "12",
-          "section": "SOUTH AMERICA",
+          "section": "152.2 SOUTH AMERICA",
           "visual_context": "country row with Paraguayan flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Paraguayan",
           "number": null,
-          "section": "SOUTH AMERICA",
+          "section": "152.2 SOUTH AMERICA",
           "visual_context": "adjective cell in Paraguay row",
           "semantic_meaning": null
         },
         {
           "source_text": "Paraguayans",
           "number": null,
-          "section": "SOUTH AMERICA",
+          "section": "152.2 SOUTH AMERICA",
           "visual_context": "demonym cell in Paraguay row",
           "semantic_meaning": null
         },
         {
           "source_text": "Uruguay",
           "number": "13",
-          "section": "SOUTH AMERICA",
+          "section": "152.2 SOUTH AMERICA",
           "visual_context": "country row with Uruguayan flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Uruguayan",
           "number": null,
-          "section": "SOUTH AMERICA",
+          "section": "152.2 SOUTH AMERICA",
           "visual_context": "adjective cell in Uruguay row",
           "semantic_meaning": null
         },
         {
           "source_text": "Uruguayans",
           "number": null,
-          "section": "SOUTH AMERICA",
+          "section": "152.2 SOUTH AMERICA",
           "visual_context": "demonym cell in Uruguay row",
           "semantic_meaning": null
         },
         {
           "source_text": "North and Central America and the Caribbean",
           "number": "1",
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "regional row",
           "semantic_meaning": null
         },
         {
           "source_text": "North American",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "adjective cell in regional row",
           "semantic_meaning": null
         },
         {
           "source_text": "Central American",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "adjective cell in regional row",
           "semantic_meaning": null
         },
         {
           "source_text": "Caribbean",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "adjective cell in regional row",
           "semantic_meaning": null
         },
         {
           "source_text": "North Americans",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "demonym cell in regional row",
           "semantic_meaning": null
         },
         {
           "source_text": "Central Americans",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "demonym cell in regional row",
           "semantic_meaning": null
         },
         {
           "source_text": "Caribbean people",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "demonym cell in regional row",
           "semantic_meaning": null
         },
         {
           "source_text": "Canada",
           "number": "2",
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "country row with Canadian flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Canadian",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "adjective cell in Canada row",
           "semantic_meaning": null
         },
         {
           "source_text": "Canadians",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "demonym cell in Canada row",
           "semantic_meaning": null
         },
         {
           "source_text": "United States of America",
           "number": "3",
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "country row with United States flag",
           "semantic_meaning": null
         },
         {
           "source_text": "American",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "adjective cell in United States of America row",
           "semantic_meaning": null
         },
         {
           "source_text": "Americans",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "demonym cell in United States of America row",
           "semantic_meaning": null
         },
         {
           "source_text": "Mexico",
           "number": "4",
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "country row with Mexican flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Mexican",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "adjective cell in Mexico row",
           "semantic_meaning": null
         },
         {
           "source_text": "Mexicans",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "demonym cell in Mexico row",
           "semantic_meaning": null
         },
         {
           "source_text": "Guatemala",
           "number": "5",
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "country row with Guatemalan flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Guatemalan",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "adjective cell in Guatemala row",
           "semantic_meaning": null
         },
         {
           "source_text": "Guatemalans",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "demonym cell in Guatemala row",
           "semantic_meaning": null
         },
         {
           "source_text": "Belize",
           "number": "6",
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "country row with Belizean flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Belizean",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "adjective cell in Belize row",
           "semantic_meaning": null
         },
         {
           "source_text": "Belizeans",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "demonym cell in Belize row",
           "semantic_meaning": null
         },
         {
           "source_text": "El Salvador",
           "number": "7",
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "country row with Salvadoran flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Salvadoran",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "adjective cell in El Salvador row",
           "semantic_meaning": null
         },
         {
           "source_text": "Salvadorans",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "demonym cell in El Salvador row",
           "semantic_meaning": null
         },
         {
           "source_text": "Honduras",
           "number": "8",
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "country row with Honduran flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Honduran",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "adjective cell in Honduras row",
           "semantic_meaning": null
         },
         {
           "source_text": "Hondurans",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "demonym cell in Honduras row",
           "semantic_meaning": null
         },
         {
           "source_text": "Nicaragua",
           "number": "9",
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "country row with Nicaraguan flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Nicaraguan",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "adjective cell in Nicaragua row",
           "semantic_meaning": null
         },
         {
           "source_text": "Nicaraguans",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "demonym cell in Nicaragua row",
           "semantic_meaning": null
         },
         {
           "source_text": "Costa Rica",
           "number": "10",
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "country row with Costa Rican flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Costa Rican",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "adjective cell in Costa Rica row",
           "semantic_meaning": null
         },
         {
           "source_text": "Costa Ricans",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "demonym cell in Costa Rica row",
           "semantic_meaning": null
         },
         {
           "source_text": "Panama",
           "number": "11",
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "country row with Panamanian flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Panamanian",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "adjective cell in Panama row",
           "semantic_meaning": null
         },
         {
           "source_text": "Panamanians",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "demonym cell in Panama row",
           "semantic_meaning": null
         },
         {
           "source_text": "Cuba",
           "number": "12",
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "country row with Cuban flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Cuban",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "adjective cell in Cuba row",
           "semantic_meaning": null
         },
         {
           "source_text": "Cubans",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "demonym cell in Cuba row",
           "semantic_meaning": null
         },
         {
           "source_text": "Bahamas",
           "number": "13",
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "country row with Bahamian flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Bahamian",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "adjective cell in Bahamas row",
           "semantic_meaning": null
         },
         {
           "source_text": "Bahamians",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "demonym cell in Bahamas row",
           "semantic_meaning": null
         },
         {
           "source_text": "Jamaica",
           "number": "14",
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "country row with Jamaican flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Jamaican",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "adjective cell in Jamaica row",
           "semantic_meaning": null
         },
         {
           "source_text": "Jamaicans",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "demonym cell in Jamaica row",
           "semantic_meaning": null
         },
         {
           "source_text": "Haiti",
           "number": "15",
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "country row with Haitian flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Haitian",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "adjective cell in Haiti row",
           "semantic_meaning": null
         },
         {
           "source_text": "Haitians",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "demonym cell in Haiti row",
           "semantic_meaning": null
         },
         {
           "source_text": "Dominican Republic",
           "number": "16",
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "country row with Dominican Republic flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Dominican",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "adjective cell in Dominican Republic row",
           "semantic_meaning": null
         },
         {
           "source_text": "Dominicans",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "demonym cell in Dominican Republic row",
           "semantic_meaning": null
         },
         {
           "source_text": "Barbados",
           "number": "17",
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "country row with Barbadian flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Barbadian",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "adjective cell in Barbados row",
           "semantic_meaning": null
         },
         {
           "source_text": "Barbadians",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "demonym cell in Barbados row",
           "semantic_meaning": null
         },
         {
           "source_text": "Trinidad and Tobago",
           "number": "18",
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "country row with Trinidad and Tobago flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Trinidadian or Tobagonian",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "adjective cell in Trinidad and Tobago row",
           "semantic_meaning": null
         },
         {
           "source_text": "Trinidadians or Tobagonians",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "demonym cell in Trinidad and Tobago row",
           "semantic_meaning": null
         },
         {
           "source_text": "St. Kitts and Nevis",
           "number": "19",
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "country row with St. Kitts and Nevis flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Kittitian or Nevisian",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "adjective cell in St. Kitts and Nevis row",
           "semantic_meaning": null
         },
         {
           "source_text": "Kittitians or Nevisians",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "demonym cell in St. Kitts and Nevis row",
           "semantic_meaning": null
         },
         {
           "source_text": "Antigua and Barbuda",
           "number": "20",
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "country row with Antigua and Barbuda flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Antiguan or Barbudan",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "adjective cell in Antigua and Barbuda row",
           "semantic_meaning": null
         },
         {
           "source_text": "Antiguans or Barbudans",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "demonym cell in Antigua and Barbuda row",
           "semantic_meaning": null
         },
         {
           "source_text": "Dominica",
           "number": "21",
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "country row with Dominican flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Dominican",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "adjective cell in Dominica row",
           "semantic_meaning": null
         },
         {
           "source_text": "Dominicans",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "demonym cell in Dominica row",
           "semantic_meaning": null
         },
         {
           "source_text": "St. Lucia",
           "number": "22",
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "country row with St. Lucia flag",
           "semantic_meaning": null
         },
         {
           "source_text": "St. Lucian",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "adjective cell in St. Lucia row",
           "semantic_meaning": null
         },
         {
           "source_text": "St. Lucians",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "demonym cell in St. Lucia row",
           "semantic_meaning": null
         },
         {
           "source_text": "St. Vincent and The Grenadines",
           "number": "23",
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "country row with St. Vincent and The Grenadines flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Vincentian",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "adjective cell in St. Vincent and The Grenadines row",
           "semantic_meaning": null
         },
         {
           "source_text": "Vincentians",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "demonym cell in St. Vincent and The Grenadines row",
           "semantic_meaning": null
         },
         {
           "source_text": "Grenada",
           "number": "24",
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "country row with Grenadian flag",
           "semantic_meaning": null
         },
         {
           "source_text": "Grenadian",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "adjective cell in Grenada row",
           "semantic_meaning": null
         },
         {
           "source_text": "Grenadians",
           "number": null,
-          "section": "NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
+          "section": "152.3 NORTH AND CENTRAL AMERICA AND THE CARIBBEAN",
           "visual_context": "demonym cell in Grenada row",
           "semantic_meaning": null
         }

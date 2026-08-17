@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 78,
-      "title": "Electrics and plumbing",
-      "context": "33.1 ELECTRICITY",
+      "title": "33 Electrics and plumbing",
+      "see_also": [],
       "entries": [
         {
           "source_text": "bayonet fit",
@@ -254,8 +254,29 @@
     },
     {
       "page": 79,
-      "title": "Electrics and plumbing",
-      "context": "33.2 PLUMBING; 33.3 WASTE",
+      "title": "33 Electrics and plumbing",
+      "see_also": [
+        {
+          "source_text": "Bathroom",
+          "number": "31"
+        },
+        {
+          "source_text": "Home improvements",
+          "number": "35"
+        },
+        {
+          "source_text": "Tools",
+          "number": "36"
+        },
+        {
+          "source_text": "Decorating",
+          "number": "37"
+        },
+        {
+          "source_text": "Construction",
+          "number": "87"
+        }
+      ],
       "entries": [
         {
           "source_text": "temperature display",

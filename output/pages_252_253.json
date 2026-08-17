@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 252,
-      "title": "Fishing",
-      "context": "Illustrated fishing vocabulary page.",
+      "title": "121 Fishing",
+      "see_also": [],
       "entries": [
         {
           "source_text": "fishing rod",
@@ -191,30 +191,22 @@
     },
     {
       "page": 253,
-      "title": null,
-      "context": "Illustrated fishing types, fishing verbs, and knots vocabulary page.",
-      "entries": [
+      "title": "121 Fishing",
+      "see_also": [
         {
           "source_text": "Fish and seafood",
-          "number": "54",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the upper-right box.",
-          "semantic_meaning": "Related vocabulary section."
+          "number": "54"
         },
         {
           "source_text": "Sailing and watersports",
-          "number": "119",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the upper-right box.",
-          "semantic_meaning": "Related vocabulary section."
+          "number": "119"
         },
         {
           "source_text": "Ocean life",
-          "number": "166",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the upper-right box.",
-          "semantic_meaning": "Related vocabulary section."
-        },
+          "number": "166"
+        }
+      ],
+      "entries": [
         {
           "source_text": "fly fishing",
           "number": "1",

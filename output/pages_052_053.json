@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 52,
-      "title": "Visiting the doctor",
-      "context": "20.1 TREATMENT",
+      "title": "20 Visiting the doctor",
+      "see_also": [],
       "entries": [
         {
           "source_text": "I’m not feeling well.",
@@ -212,8 +212,33 @@
     },
     {
       "page": 53,
-      "title": "Visiting the doctor",
-      "context": "20.2 FIRST-AID KIT; 20.3 VERBS TO DESCRIBE ILLNESS",
+      "title": "20 Visiting the doctor",
+      "see_also": [
+        {
+          "source_text": "Parts of the body",
+          "number": "01"
+        },
+        {
+          "source_text": "Hands and feet",
+          "number": "02"
+        },
+        {
+          "source_text": "Muscles and skeleton",
+          "number": "03"
+        },
+        {
+          "source_text": "Internal organs",
+          "number": "04"
+        },
+        {
+          "source_text": "Illness and injury",
+          "number": "19"
+        },
+        {
+          "source_text": "The hospital",
+          "number": "21"
+        }
+      ],
       "entries": [
         {
           "source_text": "tweezers",

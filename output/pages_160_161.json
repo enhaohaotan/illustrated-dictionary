@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 160,
-      "title": "Physics",
-      "context": "75.1 PHYSICS",
+      "title": "75 Physics",
+      "see_also": [],
       "entries": [
         {
           "source_text": "electricity",
@@ -191,8 +191,29 @@
     },
     {
       "page": 161,
-      "title": "Physics; Optics",
-      "context": "75.1 PHYSICS; 75.2 OPTICS",
+      "title": "75 Physics",
+      "see_also": [
+        {
+          "source_text": "At school",
+          "number": "73"
+        },
+        {
+          "source_text": "Mathematics",
+          "number": "74"
+        },
+        {
+          "source_text": "Chemistry",
+          "number": "76"
+        },
+        {
+          "source_text": "Biology",
+          "number": "77"
+        },
+        {
+          "source_text": "The periodic table",
+          "number": "78"
+        }
+      ],
       "entries": [
         {
           "source_text": "north pole",
@@ -353,41 +374,6 @@
           "number": "12",
           "section": "75.2 OPTICS",
           "visual_context": "Speech bubble from a person holding a prism that disperses light.",
-          "semantic_meaning": null
-        },
-        {
-          "source_text": "At school",
-          "number": "73",
-          "section": "See also:",
-          "visual_context": "Cross-reference in the See also box.",
-          "semantic_meaning": null
-        },
-        {
-          "source_text": "Mathematics",
-          "number": "74",
-          "section": "See also:",
-          "visual_context": "Cross-reference in the See also box.",
-          "semantic_meaning": null
-        },
-        {
-          "source_text": "Chemistry",
-          "number": "76",
-          "section": "See also:",
-          "visual_context": "Cross-reference in the See also box.",
-          "semantic_meaning": null
-        },
-        {
-          "source_text": "Biology",
-          "number": "77",
-          "section": "See also:",
-          "visual_context": "Cross-reference in the See also box.",
-          "semantic_meaning": null
-        },
-        {
-          "source_text": "The periodic table",
-          "number": "78",
-          "section": "See also:",
-          "visual_context": "Cross-reference in the See also box.",
           "semantic_meaning": null
         }
       ]

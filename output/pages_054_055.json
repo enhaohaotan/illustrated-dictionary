@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 54,
-      "title": "The hospital",
-      "context": "21.1 AT THE HOSPITAL",
+      "title": "21 The hospital",
+      "see_also": [],
       "entries": [
         {
           "source_text": "oxygen mask",
@@ -177,8 +177,29 @@
     },
     {
       "page": 55,
-      "title": "The hospital",
-      "context": "21.1 AT THE HOSPITAL; 21.2 DEPARTMENTS",
+      "title": "21 The hospital",
+      "see_also": [
+        {
+          "source_text": "Parts of the body",
+          "number": "01"
+        },
+        {
+          "source_text": "Muscles and skeleton",
+          "number": "03"
+        },
+        {
+          "source_text": "Internal organs",
+          "number": "04"
+        },
+        {
+          "source_text": "Illness and injury",
+          "number": "19"
+        },
+        {
+          "source_text": "Visiting the doctor",
+          "number": "20"
+        }
+      ],
       "entries": [
         {
           "source_text": "scalpel",

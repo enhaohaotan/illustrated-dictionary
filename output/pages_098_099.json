@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 98,
-      "title": "In town continued",
-      "context": "43.1 BUILDINGS AND OTHER FEATURES",
+      "title": "43 In town continued",
+      "see_also": [],
       "entries": [
         {
           "source_text": "concert hall",
@@ -156,8 +156,37 @@
     },
     {
       "page": 99,
-      "title": null,
-      "context": "43.1 BUILDINGS AND OTHER FEATURES; 43.2 PLAYGROUND",
+      "title": "43 In town continued",
+      "see_also": [
+        {
+          "source_text": "A place to live",
+          "number": "25"
+        },
+        {
+          "source_text": "Buildings and architecture",
+          "number": "44"
+        },
+        {
+          "source_text": "Shopping",
+          "number": "46"
+        },
+        {
+          "source_text": "The shopping mall",
+          "number": "47"
+        },
+        {
+          "source_text": "Trains",
+          "number": "102"
+        },
+        {
+          "source_text": "At the airport",
+          "number": "104"
+        },
+        {
+          "source_text": "The port",
+          "number": "106"
+        }
+      ],
       "entries": [
         {
           "source_text": "streetlight",

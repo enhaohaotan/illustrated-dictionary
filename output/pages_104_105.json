@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 104,
-      "title": "Shopping",
-      "context": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK)",
+      "title": "46 Shopping",
+      "see_also": [],
       "entries": [
         {
           "source_text": "We bought these in the sales.",
@@ -205,8 +205,21 @@
     },
     {
       "page": 105,
-      "title": "Shopping",
-      "context": "46.1 ON THE MAIN STREET (US) / HIGH STREET (UK); 46.2 SHOPPING VERBS; 46.3 ORDERING ONLINE",
+      "title": "46 Shopping",
+      "see_also": [
+        {
+          "source_text": "In town",
+          "number": "42-43"
+        },
+        {
+          "source_text": "The shopping mall",
+          "number": "47"
+        },
+        {
+          "source_text": "The supermarket",
+          "number": "48"
+        }
+      ],
       "entries": [
         {
           "source_text": "garden center (US) garden centre (UK)",

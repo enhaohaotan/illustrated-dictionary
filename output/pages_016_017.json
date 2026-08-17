@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 16,
-      "title": "Hands and feet",
-      "context": "2.1 HANDS; 2.2 BODY VERBS",
+      "title": "02 Hands and feet",
+      "see_also": [],
       "entries": [
         {
           "source_text": "palm",
@@ -170,8 +170,29 @@
     },
     {
       "page": 17,
-      "title": "Hands and feet",
-      "context": "2.3 FEET; 2.2 BODY VERBS (continued)",
+      "title": "02 Hands and feet",
+      "see_also": [
+        {
+          "source_text": "Parts of the body",
+          "number": "01"
+        },
+        {
+          "source_text": "Muscles and skeleton",
+          "number": "03"
+        },
+        {
+          "source_text": "Illness and injury",
+          "number": "19"
+        },
+        {
+          "source_text": "Visiting the doctor",
+          "number": "20"
+        },
+        {
+          "source_text": "The hospital",
+          "number": "21"
+        }
+      ],
       "entries": [
         {
           "source_text": "sole",

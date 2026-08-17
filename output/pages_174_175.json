@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 174,
-      "title": "In the office",
-      "context": null,
+      "title": "82 In the office",
+      "see_also": [],
       "entries": [
         {
           "source_text": "bulletin board (US) notice board (UK)",
@@ -170,51 +170,34 @@
     },
     {
       "page": 175,
-      "title": "In the office",
-      "context": "See also: 81 At work; 83 Computers and technology; 91 Industries and departments; 92 Applying for a job; 93 Workplace skills; 95 Meeting and presenting.",
-      "entries": [
+      "title": "82 In the office",
+      "see_also": [
         {
           "source_text": "At work",
-          "number": "81",
-          "section": "See also:",
-          "visual_context": null,
-          "semantic_meaning": null
+          "number": "81"
         },
         {
           "source_text": "Computers and technology",
-          "number": "83",
-          "section": "See also:",
-          "visual_context": null,
-          "semantic_meaning": null
+          "number": "83"
         },
         {
           "source_text": "Industries and departments",
-          "number": "91",
-          "section": "See also:",
-          "visual_context": null,
-          "semantic_meaning": null
+          "number": "91"
         },
         {
           "source_text": "Applying for a job",
-          "number": "92",
-          "section": "See also:",
-          "visual_context": null,
-          "semantic_meaning": null
+          "number": "92"
         },
         {
           "source_text": "Workplace skills",
-          "number": "93",
-          "section": "See also:",
-          "visual_context": null,
-          "semantic_meaning": null
+          "number": "93"
         },
         {
           "source_text": "Meeting and presenting",
-          "number": "95",
-          "section": "See also:",
-          "visual_context": null,
-          "semantic_meaning": null
-        },
+          "number": "95"
+        }
+      ],
+      "entries": [
         {
           "source_text": "photocopier",
           "number": "1",

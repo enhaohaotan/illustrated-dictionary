@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 96,
-      "title": "In town",
-      "context": "42.1 BUILDINGS AND OTHER FEATURES",
+      "title": "42 In town",
+      "see_also": [],
       "entries": [
         {
           "source_text": "hotel",
@@ -163,8 +163,41 @@
     },
     {
       "page": 97,
-      "title": "In town",
-      "context": "42.1 BUILDINGS AND OTHER FEATURES",
+      "title": "42 In town",
+      "see_also": [
+        {
+          "source_text": "A place to live",
+          "number": "25"
+        },
+        {
+          "source_text": "In town (continued)",
+          "number": "43"
+        },
+        {
+          "source_text": "Buildings and architecture",
+          "number": "44"
+        },
+        {
+          "source_text": "Shopping",
+          "number": "46"
+        },
+        {
+          "source_text": "The shopping mall",
+          "number": "47"
+        },
+        {
+          "source_text": "Trains",
+          "number": "102"
+        },
+        {
+          "source_text": "At the airport",
+          "number": "104"
+        },
+        {
+          "source_text": "The port",
+          "number": "106"
+        }
+      ],
       "entries": [
         {
           "source_text": "skyscraper",

@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 164,
-      "title": "Biology",
-      "context": "77.1 BIOLOGY",
+      "title": "77 Biology",
+      "see_also": [],
       "entries": [
         {
           "source_text": "biologist",
@@ -254,8 +254,41 @@
     },
     {
       "page": 165,
-      "title": "Metamorphosis",
-      "context": "77.1 BIOLOGY; 77.2 METAMORPHOSIS",
+      "title": "77 Biology",
+      "see_also": [
+        {
+          "source_text": "Natural history",
+          "number": "157"
+        },
+        {
+          "source_text": "Mammals",
+          "number": "158-159"
+        },
+        {
+          "source_text": "Birds",
+          "number": "160-161"
+        },
+        {
+          "source_text": "Insects and bugs",
+          "number": "162"
+        },
+        {
+          "source_text": "Reptiles and amphibians",
+          "number": "163"
+        },
+        {
+          "source_text": "Ocean life",
+          "number": "166"
+        },
+        {
+          "source_text": "Plants and trees",
+          "number": "167-169"
+        },
+        {
+          "source_text": "Fungi",
+          "number": "170"
+        }
+      ],
       "entries": [
         {
           "source_text": "ecosystem",

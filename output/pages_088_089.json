@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 88,
-      "title": "Garden plants and houseplants",
-      "context": "38.1 GARDEN PLANTS AND FLOWERS",
+      "title": "38 Garden plants and houseplants",
+      "see_also": [],
       "entries": [
         {
           "source_text": "dandelion",
@@ -254,8 +254,25 @@
     },
     {
       "page": 89,
-      "title": "Garden plants and houseplants",
-      "context": "38.2 HOUSEPLANTS; 38.3 FLOWER ANATOMY",
+      "title": "38 Garden plants and houseplants",
+      "see_also": [
+        {
+          "source_text": "Practical gardening",
+          "number": "39"
+        },
+        {
+          "source_text": "Garden tools",
+          "number": "40"
+        },
+        {
+          "source_text": "Garden features",
+          "number": "41"
+        },
+        {
+          "source_text": "Plants and trees",
+          "number": "167-169"
+        }
+      ],
       "entries": [
         {
           "source_text": "heather",

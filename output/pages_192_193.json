@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 192,
-      "title": "Industries and departments",
-      "context": "91.1 INDUSTRIES",
+      "title": "91 Industries and departments",
+      "see_also": [],
       "entries": [
         {
           "source_text": "advertising",
@@ -219,8 +219,29 @@
     },
     {
       "page": 193,
-      "title": "Industries and departments",
-      "context": "91.1 INDUSTRIES; 91.2 DEPARTMENTS",
+      "title": "91 Industries and departments",
+      "see_also": [
+        {
+          "source_text": "At work",
+          "number": "81"
+        },
+        {
+          "source_text": "In the office",
+          "number": "82"
+        },
+        {
+          "source_text": "Jobs",
+          "number": "89-90"
+        },
+        {
+          "source_text": "Applying for a job",
+          "number": "92"
+        },
+        {
+          "source_text": "Workplace skills",
+          "number": "93"
+        }
+      ],
       "entries": [
         {
           "source_text": "tourism",
@@ -403,41 +424,6 @@
           "section": "91.2 DEPARTMENTS",
           "visual_context": "A person praises ideas while reviewing a project design with a colleague.",
           "semantic_meaning": "positive response to project proposals"
-        },
-        {
-          "source_text": "At work",
-          "number": "81",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the See also box.",
-          "semantic_meaning": null
-        },
-        {
-          "source_text": "In the office",
-          "number": "82",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the See also box.",
-          "semantic_meaning": null
-        },
-        {
-          "source_text": "Jobs",
-          "number": "89-90",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the See also box.",
-          "semantic_meaning": null
-        },
-        {
-          "source_text": "Applying for a job",
-          "number": "92",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the See also box.",
-          "semantic_meaning": null
-        },
-        {
-          "source_text": "Workplace skills",
-          "number": "93",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the See also box.",
-          "semantic_meaning": null
         }
       ]
     }

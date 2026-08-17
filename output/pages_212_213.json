@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 212,
-      "title": "Cycling",
-      "context": "101.1 BICYCLE",
+      "title": "101 Cycling",
+      "see_also": [],
       "entries": [
         {
           "source_text": "seat post",
@@ -212,8 +212,25 @@
     },
     {
       "page": 213,
-      "title": "Cycling",
-      "context": "101.1 BICYCLE",
+      "title": "101 Cycling",
+      "see_also": [
+        {
+          "source_text": "In town",
+          "number": "42-43"
+        },
+        {
+          "source_text": "Roads",
+          "number": "96"
+        },
+        {
+          "source_text": "Motorcycles",
+          "number": "100"
+        },
+        {
+          "source_text": "Outdoor activities",
+          "number": "133"
+        }
+      ],
       "entries": [
         {
           "source_text": "gear lever",

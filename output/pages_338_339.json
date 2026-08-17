@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 338,
-      "title": "Pets",
-      "context": null,
+      "title": "164 Pets",
+      "see_also": [],
       "entries": [
         {
           "source_text": "British shorthair",
@@ -247,8 +247,25 @@
     },
     {
       "page": 339,
-      "title": "Pets",
-      "context": null,
+      "title": "164 Pets",
+      "see_also": [
+        {
+          "source_text": "Mammals",
+          "number": "158-159"
+        },
+        {
+          "source_text": "Birds",
+          "number": "160-161"
+        },
+        {
+          "source_text": "Insects and bugs",
+          "number": "162"
+        },
+        {
+          "source_text": "Amphibians and reptiles",
+          "number": "163"
+        }
+      ],
       "entries": [
         {
           "source_text": "pug",

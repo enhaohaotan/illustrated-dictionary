@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 318,
-      "title": "Weather",
-      "context": "154.1 WEATHER",
+      "title": "154 Weather",
+      "see_also": [],
       "entries": [
         {
           "source_text": "humidity",
@@ -205,30 +205,22 @@
     },
     {
       "page": 319,
-      "title": "Temperature; Weather Adjectives",
-      "context": "154.2 TEMPERATURE; 154.3 WEATHER ADJECTIVES",
-      "entries": [
+      "title": "154 Weather",
+      "see_also": [
         {
           "source_text": "Planet Earth",
-          "number": "145",
-          "section": "See also:",
-          "visual_context": "Cross-reference list.",
-          "semantic_meaning": null
+          "number": "145"
         },
         {
           "source_text": "Geography",
-          "number": "146-147",
-          "section": "See also:",
-          "visual_context": "Cross-reference list.",
-          "semantic_meaning": null
+          "number": "146-147"
         },
         {
           "source_text": "Climate and the environment",
-          "number": "155",
-          "section": "See also:",
-          "visual_context": "Cross-reference list.",
-          "semantic_meaning": null
-        },
+          "number": "155"
+        }
+      ],
+      "entries": [
         {
           "source_text": "freezing",
           "number": "1",

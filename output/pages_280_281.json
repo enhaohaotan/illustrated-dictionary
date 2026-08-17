@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 280,
-      "title": "Camping",
-      "context": "135.1 CAMPING EQUIPMENT AND FACILITIES",
+      "title": "135 Camping",
+      "see_also": [],
       "entries": [
         {
           "source_text": "to camp",
@@ -261,8 +261,21 @@
     },
     {
       "page": 281,
-      "title": "Camping",
-      "context": "135.2 CAMPGROUND (US) / CAMPSITE (UK)",
+      "title": "135 Camping",
+      "see_also": [
+        {
+          "source_text": "Travel and accommodation",
+          "number": "131"
+        },
+        {
+          "source_text": "Outdoor activities",
+          "number": "133"
+        },
+        {
+          "source_text": "Geography",
+          "number": "146-147"
+        }
+      ],
       "entries": [
         {
           "source_text": "family tent",

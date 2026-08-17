@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 244,
-      "title": "Combat sports",
-      "context": "117.1 MARTIAL ARTS; 117.2 ACTIONS",
+      "title": "117 Combat sports",
+      "see_also": [],
       "entries": [
         {
           "source_text": "groin protector",
@@ -226,30 +226,22 @@
     },
     {
       "page": 245,
-      "title": "Combat sports",
-      "context": "117.3 BOXING; 117.4 FENCING",
-      "entries": [
+      "title": "117 Combat sports",
+      "see_also": [
         {
           "source_text": "Athletics",
-          "number": "116",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the See also box.",
-          "semantic_meaning": null
+          "number": "116"
         },
         {
           "source_text": "At the gym",
-          "number": "124",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the See also box.",
-          "semantic_meaning": null
+          "number": "124"
         },
         {
           "source_text": "Other sports",
-          "number": "125",
-          "section": "See also:",
-          "visual_context": "Cross-reference listed in the See also box.",
-          "semantic_meaning": null
-        },
+          "number": "125"
+        }
+      ],
+      "entries": [
         {
           "source_text": "boxing ring",
           "number": "1",
@@ -358,35 +350,35 @@
         {
           "source_text": "to punch",
           "number": "7",
-          "section": null,
+          "section": "117.2 ACTIONS",
           "visual_context": "Green action icon of one person punching another.",
           "semantic_meaning": null
         },
         {
           "source_text": "to strike",
           "number": "8",
-          "section": null,
+          "section": "117.2 ACTIONS",
           "visual_context": "Green action icon of one person striking another.",
           "semantic_meaning": null
         },
         {
           "source_text": "to block",
           "number": "9",
-          "section": null,
+          "section": "117.2 ACTIONS",
           "visual_context": "Green action icon of a person blocking a blow.",
           "semantic_meaning": null
         },
         {
           "source_text": "to jump",
           "number": "10",
-          "section": null,
+          "section": "117.2 ACTIONS",
           "visual_context": "Green action icon of a person jumping over another person.",
           "semantic_meaning": null
         },
         {
           "source_text": "to chop",
           "number": "11",
-          "section": null,
+          "section": "117.2 ACTIONS",
           "visual_context": "Green action icon of a downward chopping strike.",
           "semantic_meaning": null
         }

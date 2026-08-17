@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 36,
-      "title": "Appearance and hair",
-      "context": null,
+      "title": "12 Appearance and hair",
+      "see_also": [],
       "entries": [
         {
           "source_text": "medium height",
@@ -226,8 +226,25 @@
     },
     {
       "page": 37,
-      "title": null,
-      "context": "Continuation of 12.2 HAIR.",
+      "title": "12 Appearance and hair",
+      "see_also": [
+        {
+          "source_text": "Clothes",
+          "number": "13-15"
+        },
+        {
+          "source_text": "Accessories",
+          "number": "16"
+        },
+        {
+          "source_text": "Shoes",
+          "number": "17"
+        },
+        {
+          "source_text": "Beauty",
+          "number": "18"
+        }
+      ],
       "entries": [
         {
           "source_text": "crew cut",

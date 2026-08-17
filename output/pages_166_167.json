@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 166,
-      "title": "The periodic table",
-      "context": "78.1 THE PERIODIC TABLE",
+      "title": "78 The periodic table",
+      "see_also": [],
       "entries": [
         {
           "source_text": "H\nhydrogen",
@@ -401,8 +401,25 @@
     },
     {
       "page": 167,
-      "title": null,
-      "context": "78.1 THE PERIODIC TABLE",
+      "title": "78 The periodic table",
+      "see_also": [
+        {
+          "source_text": "At school",
+          "number": "73"
+        },
+        {
+          "source_text": "Physics",
+          "number": "75"
+        },
+        {
+          "source_text": "Chemistry",
+          "number": "76"
+        },
+        {
+          "source_text": "Rocks and minerals",
+          "number": "156"
+        }
+      ],
       "entries": [
         {
           "source_text": "He\nhelium",

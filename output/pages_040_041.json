@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 40,
-      "title": "Clothes continued",
-      "context": "14.1 CASUAL CLOTHES",
+      "title": "14 Clothes continued",
+      "see_also": [],
       "entries": [
         {
           "source_text": "I prefer this casual outfit to my formal work clothes.",
@@ -163,8 +163,25 @@
     },
     {
       "page": 41,
-      "title": null,
-      "context": "14.2 NIGHTWEAR; 14.3 UNDERWEAR; 14.4 VERBS FOR CLOTHES",
+      "title": "14 Clothes continued",
+      "see_also": [
+        {
+          "source_text": "Appearance and hair",
+          "number": "12"
+        },
+        {
+          "source_text": "Clothes (continued)",
+          "number": "15"
+        },
+        {
+          "source_text": "Accessories",
+          "number": "16"
+        },
+        {
+          "source_text": "Shoes",
+          "number": "17"
+        }
+      ],
       "entries": [
         {
           "source_text": "camisole",

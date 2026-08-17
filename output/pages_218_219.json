@@ -2,8 +2,8 @@
   "pages": [
     {
       "page": 218,
-      "title": "At the airport",
-      "context": "104.1 AT THE TERMINAL",
+      "title": "104 At the airport",
+      "see_also": [],
       "entries": [
         {
           "source_text": "airport",
@@ -226,8 +226,21 @@
     },
     {
       "page": 219,
-      "title": "At the airport",
-      "context": "104.1 AT THE TERMINAL",
+      "title": "104 At the airport",
+      "see_also": [
+        {
+          "source_text": "Aircraft",
+          "number": "103"
+        },
+        {
+          "source_text": "Travel and accommodation",
+          "number": "131"
+        },
+        {
+          "source_text": "Countries",
+          "number": "149-151"
+        }
+      ],
       "entries": [
         {
           "source_text": "boarding gate",
