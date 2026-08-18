@@ -5,6 +5,8 @@ const state = {
   zoom: 1,
   request: 0,
 };
+const PDF_PAGE_WIDTH = 552.756;
+const PAGE_NUMBER_OFFSET = 2;
 
 const elements = {
   pages: [
@@ -23,16 +25,15 @@ const elements = {
   total: document.querySelector("#page-total"),
   previous: document.querySelector("#previous"),
   next: document.querySelector("#next"),
-  language: document.querySelector("#language"),
-  title: document.querySelector("#page-title"),
+  languageControl: document.querySelector(".language-control"),
+  languageToggle: document.querySelector("#language-toggle"),
+  languageOptions: document.querySelector("#language-options"),
+  languageCode: document.querySelector("#language-code"),
+  languageName: document.querySelector("#language-name"),
   status: document.querySelector("#status"),
-  stage: document.querySelector("#page-stage"),
   spread: document.querySelector("#spread"),
   template: document.querySelector("#entry-template"),
   titleTemplate: document.querySelector("#title-template"),
-  zoomIn: document.querySelector("#zoom-in"),
-  zoomOut: document.querySelector("#zoom-out"),
-  zoomValue: document.querySelector("#zoom-value"),
 };
 
 function clampPage(value) {
@@ -47,9 +48,36 @@ function spreadStart(value) {
   return state.config.first_page + Math.floor(offset / 2) * 2;
 }
 
+function displayedPage(pdfPage) {
+  return pdfPage - PAGE_NUMBER_OFFSET;
+}
+
+function pdfPage(displayedPageNumber) {
+  return Number.parseInt(displayedPageNumber, 10) + PAGE_NUMBER_OFFSET;
+}
+
 function setStatus(message, isError = false) {
   elements.status.textContent = message;
-  elements.status.closest(".reader-note").classList.toggle("error", isError);
+  if (isError) console.error(message);
+}
+
+function setLanguageMenuOpen(open) {
+  elements.languageOptions.hidden = !open;
+  elements.languageToggle.setAttribute("aria-expanded", String(open));
+}
+
+function updateLanguagePicker() {
+  const selected = state.config.languages.find(({ code }) => code === state.language);
+  elements.languageCode.textContent = state.language.toUpperCase();
+  elements.languageName.textContent = selected?.name || state.language;
+  for (const option of elements.languageOptions.querySelectorAll(".language-option")) {
+    option.setAttribute("aria-checked", String(option.dataset.language === state.language));
+  }
+}
+
+function fitSpreadToWindow() {
+  state.zoom = Math.min(1, window.innerWidth / (PDF_PAGE_WIDTH * 2));
+  elements.spread.style.setProperty("--zoom", state.zoom);
 }
 
 function configureAudio(button, url, label) {
@@ -72,8 +100,7 @@ function overlapArea(first, second) {
 }
 
 function overlapPenalty(first, second) {
-  const allowedArea = 8 * state.zoom * state.zoom;
-  return Math.max(0, overlapArea(first, second) - allowedArea);
+  return overlapArea(first, second);
 }
 
 function padded(rectangle, padding) {
@@ -87,7 +114,7 @@ function padded(rectangle, padding) {
 
 function candidatePositions(source, width, height, pageWidth, pageHeight) {
   const verticalStep = height + 1;
-  const horizontalStep = Math.max(width * 0.55, 12);
+  const horizontalStep = 12 * state.zoom;
   const positions = [];
   const add = (left, top) => {
     if (left < 0 || top < 0 || left + width > pageWidth || top + height > pageHeight) return;
@@ -98,7 +125,7 @@ function candidatePositions(source, width, height, pageWidth, pageHeight) {
   };
 
   for (let row = 0; row <= 7; row += 1) {
-    const below = source.bottom + 1 + row * verticalStep;
+    const below = source.bottom + state.zoom + row * verticalStep;
     const above = source.top - height - 1 - row * verticalStep;
     for (let column = 0; column <= 5; column += 1) {
       const shifts = column === 0 ? [0] : [-column * horizontalStep, column * horizontalStep];
@@ -123,7 +150,7 @@ function layoutTranslations(overlays) {
   const titleItems = [...overlays.querySelectorAll(".title-overlay")].map((overlay) => {
     const source = overlay.getBoundingClientRect();
     const tag = overlay.querySelector(".title-translation");
-    tag.style.transform = "none";
+    const translation = tag.getBoundingClientRect();
     return {
       tag,
       source: {
@@ -131,6 +158,12 @@ function layoutTranslations(overlays) {
         top: source.top - pageRectangle.top,
         right: source.right - pageRectangle.left,
         bottom: source.bottom - pageRectangle.top,
+      },
+      translation: {
+        left: translation.left - pageRectangle.left,
+        top: translation.top - pageRectangle.top,
+        right: translation.right - pageRectangle.left,
+        bottom: translation.bottom - pageRectangle.top,
       },
     };
   });
@@ -150,13 +183,20 @@ function layoutTranslations(overlays) {
     };
   });
 
-  const sourceRectangles = [...titleItems, ...items].map(({ source }) => source);
-  const placed = titleItems.map(({ source, tag }) => padded({
-    left: source.left,
-    top: source.bottom,
-    right: source.left + tag.offsetWidth,
-    bottom: source.bottom + tag.offsetHeight,
-  }, 0.5));
+  const sourceRectangles = [
+    ...titleItems.map(({ source }) => source),
+    ...items.map(({ source }) => ({
+      ...source,
+      top: Math.min(source.bottom, source.top + 3 * state.zoom),
+    })),
+  ];
+  const numberRectangles = items.map(({ source }) => ({
+    left: Math.max(0, source.left - 10 * state.zoom),
+    top: Math.min(source.bottom, source.top + 3 * state.zoom),
+    right: source.left,
+    bottom: source.bottom,
+  }));
+  const placed = titleItems.map(({ translation }) => padded(translation, 0.5));
   const ordered = [...items].sort((first, second) => {
     const widthDifference = second.tag.offsetWidth - first.tag.offsetWidth;
     return widthDifference || first.source.top - second.source.top || first.source.left - second.source.left;
@@ -165,8 +205,19 @@ function layoutTranslations(overlays) {
   for (const item of ordered) {
     const width = item.tag.offsetWidth;
     const height = item.tag.offsetHeight;
+    const sourceWidth = item.source.right - item.source.left;
+    const wraps = item.tag.classList.contains("wrap-translation");
+    const startsAtNumber = wraps || width > sourceWidth + 5 * state.zoom;
+    const numberOffset = (wraps ? 15 : 10) * state.zoom;
+    const anchor = {
+      ...item.source,
+      left: startsAtNumber
+        ? Math.max(0, item.source.left - numberOffset)
+        : item.source.left,
+    };
+    const preferredTop = anchor.bottom + state.zoom;
     const candidates = candidatePositions(
-      item.source,
+      anchor,
       width,
       height,
       pageRectangle.width,
@@ -179,16 +230,20 @@ function layoutTranslations(overlays) {
     for (const candidate of candidates) {
       const protectedCandidate = padded(candidate, 0.5);
       const sourceCollision = sourceRectangles.reduce(
-        (total, source) => total + overlapPenalty(protectedCandidate, source),
+        (total, source) => total + overlapPenalty(candidate, source),
+        0,
+      );
+      const numberCollision = numberRectangles.reduce(
+        (total, number) => total + overlapPenalty(candidate, number),
         0,
       );
       const translationCollision = placed.reduce(
         (total, translation) => total + overlapPenalty(protectedCandidate, translation),
         0,
       );
-      const horizontalDistance = Math.abs(candidate.left - item.source.left);
-      const verticalDistance = Math.abs(candidate.top - item.source.bottom);
-      const collision = sourceCollision + translationCollision;
+      const horizontalDistance = Math.abs(candidate.left - anchor.left);
+      const verticalDistance = Math.abs(candidate.top - preferredTop);
+      const collision = sourceCollision + numberCollision + translationCollision;
       const placementCost = horizontalDistance + verticalDistance * 12;
       const collisionIsBetter = collision < bestCollision;
       const collisionIsEqual = collision === bestCollision;
@@ -202,6 +257,7 @@ function layoutTranslations(overlays) {
       }
       if (
         sourceCollision === 0
+        && numberCollision === 0
         && translationCollision === 0
         && horizontalDistance <= 1
         && verticalDistance <= 1
@@ -231,6 +287,7 @@ function renderEntries(entries, overlays) {
       entry.bbox.right,
       entry.bbox.bottom,
       entry.translation,
+      entry.translation_noun_marker,
     ].join(":");
     if (renderedPositions.has(positionKey)) continue;
     renderedPositions.add(positionKey);
@@ -240,6 +297,7 @@ function renderEntries(entries, overlays) {
     const sourceAudioHit = fragment.querySelector(".source-audio-hit");
     const translationTag = fragment.querySelector(".translation-tag");
     const translation = fragment.querySelector(".translation-text");
+    const nounMarker = fragment.querySelector(".translation-noun-marker");
 
     overlay.style.setProperty("--left", `${entry.bbox.left * 100}%`);
     overlay.style.setProperty("--top", `${entry.bbox.top * 100}%`);
@@ -247,6 +305,8 @@ function renderEntries(entries, overlays) {
     overlay.style.setProperty("--bottom", `${entry.bbox.bottom * 100}%`);
     overlay.dataset.entryId = entry.id;
     translation.textContent = entry.translation;
+    nounMarker.textContent = entry.translation_noun_marker || "";
+    nounMarker.hidden = !entry.translation_noun_marker;
     const translationWords = entry.translation.trim().split(/\s+/);
     if (translationWords.length > 1 && entry.translation.length > 24) {
       translationTag.classList.add("wrap-translation");
@@ -258,22 +318,43 @@ function renderEntries(entries, overlays) {
   return located;
 }
 
-function renderTitle(data, overlays) {
-  if (!data.title_bbox || !data.title || data.language === "en") return;
+function translatedHeading(text) {
+  return text.replace(/^\s*\d+(?:\.\d+)*\s+/, "").trim();
+}
+
+function renderHeading(bbox, text, overlays, className = "") {
+  if (!bbox || !text) return;
   const fragment = elements.titleTemplate.content.cloneNode(true);
   const overlay = fragment.querySelector(".title-overlay");
   const translation = fragment.querySelector(".title-translation");
-  overlay.style.setProperty("--left", `${data.title_bbox.left * 100}%`);
-  overlay.style.setProperty("--top", `${data.title_bbox.top * 100}%`);
-  overlay.style.setProperty("--right", `${data.title_bbox.right * 100}%`);
-  overlay.style.setProperty("--bottom", `${data.title_bbox.bottom * 100}%`);
-  translation.textContent = data.title;
+  if (className) {
+    overlay.classList.add(`${className}-overlay`);
+    translation.classList.add(`${className}-translation`);
+  }
+  overlay.style.setProperty("--left", `${bbox.left * 100}%`);
+  overlay.style.setProperty("--top", `${bbox.top * 100}%`);
+  overlay.style.setProperty("--right", `${bbox.right * 100}%`);
+  overlay.style.setProperty("--bottom", `${bbox.bottom * 100}%`);
+  translation.textContent = translatedHeading(text);
   overlays.append(fragment);
+}
+
+function renderTitle(data, overlays) {
+  if (data.language === "en") return;
+  renderHeading(data.title_bbox, data.title, overlays);
+}
+
+function renderSections(data, overlays) {
+  if (data.language === "en") return;
+  for (const section of data.sections || []) {
+    renderHeading(section.bbox, section.title, overlays, "section");
+  }
 }
 
 function renderPage(data, overlays) {
   overlays.replaceChildren();
   renderTitle(data, overlays);
+  renderSections(data, overlays);
   return renderEntries(data.entries, overlays);
 }
 
@@ -291,14 +372,14 @@ async function loadSpread(nextPage = state.page) {
   const pageNumbers = [state.page, state.page + 1].filter(
     (page) => page <= state.config.last_page,
   );
-  elements.page.value = state.page;
+  const displayedPageNumbers = pageNumbers.map(displayedPage);
+  elements.page.value = displayedPageNumbers[0];
   elements.previous.disabled = state.page <= state.config.first_page;
   elements.next.disabled = state.page + 1 >= state.config.last_page;
   elements.total.textContent = pageNumbers.length === 2
-    ? `– ${pageNumbers[1]} / ${state.config.last_page}`
-    : `/ ${state.config.last_page}`;
-  setStatus(`正在载入第 ${pageNumbers.join("–")} 页…`);
-  elements.spread.classList.add("loading");
+    ? `– ${displayedPageNumbers[1]} / ${displayedPage(state.config.last_page)}`
+    : `/ ${displayedPage(state.config.last_page)}`;
+  setStatus(`正在载入第 ${displayedPageNumbers.join("–")} 页…`);
 
   try {
     const results = await Promise.all(pageNumbers.map(async (pageNumber, index) => {
@@ -321,25 +402,12 @@ async function loadSpread(nextPage = state.page) {
     for (let index = results.length; index < elements.pages.length; index += 1) {
       elements.pages[index].container.hidden = true;
     }
-    elements.title.textContent = results.map((data) => data.title).filter(Boolean).join(" · ")
-      || `第 ${pageNumbers.join("–")} 页`;
-    setStatus(`${pageNumbers.join("–")} · ${entryCount} 个词条 · ${locatedCount} 个位置标注`);
+    setStatus(`${displayedPageNumbers.join("–")} · ${entryCount} 个词条 · ${locatedCount} 个位置标注`);
     requestAnimationFrame(layoutVisiblePages);
-    history.replaceState(null, "", `?page=${state.page}&language=${state.language}`);
+    history.replaceState(null, "", `?page=${displayedPage(state.page)}&language=${state.language}`);
   } catch (error) {
     if (request === state.request) setStatus(`载入失败：${error.message}`, true);
-  } finally {
-    if (request === state.request) elements.spread.classList.remove("loading");
   }
-}
-
-function setZoom(value) {
-  state.zoom = Math.min(2, Math.max(0.7, value));
-  elements.spread.style.setProperty("--zoom", state.zoom);
-  elements.zoomValue.value = `${Math.round(state.zoom * 100)}%`;
-  elements.zoomOut.disabled = state.zoom <= 0.7;
-  elements.zoomIn.disabled = state.zoom >= 2;
-  requestAnimationFrame(layoutVisiblePages);
 }
 
 async function initialize() {
@@ -348,41 +416,70 @@ async function initialize() {
   state.config = await response.json();
   const params = new URLSearchParams(location.search);
   const requestedLanguage = params.get("language");
-  const languageCodes = state.config.languages.map(({ code }) => code);
-  state.language = languageCodes.includes(requestedLanguage) ? requestedLanguage : (languageCodes.includes("da") ? "da" : languageCodes[0]);
-  state.page = spreadStart(params.get("page") || state.config.first_page);
-
-  for (const language of state.config.languages) {
-    const option = new Option(language.name, language.code, false, language.code === state.language);
-    elements.language.add(option);
+  const translationLanguages = state.config.languages.filter(({ code }) => code !== "en");
+  if (!translationLanguages.length) {
+    throw new Error("没有可用的翻译语言");
   }
-  elements.page.min = state.config.first_page;
-  elements.page.max = state.config.last_page;
-  setZoom(1);
+  const languageCodes = translationLanguages.map(({ code }) => code);
+  state.language = languageCodes.includes(requestedLanguage) ? requestedLanguage : (languageCodes.includes("da") ? "da" : languageCodes[0]);
+  const requestedPage = params.get("page");
+  state.page = spreadStart(
+    requestedPage === null ? state.config.first_page : pdfPage(requestedPage),
+  );
+
+  for (const language of translationLanguages) {
+    const option = document.createElement("button");
+    option.className = "language-option";
+    option.type = "button";
+    option.role = "menuitemradio";
+    option.dataset.language = language.code;
+    option.textContent = language.name;
+    option.addEventListener("click", () => {
+      state.language = language.code;
+      setLanguageMenuOpen(false);
+      updateLanguagePicker();
+      loadSpread();
+    });
+    elements.languageOptions.append(option);
+  }
+  updateLanguagePicker();
+  elements.page.min = displayedPage(state.config.first_page);
+  elements.page.max = displayedPage(state.config.last_page);
+  fitSpreadToWindow();
   await loadSpread();
 }
 
 elements.previous.addEventListener("click", () => loadSpread(state.page - 2));
 elements.next.addEventListener("click", () => loadSpread(state.page + 2));
-elements.page.addEventListener("change", () => loadSpread(elements.page.value));
+elements.page.addEventListener("change", () => loadSpread(pdfPage(elements.page.value)));
 elements.page.addEventListener("keydown", (event) => {
-  if (event.key === "Enter") loadSpread(elements.page.value);
+  if (event.key === "Enter") loadSpread(pdfPage(elements.page.value));
 });
-elements.language.addEventListener("change", () => {
-  state.language = elements.language.value;
-  loadSpread();
+elements.languageToggle.addEventListener("click", () => {
+  setLanguageMenuOpen(elements.languageOptions.hidden);
 });
-elements.zoomIn.addEventListener("click", () => setZoom(state.zoom + 0.1));
-elements.zoomOut.addEventListener("click", () => setZoom(state.zoom - 0.1));
+document.addEventListener("click", (event) => {
+  if (!elements.languageControl.contains(event.target)) setLanguageMenuOpen(false);
+});
 document.addEventListener("keydown", (event) => {
-  if (event.target.matches("input, select, button")) return;
-  if (event.key === "ArrowLeft") loadSpread(state.page - 2);
-  if (event.key === "ArrowRight") loadSpread(state.page + 2);
+  if (event.key === "Escape" && !elements.languageOptions.hidden) {
+    setLanguageMenuOpen(false);
+    elements.languageToggle.focus();
+    return;
+  }
+  if (event.target.matches("input") || !elements.languageOptions.hidden) return;
+  if (event.key === "ArrowLeft") {
+    loadSpread(state.page - 2);
+  }
+  if (event.key === "ArrowRight") {
+    loadSpread(state.page + 2);
+  }
 });
 let resizeFrame = null;
 window.addEventListener("resize", () => {
   if (resizeFrame) cancelAnimationFrame(resizeFrame);
   resizeFrame = requestAnimationFrame(() => {
+    fitSpreadToWindow();
     layoutVisiblePages();
     resizeFrame = null;
   });

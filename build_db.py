@@ -116,8 +116,9 @@ def build_database(pages: list[dict], database: Path, schema: Path) -> None:
                         bbox_top,
                         bbox_right,
                         bbox_bottom,
-                        audio_url
-                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                        audio_url,
+                        noun_marker
+                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                     """,
                     (
                         entry_id,
@@ -126,6 +127,7 @@ def build_database(pages: list[dict], database: Path, schema: Path) -> None:
                         entry["source_text"],
                         entry.get("visual_context"),
                         entry.get("semantic_meaning"),
+                        None,
                         None,
                         None,
                         None,

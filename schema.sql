@@ -26,5 +26,6 @@ CREATE TABLE entries (
     bbox_right REAL CHECK (bbox_right IS NULL OR bbox_right BETWEEN 0 AND 1),
     bbox_bottom REAL CHECK (bbox_bottom IS NULL OR bbox_bottom BETWEEN 0 AND 1),
     audio_url TEXT,
+    noun_marker TEXT,
     FOREIGN KEY (section_id) REFERENCES sections(id)
 );

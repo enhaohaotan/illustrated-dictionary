@@ -50,6 +50,44 @@ def title_box(pdf_path: Path, page_number: int, title: str) -> dict[str, float] 
         }
 
 
+@lru_cache(maxsize=2048)
+def section_box(
+    pdf_path: Path, page_number: int, title: str
+) -> dict[str, float] | None:
+    with fitz.open(pdf_path) as document:
+        page = document[page_number - 1]
+        rectangles = sorted(
+            (
+                rectangle
+                for rectangle in page.search_for(title)
+                if 12 <= rectangle.height <= 22
+            ),
+            key=lambda rectangle: (rectangle.y0, rectangle.x0),
+        )
+        if not rectangles:
+            return None
+
+        groups: list[list[fitz.Rect]] = []
+        for rectangle in rectangles:
+            if groups and rectangle.y0 <= max(part.y1 for part in groups[-1]) + 4:
+                groups[-1].append(rectangle)
+            else:
+                groups.append([rectangle])
+        parts = max(
+            groups,
+            key=lambda group: sum(part.width * part.height for part in group),
+        )
+        rectangle = fitz.Rect(parts[0])
+        for part in parts[1:]:
+            rectangle.include_rect(part)
+        return {
+            "left": rectangle.x0 / page.rect.width,
+            "top": rectangle.y0 / page.rect.height,
+            "right": rectangle.x1 / page.rect.width,
+            "bottom": rectangle.y1 / page.rect.height,
+        }
+
+
 def database_paths() -> dict[str, Path]:
     paths: dict[str, Path] = {}
     for path in ROOT.glob("*.sqlite3"):
@@ -162,6 +200,7 @@ def create_app(pdf_path: Path = DEFAULT_PDF) -> FastAPI:
                 e.bbox_right,
                 e.bbox_bottom,
                 e.audio_url,
+                e.noun_marker,
                 s.number AS section_number,
                 s.title AS section_title,
                 p.title AS page_title
@@ -184,6 +223,37 @@ def create_app(pdf_path: Path = DEFAULT_PDF) -> FastAPI:
         )
         source_title = source_page[0]["title"] if source_page else None
         translated_title = translated_page[0]["title"] if translated_page else None
+        section_query = """
+            SELECT id, number, title
+            FROM sections
+            WHERE page_id = ?
+            ORDER BY id
+        """
+        source_sections = read_rows(
+            databases["en"], section_query, (page_number,)
+        )
+        translated_sections = {
+            row["id"]: row
+            for row in read_rows(databases[language], section_query, (page_number,))
+        }
+        sections = []
+        for source_section in source_sections:
+            translated_section = translated_sections.get(source_section["id"])
+            if translated_section is None:
+                continue
+            sections.append(
+                {
+                    "id": source_section["id"],
+                    "number": source_section["number"],
+                    "source_title": source_section["title"],
+                    "title": translated_section["title"],
+                    "bbox": section_box(
+                        pdf_path.resolve(),
+                        page_number,
+                        source_section["title"],
+                    ),
+                }
+            )
         entries = []
         for original in originals:
             translated = translations.get(original["id"])
@@ -195,6 +265,7 @@ def create_app(pdf_path: Path = DEFAULT_PDF) -> FastAPI:
                     "number": original["number"],
                     "source_text": original["source_text"],
                     "translation": translated["source_text"],
+                    "translation_noun_marker": translated["noun_marker"],
                     "section": {
                         "number": translated["section_number"],
                         "title": translated["section_title"],
@@ -231,6 +302,7 @@ def create_app(pdf_path: Path = DEFAULT_PDF) -> FastAPI:
                 else None
             ),
             "language": language,
+            "sections": sections,
             "entries": entries,
         }
 

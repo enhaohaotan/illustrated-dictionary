@@ -9,7 +9,7 @@ import sqlite3
 import unicodedata
 from collections import defaultdict
 from pathlib import Path
-from typing import Iterable, Sequence
+from typing import Iterable, Optional, Sequence
 
 import fitz
 
@@ -51,6 +51,19 @@ def source_tokens(value: str) -> list[str]:
     return [token for part in value.split() if (token := normalized_token(part))]
 
 
+def anchored_text_rectangle(rectangles: Iterable[fitz.Rect]) -> fitz.Rect:
+    """Cover all lines, but anchor the left edge to the first printed line."""
+    parts = [fitz.Rect(rectangle) for rectangle in rectangles]
+    rectangle = fitz.Rect(parts[0])
+    for part in parts[1:]:
+        rectangle.include_rect(part)
+    first_line_y = min(part.y0 for part in parts)
+    rectangle.x0 = min(
+        part.x0 for part in parts if abs(part.y0 - first_line_y) <= 3.5
+    )
+    return rectangle
+
+
 def word_occurrences(page: fitz.Page, source_text: str) -> list[fitz.Rect]:
     words = page.get_text("words", sort=False)
     wanted = source_tokens(source_text)
@@ -69,10 +82,9 @@ def word_occurrences(page: fitz.Page, source_text: str) -> list[fitz.Rect]:
             if candidate != wanted_text:
                 continue
             selected = words[start : end + 1]
-            rectangle = fitz.Rect(selected[0][:4])
-            for word in selected[1:]:
-                rectangle.include_rect(fitz.Rect(word[:4]))
-            occurrences.append(rectangle)
+            occurrences.append(
+                anchored_text_rectangle(fitz.Rect(word[:4]) for word in selected)
+            )
             break
     return occurrences
 
@@ -90,7 +102,7 @@ def multiline_occurrences(page: fitz.Page, source_text: str) -> list[fitz.Rect]:
     others = [item for item in found if item[0] != anchor_line]
     combined: list[fitz.Rect] = []
     for anchor in anchors:
-        rectangle = fitz.Rect(anchor)
+        parts = [fitz.Rect(anchor)]
         for _line, candidates in others:
             nearby = min(
                 candidates,
@@ -99,8 +111,8 @@ def multiline_occurrences(page: fitz.Page, source_text: str) -> list[fitz.Rect]:
             )
             distance = abs(nearby.x0 - anchor.x0) + 2 * abs(nearby.y0 - anchor.y0)
             if distance <= 100:
-                rectangle.include_rect(nearby)
-        combined.append(rectangle)
+                parts.append(fitz.Rect(nearby))
+        combined.append(anchored_text_rectangle(parts))
     return combined
 
 
@@ -142,9 +154,9 @@ def geometric_occurrences(page: fitz.Page, source_text: str) -> list[fitz.Rect]:
     occurrences: list[fitz.Rect] = []
     seen: set[tuple[float, float, float, float]] = set()
     for path in paths:
-        rectangle = fitz.Rect(words[path[0]][:4])
-        for index in path[1:]:
-            rectangle.include_rect(fitz.Rect(words[index][:4]))
+        rectangle = anchored_text_rectangle(
+            fitz.Rect(words[index][:4]) for index in path
+        )
         key = tuple(round(value, 2) for value in rectangle)
         if key not in seen:
             seen.add(key)
@@ -182,18 +194,59 @@ def search_occurrences(page: fitz.Page, source_text: str) -> list[fitz.Rect]:
     return list(page.search_for(source_text, flags=fitz.TEXT_DEHYPHENATE))
 
 
-def occurrence_score(page: fitz.Page, rectangle: fitz.Rect) -> tuple[float, float, float]:
+def see_also_regions(page: fitz.Page) -> list[fitz.Rect]:
+    return [
+        fitz.Rect(block[:4])
+        for block in page.get_text("blocks", sort=False)
+        if "see also" in str(block[4]).casefold()
+    ]
+
+
+def overlaps_regions(rectangle: fitz.Rect, regions: Iterable[fitz.Rect]) -> bool:
+    for region in regions:
+        intersection = rectangle & region
+        if intersection.width > 0 and intersection.height > 0:
+            return True
+    return False
+
+
+def entry_occurrences(page: fitz.Page, source_text: str) -> list[fitz.Rect]:
+    excluded_regions = see_also_regions(page)
+    return [
+        rectangle
+        for rectangle in search_occurrences(page, source_text)
+        if not overlaps_regions(rectangle, excluded_regions)
+    ]
+
+
+def occurrence_score(
+    page: fitz.Page,
+    rectangle: fitz.Rect,
+    excluded_regions: Iterable[fitz.Rect] = (),
+) -> tuple[float, float, float, float, float]:
     words = page.get_text("words", sort=False)
-    left_neighbors = []
+    left_neighbors: list[tuple[bool, float]] = []
     for word in words:
         word_rect = fitz.Rect(word[:4])
         same_line = abs(word_rect.y0 - rectangle.y0) <= max(3.0, rectangle.height)
         gap = rectangle.x0 - word_rect.x1
         if same_line and -0.5 <= gap <= 18.0:
-            left_neighbors.append(gap)
+            left_neighbors.append((normalized_token(str(word[4])).isdigit(), gap))
+    has_number_marker = (
+        1.0 if any(is_number for is_number, _gap in left_neighbors) else 0.0
+    )
     has_marker = 1.0 if left_neighbors else 0.0
-    nearest_gap = min(left_neighbors) if left_neighbors else 999.0
-    return has_marker, -nearest_gap, rectangle.y0
+    nearest_gap = min((gap for _is_number, gap in left_neighbors), default=999.0)
+    outside_excluded_regions = (
+        0.0 if overlaps_regions(rectangle, excluded_regions) else 1.0
+    )
+    return (
+        outside_excluded_regions,
+        has_number_marker,
+        has_marker,
+        -nearest_gap,
+        rectangle.y0,
+    )
 
 
 def conflicts_with_claimed(rectangle: fitz.Rect, claimed: list[fitz.Rect]) -> bool:
@@ -212,7 +265,15 @@ def conflicts_with_claimed(rectangle: fitz.Rect, claimed: list[fitz.Rect]) -> bo
 def load_entries(connection: sqlite3.Connection) -> dict[int, list[sqlite3.Row]]:
     connection.row_factory = sqlite3.Row
     query = """
-        SELECT e.id, e.source_text, s.page_id, s.number AS section_number
+        SELECT
+            e.id,
+            e.source_text,
+            e.bbox_left,
+            e.bbox_top,
+            e.bbox_right,
+            e.bbox_bottom,
+            s.page_id,
+            s.number AS section_number
         FROM entries AS e
         JOIN sections AS s ON s.id = e.section_id
         ORDER BY s.page_id, e.id
@@ -221,6 +282,39 @@ def load_entries(connection: sqlite3.Connection) -> dict[int, list[sqlite3.Row]]
     for row in connection.execute(query):
         by_page[row["page_id"]].append(row)
     return by_page
+
+
+def stored_rectangle(entry: sqlite3.Row, page: fitz.Page) -> Optional[fitz.Rect]:
+    if entry["bbox_left"] is None:
+        return None
+    return fitz.Rect(
+        entry["bbox_left"] * page.rect.width,
+        entry["bbox_top"] * page.rect.height,
+        entry["bbox_right"] * page.rect.width,
+        entry["bbox_bottom"] * page.rect.height,
+    )
+
+
+def occurrence_distance(rectangle: fitz.Rect, previous: fitz.Rect) -> float:
+    return (
+        abs(rectangle.y0 - previous.y0)
+        + abs(rectangle.y1 - previous.y1)
+        + abs(rectangle.x1 - previous.x1)
+        + 0.1 * abs(rectangle.x0 - previous.x0)
+    )
+
+
+def preserve_existing_occurrence(
+    rectangle: fitz.Rect, previous: Optional[fitz.Rect]
+) -> fitz.Rect:
+    if previous is None:
+        return rectangle
+    same_text_extent = (
+        abs(rectangle.y0 - previous.y0) <= 1.0
+        and abs(rectangle.x1 - previous.x1) <= 1.0
+        and abs(rectangle.y1 - previous.y1) <= 1.0
+    )
+    return rectangle if same_text_extent else fitz.Rect(previous)
 
 
 def normalized_box(rectangle: fitz.Rect, page: fitz.Page) -> tuple[float, ...]:
@@ -275,7 +369,7 @@ def locate(
             )
             for source_text, group in ordered_groups:
                 located_page = page
-                occurrences = search_occurrences(located_page, source_text)
+                occurrences = entry_occurrences(located_page, source_text)
                 located_page_number = page_number
                 if not occurrences:
                     section_number = group[0]["section_number"]
@@ -283,7 +377,7 @@ def locate(
                         if section_number not in page_sections.get(candidate_page_number, set()):
                             continue
                         candidate_page = document[candidate_page_number - 1]
-                        occurrences = search_occurrences(candidate_page, source_text)
+                        occurrences = entry_occurrences(candidate_page, source_text)
                         if occurrences:
                             located_page = candidate_page
                             located_page_number = candidate_page_number
@@ -305,21 +399,54 @@ def locate(
                     occurrences = available
                 if len(occurrences) > 1:
                     ambiguous += len(group)
+                excluded_regions = see_also_regions(located_page)
 
                 if len(group) > 1 and len(occurrences) >= len(group):
-                    selected = sorted(occurrences, key=lambda rect: (rect.y0, rect.x0))[
-                        : len(group)
-                    ]
-                    for entry, rectangle in zip(group, selected):
+                    remaining = list(occurrences)
+                    selected: list[tuple[sqlite3.Row, fitz.Rect]] = []
+                    for entry in group:
+                        previous = stored_rectangle(entry, located_page)
+                        if previous is not None and overlaps_regions(
+                            previous, excluded_regions
+                        ):
+                            previous = None
+                        if previous is None:
+                            rectangle = min(
+                                remaining, key=lambda rect: (rect.y0, rect.x0)
+                            )
+                        else:
+                            rectangle = min(
+                                remaining,
+                                key=lambda rect: occurrence_distance(rect, previous),
+                            )
+                        remaining.remove(rectangle)
+                        rectangle = preserve_existing_occurrence(rectangle, previous)
+                        selected.append((entry, rectangle))
+                    for entry, rectangle in selected:
                         boxes[entry["id"]] = normalized_box(rectangle, located_page)
                         claimed_by_page[located_page_number].append(rectangle)
                         if located_page_number != page_number:
                             relocated_pages[entry["id"]] = located_page_number
                     continue
 
-                rectangle = max(
-                    occurrences, key=lambda item: occurrence_score(page, item)
-                )
+                previous = stored_rectangle(group[0], located_page)
+                if previous is not None and overlaps_regions(
+                    previous, excluded_regions
+                ):
+                    previous = None
+                if previous is not None and len(occurrences) > 1:
+                    rectangle = min(
+                        occurrences,
+                        key=lambda item: occurrence_distance(item, previous),
+                    )
+                else:
+                    rectangle = max(
+                        occurrences,
+                        key=lambda item: occurrence_score(
+                            located_page, item, excluded_regions
+                        ),
+                    )
+                rectangle = preserve_existing_occurrence(rectangle, previous)
                 for entry in group:
                     boxes[entry["id"]] = normalized_box(rectangle, located_page)
                     if located_page_number != page_number:
@@ -338,6 +465,7 @@ def ensure_columns(connection: sqlite3.Connection) -> None:
         "bbox_right": "REAL CHECK (bbox_right IS NULL OR bbox_right BETWEEN 0 AND 1)",
         "bbox_bottom": "REAL CHECK (bbox_bottom IS NULL OR bbox_bottom BETWEEN 0 AND 1)",
         "audio_url": "TEXT",
+        "noun_marker": "TEXT",
     }
     for name, definition in definitions.items():
         if name not in existing:

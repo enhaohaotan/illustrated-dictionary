@@ -12,7 +12,7 @@ import sys
 import tempfile
 import time
 from pathlib import Path
-from typing import Any
+from typing import Any, Optional
 
 from dotenv import load_dotenv
 from openai import OpenAI
@@ -27,6 +27,7 @@ TERMINAL_BATCH_STATUSES = {"completed", "failed", "expired", "cancelled"}
 class TranslationItem(BaseModel):
     key: str
     text: str
+    noun_marker: Optional[str]
 
 
 class TranslationResult(BaseModel):
@@ -160,6 +161,7 @@ and copy each key unchanged.
 
 For page and section titles:
 - Translate the title naturally and concisely.
+- noun_marker must be null.
 
 For page titles, preserve any leading printed unit number exactly, such as "01".
 
@@ -168,11 +170,19 @@ For vocabulary entries:
 - text must contain only the target-language dictionary headword or concise
   equivalent. Do not include explanations, alternatives, pronunciation, or
   inflection paradigms.
-- For a noun headword, include its grammatical-gender article directly before the
-  noun when that is the normal dictionary convention in {language}. In Danish,
-  use exactly "en " or "et " before noun headwords (for example "en bil" and
-  "et hus"). Do not add those articles to verbs, adjectives, adverbs, sentences,
-  or non-noun phrases.
+- noun_marker is normally null. Never put inflection paradigms in noun_marker.
+- In Danish, format noun headwords by these exact rules:
+  - A countable singular noun includes "en " or "et " directly in text and has
+    noun_marker null (for example text "en bil" or "et hus").
+  - An uncountable noun has no article in text. Set noun_marker to "fk." for
+    common gender or "itk." for neuter gender.
+  - A plural noun uses its plural headword in text. Set noun_marker to "fk. pl."
+    or "itk. pl." when the noun's gender is known.
+  - For a genuinely plural-only noun whose gender cannot be determined reliably,
+    set noun_marker to "pl." and do not guess a gender.
+  - All other vocabulary entries have noun_marker null.
+- Do not add noun articles to verbs, adjectives, adverbs, sentences, or non-noun
+  phrases.
 
 Use one consistent dictionary convention throughout the entire language database.
 Do not add facts or fields that were not requested."""
@@ -283,6 +293,8 @@ def parse_batch_output(
                 item.text = item.text.strip()
                 if not item.text:
                     raise ValueError(f"empty translation for {item.key}")
+                if item.noun_marker is not None:
+                    item.noun_marker = item.noun_marker.strip() or None
                 if item.key in translations:
                     raise ValueError(f"duplicate translation for {item.key}")
                 translations[item.key] = item
@@ -380,8 +392,9 @@ def create_translation_database(
                 bbox_top,
                 bbox_right,
                 bbox_bottom,
-                audio_url
-            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                audio_url,
+                noun_marker
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
             """,
             (
                 (
@@ -396,6 +409,7 @@ def create_translation_database(
                     bbox_right,
                     bbox_bottom,
                     None,
+                    translations[f"entry:{item_id}"].noun_marker,
                 )
                 for (
                     item_id,

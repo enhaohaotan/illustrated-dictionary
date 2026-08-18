@@ -68,7 +68,9 @@ python build_db.py
 The database contains the `pages`, `sections`, and `entries` tables defined in
 `schema.sql`. Sections that span two PDF pages are stored once per physical page,
 so every entry remains associated with the page on which it is printed. English
-entries keep their exact printed headwords in `source_text`.
+entries keep their exact printed headwords in `source_text`. The nullable
+`noun_marker` column stores a short noun label only when it cannot be expressed
+naturally as part of the headword.
 
 ## Translate the database
 
@@ -88,9 +90,30 @@ self-contained. Page titles, section titles, and all 10,359 entry `source_text`
 values are translated. Page relationships, printed numbers, See also references,
 visual context, and semantic meaning are copied unchanged into the language database.
 
-For languages whose dictionary convention marks noun gender with an article, the
-article is stored directly in `source_text`. For example, Danish stores `et hus`
-and `en bil`. No inflection paradigms are stored.
+For Danish countable nouns, the article is stored directly in `source_text`, for
+example `et hus` and `en bil`, and `noun_marker` remains `NULL`. Uncountable nouns omit
+the article and use `fk.` or `itk.` in `noun_marker`. Plural forms use `fk. pl.` or
+`itk. pl.` when gender is known; genuinely plural-only nouns whose gender cannot be
+determined use `pl.`. The reader displays this marker in italics after the headword.
+No inflection paradigms are stored, and the marker is not included in audio playback.
+
+### Annotate Danish nouns from COR
+
+`annotate_danish.py` checks Danish noun candidates against the official Det Centrale
+Ordregister (COR) data. It keeps `en`/`et` on countable singular headwords and moves
+gender/number into `noun_marker` for reviewed mass nouns and plural forms. Running it
+without `--apply` only creates a report; add `--apply` to update `da.sqlite3`:
+
+```bash
+python annotate_danish.py
+python annotate_danish.py --apply
+```
+
+By default it reads `cor1.5.1.0.tsv` and `corext1.0.tsv` from `/tmp`. Alternative
+locations can be supplied with `--cor` and `--cor-ext`. The source files are available
+from [Det Centrale Ordregister](https://ordregister.dk/) under open licenses. The
+generated `danish_noun_annotation_report.json` records every changed entry and the
+reason for the change. This process is entirely local and does not call the OpenAI API.
 
 ## Locate entries in the PDF
 
