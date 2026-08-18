@@ -112,10 +112,10 @@ main {
   white-space: normal;
 }
 .section-translation {
-  top: 50%;
+  top: calc(100% - 2px);
   bottom: auto;
-  left: calc(100% + 6px * var(--zoom));
-  transform: translateY(-50%);
+  left: 0;
+  transform: none;
   font-size: calc(10px * var(--zoom));
   font-weight: 760;
 }

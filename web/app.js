@@ -216,12 +216,12 @@ function layoutTranslations(overlays) {
     ...titleItems.map(({ source }) => source),
     ...items.map(({ source }) => ({
       ...source,
-      top: Math.min(source.bottom, source.top + 3 * state.zoom),
+      top: Math.min(source.bottom, source.top + 4 * state.zoom),
     })),
   ];
   const numberRectangles = items.map(({ source }) => ({
     left: Math.max(0, source.left - 10 * state.zoom),
-    top: Math.min(source.bottom, source.top + 3 * state.zoom),
+    top: Math.min(source.bottom, source.top + 4 * state.zoom),
     right: source.left,
     bottom: source.bottom,
   }));
