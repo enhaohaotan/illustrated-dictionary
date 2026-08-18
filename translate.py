@@ -167,6 +167,12 @@ For page titles, preserve any leading printed unit number exactly, such as "01".
 
 For vocabulary entries:
 - Use the supplied context to select the intended sense.
+- Treat entries from the same page and section as one coordinated vocabulary set.
+  Keep their terminology, register, word-formation style, and grammatical
+  structure parallel. For related labels, do not unnecessarily mix native
+  compounds, borrowed technical phrases, and descriptive paraphrases; prefer the
+  naming pattern normally used consistently for that subject in the target
+  language.
 - text must contain only the target-language dictionary headword or concise
   equivalent. Do not include explanations, alternatives, pronunciation, or
   inflection paradigms.
@@ -178,19 +184,39 @@ For vocabulary entries:
 - Follow the normal monolingual dictionary convention of the target language for
   articles, grammatical gender, noun class, and number. Use that language's own
   conventional abbreviations; never copy another language's labels.
+- For a countable singular noun, when the target language normally identifies it
+  with an article or determiner, place that article directly before the headword
+  in text. Never put a standalone article or determiner in noun_marker, and never
+  duplicate it in both fields. Languages that do not use such articles must not
+  invent one.
 - Keep text and noun_marker separate. text contains the translated headword and
-  any article that the target language's dictionary convention normally places
-  with it. noun_marker contains only a short postposed grammatical label when
-  that convention needs one. Never put inflection paradigms in noun_marker.
+  its directly attached article or determiner. noun_marker is only for a short
+  postposed grammatical label, such as gender, noun class, countability, or
+  number, when the target-language dictionary convention requires information
+  that is not already expressed in text. Never put inflection paradigms in
+  noun_marker.
 - If the target language has no relevant noun gender, noun class, or number label
   for an entry, noun_marker must be null.
 - Use the concise gender, class, countability, and number notation customary in
   dictionaries of the target language, and use it consistently throughout the
   database. Do not invent labels by translating abbreviations from another
   language.
+- For a plural noun that also has a normal singular form, determine its lexical
+  gender or noun class from the singular lemma and include both that gender or
+  class and the plural label in noun_marker. Do not output a bare plural label
+  merely because the translated surface form is plural. Use only a plural label
+  when the noun is genuinely plural-only, the target language has no lexical
+  gender or noun class for it, or no singular gender or class can be determined
+  reliably. For example, a feminine plural may use "f. pl." when that is the
+  standard abbreviation in dictionaries of the target language; use the actual
+  target-language convention rather than copying this example universally.
 - All non-noun vocabulary entries have noun_marker null.
 - Do not add noun articles to verbs, adjectives, adverbs, sentences, or non-noun
   phrases.
+- For a verb headword, output the target language's bare dictionary citation form
+  without a separate infinitive particle or marker. Keep reflexive pronouns,
+  lexical particles, and complements that are part of the headword, but do not
+  translate the English infinitive marker "to" as part of text.
 
 Use one consistent dictionary convention throughout the entire language database.
 Do not add facts or fields that were not requested."""

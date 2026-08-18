@@ -31,6 +31,7 @@ COUNTABLE_WITHOUT_COR_PLURAL = {
 # Context disambiguates these as mass nouns or fields even though COR also
 # records countable senses or plural forms for the same lemma.
 CONTEXTUAL_MASS = {
+    3444: "fk.",   # frozen yogurt as a food substance
     1469: "itk.",  # salt on the dining table
     1470: "itk.",  # ground pepper
     2675: "itk.",  # confectionery
@@ -144,6 +145,7 @@ KEEP_DANISH_SINGULAR = {
     766,   # pajamas -> pyjamas
     874,   # string of pearls -> perlekæde
     1107,  # scales -> vægt
+    1150,  # hospital notes -> patientjournal
     1154,  # scrubs -> arbejdsdragt
     1252,  # opera glasses -> teaterkikkert
     1665,  # kitchen scales -> køkkenvægt
@@ -158,15 +160,20 @@ KEEP_DANISH_SINGULAR = {
     4181,  # scales -> vægt
     4184,  # tongs -> tang
     4538,  # headquarters -> hovedkontor
+    4629,  # minutes -> referat
     5364,  # roadworks -> vejarbejde
+    5578,  # leathers -> læderdragt
     5825,  # customs -> told
     7481,  # TV series -> sæson
+    7490,  # commercial break / adverts -> reklamepause
     7539,  # contents -> indholdsfortegnelse
     7871,  # binoculars -> kikkert
     9564,  # herd of cows -> kvæghjord
     9719,  # plant name: fairy elephant's feet
     9824,  # mushroom name: chicken of the woods
     10027, # scales -> vægt
+    10050, # gallon definition contains plural unit text
+    240,   # boyfriend and girlfriend -> kærestepar
 }
 
 PLURAL_TRANSLATION_OVERRIDES: dict[int, tuple[str, str]] = {
@@ -231,6 +238,144 @@ PLURAL_TRANSLATION_OVERRIDES: dict[int, tuple[str, str]] = {
 }
 
 REMOVE_ARTICLE_WITHOUT_MARKER = {7690}  # dam, the board game
+
+# Multiword countable headwords missed by the original single-word noun pass.
+SINGULAR_PHRASE_OVERRIDES: dict[int, str] = {
+    110: "en balde / den store sædemuskel",
+    176: "et hormonsystem",
+    234: "et indgiftet familiemedlem",
+    242: "en enlig forsørger",
+    655: "et barberet hoved",
+    841: "en snorkel og en maske",
+    1277: "en afbalanceret kost",
+    1278: "en kaloriekontrolleret kost",
+    1587: "en morter og en støder",
+    1848: "en ampere",
+    2068: "et forlængerskaft til malerrulle",
+    2652: "et stort udvalg",
+    2893: "en varm chokolade",
+    3379: "en sød chilisauce",
+    3400: "en fast ost",
+    3401: "en halvfast ost",
+    3402: "en halvblød ost",
+    3403: "en blød ost",
+    3416: "et kogt æg",
+    3419: "et pocheret æg",
+    3629: "en dobbelt espresso",
+    3633: "en kaffe med mælk",
+    3634: "en flat white",
+    3645: "en appelsinjuice med frugtkød",
+    3646: "en appelsinjuice uden frugtkød",
+    3648: "en ananasjuice",
+    3650: "en mangojuice",
+    3651: "en tranebærjuice",
+    3659: "en Irish coffee",
+    3663: "en sort kaffe",
+    3677: "en hvid te",
+    3680: "en te med citron",
+    3682: "en sort te",
+    3683: "en grøn te",
+    3684: "en kamille-te",
+    3687: "en te med mælk",
+    3741: "en rom og cola",
+    3743: "en vodka og appelsinjuice",
+    3744: "en gin og tonic",
+    3751: "en whisky med vand",
+    4808: "et røveri / et indbrud",
+    4955: "et militært transportfly",
+    5212: "en god lytter",
+    5241: "en professionel indstilling",
+    5257: "en digital tegnebog",
+    5258: "en digital valuta",
+    5291: "en økonomisk nedgang",
+    5293: "en finansiel rådgiver",
+    5922: "en venstre cornerback",
+    5924: "en venstre defensive end",
+    5925: "en venstre safety",
+    5926: "en venstre defensive tackle",
+    5927: "en middle linebacker",
+    5928: "en højre defensive tackle",
+    5929: "en højre safety",
+    5930: "en højre defensive end",
+    5932: "en højre cornerback",
+    5933: "en wide receiver",
+    5934: "en højre tackle",
+    5935: "en højre guard",
+    5936: "en running back",
+    5940: "en venstre guard",
+    5941: "en venstre tackle",
+    5942: "en wide receiver",
+    5943: "en wide receiver",
+    5948: "en målzone",
+    6197: "en center",
+    6299: "en forhånd",
+    6300: "en baghånd",
+    5949: "en neutral zone",
+    6141: "en third man",
+    6148: "en return crease",
+    6152: "en popping crease",
+    6155: "en square leg",
+    6157: "en bowling crease",
+    6161: "en fine leg",
+    6776: "en pole position",
+    6965: "en romantisk komedie",
+    6968: "et historisk drama",
+    7057: "en lavere tonehøjde",
+    7058: "en højere tonehøjde",
+    7345: "en spand og en skovl",
+    7818: "en hægte og en malle",
+    8931: "en let regnbyge",
+    9096: "en kæbeløs fisk",
+    9105: "en tyrannosaurus rex",
+    9481: "en britisk korthår",
+    9483: "en maine coon",
+    9485: "en eksotisk korthår",
+    9488: "en burmeser",
+    9492: "en japansk bobtail",
+    9494: "en abyssinier",
+    9495: "en amerikansk curl",
+    9517: "en shih tzu",
+}
+
+# Multiword mass and plural nouns do not take en/et, but still need the same
+# compact postposed marker as their single-word counterparts.
+PHRASE_MARKER_OVERRIDES: dict[int, str] = {
+    647: "itk.", 648: "itk.", 649: "itk.", 661: "itk.",
+    662: "itk.", 663: "itk.", 664: "itk.", 677: "itk.",
+    678: "itk.", 679: "itk.", 683: "itk.", 684: "itk.",
+    685: "itk.", 686: "itk.", 687: "itk.", 688: "itk.",
+    1247: "fk.", 1268: "itk.", 1269: "itk.", 1281: "fk. pl.",
+    1284: "fk.", 1356: "fk. pl.", 1718: "itk.", 1719: "itk.",
+    1888: "itk.", 1889: "itk.", 1943: "itk.", 2678: "itk.",
+    2842: "itk. pl.", 2862: "fk.", 2952: "itk.", 2953: "itk.",
+    2954: "itk.", 2955: "itk.", 2978: "itk.", 2979: "itk.",
+    2980: "itk.", 2981: "itk.", 3040: "fk. pl.", 3041: "fk. pl.",
+    3099: "fk. pl.", 3367: "fk.", 3369: "fk.", 3373: "fk.",
+    3387: "fk.", 3395: "itk. pl.", 3396: "fk. pl.", 3408: "fk.",
+    3457: "fk.", 3477: "itk.", 3478: "itk.", 3480: "itk.",
+    3481: "itk.", 3484: "fk.", 3486: "fk. pl.", 3487: "itk.",
+    3548: "fk. pl.", 3567: "itk.", 3572: "itk.", 3574: "itk.",
+    3583: "itk. pl.", 3584: "fk. pl.", 3585: "fk. pl.",
+    3586: "fk. pl.", 3593: "itk.", 3603: "fk.", 3604: "fk.",
+    3605: "fk.", 3606: "fk.", 3610: "fk.", 3692: "itk.",
+    3780: "fk. pl.", 3880: "fk. pl.", 3882: "fk.", 3903: "fk.",
+    3920: "fk. pl.", 3924: "fk. pl.", 3941: "fk. pl.",
+    3959: "fk. pl.", 4139: "itk.", 4329: "itk. pl.", 4673: "fk.",
+    5095: "fk. pl.", 5231: "fk.", 5233: "fk.", 5254: "pl.",
+    5325: "fk. pl.", 5944: "fk. pl.", 5955: "pl.",
+    5970: "fk. pl.", 6055: "fk.", 6201: "fk. pl.",
+    6321: "fk. pl.", 6324: "fk. pl.", 6850: "fk. pl.",
+    6934: "itk.", 7098: "fk.", 7216: "itk. pl.",
+    7217: "itk. pl.", 7364: "fk. pl.", 7432: "fk. pl.",
+    7595: "fk.", 7866: "fk. pl.", 8987: "fk. pl.",
+    8998: "fk. pl.", 9004: "fk.", 9006: "fk. pl.", 9007: "fk.",
+    9008: "fk.", 9014: "itk. pl.", 9019: "fk. pl.",
+    9020: "fk. pl.", 9028: "fk. pl.", 9239: "itk. pl.",
+    9346: "fk. pl.", 9357: "fk. pl.", 9819: "fk. pl.",
+    9899: "fk. pl.", 9942: "itk. pl.", 9944: "itk.",
+    9949: "fk. pl.", 10111: "itk. pl.", 10112: "itk. pl.",
+    10114: "fk. pl.",
+}
 
 
 @dataclass(frozen=True)
@@ -452,6 +597,20 @@ def annotate_entry(
     article, bare = strip_article(text)
     singular, plural = noun_forms(index, bare)
 
+    if entry_id in SINGULAR_PHRASE_OVERRIDES:
+        return (
+            SINGULAR_PHRASE_OVERRIDES[entry_id],
+            None,
+            "countable multiword noun with missing article",
+        )
+
+    if entry_id in PHRASE_MARKER_OVERRIDES:
+        return (
+            text,
+            PHRASE_MARKER_OVERRIDES[entry_id],
+            "multiword mass or plural noun with missing marker",
+        )
+
     if entry_id in PLURAL_TRANSLATION_OVERRIDES:
         plural_text, plural_marker = PLURAL_TRANSLATION_OVERRIDES[entry_id]
         return plural_text, plural_marker, "context-confirmed plural translation"
@@ -501,6 +660,8 @@ def annotate_entry(
             expected = "en" if singular_genders == {"fk"} else "et"
             if expected != article:
                 return f"{expected} {bare}", None, "COR gender correction"
+        if current_marker is not None:
+            return text, None, "article already expresses noun gender"
         return text, None, None
 
     if entry_id in CONTEXTUAL_PLURAL:
