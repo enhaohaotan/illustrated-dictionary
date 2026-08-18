@@ -7,6 +7,7 @@ import argparse
 import os
 import re
 import sqlite3
+import threading
 from functools import lru_cache
 from pathlib import Path
 from typing import Any
@@ -17,11 +18,14 @@ from fastapi import FastAPI, HTTPException, Query
 from fastapi.responses import FileResponse, RedirectResponse, Response
 from fastapi.staticfiles import StaticFiles
 
+from export_pdf import export_translated_pdf
+
 
 ROOT = Path(__file__).resolve().parent
 DEFAULT_PDF = ROOT / "EnglishforEveryoneIllustratedEnglishDictionary.pdf"
 WEB_DIR = ROOT / "web"
 LANGUAGE_NAMES = {"en": "English", "da": "Dansk", "zh": "中文"}
+EXPORT_LOCK = threading.Lock()
 
 
 @lru_cache(maxsize=512)
@@ -176,6 +180,45 @@ def create_app(pdf_path: Path = DEFAULT_PDF) -> FastAPI:
             content=image,
             media_type="image/png",
             headers={"Cache-Control": "public, max-age=86400"},
+        )
+
+    @app.get("/api/export/{language}.pdf")
+    def export_pdf(language: str) -> FileResponse:
+        databases = database_paths()
+        if language == "en" or language not in databases:
+            raise HTTPException(404, "Unknown translation language")
+        if "en" not in databases:
+            raise HTTPException(500, "en.sqlite3 is missing")
+        if not pdf_path.is_file():
+            raise HTTPException(404, "PDF file not found")
+
+        output = ROOT / "output" / "pdf" / f"illustrated-dictionary-{language}.pdf"
+        dependencies = (
+            pdf_path,
+            databases["en"],
+            databases[language],
+            Path(__file__),
+            ROOT / "export_pdf.py",
+        )
+        with EXPORT_LOCK:
+            newest_input = max(path.stat().st_mtime for path in dependencies)
+            if not output.is_file() or output.stat().st_mtime < newest_input:
+                output.parent.mkdir(parents=True, exist_ok=True)
+                temporary = output.with_suffix(".tmp.pdf")
+                try:
+                    export_translated_pdf(
+                        pdf_path,
+                        databases["en"],
+                        databases[language],
+                        temporary,
+                    )
+                    temporary.replace(output)
+                finally:
+                    temporary.unlink(missing_ok=True)
+        return FileResponse(
+            output,
+            media_type="application/pdf",
+            filename=output.name,
         )
 
     @app.get("/api/pages/{page_number}")

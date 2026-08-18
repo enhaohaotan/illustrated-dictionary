@@ -30,6 +30,7 @@ const elements = {
   languageOptions: document.querySelector("#language-options"),
   languageCode: document.querySelector("#language-code"),
   languageName: document.querySelector("#language-name"),
+  exportPdf: document.querySelector("#export-pdf"),
   status: document.querySelector("#status"),
   spread: document.querySelector("#spread"),
   template: document.querySelector("#entry-template"),
@@ -70,8 +71,36 @@ function updateLanguagePicker() {
   const selected = state.config.languages.find(({ code }) => code === state.language);
   elements.languageCode.textContent = state.language.toUpperCase();
   elements.languageName.textContent = selected?.name || state.language;
+  elements.exportPdf.setAttribute("aria-label", `导出 ${selected?.name || state.language} PDF`);
+  elements.exportPdf.title = `导出 ${selected?.name || state.language} PDF`;
   for (const option of elements.languageOptions.querySelectorAll(".language-option")) {
     option.setAttribute("aria-checked", String(option.dataset.language === state.language));
+  }
+}
+
+async function exportCurrentLanguage() {
+  const selected = state.config.languages.find(({ code }) => code === state.language);
+  elements.exportPdf.disabled = true;
+  elements.exportPdf.setAttribute("aria-busy", "true");
+  setStatus(`正在生成 ${selected?.name || state.language} PDF…`);
+  try {
+    const response = await fetch(`/api/export/${encodeURIComponent(state.language)}.pdf`);
+    if (!response.ok) throw new Error(await response.text());
+    const blob = await response.blob();
+    const url = URL.createObjectURL(blob);
+    const link = document.createElement("a");
+    link.href = url;
+    link.download = `illustrated-dictionary-${state.language}.pdf`;
+    document.body.append(link);
+    link.click();
+    link.remove();
+    window.setTimeout(() => URL.revokeObjectURL(url), 1000);
+    setStatus(`${selected?.name || state.language} PDF 已导出`);
+  } catch (error) {
+    setStatus(`导出失败：${error.message}`, true);
+  } finally {
+    elements.exportPdf.disabled = false;
+    elements.exportPdf.removeAttribute("aria-busy");
   }
 }
 
@@ -458,6 +487,7 @@ elements.page.addEventListener("keydown", (event) => {
 elements.languageToggle.addEventListener("click", () => {
   setLanguageMenuOpen(elements.languageOptions.hidden);
 });
+elements.exportPdf.addEventListener("click", exportCurrentLanguage);
 document.addEventListener("click", (event) => {
   if (!elements.languageControl.contains(event.target)) setLanguageMenuOpen(false);
 });

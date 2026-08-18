@@ -197,6 +197,33 @@ main {
   z-index: 30;
   right: 22px;
   bottom: 20px;
+  display: flex;
+  align-items: center;
+  gap: 7px;
+}
+.export-button {
+  display: grid;
+  width: 42px;
+  height: 42px;
+  place-items: center;
+  padding: 0;
+  color: #f8f7f1;
+  background: #17211c;
+  border: 0;
+  border-radius: 999px;
+  box-shadow: 0 10px 30px rgba(23,33,28,.22);
+}
+.export-button:hover,
+.export-button:focus-visible { background: #2b3931; outline: 0; }
+.export-button[aria-busy="true"] { opacity: .55; }
+.export-button svg {
+  width: 18px;
+  height: 18px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.8;
+  stroke-linecap: round;
+  stroke-linejoin: round;
 }
 .language-picker {
   display: grid;

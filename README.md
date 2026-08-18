@@ -149,6 +149,11 @@ It requests only the two visible PDF pages and their translations. Translation l
 automatically move to a nearby free position when they would overlap source text or
 another translation, and the layout is recalculated after zooming or resizing.
 
+The download button beside the language picker exports the complete original PDF with
+the currently selected translations embedded as static text. The backend generates the
+file on first use and reuses it until the source PDF, language database, or export code
+changes. Generated files are stored under `output/pdf/` and are ignored by Git.
+
 Every located English label and translation is itself an audio click target. Clicking
 the printed source position plays English audio; clicking the translated text plays
 the selected language. Clicks remain inactive while `audio_url` is `NULL`. Later, an
