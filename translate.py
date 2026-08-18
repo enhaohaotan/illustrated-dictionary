@@ -36,7 +36,7 @@ class TranslationResult(BaseModel):
 
 def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("language", help='target language name, for example "Danish"')
+    parser.add_argument("language", help="target language name")
     parser.add_argument(
         "--code",
         required=True,
@@ -170,17 +170,25 @@ For vocabulary entries:
 - text must contain only the target-language dictionary headword or concise
   equivalent. Do not include explanations, alternatives, pronunciation, or
   inflection paradigms.
-- noun_marker is normally null. Never put inflection paradigms in noun_marker.
-- In Danish, format noun headwords by these exact rules:
-  - A countable singular noun includes "en " or "et " directly in text and has
-    noun_marker null (for example text "en bil" or "et hus").
-  - An uncountable noun has no article in text. Set noun_marker to "fk." for
-    common gender or "itk." for neuter gender.
-  - A plural noun uses its plural headword in text. Set noun_marker to "fk. pl."
-    or "itk. pl." when the noun's gender is known.
-  - For a genuinely plural-only noun whose gender cannot be determined reliably,
-    set noun_marker to "pl." and do not guess a gender.
-  - All other vocabulary entries have noun_marker null.
+- Preserve the grammatical number and construction of the printed English entry
+  whenever the target language naturally does so. In particular, do not silently
+  turn a plural entry into a singular dictionary lemma. A genuine cross-language
+  number difference is allowed when the natural target-language equivalent uses
+  a different grammatical number.
+- Follow the normal monolingual dictionary convention of the target language for
+  articles, grammatical gender, noun class, and number. Use that language's own
+  conventional abbreviations; never copy another language's labels.
+- Keep text and noun_marker separate. text contains the translated headword and
+  any article that the target language's dictionary convention normally places
+  with it. noun_marker contains only a short postposed grammatical label when
+  that convention needs one. Never put inflection paradigms in noun_marker.
+- If the target language has no relevant noun gender, noun class, or number label
+  for an entry, noun_marker must be null.
+- Use the concise gender, class, countability, and number notation customary in
+  dictionaries of the target language, and use it consistently throughout the
+  database. Do not invent labels by translating abbreviations from another
+  language.
+- All non-noun vocabulary entries have noun_marker null.
 - Do not add noun articles to verbs, adjectives, adverbs, sentences, or non-noun
   phrases.
 
