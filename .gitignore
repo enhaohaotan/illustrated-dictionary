@@ -1,4 +1,6 @@
 .env
 .venv/
 __pycache__/
+# Generated exports stay ignored; the source PDF is required by the deployed reader.
 *.pdf
+!EnglishforEveryoneIllustratedEnglishDictionary.pdf
