@@ -4,16 +4,22 @@
 from __future__ import annotations
 
 import argparse
+import base64
+import hashlib
+import json
 import os
 import re
 import sqlite3
 import threading
+import urllib.error
+import urllib.request
 from functools import lru_cache
 from pathlib import Path
 from typing import Any
 
 import fitz
 import uvicorn
+from dotenv import load_dotenv
 from fastapi import FastAPI, HTTPException, Query
 from fastapi.responses import FileResponse, RedirectResponse, Response
 from fastapi.staticfiles import StaticFiles
@@ -22,10 +28,15 @@ from export_pdf import export_translated_pdf
 
 
 ROOT = Path(__file__).resolve().parent
+load_dotenv(ROOT / ".env")
 DEFAULT_PDF = ROOT / "EnglishforEveryoneIllustratedEnglishDictionary.pdf"
 WEB_DIR = ROOT / "web"
 LANGUAGE_NAMES = {"en": "English", "da": "Dansk", "zh": "中文"}
 EXPORT_LOCK = threading.Lock()
+GOOGLE_TTS_ENDPOINT = "https://texttospeech.googleapis.com/v1/text:synthesize"
+GOOGLE_TTS_VOICES = {
+    "da": {"languageCode": "da-DK", "name": "da-DK-Standard-G"},
+}
 
 
 @lru_cache(maxsize=512)
@@ -137,6 +148,73 @@ def audio_response(language: str, entry_id: int) -> Response:
     if audio_root not in path.parents or not path.is_file():
         raise HTTPException(404, "Audio file not found")
     return FileResponse(path)
+
+
+@lru_cache(maxsize=1024)
+def synthesize_google_tts(language: str, text: str) -> bytes:
+    api_key = os.environ.get("GOOGLE_TTS_API_KEY")
+    if not api_key:
+        raise HTTPException(503, "GOOGLE_TTS_API_KEY is not configured")
+    voice = GOOGLE_TTS_VOICES.get(language)
+    if voice is None:
+        raise HTTPException(404, "Text-to-speech is unavailable for this language")
+
+    body = json.dumps(
+        {
+            "input": {"text": text},
+            "voice": voice,
+            "audioConfig": {"audioEncoding": "MP3"},
+        }
+    ).encode("utf-8")
+    request = urllib.request.Request(
+        GOOGLE_TTS_ENDPOINT,
+        data=body,
+        headers={
+            "Content-Type": "application/json; charset=utf-8",
+            "X-goog-api-key": api_key,
+        },
+        method="POST",
+    )
+    try:
+        with urllib.request.urlopen(request, timeout=15) as upstream:
+            payload = json.load(upstream)
+        return base64.b64decode(payload["audioContent"], validate=True)
+    except (urllib.error.URLError, KeyError, ValueError) as error:
+        raise HTTPException(502, "Google Text-to-Speech request failed") from error
+
+
+def google_tts_response(language: str, entry_id: int) -> Response:
+    databases = database_paths()
+    database = databases.get(language)
+    if database is None:
+        raise HTTPException(404, "Unknown language")
+    if language not in GOOGLE_TTS_VOICES:
+        raise HTTPException(404, "Text-to-speech is unavailable for this language")
+
+    rows = read_rows(
+        database,
+        "SELECT source_text FROM entries WHERE id = ?",
+        (entry_id,),
+    )
+    if not rows:
+        raise HTTPException(404, "Unknown entry")
+
+    # noun_marker is intentionally not selected: only the visible headword is spoken.
+    audio = synthesize_google_tts(language, rows[0]["source_text"])
+    return Response(
+        content=audio,
+        media_type="audio/mpeg",
+        headers={
+            "Cache-Control": "public, max-age=86400, s-maxage=31536000, immutable",
+        },
+    )
+
+
+def google_tts_url(language: str, entry_id: int, text: str) -> str | None:
+    if language not in GOOGLE_TTS_VOICES or not os.environ.get("GOOGLE_TTS_API_KEY"):
+        return None
+    version = hashlib.sha256(text.encode("utf-8")).hexdigest()[:12]
+    return f"/api/tts/{language}/{entry_id}.mp3?v={version}"
 
 
 def create_app(pdf_path: Path = DEFAULT_PDF) -> FastAPI:
@@ -331,7 +409,11 @@ def create_app(pdf_path: Path = DEFAULT_PDF) -> FastAPI:
                     "translation_audio": (
                         f"/api/audio/{language}/{original['id']}"
                         if translated["audio_url"]
-                        else None
+                        else google_tts_url(
+                            language,
+                            original["id"],
+                            translated["source_text"],
+                        )
                     ),
                 }
             )
@@ -352,6 +434,10 @@ def create_app(pdf_path: Path = DEFAULT_PDF) -> FastAPI:
     @app.get("/api/audio/{language}/{entry_id}")
     def audio(language: str, entry_id: int) -> Response:
         return audio_response(language, entry_id)
+
+    @app.get("/api/tts/{language}/{entry_id}.mp3")
+    def text_to_speech(language: str, entry_id: int) -> Response:
+        return google_tts_response(language, entry_id)
 
     @app.get("/api/health")
     def health() -> dict[str, str]:

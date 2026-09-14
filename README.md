@@ -159,3 +159,10 @@ the printed source position plays English audio; clicking the translated text pl
 the selected language. Clicks remain inactive while `audio_url` is `NULL`. Later, an
 `audio_url` may be an HTTP(S) URL or a path relative to the local `audio/` directory;
 `/api/audio/{language}/{entry_id}` serves it on demand.
+
+When `GOOGLE_TTS_API_KEY` is configured, Danish translation labels without a stored
+`audio_url` use Google Cloud Text-to-Speech on demand with the male
+`da-DK-Standard-G` voice. Enable the Cloud Text-to-Speech API for the key's project
+and add the same variable to the deployment environment. Requests are limited to
+existing dictionary entry IDs. Only `source_text` is synthesized, so a separate
+`noun_marker` such as `fk. pl.` or `itk.` is displayed but never spoken.
