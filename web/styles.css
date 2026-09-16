@@ -36,19 +36,30 @@ button:disabled { cursor: not-allowed; opacity: .32; }
 }
 .icon-button:not(:disabled):hover { background: rgba(255,255,255,.1); }
 .random-button {
+  display: grid;
+  width: 38px;
   height: 38px;
-  padding: 0 13px;
+  place-items: center;
+  padding: 0;
   color: #17211c;
   background: #d8ff63;
   border: 0;
   border-radius: 999px;
-  font-size: 12px;
-  font-weight: 760;
 }
 .random-button:not(:disabled):hover,
 .random-button:not(:disabled):focus-visible {
   background: #e3ff91;
   outline: 0;
+}
+.random-button svg {
+  width: 18px;
+  height: 18px;
+  fill: currentColor;
+}
+.random-button rect {
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.8;
 }
 .page-field { display: flex; align-items: center; padding: 0 9px; }
 .page-field input {
