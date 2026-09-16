@@ -35,6 +35,21 @@ button:disabled { cursor: not-allowed; opacity: .32; }
   border-radius: 999px;
 }
 .icon-button:not(:disabled):hover { background: rgba(255,255,255,.1); }
+.random-button {
+  height: 38px;
+  padding: 0 13px;
+  color: #17211c;
+  background: #d8ff63;
+  border: 0;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 760;
+}
+.random-button:not(:disabled):hover,
+.random-button:not(:disabled):focus-visible {
+  background: #e3ff91;
+  outline: 0;
+}
 .page-field { display: flex; align-items: center; padding: 0 9px; }
 .page-field input {
   width: 48px;

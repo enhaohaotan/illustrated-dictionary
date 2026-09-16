@@ -25,6 +25,7 @@ const elements = {
   total: document.querySelector("#page-total"),
   previous: document.querySelector("#previous"),
   next: document.querySelector("#next"),
+  random: document.querySelector("#random"),
   languageControl: document.querySelector(".language-control"),
   languageToggle: document.querySelector("#language-toggle"),
   languageOptions: document.querySelector("#language-options"),
@@ -55,6 +56,20 @@ function displayedPage(pdfPage) {
 
 function pdfPage(displayedPageNumber) {
   return Number.parseInt(displayedPageNumber, 10) + PAGE_NUMBER_OFFSET;
+}
+
+function loadRandomSpread() {
+  const spreadCount = Math.ceil(
+    (state.config.last_page - state.config.first_page + 1) / 2,
+  );
+  if (spreadCount <= 1) return;
+
+  const currentIndex = Math.floor(
+    (state.page - state.config.first_page) / 2,
+  );
+  let randomIndex = Math.floor(Math.random() * (spreadCount - 1));
+  if (randomIndex >= currentIndex) randomIndex += 1;
+  loadSpread(state.config.first_page + randomIndex * 2);
 }
 
 function setStatus(message, isError = false) {
@@ -474,12 +489,14 @@ async function initialize() {
   updateLanguagePicker();
   elements.page.min = displayedPage(state.config.first_page);
   elements.page.max = displayedPage(state.config.last_page);
+  elements.random.disabled = state.config.last_page - state.config.first_page < 2;
   fitSpreadToWindow();
   await loadSpread();
 }
 
 elements.previous.addEventListener("click", () => loadSpread(state.page - 2));
 elements.next.addEventListener("click", () => loadSpread(state.page + 2));
+elements.random.addEventListener("click", loadRandomSpread);
 elements.page.addEventListener("change", () => loadSpread(pdfPage(elements.page.value)));
 elements.page.addEventListener("keydown", (event) => {
   if (event.key === "Enter") loadSpread(pdfPage(elements.page.value));
